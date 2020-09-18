@@ -18,7 +18,7 @@ title: EarthData Covid19
 author: Jörg Roth
 social-network-links:
   email: "info@earthdata.ch"
-  github: leylines/EarthData-Covid19
+  github: EarthData/Covid19
 
 description: >- # this means to ignore newlines until "baseurl:"
   Kritische Informationen rund um das Thema Covid19, Recht und Gesundheit
@@ -102,7 +102,7 @@ paginate_path: "/blog/page:num/"
 
 # Build settings
 markdown: kramdown
-remote_theme: daattali/beautiful-jekyll
+remote_theme: EarthData/beautiful-jekyll
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
