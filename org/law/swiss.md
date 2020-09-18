@@ -4,6 +4,14 @@ title:    Recht
 subtitle: Schweiz
 ---
 
+## corona-legal.ch
+
+Gratis Rechtsberatung im Zusammenhang mit der Corona-Krise.
+
+| {{ site.icons.globe }} | [www.corona-legal.ch](https://www.corona-legal.ch/) |
+
+---
+
 ## Notrecht Referendum
 
 Notrecht Referendum
