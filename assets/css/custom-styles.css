@@ -1,0 +1,14 @@
+table {
+  width: 100%
+}
+
+table td:first-of-type {
+  width: 10%;
+  text-align: center;
+}
+
+@media (min-width: 768px) {
+  .post-preview {
+    padding: 1.5rem 0;
+  }
+}

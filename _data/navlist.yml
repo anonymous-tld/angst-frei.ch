@@ -1,0 +1,73 @@
+toc:
+  - title: Medien
+    subfolderitems:
+      - page: Filme
+        url: media/movie.html
+      - page: Deutschland
+        url: media/germany.html
+      - page: Schweiz
+        url: media/swiss.html
+  - title: Organisationen
+    subfolderitems:
+      - page: Daten
+        subsubfolderitems:
+          - page: Deutschland
+            url: org/data/germany.html
+          - page: Österreich
+            url: org/data/austria.html
+          - page: Schweiz
+            url: org/data/swiss.html
+          - page: USA
+            url: org/data/usa.html
+      - page: Gesundheit
+        subsubfolderitems:
+          - page: Deutschland
+            url: org/health/germany.html
+      - page: Kritik
+        subsubfolderitems:
+          - page: Deutschland
+            url: org/critism/germany.html
+          - page: Europa
+            url: org/critism/europe.html
+          - page: Schweiz
+            url: org/critism/swiss.html
+      - page: Recht
+        subsubfolderitems:
+          - page: Deutschland
+            url: org/law/germany.html
+          - page: Österreich
+            url: org/law/austria.html
+          - page: Schweiz
+            url: org/law/swiss.html
+  - title: Personen
+    subfolderitems:
+      - page: Gesundheit
+        subsubfolderitems:
+          - page: Deutschland
+            url: person/health/germany.html
+          - page: Schweiz
+            url: person/health/swiss.html
+      - page: Kritik
+        subsubfolderitems:
+          - page: Deutschland
+            url: person/critism/germany.html
+          - page: Schweiz
+            url: person/critism/swiss.html
+      - page: Recht
+        subsubfolderitems:
+          - page: Deutschland
+            url: person/law/germany.html
+  - title: Dateien
+    subfolderitems:
+      - page: Daten
+        subsubfolderitems:
+          - page: Deutschland
+            url: files/data/germany.html
+      - page: Gesundheit
+        subsubfolderitems:
+          - page: Schweiz
+            url: files/health/swiss.html
+      - page: Recht
+        subsubfolderitems:
+          - page: Schweiz
+            url: files/law/swiss.html

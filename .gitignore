@@ -1,0 +1,9 @@
+_site
+.sass-cache
+.jekyll-metadata
+/node_modules
+/imagemosaic/env
+/temp
+/assets/img/faces_out
+package-lock.json
+.DS_Store
