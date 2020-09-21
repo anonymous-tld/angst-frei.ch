@@ -1,19 +1,13 @@
 ---
-layout:
-title: Event Calendar
-permalink: /calendar/
+layout:  page
+title:
+ext-css: ["//cdn.jsdelivr.net/npm/fullcalendar@5.3.2/main.min.css"]
+ext-js:  ["//cdn.jsdelivr.net/npm/fullcalendar@5.3.2/main.min.js"]
+js:      ["/assets/js/calendar.js"]
 ---
 
-<!DOCTYPE html>
-<html lang='en'>
-  <head>
-    <meta charset='utf-8' />
-
-    <script src="https://cdn.jsdelivr.net/npm/fullcalendar@5.3.2/main.min.js"></script>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fullcalendar@5.3.2/main.min.css">
 
     <script>
-
       document.addEventListener('DOMContentLoaded', function() {
         var calendarEl = document.getElementById('calendar');
         var calendar = new FullCalendar.Calendar(calendarEl, {
@@ -22,17 +16,10 @@ permalink: /calendar/
             center: 'title',
             right: 'prevYear,prev,next,nextYear'
           },
-          events:'/calendar-data',
+          events:'/event-data',
           initialView: 'listWeek'
         });
         calendar.render();
       });
-
     </script>
-
-  </head>
-
-  <body>
     <div id='calendar'></div>
-  </body>
-</html>

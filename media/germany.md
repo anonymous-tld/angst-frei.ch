@@ -21,6 +21,14 @@ Das Portal des Anderwelt Verlags für kritischen Journalismus und Meinungsbildun
 
 ---
 
+## Club der klaren Worte
+
+unabhängig - überparteilich
+
+| {{ site.icons.globe }}    | [clubderklarenworte.de](https://clubderklarenworte.de/) |
+
+---
+
 ## ET Video & Content
 
 ET Video & Content

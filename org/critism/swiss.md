@@ -19,6 +19,7 @@ Corona Rebellen Schweiz ist die offizielle Untergruppe aus über 100'000 Corona 
 In dieser Gruppe wollen Eltern und Lehrpersonen konstruktive Ideen austauschen, sich gegen die Maskenpflicht der Kinder zu wehren und mögliche Homeschooling-Synergien zu entwickeln.
 
 | {{ site.icons.telegram }} | [elternundschulestehenaufschweiz](https://t.me/elternundschulestehenaufschweiz) |
+| {{ site.icons.telegram }} | [Überblick aller Gruppen](https://t.me/infokanaleus/69) |
 | {{ site.icons.telegram }} | [Infokanal](https://t.me/infokanaleus) |
 
 ---

@@ -7,8 +7,43 @@ table td:first-of-type {
   text-align: center;
 }
 
+.faces img {
+  min-width: 150px;
+  max-width: 150px;
+  height: auto;
+}
+
+.faces table tr td {
+  border: 0px
+}
+
 @media (min-width: 768px) {
   .post-preview {
     padding: 1.5rem 0;
+  }
+}
+
+#calendar {
+  width: 839px;
+}
+.subdomain-text {
+  fill: #fff;
+}
+#calendar a {
+  color: #999;
+}
+@media all and (max-width: 1400px) {
+  #calendar {
+    width: 626px;
+  }
+}
+@media all and (max-width: 730px) {
+  #calendar {
+    width: 365px;
+  }
+}
+@media all and (max-width: 420px) {
+  #calendar {
+    width: 191px;
   }
 }

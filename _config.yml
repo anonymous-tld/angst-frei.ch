@@ -33,10 +33,11 @@ navbar-links:
     - Ticker: /blog/index.html
     - Kategorien: /categories.html
     - Tags: /tags.html
-  Events: /calendar
+    - Archiv: /news_archive.html
+  Events: /events.html
   Medien: /media.html
   Organisationen: /org.html
-  Personen: /person.html
+  Menschen: /person.html
   Dateien: /files.html
 
 # --- Logo --- #
