@@ -7,6 +7,7 @@ document.addEventListener('DOMContentLoaded', function() {
       right: 'prevYear,prev,next,nextYear'
     },
     events:'/event-data',
+    themeSystem: 'bootstrap',
     initialView: 'listWeek'
   });
   calendar.render();

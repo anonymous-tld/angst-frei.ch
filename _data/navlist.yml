@@ -42,7 +42,7 @@ toc:
   - title: Menschen
     subfolderitems:
       - page: Gesichter
-        url: faces.html
+        url:  person/faces.html
         subsubfolderitems:
           - page: Deutschland
             url: person/faces/germany.html
