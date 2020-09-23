@@ -7,9 +7,13 @@ table td:first-of-type {
   text-align: center;
 }
 
+h1, h2, h3, h4 {
+  margin-top: 2.5rem;
+}
+
 @media (min-width: 768px) {
   .post-preview {
-    padding: 1.5rem 0;
+    padding: 1.0rem 0;
   }
 }
 

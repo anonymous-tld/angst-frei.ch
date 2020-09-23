@@ -4,15 +4,6 @@ title:    Medien
 subtitle: Schweiz
 ---
 
-## Corona-Transition
-
-Corona Transition macht auf öffentlich zugängliche, aber von Entscheidungsträgern kaum beachtete oder ignorierte Informationen zur Corona-Krise aufmerksam.
-
-| {{ site.icons.globe }}    | [corona-transition.org](https://corona-transition.org) |
-| {{ site.icons.telegram }} | [CoronaTransition](https://t.me/CoronaTransition) |
-
----
-
 ## Bittel TV
 
 Bittel TV
@@ -22,7 +13,12 @@ Bittel TV
 | {{ site.icons.youtube }}  | [Bittel TV 3](https://www.youtube.com/channel/UClg3R88fje-5MLDrFvly_Lw) |
 | {{ site.icons.telegram }} | [bitteltv](https://t.me/bitteltv) |
 
----
+## Corona-Transition
+
+Corona Transition macht auf öffentlich zugängliche, aber von Entscheidungsträgern kaum beachtete oder ignorierte Informationen zur Corona-Krise aufmerksam.
+
+| {{ site.icons.globe }}    | [corona-transition.org](https://corona-transition.org) |
+| {{ site.icons.telegram }} | [CoronaTransition](https://t.me/CoronaTransition) |
 
 ## ExpressZeitung
 
@@ -32,15 +28,11 @@ Die kritische Monatszeitung
 | {{ site.icons.telegram }} | [ExpressZeitung](https://t.me/ExpressZeitung) |
 | {{ site.icons.download }} | [Kostenlose PDF der kompletten Ausgabe Nr. 32]({{site.baseurl}}/assets/files/Corona ExpressZeitung Nr. 32 kostenlos.pdf) |
 
----
-
 ## Rhein-TV
 
 Rhein-TV
 
 | {{ site.icons.youtube }}  | [Rhein-TV News](https://www.youtube.com/channel/UCrCUwenjkPppHZc_DY4zwlQ) |
-
----
 
 ## Schweizer Monat
 
@@ -48,16 +40,12 @@ Der «Schweizer Monat» ist das Debattenmagazin für Politik, Wirtschaft und Kul
 
 | {{ site.icons.globe }}    | [schweizermonat.ch](https://schweizermonat.ch/) |
 
----
-
 ## INFOsperber
 
 Hinter der Plattform Infosperber.ch steht die gemeinnützige «Schweizerische Stiftung zur Förderung unabhängiger Information» SSUI. Die Stiftung will einen unabhängigen Journalismus in der ganzen Schweiz fördern, insbesondere journalistische Recherchen von gesellschaftlicher und politischer Relevanz.
 
 | {{ site.icons.globe }}    | [www.infosperber.ch](https://www.infosperber.ch/) |
 | {{ site.icons.globe }}    | [Coronavirus: Information statt Panik](https://www.infosperber.ch/Dossier/Coronavirus-Hysterie-oder-Gefahr) |
-
----
 
 ## stricker.tv
 
@@ -68,20 +56,14 @@ Hinter der Plattform Infosperber.ch steht die gemeinnützige «Schweizerische St
 | {{ site.icons.telegram }} | [strickertv](https://t.me/strickertv) |
 | {{ site.icons.facebook }} | [DanielStrickercom](https://www.facebook.com/DanielStrickercom) |
 
----
-
 ## Die Weltwoche
 
 Die Weltwoche
 
 | {{ site.icons.globe }}    | [www.weltwoche.ch](https://www.weltwoche.ch/) |
 
----
-
 ## ZE!TPUNKT
 
 Was uns heute bewegt
 
 | {{ site.icons.globe }}    | [www.zeitpunkt.ch](https://www.zeitpunkt.ch) |
-
----

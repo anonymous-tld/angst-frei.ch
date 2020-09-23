@@ -75,25 +75,6 @@ ext-js:        ["//d3js.org/d3.v3.min.js", "//cdn.jsdelivr.net/cal-heatmap/3.3.1
     </div>
     {% endif %}
 
-    {% unless site.feed_show_excerpt == false %}
-    {% if thumbnail != "" %}
-    <div class="post-image post-image-short">
-      <a href="{{ post.url | absolute_url }}" aria-label="Thumbnail">
-        <img src="{{ thumbnail | absolute_url }}" alt="Post thumbnail">
-      </a>
-    </div>
-    {% endif %}
-
-    <div class="post-entry">
-      {% assign excerpt_length = site.excerpt_length | default: 50 %}
-      {{ post.excerpt | strip_html | xml_escape | truncatewords: excerpt_length }}
-      {% assign excerpt_word_count = post.excerpt | number_of_words %}
-      {% if post.content != post.excerpt or excerpt_word_count > excerpt_length %}
-        <a href="{{ post.url | absolute_url }}" class="post-read-more">[Read&nbsp;More]</a>
-      {% endif %}
-    </div>
-    {% endunless %}
-
     {% if site.feed_show_tags != false and post.tags.size > 0 %}
     <div class="blog-tags">
       <span>Tags:</span>

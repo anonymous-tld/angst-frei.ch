@@ -9,5 +9,3 @@ subtitle: Europa
 Befreien wir das freie Denken aus dem Würgegriff.
 
 | {{ site.icons.globe }}    | [idw-europe.org](https://idw-europe.org/) |
-
----

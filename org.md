@@ -4,6 +4,8 @@ title:    Organisationen
 subtitle: Organisationen, Gruppen und Verbände
 ---
 
+Fehlt etwas? Ergänzungen bitte an [support@angst-frei.ch](mailto:support@angst-frei.ch).
+
 <div>
 {% if site.data.navlist.toc[0] %}
   {% for item in site.data.navlist.toc %}

@@ -13,29 +13,82 @@ title: 'Tags'
 {%- assign tags_list = site_tags | split:',' | sort -%}
 
 {%- for tag in tags_list -%}
-    <a href="#{{- tag -}}" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;{{- tag -}}&nbsp;({{site.tags[tag].size}})</a>
+    <a href="#{{- tag -}}" class="btn btn-primary btn-sm tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;{{- tag -}}&nbsp;({{site.tags[tag].size}})</a>
 {%- endfor -%}
 
 <div id="full-tags-list">
 {%- for tag in tags_list -%}
-    <h2 id="{{- tag -}}" class="linked-section">
-        <i class="fas fa-tag" aria-hidden="true"></i>
-        &nbsp;{{- tag -}}&nbsp;({{site.tags[tag].size}})
-    </h2>
-    <div class="post-list">
-        {%- for post in site.tags[tag] -%}
-            <div class="tag-entry">
-                {%- if post.redirect -%}
-                <a href="{{ post.redirect | absolute_url }}">
-                {% else %}
-                <a href="{{ post.url | absolute_url }}">
-                {% endif %}
-                {{- post.title -}}:&nbsp;{{- post.subtitle -}}</a>
-                <div class="entry-date">
-                    <time datetime="{{- post.date | date_to_xmlschema -}}">{{- post.date | date: date_format -}}</time>
-                </div>
+  <h2 id="{{- tag -}}" class="linked-section">
+    <i class="fas fa-tag" aria-hidden="true"></i>
+    &nbsp;{{- tag -}}&nbsp;({{site.tags[tag].size}})
+  </h2>
+  <div class="post-list">
+    {%- for post in site.tags[tag] -%}
+      <div class="element-item {{ post.date }}">
+        <article class="post-preview">
+
+        {%- capture thumbnail -%}
+          {% if post.thumbnail-img %}
+            {{ post.thumbnail-img }}
+          {% elsif post.cover-img %}
+            {% if post.cover-img.first %}
+              {{ post.cover-img[0].first.first }}
+            {% else %}
+              {{ post.cover-img }}
+            {% endif %}
+          {% else %}
+          {% endif %}
+        {% endcapture %}
+        {% assign thumbnail=thumbnail | strip %}
+
+        {% if site.feed_show_excerpt == false %}
+          {% if thumbnail != "" %}
+            <div class="post-image post-image-normal">
+              <a href="{{ post.url | absolute_url }}" aria-label="Thumbnail">
+                <img src="{{ thumbnail | absolute_url }}" alt="Post thumbnail">
+              </a>
             </div>
-        {%- endfor -%}
+          {% endif %}
+        {% endif %}
+
+        {%- if post.redirect -%}
+          <a href="{{ post.redirect | absolute_url }}">
+        {% else %}
+          <a href="{{ post.url | absolute_url }}">
+        {% endif %}
+
+        <h2 class="post-title">{{ post.title }}</h2>
+
+        {% if post.subtitle %}
+          <h3 class="post-subtitle">{{ post.subtitle }}</h3>
+        {% endif %}
+        </a>
+
+        <p class="post-meta">
+          {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
+          Posted on {{ post.date | date: date_format }}
+        </p>
+
+        {% if thumbnail != "" %}
+          <div class="post-image post-image-small">
+            <a href="{{ post.url | absolute_url }}" aria-label="Thumbnail">
+              <img src="{{ thumbnail | absolute_url }}" alt="Post thumbnail">
+            </a>
+          </div>
+        {% endif %}
+
+        {% if site.feed_show_tags != false and post.tags.size > 0 %}
+          <div class="blog-tags">
+            <span>Tags:</span>
+            {% for tag in post.tags %}
+              <a href="#{{- tag -}}">{{- tag -}}</a>
+            {% endfor %}
+          </div>
+        {% endif %}
+
+      </article>
     </div>
+  {%- endfor -%}
+  </div>
 {%- endfor -%}
 </div>

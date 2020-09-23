@@ -13,11 +13,5 @@ js:       ["/assets/js/faces.js"]
   <div class="grid-item" data-filter="Joerg Roth Zürich Informatiker Lania Sirija">
     <img src="/assets/img/faces/joerg_roth.jpg" />
   </div>
-  <div class="grid-item" data-filter="Simone Roth-Doggwiler Zürich Naturheilpraktikerin Lania Sirija">
-    <img src="/assets/img/faces/simone_roth.jpg" />
-  </div>
-  <div class="grid-item" data-filter="Samuel Eckert">
-    <img src="/assets/img/faces/samuel_eckert.jpg" />
-  </div>
 </div>
 
