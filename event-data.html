@@ -12,7 +12,7 @@ permalink: /event-data/
     {% elsif event.land == "AU" %}
       {% assign color = "red" %}
     {% endif %}
-    { "color":"{{color}}", "title":"{{event.stadt}}, {{event.treffpunkt}} {{event.protestform}}", "start": "{{event.datum}}T{{event.uhrzeit}}", "allDay":false, "url":"{{event.url}}" }
+    { "color":"{{color}}", "title":"{{event.stadt}}, {{event.treffpunkt}}, {{event.protestform}}", "start": "{{event.datum}}T{{event.uhrzeit}}", "allDay":false, "url":"{{event.url}}" }
     {%unless forloop.last %},{%endunless%}
   {% endfor %}
 ]

@@ -1,7 +1,7 @@
 ---
 layout:   page
 title:    Gesichter
-subtitle: Schweiz
+subtitle: Österreich
 ext-js:   ["https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.min.js"]
 js:       ["/assets/js/faces.js"]
 ---

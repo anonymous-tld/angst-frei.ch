@@ -10,6 +10,6 @@ Zeig allen, dass Du mit von den aktuellen Massnahmen genug hast. Schicke eine Em
 
 <ul>
   <li><a href="/person/faces/germany.html">Deutschland</a></li>
-  <li><a href="/person/faces/austria.html">Östereich</a></li>
+  <li><a href="/person/faces/austria.html">Österreich</a></li>
   <li><a href="/person/faces/swiss.html">Schweiz</a></li>
 </ul>
