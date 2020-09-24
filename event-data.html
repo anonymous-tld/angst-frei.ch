@@ -6,11 +6,11 @@ permalink: /event-data/
 
 [ {% for event in site.data.demotermine %}
     {% if event.land == "DE" %}
-      {% assign color = "orange"] %}
+      {% assign color = "orange" %}
     {% elsif event.land == "CH" %}
-      {% assign color = "red"] %}
+      {% assign color = "red" %}
     {% elsif event.land == "AU" %}
-      {% assign color = "red"] %}
+      {% assign color = "red" %}
     {% endif %}
     { "color":"{{color}}", "title":"{{event.stadt}}, {{event.treffpunkt}} {{event.protestform}}", "start": "{{event.datum}}T{{event.uhrzeit}}", "allDay":false, "url":"{{event.url}}" }
     {%unless forloop.last %},{%endunless%}
