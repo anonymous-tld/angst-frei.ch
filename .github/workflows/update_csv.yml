@@ -32,6 +32,6 @@ jobs:
           # The location of the file in the repository to update if changed
           file_in_repo: _data/demotermine.csv
           # The name of the git user
-          git_user: 
+          git_user: leylines
           # The email of the git user
-          git_email: 
+          git_email: info@leylines.ch
