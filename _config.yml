@@ -34,7 +34,7 @@ navbar-links:
     - Kategorien: /categories.html
     - Tags: /tags.html
     - Archiv: /news_archive.html
-  Events: /events.html
+  Events: https://demo.terminkalender.top/
   Medien: /media.html
   Organisationen: /org.html
   Menschen: /person.html
