@@ -147,5 +147,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - node_modules
+  - _newposts
   - imagemosaic
   - temp
