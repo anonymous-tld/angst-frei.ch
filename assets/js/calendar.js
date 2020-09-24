@@ -2,13 +2,18 @@ document.addEventListener('DOMContentLoaded', function() {
   var calendarEl = document.getElementById('calendar');
   var calendar = new FullCalendar.Calendar(calendarEl, {
     headerToolbar: {
-      left: 'dayGridMonth,timeGridWeek,timeGridDay',
+      left: 'dayGridMonth,timeGridDay',
       center: 'title',
-      right: 'prevYear,prev,next,nextYear'
+      right: 'prev,next'
     },
     events:'/event-data',
     themeSystem: 'bootstrap',
-    initialView: 'listWeek'
+    initialView: 'listWeek',
+    eventTimeFormat: {
+      hour: '2-digit',
+      minute: '2-digit',
+      hour12: false
+    }
   });
   calendar.render();
 });

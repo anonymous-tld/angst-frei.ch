@@ -63,7 +63,14 @@ Man höre auch die andere Seite.
 
 | {{ site.icons.globe }}    | [kollateral.news](https://kollateral.news/) |
 
-##  Münchner Demokratie TV
+## Multipolar - Magazin
+
+Multipolar - das Magazin für eine friedliche, freie und plurale Welt, herausgegeben von Stefan Korinth, Paul Schreyer und Ulrich Teusch
+
+| {{ site.icons.globe }}    | [multipolar-magazin.de](https://multipolar-magazin.de/) |
+| {{ site.icons.forward }}  | [Beiträge]({{ site.baseurl }}/Tags.html#multipolar) |
+
+## Münchner Demokratie TV
 
 Münchner Demokratie TV
 
