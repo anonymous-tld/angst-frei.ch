@@ -1,4 +1,5 @@
 land,datum,uhrzeit,stadt,treffpunkt,protestform
+DE,2020-09-25,10:30:00,München,Rathaus,Demonstration
 DE,2020-09-25,15:30:00,Bamberg,Bahnhof,Kundgebung
 DE,2020-09-25,16:00:00,Mindelheim,Marktplatz,Kundgebung
 DE,2020-09-25,17:00:00,Sinsheim,Burgplatz,Kundgebung
@@ -20,6 +21,7 @@ DE,2020-09-26,14:00:00,Waldshut-Tiengen,Viehmarktplatz,Kundgebung
 DE,2020-09-26,14:00:00,Reichelsheim,Ortseingang Aldi,Kundgebung
 DE,2020-09-26,14:00:00,Lüdenscheid,Rosengarten (Schillerstr.),Kundgebung
 DE,2020-09-26,14:00:00,Koblenz,Jesuitenplatz,Mahnwache
+DE,2020-09-26,14:00:00,Hof/Bayern,Kugelbrunnen,Kundgebung
 DE,2020-09-26,14:30:00,Wilhelmshaven,Pacific Cafe,Spaziergang
 DE,2020-09-26,14:30:00,Pforzheim,Marktplatz,Meditation
 DE,2020-09-26,14:30:00,Freiburg i.Br,Platz der alten Synagoge,Kundgebung
