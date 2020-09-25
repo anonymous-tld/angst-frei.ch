@@ -41,15 +41,6 @@ toc:
             url: org/law/swiss.html
   - title: Menschen
     subfolderitems:
-      - page: Gesichter
-        url:  person/faces.html
-        subsubfolderitems:
-          - page: Deutschland
-            url: person/faces/germany.html
-          - page: Österreich
-            url: person/faces/austria.html
-          - page: Schweiz
-            url: person/faces/swiss.html
       - page: Gesundheit
         subsubfolderitems:
           - page: Deutschland

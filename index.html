@@ -10,7 +10,7 @@ head-extra: favicons.html
 
 <h2>Informationen finden</h2>
 
-<p>Es gibt sehr viele kritische Webseiten, Facebook-Seiten, Telegram-Gruppen etc. Für Menschen die sich kritisch mit dem Thema auseinandersetzen wollen ist es schwierig sich zu orientieren und den Einstieg zu finden. Eine <a href="#inhalt">Auflistung</a> der im Moment uns bekannten und aktuellen Seiten und Kanäle soll dabei helfen.</p>
+<p>Es gibt sehr viele kritische Webseiten, Facebook-Seiten, Telegram-Gruppen etc. Für Menschen die sich kritisch mit dem Thema auseinandersetzen wollen ist es schwierig sich zu orientieren und den Einstieg zu finden. Eine <a href="/infos.html">Auflistung</a> der im Moment uns bekannten und aktuellen Seiten und Kanäle soll dabei helfen.</p>
 
 <h2>Brücken schlagen</h2>
 
@@ -23,37 +23,6 @@ head-extra: favicons.html
 <h2>Bitte hilf uns</h2>
 
 <p>Wenn Du uns helfen möchtest, findest Du weitere Informationen <a href="/help.html">hier</a>.</p>
-
-<hr/>
-
-<h2 id="inhalt">Inhalt</h2>
-
-<div>
-{% if site.data.navlist.toc[0] %}
-  {% for item in site.data.navlist.toc %}
-    <h3>{{ item.title }}</h3>
-      {% if item.subfolderitems[0] %}
-        <ul>
-          {% for entry in item.subfolderitems %}
-            {% if entry.url %}
-              <li><a href="{{ entry.url }}">{{ entry.page }}</a>
-            {% else %}
-              <li class="toc-first">{{ entry.page }}
-            {% endif %}
-              {% if entry.subsubfolderitems[0] %}
-                <ul>
-                {% for subentry in entry.subsubfolderitems %}
-                    <li><a href="{{ subentry.url }}">{{ subentry.page }}</a></li>
-                {% endfor %}
-                </ul>
-              {% endif %}
-            </li>
-          {% endfor %}
-        </ul>
-      {% endif %}
-    {% endfor %}
-{% endif %}
-</div>
 
 <hr/>
 
