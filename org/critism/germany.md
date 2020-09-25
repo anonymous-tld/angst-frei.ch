@@ -4,11 +4,25 @@ title:    Kritik
 subtitle: Deutschland
 ---
 
+## Das Volk gegen Corona
+
+Als Mitbegründer der Anwälte für Aufklärung und der KlagePATEN kämpft Ralf Ludwig von Anfang an gegen die Restriktionen unserer Bundes- und Landesregierungen, die aufgrund die „Corona-Pandemie“ eingeleitet wurden.
+
+| {{ site.icons.globe }}       | [dasvolkgegencorona.com](https://dasvolkgegencorona.com/) |
+| {{ site.icons.telegram }}    | [dasvolkgegencorona](https://t.me/dasvolkgegencorona) |
+
+## Freiheitsboten
+
+Du möchtest Flugblätter, Infobriefe und Informationen in Deiner Gegend verteilen, dann komm in unsere Gruppe und unterstütze und dabei, Du findest regelmäßig neue professionelle Flugblätter und Infozettel für Deine Spaziergänge.
+
+| {{ site.icons.globe }}       | [freiheitsboten.github.io](https://freiheitsboten.github.io) |
+| {{ site.icons.telegram }}    | [Freiheitsboten](https://t.me/Freiheitsboten) |
+
 ## Demokratischer Widerstand
 
 Herausgegeben von Anselm Lenz, Batseba N‘diaye und Hendrik Sodenkamp mit Prof. Giorgio Agamben.
 
-| {{ site.icons.globe }}    | [demokratischerwiderstand.de](https://demokratischerwiderstand.de/) |
+| {{ site.icons.globe }}       | [demokratischerwiderstand.de](https://demokratischerwiderstand.de/) |
 
 ## Newsletter Eltern für Aufklärung und Freiheit
 

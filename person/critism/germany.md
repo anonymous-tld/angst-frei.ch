@@ -31,9 +31,9 @@ Blauman.TV
 
 Samuel Eckert
 
-| {{ site.icons.globe }}    | [miraandsam.com](https://miraandsam.com) |
-| {{ site.icons.youtube }}  | [SamuelEckert](https://www.youtube.com/c/SamuelEckert) |
-| {{ site.icons.telegram }} | [samueleckert](https://t.me/samueleckert) |
+| {{ site.icons.globe }}    | [samueleckert.net](https://samueleckert.net/) |
+| {{ site.icons.youtube }}  | [Samuel Eckert](https://www.youtube.com/c/SamuelEckert) |
+| {{ site.icons.telegram }} | [Samuel Eckert](https://t.me/samueleckert) |
 
 ## Miriam Hope
 
