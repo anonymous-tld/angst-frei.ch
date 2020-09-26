@@ -9,6 +9,7 @@ document.addEventListener('DOMContentLoaded', function() {
     events:'/event-data',
     themeSystem: 'bootstrap',
     initialView: 'listWeek',
+    dayMaxEvents: 5,
     eventTimeFormat: {
       hour: '2-digit',
       minute: '2-digit',
