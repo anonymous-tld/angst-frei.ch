@@ -1,63 +1,4 @@
 land,datum,uhrzeit,stadt,treffpunkt,protestform
-DE,2020-09-26,10:00:00,Schongau,Volksfestplatz,Autokorso
-DE,2020-09-26,11:00:00,Zittau,Herkulesbrunnen / Neustadt,Kundgebung
-DE,2020-09-26,11:00:00,Forchheim,Paradeplatz,Kundgebung
-DE,2020-09-26,12:00:00,Köln,Deutzer Werft,Kundgebung
-AT,2020-09-26,13:00:00,Wien,Heldenplatz,Demonstration
-DE,2020-09-26,13:00:00,Heinsberg,Marktplatz,Kundgebung
-DE,2020-09-26,13:00:00,Brühl,Uhlstraße / Markt,Kundgebung
-DE,2020-09-26,13:00:00,Bayreuth,Neptunbrunnen (Maximilianstr.),Kundgebung
-DE,2020-09-26,13:00:00,Bad Tölz,Marktst. beim Winzerer Denkmal,Kundgebung
-DE,2020-09-26,13:15:00,Hameln,Pferdemarkt,Kundgebung
-DE,2020-09-26,13:15:00,Hameln,Hochzeitshausterrasse,Kundgebung
-DE,2020-09-26,13:45:00,Hannover,Rudolf-Hillebrecht-Platz,Autokorso
-DE,2020-09-26,13:55:00,München,Innenstadt München City,Flashmob
-DE,2020-09-26,14:00:00,Waren/Müritz,Parkplatz Stadthafen,Demonstration
-DE,2020-09-26,14:00:00,Waldshut-Tiengen,Viehmarktplatz,Kundgebung
-DE,2020-09-26,14:00:00,Reichelsheim,Ortseingang Aldi,Kundgebung
-DE,2020-09-26,14:00:00,Lüdenscheid,Rosengarten (Schillerstr.),Kundgebung
-DE,2020-09-26,14:00:00,Koblenz,Jesuitenplatz,Mahnwache
-DE,2020-09-26,14:00:00,Hof/Bayern,Kugelbrunnen,Kundgebung
-DE,2020-09-26,14:00:00,Fulda,Bahnhofsplatz,Demonstration
-DE,2020-09-26,14:30:00,Wilhelmshaven,Pacific Cafe,Spaziergang
-DE,2020-09-26,14:30:00,Pforzheim,Marktplatz,Meditation
-DE,2020-09-26,14:30:00,Freiburg i.Br,Platz der alten Synagoge,Kundgebung
-DE,2020-09-26,14:30:00,Elmshorn,Nikolai-Kirche,Spaziergang
-DE,2020-09-26,14:30:00,Augsburg,Ulrichsplatz,Demonstration
-DE,2020-09-26,15:00:00,Rostock,Brunnen der Lebensfreude,Meditation
-DE,2020-09-26,15:00:00,Plauen,Wendedenkmal,Kundgebung
-DE,2020-09-26,15:00:00,Paderborn,Domplatz,Kundgebung
-DE,2020-09-26,15:00:00,Osnabrück,Theaterplatz,Meditation
-DE,2020-09-26,15:00:00,Mainz,Rheinufer gegenüber Landtag,Kundgebung
-DE,2020-09-26,15:00:00,Lörrach,Marktplatz,Mahnwache
-DE,2020-09-26,15:00:00,Köln,Neumarkt,Demonstration
-DE,2020-09-26,15:00:00,Hannover,Georgsplatz,Spaziergang
-DE,2020-09-26,15:00:00,Hamburg ❤❤❤,AmFeenteich20->3,9km->US-Konsu,Spaziergang
-DE,2020-09-26,15:00:00,Halle/Saale,Marktplatz,Kundgebung
-DE,2020-09-26,15:00:00,Erlangen,Schlossplatz,Kundgebung
-DE,2020-09-26,15:00:00,Eberbach,Neuer Markt,Kundgebung
-DE,2020-09-26,15:00:00,Dillingen an der Donau,Taxispark,Demonstration
-DE,2020-09-26,15:00:00,Düsseldorf,Johannes-Rau-Platz,Kundgebung
-DE,2020-09-26,15:00:00,Darmstadt,Karolinenplatz,Kundgebung
-DE,2020-09-26,15:00:00,Cottbus,Stadtbrunnen,Meditation
-DE,2020-09-26,15:00:00,Bühl,Hauptstraße 47,Kundgebung
-DE,2020-09-26,15:00:00,Bad Kreuznach,Kornmarkt,Kundgebung
-DE,2020-09-26,15:00:00,Aurich,Marktplatz,Spaziergang
-DE,2020-09-26,15:00:00,Amberg,Marktplatz,Kundgebung
-DE,2020-09-26,15:30:00,Witten,Rathausplatz,Meditation
-DE,2020-09-26,15:30:00,Solingen,Graf-Wilhelm-Platz,Spaziergang
-DE,2020-09-26,15:30:00,Potsdam,Brandenburger Tor,Kundgebung
-DE,2020-09-26,15:30:00,Leipzig,Marktplatz,Spaziergang
-DE,2020-09-26,15:30:00,Kaufbeuren,Obstmarkt (Fußgängerzone),Meditation
-DE,2020-09-26,15:30:00,Heidenheim an der Brenz,Kleine Parkanlage vorm Bahnhof,Kundgebung
-DE,2020-09-26,15:30:00,Erfurt,Anger 1,Kundgebung
-DE,2020-09-26,15:30:00,Bochum,Husemannplatz,Kundgebung
-DE,2020-09-26,15:30:00,Achern,Stadtgarten,Kundgebung
-DE,2020-09-26,16:00:00,Buxtehude,St.Petriplatz,Demonstration
-DE,2020-09-26,16:15:00,Osnabrück,Rathausplatz,Kundgebung
-DE,2020-09-26,16:18:00,Münster,Stubengasse,Kundgebung
-DE,2020-09-26,16:30:00,Bremen,Marktplatz am Roland,Kundgebung
-DE,2020-09-26,17:00:00,Köln,Neumarkt,Spaziergang
 DE,2020-09-27,10:00:00,Ebersbach-Neugersdorf,B 96,Menschenkette
 DE,2020-09-27,10:45:00,Bretten,Marktplatz,Meditation
 DE,2020-09-27,11:00:00,Hamm,Wiese Südstr./Sternstr.,Demonstration
@@ -181,7 +122,9 @@ DE,2020-11-07,14:30:00,Wilhelmshaven,Pacific Cafe,Spaziergang
 DE,2020-11-07,15:30:00,Kaltenkirchen,PArk ggü. Rathaus,Sonstiges
 DE,2020-11-09,17:00:00,München,Marienplatz,Meditation
 DE,2020-11-09,17:45:00,Köln,Aachener Weiher,Mahnwache
+DE,2020-11-11,11:00:00,Berlin,Finkenstraße 21,Flashmob
 DE,2020-11-13,19:00:00,Grimma,Marktplatz,Spaziergang
+DE,2020-11-14,14:00:00,Berlin,Am Kupfergraben 6,Flashmob
 DE,2020-11-16,17:00:00,München,Marienplatz,Meditation
 DE,2020-11-16,17:45:00,Köln,Aachener Weiher,Mahnwache
 DE,2020-11-23,17:00:00,München,Marienplatz,Meditation
