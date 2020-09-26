@@ -7,6 +7,13 @@ document.addEventListener('DOMContentLoaded', function() {
       right: 'prev,next'
     },
     events:'/event-data',
+    eventClick: function(info) {
+      info.jsEvent.preventDefault(); // don't let the browser navigate
+      if (info.event.url) {
+        window.open(info.event.url);
+      }
+    },
+    firstDay: 1,
     themeSystem: 'bootstrap',
     initialView: 'listWeek',
     dayMaxEvents: 5,

@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <title>Demo-Kalender</title>
+
+    <meta name="author" content="Jörg Roth">
+    <meta name="description" content="">
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/fullcalendar@5.3.2/main.min.css">
+
+    <meta property="og:site_name" content="angst-frei.ch">
+    <meta property="og:title" content="angst-frei.ch">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https:///www.angst-frei.ch/assets/img/sun.png">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https:///www.angst-frei.ch/events_plain.html">
+
+    <link rel="canonical" href="https://www.angst-frei.ch/events_plain.html">
+							      
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@">
+    <meta name="twitter:creator" content="@">
+    <meta property="twitter:title" content="angst-frei.ch">
+    <meta property="twitter:description" content="">
+    <meta name="twitter:image" content="https://www.angst-frei.ch/assets/img/sun.png">
+									  
+  </head>
+
+  <body>
+
+    <div id='calendar'></div>
+						      
+    <script src="//cdn.jsdelivr.net/npm/fullcalendar@5.3.2/main.min.js"></script>
+
+    <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      var calendarEl = document.getElementById('calendar');
+      var calendar = new FullCalendar.Calendar(calendarEl, {
+        headerToolbar: {
+          left: 'dayGridMonth,timeGridWeek,timeGridDay',
+          center: 'title',
+          right: 'prev,next'
+        },
+        events:'https://www.angst-frei.ch/event-data',
+        eventClick: function(info) {
+	  info.jsEvent.preventDefault(); // don't let the browser navigate
+          if (info.event.url) {
+            window.open(info.event.url);
+          }
+	},
+        themeSystem: 'standard',
+	firstDay: 1,
+        dayMaxEvents: 5,
+        initialView: 'listWeek',
+        eventTimeFormat: {
+          hour: '2-digit',
+          minute: '2-digit',
+          hour12: false
+        }
+      });
+      calendar.render();
+    });
+    </script>
+
+  </body>
+</html>
+
