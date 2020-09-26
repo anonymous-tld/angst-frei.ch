@@ -14,6 +14,7 @@ document.addEventListener('DOMContentLoaded', function() {
       }
     },
     firstDay: 1,
+    locale: 'de',
     themeSystem: 'bootstrap',
     initialView: 'listWeek',
     dayMaxEvents: 5,
