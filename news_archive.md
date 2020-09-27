@@ -1,6 +1,7 @@
 ---
 layout:        page
 title:         News Archive
+cover-img:     /assets/img/news_archive.jpg
 ext-css:       ["//cdn.jsdelivr.net/cal-heatmap/3.3.10/cal-heatmap.css"]
 js:            ["/assets/scripts/moment.min.js", "/assets/js/heatmap.js", "/assets/js/isotope.js"]
 ext-js:        ["//d3js.org/d3.v3.min.js", "//cdn.jsdelivr.net/cal-heatmap/3.3.10/cal-heatmap.min.js", "https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.min.js"]

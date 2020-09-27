@@ -1,7 +1,8 @@
 ---
-layout:   page
-title:    Infos
-subtitle: Weiterführende Informationen
+layout:    page
+cover-img: /assets/img/infos.jpg
+title:     Infos
+subtitle:  Weiterführende Informationen
 ---
 
 Fehlt etwas? Ergänzungen bitte an [support@angst-frei.ch](mailto:support@angst-frei.ch).
