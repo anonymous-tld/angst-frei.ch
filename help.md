@@ -32,7 +32,6 @@ Bitte meldet Euch, falls ihr uns bei folgenden Aufgaben helfen könnt und wollt:
  * Ein Logo zeichnen, welches sich am [jetztigen](/assets/img/sun.png) orientiert. Bitte melden bei [support@angst-frei.ch](mailto:support@angst-frei.ch).
  * [Rechtliche Dokumente Helfer](/files.html): Rechtliche Dokumente erfassen und ordnen. Bitte melden bei [support@angst-frei.ch](mailto:support@angst-frei.ch).
  * [News Helfer](#news): News (auch ältere) erfassen.
- * [Events Helfer](#events): Events erfassen.
 
 ## News
 
@@ -122,61 +121,4 @@ subtitle:      "«Angstmacherei ist eine Unart unserer ganzen Gesellschaft»"
 categories:    MSM
 tags:          [bernerzeitung, angst, hüther]
 ---
-~~~
-
-## Events
-
-Falls es Veranstaltungen gibt, die auch erwähnt werden sollten, schicke 2 Dateien an [events@angst-frei.ch](mailto:events@angst-frei.ch).
-
-### Aufbau der Info-Datei
-
-#### Dateiname
-
-~~~
-Land_Region_YYYY-MM-DD.md
-~~~
-
-#### Beispiel
-
-~~~
-CH_ZH_2020-09-19.md
-~~~
-
-#### Inhalt
-
-~~~
----
-layout:           event
-title:            "Titel"
-event_date:       YYYY-MM-DD
-event_country:    Land
-event_region:     Region
-event_place:      Ort
----
-~~~
-
-#### Beispiel
-
-~~~
-layout:           event
-title:            "Kundgebung 19.September"
-event_date:       2020-09-19
-event_country:    CH
-event_region:     ZH
-event_place:      Zürich
----
-~~~
-
-### Bild-Datei (zum Event)
-
-#### Dateiname
-
-~~~
-Land_Region_YYYY-MM-DD.bildtyp
-~~~
-
-#### Beispiel
-
-~~~
-CH_ZH_2020-09-19.jpg
 ~~~
