@@ -1,44 +1,4 @@
 land,datum,uhrzeit,stadt,treffpunkt,protestform
-AT,2020-09-28,15:30:00,Wien,Platz der Menschenrechte,Event
-DE,2020-09-28,17:00:00,Weilheim,Marienplatz,Mahnwache
-DE,2020-09-28,17:00:00,Schöllkrippen,Marktplatz,Demonstration
-DE,2020-09-28,17:00:00,Oberhausen,ecke  Elsässer Str./ Marktstr.,Demonstration
-DE,2020-09-28,17:00:00,Neugersdorf,Hauptstraße gegenüber Edeka,Menschenkette
-DE,2020-09-28,17:00:00,München,Max Joseph Platz- vor der Oper,Meditation
-DE,2020-09-28,17:00:00,Berlin,Weltzeituhr/Alexanderplatz,Event
-DE,2020-09-28,17:00:00,Bad Oldesloe,Hude,Kundgebung
-DE,2020-09-28,17:45:00,Köln,Aachener Weiher,Mahnwache
-DE,2020-09-28,18:00:00,Walldorf,Drehscheibe,Kundgebung
-DE,2020-09-28,18:00:00,Schmalkalden,Altmarkt,Spaziergang
-DE,2020-09-28,18:00:00,Rostock,Neuer Markt,Kundgebung
-DE,2020-09-28,18:00:00,Potsdam,Filmmuseum,Mahnwache
-DE,2020-09-28,18:00:00,Chemnitz,Zentralhaltestelle,Spaziergang
-DE,2020-09-28,18:30:00,Waiblingen,am Marktbrunnen,Spaziergang
-DE,2020-09-28,18:30:00,Sulzbach Rosenberg,LUITPOLDPLATZ,Spaziergang
-DE,2020-09-28,18:30:00,Dresden,Neumarkt an der Frauenkirche,Demonstration
-DE,2020-09-28,19:00:00,Waren/Müritz,Neuer Markt,Spaziergang
-DE,2020-09-28,19:00:00,Stuttgart,Karlsplatz,Kundgebung
-DE,2020-09-28,19:00:00,Stralsund,Alter Markt,Mahnwache
-DE,2020-09-28,19:00:00,Soest,Rathaus,Spaziergang
-DE,2020-09-28,19:00:00,Schleiz,Neumarkt,Spaziergang
-DE,2020-09-28,19:00:00,Schöneck/Vogtland,Rathaus,Spaziergang
-DE,2020-09-28,19:00:00,Saalfeld,Markt/Ecke Apotheke,Spaziergang
-DE,2020-09-28,19:00:00,Rudolstadt,Markt,Spaziergang
-DE,2020-09-28,19:00:00,Roetgen,Parkplatz Faulenbruchstrasse3,Spaziergang
-DE,2020-09-28,19:00:00,Paderborn,Rathausplatz,Spaziergang
-DE,2020-09-28,19:00:00,Ottobeuren,Marktplatz,Spaziergang
-DE,2020-09-28,19:00:00,Neubrandenburg,Marktplatz/Innenstadt,Spaziergang
-DE,2020-09-28,19:00:00,Mühlhausen/ Thüringen,Postplatz,Kundgebung
-DE,2020-09-28,19:00:00,Marktheidenfeld,Busbahnhof,Spaziergang
-DE,2020-09-28,19:00:00,Leipzig,Augustusplatz/Sparkasse Parkh.,Spaziergang
-DE,2020-09-28,19:00:00,Kempen,Buttermarkt,Spaziergang
-DE,2020-09-28,19:00:00,Jever,Marktplatz,Spaziergang
-DE,2020-09-28,19:00:00,Görlitz,Postplatz,Spaziergang
-DE,2020-09-28,19:00:00,Freiberg,Albertpark - Springbrunnen,Spaziergang
-DE,2020-09-28,19:00:00,Bonn,Bonner Marktplatz / Altes Rath,Spaziergang
-DE,2020-09-28,19:00:00,Bühl,Johannesplatz,Demonstration
-DE,2020-09-28,19:00:00,Apolda,Markt/ Rathaus,Spaziergang
-DE,2020-09-28,19:00:00,Aachen,Katschhof an den Treppen,Musik
 DE,2020-09-29,11:30:00,Bad Reichenhall,Rathausplatz,Kundgebung
 NL,2020-09-29,12:00:00,Den Haag,Buitenhof,Kundgebung
 AT,2020-09-30,18:00:00,Graz,Hauptplatz,Meditation
@@ -104,6 +64,7 @@ DE,2020-10-19,19:00:00,Jever,Marktplatz,Spaziergang
 DE,2020-10-22,18:00:00,Poing,S-Bahnhof / Neue Unterführung,Kundgebung
 DE,2020-10-24,14:00:00,Rosenheim,wird noch bekanntgegeben,Kundgebung
 DE,2020-10-24,14:30:00,Wilhelmshaven,Pacific Cafe,Spaziergang
+DE,2020-10-24,15:00:00,Dingolfing,Marienplatz,Kundgebung
 DE,2020-10-24,16:00:00,Kaiserslautern,Stiftsplatz (Marktplatz),Kundgebung
 BE,2020-10-25,13:00:00,Brüssel,Bolivar/Station North,Spaziergang
 DE,2020-10-26,17:00:00,München,Max Joseph Platz/vor der Oper,Meditation
