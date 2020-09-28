@@ -7,12 +7,15 @@ permalink: /event-data/
 [ {% for event in site.data.demotermine %}
     {% if event.land == "DE" %}
       {% assign color = "orange" %}
+      {% assign imgurl = "/assets/img/flaggen/DE.jpg" %}
     {% elsif event.land == "CH" %}
       {% assign color = "red" %}
-    {% elsif event.land == "AU" %}
+      {% assign imgurl = "/assets/img/flaggen/CH.jpg" %}
+    {% elsif event.land == "AT" %}
       {% assign color = "red" %}
+      {% assign imgurl = "/assets/img/flaggen/AT.jpg" %}
     {% endif %}
-    { "color":"{{color}}", "title":"{{event.stadt}}, {{event.treffpunkt}}, {{event.protestform}}", "start": "{{event.datum}}T{{event.uhrzeit}}", "allDay":false, "url":"{{event.url}}" }
+    { "color":"{{color}}", "title":"{{event.stadt}}, {{event.treffpunkt}}, {{event.protestform}}", "start": "{{event.datum}}T{{event.uhrzeit}}", "allDay":false, "url":"{{event.url}}", "country":"{{event.land}}" }
     {%unless forloop.last %},{%endunless%}
   {% endfor %}
 ]
