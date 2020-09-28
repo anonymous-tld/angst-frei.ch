@@ -68,11 +68,11 @@ DE,2020-10-04,15:00:00,Rauenberg,Rathausplatz,Kundgebung
 DE,2020-10-04,15:00:00,Erfurt,Brühler Garten,Kundgebung
 DE,2020-10-04,15:30:00,Olching (FFB),Nöscherplatz,Kundgebung
 DE,2020-10-04,18:00:00,Forchheim,Paradeplatz,Kundgebung
-DE,2020-10-05,17:00:00,München,Max Joseph Platz, vor der Oper,Meditation
+DE,2020-10-05,17:00:00,München,Max Joseph Platz/vor der Oper,Meditation
 DE,2020-10-05,17:00:00,Bad Oldesloe,Hude,Kundgebung
 DE,2020-10-05,17:45:00,Köln,Aachener Weiher,Kundgebung
 DE,2020-10-05,18:30:00,Zittau,Markt,Spaziergang
-DE,2020-10-05,19:00:00,Reinbek / Wentorf,Reinbeker Schloß (Innenhof),Spaziergang
+DE,2020-10-05,19:00:00,Reinbek/Wentorf,Schloß/Innenhof,Spaziergang
 DE,2020-10-05,19:00:00,Neubrandenburg,Marktplatz/Innenstadt,Spaziergang
 DE,2020-10-05,19:00:00,Jever,Marktplatz,Spaziergang
 DE,2020-10-05,19:00:00,Apolda,Rathaus/ Markt,Spaziergang
@@ -101,8 +101,8 @@ DE,2020-10-22,18:00:00,Poing,S-Bahnhof / Neue Unterführung,Kundgebung
 DE,2020-10-24,14:00:00,Rosenheim,wird noch bekanntgegeben,Kundgebung
 DE,2020-10-24,14:30:00,Wilhelmshaven,Pacific Cafe,Spaziergang
 DE,2020-10-24,16:00:00,Kaiserslautern,Stiftsplatz (Marktplatz),Kundgebung
-BE,2020-10-25,13:00:00,Brüssel,Bolivar, Station North,Spaziergang
-DE,2020-10-26,17:00:00,München,Max Joseph Platz, vor der Oper,Meditation
+BE,2020-10-25,13:00:00,Brüssel,Bolivar/Station North,Spaziergang
+DE,2020-10-26,17:00:00,München,Max Joseph Platz/vor der Oper,Meditation
 DE,2020-10-26,17:00:00,München,Marienplatz,Meditation
 DE,2020-10-26,17:45:00,Köln,Aachener Weiher,Mahnwache
 DE,2020-10-26,19:00:00,Jever,Marktplatz,Spaziergang
@@ -112,7 +112,7 @@ DE,2020-10-31,13:00:00,Braunschweig,Schlossplatz Reiterdenkmal,Demonstration
 DE,2020-10-31,14:30:00,Wilhelmshaven,Pacific Cafe,Spaziergang
 DE,2020-10-31,15:00:00,Dresden,Theaterplatz,Kundgebung
 DE,2020-10-31,15:00:00,Braunschweig,Bürgerpark Hinter der VW Halle,Kundgebung
-DE,2020-11-02,17:00:00,München,Max Joseph Platz, vor der Oper,Meditation
+DE,2020-11-02,17:00:00,München,Max Joseph Platz/vor der Oper,Meditation
 DE,2020-11-02,17:45:00,Köln,Aachener Weiher,Mahnwache
 DE,2020-11-05,18:00:00,Berlin,Brandenburger Tor,Kundgebung
 DE,2020-11-07,14:30:00,Wilhelmshaven,Pacific Cafe,Spaziergang
@@ -129,7 +129,7 @@ DE,2020-11-23,17:45:00,Köln,Aachener Weiher,Mahnwache
 DE,2020-11-30,17:00:00,München,Marienplatz,Meditation
 DE,2020-11-30,17:45:00,Köln,Aachener Weiher,Mahnwache
 AT,2020-12-06,17:00:00,Linz,Hauptplatz,Kundgebung
-DE,2020-12-07,17:00:00,München,Max Joseph Platz, vor der Oper,Meditation
+DE,2020-12-07,17:00:00,München,Max Joseph Platz/vor der Oper,Meditation
 DE,2020-12-14,17:00:00,München,Marienplatz,Meditation
 DE,2020-12-24,12:00:00,Berlin,Weltzeituhr/Alexanderplatz,Charity
 DE,2021-06-20,16:30:00,Straubing,Ludwigsplatz,Mahnwache
