@@ -9,6 +9,7 @@ DE,2020-09-28,17:00:00,Berlin,Weltzeituhr/Alexanderplatz,Event
 DE,2020-09-28,17:00:00,Bad Oldesloe,Hude,Kundgebung
 DE,2020-09-28,17:45:00,Köln,Aachener Weiher,Mahnwache
 DE,2020-09-28,18:00:00,Walldorf,Drehscheibe,Kundgebung
+DE,2020-09-28,18:00:00,Schmalkalden,Altmarkt,Spaziergang
 DE,2020-09-28,18:00:00,Rostock,Neuer Markt,Kundgebung
 DE,2020-09-28,18:00:00,Potsdam,Filmmuseum,Mahnwache
 DE,2020-09-28,18:00:00,Chemnitz,Zentralhaltestelle,Spaziergang
@@ -21,7 +22,7 @@ DE,2020-09-28,19:00:00,Stralsund,Alter Markt,Mahnwache
 DE,2020-09-28,19:00:00,Soest,Rathaus,Spaziergang
 DE,2020-09-28,19:00:00,Schleiz,Neumarkt,Spaziergang
 DE,2020-09-28,19:00:00,Schöneck/Vogtland,Rathaus,Spaziergang
-DE,2020-09-28,19:00:00,Saalfeld,Markt, Ecke Apotheke,Spaziergang
+DE,2020-09-28,19:00:00,Saalfeld,Markt/Ecke Apotheke,Spaziergang
 DE,2020-09-28,19:00:00,Rudolstadt,Markt,Spaziergang
 DE,2020-09-28,19:00:00,Roetgen,Parkplatz Faulenbruchstrasse3,Spaziergang
 DE,2020-09-28,19:00:00,Paderborn,Rathausplatz,Spaziergang
@@ -40,6 +41,7 @@ DE,2020-09-28,19:00:00,Apolda,Markt/ Rathaus,Spaziergang
 DE,2020-09-28,19:00:00,Aachen,Katschhof an den Treppen,Musik
 DE,2020-09-29,11:30:00,Bad Reichenhall,Rathausplatz,Kundgebung
 AT,2020-09-30,18:00:00,Graz,Hauptplatz,Meditation
+DE,2020-09-30,18:00:00,Berlin,Bundeskanzleramt,Kundgebung
 DE,2020-10-01,18:00:00,Poing,S-Bahnhof / Neue Unterführung,Kundgebung
 DE,2020-10-02,14:00:00,Traunstein,Stadtpark,Kundgebung
 DE,2020-10-02,15:00:00,Berlin,Platz der Republik,Kundgebung
