@@ -4,6 +4,12 @@ title:    Kritik
 subtitle: Deutschland
 ---
 
+## Michael Ballweg
+
+Michael Ballweg
+
+| {{ site.icons.globe }}    | [michael-ballweg.de](https://michael-ballweg.de/) |
+
 ## Andreas Beutel
 
 Andreas Beutel
@@ -34,6 +40,7 @@ Samuel Eckert
 | {{ site.icons.globe }}    | [samueleckert.net](https://samueleckert.net/) |
 | {{ site.icons.youtube }}  | [Samuel Eckert](https://www.youtube.com/c/SamuelEckert) |
 | {{ site.icons.telegram }} | [Samuel Eckert](https://t.me/samueleckert) |
+| {{ site.icons.forward }}  | [Coronainfo-Tour]({{ site.baseurl }}/org/critism/germany.html#coronainfo-tour) |
 
 ## Miriam Hope
 

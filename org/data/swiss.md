@@ -27,3 +27,4 @@ Kanton Zürich -  Statistisches Amt
 Swiss Policy Research (SPR) ist ein Forschungs- und Informationsprojekt zu geopolitischer Propaganda in Schweizer und internationalen Medien.
 
 | {{ site.icons.globe }} | [swprs.org](https://swprs.org/) |
+| {{ site.icons.globe }} | [Fakten zu Covid-19](https://swprs.org/fakten-zu-covid-19/) |

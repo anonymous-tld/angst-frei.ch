@@ -4,6 +4,18 @@ title:    Recht
 subtitle: Deutschland
 ---
 
+## ACU 2020 - Außerparlamentarischer Corona Untersuchungsausschuss
+
+Außerparlamentarischer Corona Untersuchungsausschuss
+
+| {{ site.icons.globe }}    | [acu2020.org](https://acu2020.org/) |
+
+## Anwälte für Aufklärung
+
+Wir sind eine Gruppe von unabhängigen Anwälten die sich vernetzt hat, um auf den unterschiedlichen Rechtsgebieten bei der Aufklärung der angeblichen Pandemie zu helfen und juristische Antworten auf die sich dabei stellenden Fragen zu finden.
+
+| {{ site.icons.globe }}    | [www.afa.zone](https://www.afa.zone/) |
+
 ## Corona-Ausschuss
 
 Der Corona-Ausschuss untersucht, warum die Bundes- und Landesregierungen beispiellose Beschränkungen verhängt haben und welche Folgen diese für die Menschen hatten. Er fördert wissenschaftliche Studien auf diesem Gebiet.
@@ -18,7 +30,7 @@ Der Corona-Ausschuss untersucht, warum die Bundes- und Landesregierungen beispie
 
 Die Strategie hinter der geplanten US-Sammelklage begleiten die schon aus dem Berliner „Corona-Ausschuss“ bekannten Rechtsanwälte.
 
-| {{ site.icons.globe }}    | [klagepaten.eu](https://www.corona-schadensersatzklage.de/) |
+| {{ site.icons.globe }}    | [www.corona-schadensersatzklage.de](https://www.corona-schadensersatzklage.de/) |
 
 ## klagePATEN
 
@@ -41,4 +53,5 @@ Petition für eine ARD-Sondersendung "Wie gefährlich ist Corona?"
 
 Schlussjetzt ist ein Netzwerk kritischer Juristen. Sie haben auf dieser Seite juristische Mustertexte und Informationen für Sie zusammengestellt, so dass Sie selbst zur Verteidigung Ihrer Grundrechte im Lockdown tätig werden können.
 
-| {{ site.icons.globe }}    | [schlussjetzt.org](http://schlussjetzt.org/)
+| {{ site.icons.globe }}    | [schlussjetzt.org](http://schlussjetzt.org/) |
+
