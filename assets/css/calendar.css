@@ -11,36 +11,34 @@
   background-image: url(/assets/img/flaggen/DE.png);
 }
 
-[class~='ch-flag'] > .fc-daygrid-event-dot {
-  background-image: url(/assets/img/flaggen/CH.png);
+[class~='nl-flag'] > .fc-list-event-graphic > .fc-list-event-dot {
+  background-image: url(/assets/img/flaggen/NL.png);
 }
 
-[class~='at-flag'] > .fc-daygrid-event-dot {
-  background-image: url(/assets/img/flaggen/AT.png);
+[class~='it-flag'] > .fc-list-event-graphic > .fc-list-event-dot {
+  background-image: url(/assets/img/flaggen/IT.png);
 }
 
-[class~='de-flag'] > .fc-daygrid-event-dot {
-  background-image: url(/assets/img/flaggen/DE.png);
+[class~='be-flag'] > .fc-list-event-graphic > .fc-list-event-dot {
+  background-image: url(/assets/img/flaggen/BE.png);
 }
 
 .fc .fc-list-event-dot {
   background-repeat: no-repeat;
   background-origin: border-box;
-  background-position: 50% 50%;
+  background-position: center;
   border: 0;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
-  width: 16px; /* Width of new image */
-  height: 16px; /* Height of new image */
+  width: 16px;
+  height: 16px;
 }
 
 .fc .fc-daygrid-event-dot {
-  background-repeat: no-repeat;
-  background-origin: border-box;
-  background-position: 50% 50%;
-  border: 0;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-  width: 20px; /* Width of new image */
-  height: 16px; /* Height of new image */
+  display: none;
 }
+
+.popover {
+  max-width: 330px;
+}
+

@@ -20,11 +20,14 @@ document.addEventListener('DOMContentLoaded', function() {
     },
     events:'/event-data',
     eventClick: function(info) {
-      info.jsEvent.preventDefault(); // don't let the browser navigate
-      if (info.event.url) {
-        window.open(info.event.url);
-      }
+      alert('Datum: ' + info.event.start + '\nLand: ' + info.event.extendedProps.country + '\nAnlass: ' + info.event.title);
     },
+//    eventClick: function(info) {
+//      info.jsEvent.preventDefault(); // don't let the browser navigate
+//      if (info.event.url) {
+//        window.open(info.event.url);
+//      }
+//    },
     navLinks: true,
     locale: 'de',
     themeSystem: 'bootstrap',
