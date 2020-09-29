@@ -1,108 +1,109 @@
-land,datum,uhrzeit,stadt,treffpunkt,protestform
-DE,2020-09-29,11:30:00,Bad Reichenhall,Rathausplatz,Kundgebung
-NL,2020-09-29,12:00:00,Den Haag,Buitenhof,Kundgebung
-AT,2020-09-30,18:00:00,Graz,Hauptplatz,Meditation
-DE,2020-09-30,18:00:00,Berlin,Bundeskanzleramt,Kundgebung
-DE,2020-10-01,16:00:00,Landau,Marktplatz,Demonstration
-DE,2020-10-01,18:00:00,Poing,S-Bahnhof / Neue Unterführung,Kundgebung
-DE,2020-10-02,14:00:00,Traunstein,Stadtpark,Kundgebung
-DE,2020-10-02,15:00:00,Berlin,Platz der Republik,Kundgebung
-DE,2020-10-02,17:00:00,Kulmbach,Marktplatz,Kundgebung
-DE,2020-10-02,19:30:00,Berlin,Unter den Linden,Spaziergang
-DE,2020-10-03,09:00:00,Konstanz,Bodensee,Menschenkette
-DE,2020-10-03,11:00:00,Zittau,Herkulesbrunnen / Neustadt,Kundgebung
-DE,2020-10-03,11:00:00,Forchheim,Paradeplatz,Kundgebung
-DE,2020-10-03,11:00:00,Emden,Stadtgarten Emden,Mahnwache
-DE,2020-10-03,12:00:00,Berlin,Pariser Platz 2/US-Botschaft,Kundgebung
-DE,2020-10-03,13:00:00,Schwerin,Pfaffenteich Südufer,Kundgebung
-DE,2020-10-03,13:00:00,Bayreuth,Neptunbrunnen (Maximilianstr.),Kundgebung
-DE,2020-10-03,13:15:00,Hameln,Pferdemarkt,Kundgebung
-DE,2020-10-03,13:15:00,Hameln,Pferdemarkt,Kundgebung
-DE,2020-10-03,14:00:00,Reichelsheim,Ortseingang Aldi,Kundgebung
-DE,2020-10-03,14:17:00,Berlin Hohenschönhausen,Wartenberg,Demonstration
-DE,2020-10-03,14:30:00,Wilhelmshaven,Pacific Cafe,Spaziergang
-DE,2020-10-03,14:30:00,Elmshorn,Barmstedt/Schloßparkplatz,Menschenkette
-DE,2020-10-03,15:30:00,Leipzig,Marktplatz,Spaziergang
-DE,2020-10-03,15:30:00,Erfurt,Anger 1,Kundgebung
-DE,2020-10-03,16:00:00,Münster,Stubengasse,Kundgebung
-DE,2020-10-03,16:00:00,Bremen,Bahnhofsvorplatz,Kundgebung
-DE,2020-10-04,10:45:00,Bretten,Marktplatz,Meditation
-DE,2020-10-04,11:55:00,Salem,Bodensee,Kundgebung
-AT,2020-10-04,12:00:00,Bregenz,Hafen,Event
-DE,2020-10-04,13:00:00,Karlsruhe,Schlossplatz Karlsruhe,Kundgebung
-DE,2020-10-04,15:00:00,Rauenberg,Rathausplatz,Kundgebung
-DE,2020-10-04,15:00:00,Erfurt,Brühler Garten,Kundgebung
-DE,2020-10-04,15:30:00,Olching (FFB),Nöscherplatz,Kundgebung
-DE,2020-10-04,18:00:00,Forchheim,Paradeplatz,Kundgebung
-DE,2020-10-05,17:00:00,München,Max Joseph Platz/vor der Oper,Meditation
-DE,2020-10-05,17:00:00,Bad Oldesloe,Hude,Kundgebung
-DE,2020-10-05,17:45:00,Köln,Aachener Weiher,Kundgebung
-DE,2020-10-05,18:30:00,Zittau,Markt,Spaziergang
-DE,2020-10-05,19:00:00,Reinbek/Wentorf,Schloß/Innenhof,Spaziergang
-DE,2020-10-05,19:00:00,Neubrandenburg,Marktplatz/Innenstadt,Spaziergang
-DE,2020-10-05,19:00:00,Mühlhausen/ Thüringen,Postplatz,Spaziergang
-DE,2020-10-05,19:00:00,Jever,Marktplatz,Spaziergang
-DE,2020-10-05,19:00:00,Elzach,Nikolausplatz,Demonstration
-DE,2020-10-05,19:00:00,Apolda,Rathaus/ Markt,Spaziergang
-DE,2020-10-05,19:00:00,Aachen,Katschhof an den Treppen,Musik
-DE,2020-10-08,18:00:00,Poing,S-Bahnhof / Neue Unterführung,Kundgebung
-DE,2020-10-10,10:00:00,Berlin,US Botschaft am Brandenburger,Kundgebung
-DE,2020-10-10,11:55:00,Berlin,Adenauer Platz,Spaziergang
-DE,2020-10-10,11:59:00,Berlin,Adenauerplatz Schweigemarsch,Sonstiges
-DE,2020-10-10,13:15:00,Hameln,Pferdemarkt,Kundgebung
-IT,2020-10-10,14:00:00,Roma,P.zza San Giovanni in Laterano,Demonstration
-DE,2020-10-10,14:00:00,Potsdam,Luisenplatz,Kundgebung
-DE,2020-10-10,14:00:00,Bonn,Hofgarten,Demonstration
-DE,2020-10-10,14:30:00,Wilhelmshaven,Pacific Cafe,Spaziergang
-DE,2020-10-10,14:30:00,Elmshorn,Nikolai-Kirche,Spaziergang
-DE,2020-10-10,15:00:00,Dortmund,Friedensplatz,Kundgebung
-DE,2020-10-10,16:00:00,Münster,Stubengasse,Kundgebung
-DE,2020-10-10,18:00:00,Forchheim,Paradeplatz,Kundgebung
-DE,2020-10-11,18:00:00,Forchheim,Paradeplatz,Kundgebung
-DE,2020-10-12,14:00:00,Greifswald,Dom / Merkel kommt,Gegenprotest
-DE,2020-10-12,17:00:00,München,Marienplatz,Meditation
-DE,2020-10-12,17:45:00,Köln,Aachener Weiher,Mahnwache
-DE,2020-10-12,19:00:00,Jever,Marktplatz,Spaziergang
-DE,2020-10-15,18:00:00,Poing,S-Bahnhof / Neue Unterführung,Kundgebung
-DE,2020-10-17,14:30:00,Wilhelmshaven,Pacific Cafe,Spaziergang
-DE,2020-10-19,17:00:00,München,Marienplatz,Meditation
-DE,2020-10-19,17:45:00,Köln,Aachener Weiher,Mahnwache
-DE,2020-10-19,19:00:00,Jever,Marktplatz,Spaziergang
-DE,2020-10-22,18:00:00,Poing,S-Bahnhof / Neue Unterführung,Kundgebung
-DE,2020-10-24,14:00:00,Rosenheim,wird noch bekanntgegeben,Kundgebung
-DE,2020-10-24,14:30:00,Wilhelmshaven,Pacific Cafe,Spaziergang
-DE,2020-10-24,15:00:00,Dingolfing,Marienplatz,Kundgebung
-DE,2020-10-24,15:00:00,Dingolfing,MARIENPLATZ,Kundgebung
-DE,2020-10-24,16:00:00,Kaiserslautern,Stiftsplatz (Marktplatz),Kundgebung
-BE,2020-10-25,13:00:00,Brüssel,Bolivar/Station North,Spaziergang
-DE,2020-10-26,17:00:00,München,Max Joseph Platz/vor der Oper,Meditation
-DE,2020-10-26,17:00:00,München,Marienplatz,Meditation
-DE,2020-10-26,17:45:00,Köln,Aachener Weiher,Mahnwache
-DE,2020-10-26,19:00:00,Jever,Marktplatz,Spaziergang
-DE,2020-10-29,18:00:00,Poing,S-Bahnhof / Neue Unterführung,Kundgebung
-DE,2020-10-31,12:00:00,Braunschweig,Schlossplatz Reiterdenkmal,Kundgebung
-DE,2020-10-31,13:00:00,Braunschweig,Schlossplatz Reiterdenkmal,Demonstration
-DE,2020-10-31,14:30:00,Wilhelmshaven,Pacific Cafe,Spaziergang
-DE,2020-10-31,15:00:00,Dresden,Theaterplatz,Kundgebung
-DE,2020-10-31,15:00:00,Braunschweig,Bürgerpark Hinter der VW Halle,Kundgebung
-DE,2020-11-02,17:00:00,München,Max Joseph Platz/vor der Oper,Meditation
-DE,2020-11-02,17:45:00,Köln,Aachener Weiher,Mahnwache
-DE,2020-11-05,18:00:00,Berlin,Brandenburger Tor,Kundgebung
-DE,2020-11-07,14:30:00,Wilhelmshaven,Pacific Cafe,Spaziergang
-DE,2020-11-07,15:30:00,Kaltenkirchen,PArk ggü. Rathaus,Sonstiges
-DE,2020-11-09,17:00:00,München,Marienplatz,Meditation
-DE,2020-11-09,17:45:00,Köln,Aachener Weiher,Mahnwache
-DE,2020-11-11,11:00:00,Berlin,Finkenstraße 21,Flashmob
-DE,2020-11-13,19:00:00,Grimma,Marktplatz,Spaziergang
-DE,2020-11-14,14:00:00,Berlin,Am Kupfergraben 6,Flashmob
-DE,2020-11-16,17:00:00,München,Marienplatz,Meditation
-DE,2020-11-16,17:45:00,Köln,Aachener Weiher,Mahnwache
-DE,2020-11-23,17:00:00,München,Marienplatz,Meditation
-DE,2020-11-23,17:45:00,Köln,Aachener Weiher,Mahnwache
-DE,2020-11-30,17:00:00,München,Marienplatz,Meditation
-DE,2020-11-30,17:45:00,Köln,Aachener Weiher,Mahnwache
-AT,2020-12-06,17:00:00,Linz,Hauptplatz,Kundgebung
-DE,2020-12-07,17:00:00,München,Max Joseph Platz/vor der Oper,Meditation
-DE,2020-12-14,17:00:00,München,Marienplatz,Meditation
-DE,2020-12-24,12:00:00,Berlin,Weltzeituhr/Alexanderplatz,Charity
-DE,2021-06-20,16:30:00,Straubing,Ludwigsplatz,Mahnwache
+land,datum,uhrzeit,stadt,treffpunkt,protestform,livestream
+DE,2020-09-29,11:30:00,Bad Reichenhall,Rathausplatz,Kundgebung,
+NL,2020-09-29,12:00:00,Den Haag,Buitenhof,Kundgebung,https://demo.stream/liveport
+AT,2020-09-30,18:00:00,Graz,Hauptplatz,Meditation,https://www.facebook.com/biankamaria.emmerich
+DE,2020-09-30,18:00:00,Berlin,Bundeskanzleramt,Kundgebung,https://demo.stream/mariagoetz
+DE,2020-10-01,16:00:00,Landau,Marktplatz,Demonstration,
+DE,2020-10-01,18:00:00,Poing,S-Bahnhof / Neue Unterführung,Kundgebung,
+DE,2020-10-02,14:00:00,Traunstein,Stadtpark,Kundgebung,
+DE,2020-10-02,15:00:00,Berlin,Platz der Republik,Kundgebung,
+DE,2020-10-02,17:00:00,Kulmbach,Marktplatz,Kundgebung,
+DE,2020-10-02,19:30:00,Berlin,Unter den Linden,Spaziergang,
+DE,2020-10-03,09:00:00,Konstanz,Bodensee,Menschenkette,
+DE,2020-10-03,11:00:00,Zittau,Herkulesbrunnen / Neustadt,Kundgebung,
+DE,2020-10-03,11:00:00,Forchheim,Paradeplatz,Kundgebung,
+DE,2020-10-03,11:00:00,Emden,Stadtgarten Emden,Mahnwache,
+DE,2020-10-03,12:00:00,Berlin,Pariser Platz 2/US-Botschaft,Kundgebung,
+DE,2020-10-03,13:00:00,Schwerin,Pfaffenteich Südufer,Kundgebung,
+DE,2020-10-03,13:00:00,Bayreuth,Neptunbrunnen (Maximilianstr.),Kundgebung,
+DE,2020-10-03,13:15:00,Hameln,Pferdemarkt,Kundgebung,
+DE,2020-10-03,13:15:00,Hameln,Pferdemarkt,Kundgebung,
+DE,2020-10-03,14:00:00,Reichelsheim,Ortseingang Aldi,Kundgebung,
+DE,2020-10-03,14:17:00,Berlin Hohenschönhausen,Wartenberg,Demonstration,
+DE,2020-10-03,14:30:00,Wilhelmshaven,Pacific Cafe,Spaziergang,
+DE,2020-10-03,14:30:00,Elmshorn,Barmstedt/Schloßparkplatz,Menschenkette,
+DE,2020-10-03,15:30:00,Leipzig,Marktplatz,Spaziergang,
+DE,2020-10-03,15:30:00,Erfurt,Anger 1,Kundgebung,
+DE,2020-10-03,16:00:00,Münster,Stubengasse,Kundgebung,
+DE,2020-10-03,16:00:00,Bremen,Bahnhofsvorplatz,Kundgebung,
+DE,2020-10-03,18:00:00,Bielefeld,Kesselbrink,Lichterkette,
+DE,2020-10-04,10:45:00,Bretten,Marktplatz,Meditation,
+DE,2020-10-04,11:55:00,Salem,Bodensee,Kundgebung,
+AT,2020-10-04,12:00:00,Bregenz,Hafen,Event,
+DE,2020-10-04,13:00:00,Karlsruhe,Schlossplatz Karlsruhe,Kundgebung,
+DE,2020-10-04,15:00:00,Rauenberg,Rathausplatz,Kundgebung,
+DE,2020-10-04,15:00:00,Erfurt,Brühler Garten,Kundgebung,
+DE,2020-10-04,15:30:00,Olching (FFB),Nöscherplatz,Kundgebung,
+DE,2020-10-04,18:00:00,Forchheim,Paradeplatz,Kundgebung,
+DE,2020-10-05,17:00:00,München,Max Joseph Platz/vor der Oper,Meditation,https://facebook.com/mbsr.muenchen
+DE,2020-10-05,17:00:00,Bad Oldesloe,Hude,Kundgebung,
+DE,2020-10-05,17:45:00,Köln,Aachener Weiher,Kundgebung,
+DE,2020-10-05,18:30:00,Zittau,Markt,Spaziergang,
+DE,2020-10-05,19:00:00,Reinbek/Wentorf,Schloß/Innenhof,Spaziergang,
+DE,2020-10-05,19:00:00,Neubrandenburg,Marktplatz/Innenstadt,Spaziergang,
+DE,2020-10-05,19:00:00,Mühlhausen/ Thüringen,Postplatz,Spaziergang,
+DE,2020-10-05,19:00:00,Jever,Marktplatz,Spaziergang,
+DE,2020-10-05,19:00:00,Elzach,Nikolausplatz,Demonstration,
+DE,2020-10-05,19:00:00,Apolda,Rathaus/ Markt,Spaziergang,
+DE,2020-10-05,19:00:00,Aachen,Katschhof an den Treppen,Musik,
+DE,2020-10-08,18:00:00,Poing,S-Bahnhof / Neue Unterführung,Kundgebung,
+DE,2020-10-10,10:00:00,Berlin,US Botschaft am Brandenburger,Kundgebung,
+DE,2020-10-10,11:55:00,Berlin,Adenauer Platz,Spaziergang,
+DE,2020-10-10,11:59:00,Berlin,Adenauerplatz Schweigemarsch,Sonstiges,
+DE,2020-10-10,13:15:00,Hameln,Pferdemarkt,Kundgebung,
+IT,2020-10-10,14:00:00,Roma,P.zza San Giovanni in Laterano,Demonstration,https://cutt.ly/ifxC3Q7
+DE,2020-10-10,14:00:00,Potsdam,Luisenplatz,Kundgebung,
+DE,2020-10-10,14:00:00,Bonn,Hofgarten,Demonstration,
+DE,2020-10-10,14:30:00,Wilhelmshaven,Pacific Cafe,Spaziergang,
+DE,2020-10-10,14:30:00,Elmshorn,Nikolai-Kirche,Spaziergang,
+DE,2020-10-10,15:00:00,Dortmund,Friedensplatz,Kundgebung,
+DE,2020-10-10,16:00:00,Münster,Stubengasse,Kundgebung,
+DE,2020-10-10,18:00:00,Forchheim,Paradeplatz,Kundgebung,
+DE,2020-10-11,18:00:00,Forchheim,Paradeplatz,Kundgebung,
+DE,2020-10-12,14:00:00,Greifswald,Dom / Merkel kommt,Gegenprotest,
+DE,2020-10-12,17:00:00,München,Marienplatz,Meditation,www.mbsr-muenchen.net/openair
+DE,2020-10-12,17:45:00,Köln,Aachener Weiher,Mahnwache,
+DE,2020-10-12,19:00:00,Jever,Marktplatz,Spaziergang,
+DE,2020-10-15,18:00:00,Poing,S-Bahnhof / Neue Unterführung,Kundgebung,
+DE,2020-10-17,14:30:00,Wilhelmshaven,Pacific Cafe,Spaziergang,
+DE,2020-10-19,17:00:00,München,Marienplatz,Meditation,www.mbsr-muenchen.net/openair
+DE,2020-10-19,17:45:00,Köln,Aachener Weiher,Mahnwache,
+DE,2020-10-19,19:00:00,Jever,Marktplatz,Spaziergang,
+DE,2020-10-22,18:00:00,Poing,S-Bahnhof / Neue Unterführung,Kundgebung,
+DE,2020-10-24,14:00:00,Rosenheim,wird noch bekanntgegeben,Kundgebung,
+DE,2020-10-24,14:30:00,Wilhelmshaven,Pacific Cafe,Spaziergang,
+DE,2020-10-24,15:00:00,Dingolfing,Marienplatz,Kundgebung,
+DE,2020-10-24,15:00:00,Dingolfing,MARIENPLATZ,Kundgebung,
+DE,2020-10-24,16:00:00,Kaiserslautern,Stiftsplatz (Marktplatz),Kundgebung,
+BE,2020-10-25,13:00:00,Brüssel,Bolivar/Station North,Spaziergang,
+DE,2020-10-26,17:00:00,München,Max Joseph Platz/vor der Oper,Meditation,www.mbsr-muenchen.net/openair
+DE,2020-10-26,17:00:00,München,Marienplatz,Meditation,
+DE,2020-10-26,17:45:00,Köln,Aachener Weiher,Mahnwache,
+DE,2020-10-26,19:00:00,Jever,Marktplatz,Spaziergang,
+DE,2020-10-29,18:00:00,Poing,S-Bahnhof / Neue Unterführung,Kundgebung,
+DE,2020-10-31,12:00:00,Braunschweig,Schlossplatz Reiterdenkmal,Kundgebung,https://www.youtube.com/channel/UCA4_Yt4m1wzGlhUVS6vW5YA
+DE,2020-10-31,13:00:00,Braunschweig,Schlossplatz Reiterdenkmal,Demonstration,https://www.youtube.com/channel/UCA4_Yt4m1wzGlhUVS6vW5YA
+DE,2020-10-31,14:30:00,Wilhelmshaven,Pacific Cafe,Spaziergang,
+DE,2020-10-31,15:00:00,Dresden,Theaterplatz,Kundgebung,https://demo.stream/live
+DE,2020-10-31,15:00:00,Braunschweig,Bürgerpark Hinter der VW Halle,Kundgebung,https://www.youtube.com/channel/UCA4_Yt4m1wzGlhUVS6vW5YA
+DE,2020-11-02,17:00:00,München,Max Joseph Platz/vor der Oper,Meditation,www.mbsr-muenchen.net/openair
+DE,2020-11-02,17:45:00,Köln,Aachener Weiher,Mahnwache,
+DE,2020-11-05,18:00:00,Berlin,Brandenburger Tor,Kundgebung,https://anonymous.support/tv
+DE,2020-11-07,14:30:00,Wilhelmshaven,Pacific Cafe,Spaziergang,
+DE,2020-11-07,15:30:00,Kaltenkirchen,PArk ggü. Rathaus,Sonstiges,
+DE,2020-11-09,17:00:00,München,Marienplatz,Meditation,www.mbsr-muenchen.net/openair
+DE,2020-11-09,17:45:00,Köln,Aachener Weiher,Mahnwache,
+DE,2020-11-11,11:00:00,Berlin,Finkenstraße 21,Flashmob,
+DE,2020-11-13,19:00:00,Grimma,Marktplatz,Spaziergang,
+DE,2020-11-14,14:00:00,Berlin,Am Kupfergraben 6,Flashmob,
+DE,2020-11-16,17:00:00,München,Marienplatz,Meditation,www.mbsr-muenchen.net/openair
+DE,2020-11-16,17:45:00,Köln,Aachener Weiher,Mahnwache,
+DE,2020-11-23,17:00:00,München,Marienplatz,Meditation,www.mbsr-muenchen.net/openair
+DE,2020-11-23,17:45:00,Köln,Aachener Weiher,Mahnwache,
+DE,2020-11-30,17:00:00,München,Marienplatz,Meditation,www.mbsr-muenchen.net/openair
+DE,2020-11-30,17:45:00,Köln,Aachener Weiher,Mahnwache,
+AT,2020-12-06,17:00:00,Linz,Hauptplatz,Kundgebung,
+DE,2020-12-07,17:00:00,München,Max Joseph Platz/vor der Oper,Meditation,www.mbsr-muenchen.net/openair
+DE,2020-12-14,17:00:00,München,Marienplatz,Meditation,www.mbsr-muenchen.net/openair
+DE,2020-12-24,12:00:00,Berlin,Weltzeituhr/Alexanderplatz,Charity,https://demo.stream/anonymous
+DE,2021-06-20,16:30:00,Straubing,Ludwigsplatz,Mahnwache,
