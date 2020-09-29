@@ -47,7 +47,7 @@
           end: 'today prev,next' // will normally be on the right. if RTL, will be on the left
         },
         footerToolbar: {
-          left: 'listWeek,dayGridMonth,timeGridDay',
+          left: 'listWeek,dayGridMonth,dayGridDay',
           right: 'addButton'
         },
         customButtons: {
@@ -63,8 +63,12 @@
         locale: 'de',
         themeSystem: 'standard',
         initialView: 'listWeek',
-        dayMaxEvents: 5,
-        firstDay: 1,
+        view: {
+          dayGridMonth: {
+            dayMaxEvents: 5,
+            firstDay: 1,
+          }
+        },
         eventTimeFormat: {
           hour: '2-digit',
           minute: '2-digit',
