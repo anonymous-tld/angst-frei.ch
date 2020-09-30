@@ -2,6 +2,7 @@ land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream
 AT,2020-09-30,18:00:00,8010,Graz,Hauptplatz,Meditation,https://www.facebook.com/biankamaria.emmerich
 DE,2020-09-30,18:00:00,10117,Berlin,Bundeskanzleramt,Kundgebung,https://demo.stream/mariagoetz
 DE,2020-09-30,19:00:00,10117,Berlin,Siegessäule,Menschenkette,
+DE,2020-10-01,10:30:00,91054,Erlangen,Schlossplatz,Mahnwache,
 DE,2020-10-01,16:00:00,76829,Landau,Marktplatz,Demonstration,
 DE,2020-10-01,18:00:00,85586,Poing,S-Bahnhof / Neue Unterführung,Kundgebung,
 DE,2020-10-02,14:00:00,83278,Traunstein,Stadtpark,Kundgebung,
@@ -22,6 +23,7 @@ DE,2020-10-03,14:00:00,10117,Berlin,Brandenburger Tor,Flashmob,
 DE,2020-10-03,14:17:00,13059,Berlin Hohenschönhausen,Wartenberg,Demonstration,
 DE,2020-10-03,14:30:00,26382,Wilhelmshaven,Pacific Cafe,Spaziergang,
 DE,2020-10-03,14:30:00,25335,Elmshorn,Barmstedt/Schloßparkplatz,Menschenkette,
+DE,2020-10-03,15:00:00,91054,Erlangen,Schlossplatz,Kundgebung,
 DE,2020-10-03,15:00:00,40213,Düsseldorf,Grabbeplatz/Kunstmuseum,Spaziergang,
 DE,2020-10-03,15:30:00,04109,Leipzig,Marktplatz,Spaziergang,
 DE,2020-10-03,15:30:00,99084,Erfurt,Anger 1,Kundgebung,
