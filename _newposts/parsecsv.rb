@@ -1,7 +1,7 @@
 require 'csv'
 require 'date'
 
-table = CSV.parse(File.read("/Users/joroth/Downloads/export.csv"), headers: true)
+table = CSV.parse(File.read("./rubikon2.csv"), headers: true)
 
 table.each do |n|
   
