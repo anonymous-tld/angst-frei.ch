@@ -28,20 +28,20 @@ controlLayers.addBaseLayer(terrain, 'Stamen Terrain basemap');
 geocoder = new L.Control.Geocoder.Nominatim();
 
 // Read markers data from data.csv
-//$.get('./data.csv', function(csvString) {
-//
-//  // Use PapaParse to convert string to array of objects
-//  var data = Papa.parse(csvString, {header: true, dynamicTyping: true}).data;
-//
-//  // For each row in data, create a marker and add it to the map
-//  // For each row, columns `Latitude`, `Longitude`, and `Title` are required
-//  for (var i in data) {
-//    var row = data[i]
-//
-//    var marker = L.marker([row.Latitude, row.Longitude], {
-//      opacity: 1
-//    }).bindPopup(row.Title)
-//    
-//    marker.addTo(map)
-//  }
-//})
+$.get('./data.csv', function(csvString) {
+
+  // Use PapaParse to convert string to array of objects
+  var data = Papa.parse(csvString, {header: true, dynamicTyping: true}).data;
+
+  // For each row in data, create a marker and add it to the map
+  // For each row, columns `Latitude`, `Longitude`, and `Title` are required
+  for (var i in data) {
+    var row = data[i]
+
+    var marker = L.marker([row.Latitude, row.Longitude], {
+      opacity: 1
+    }).bindPopup(row.Title)
+    
+    marker.addTo(map)
+  }
+})
