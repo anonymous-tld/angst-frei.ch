@@ -12,7 +12,12 @@ permalink: /event-data/
     {% elsif event.land == "AT" %}
       {% assign color = "red" %}
     {% endif %}
-    { "color":"{{color}}", "title":"{{event.stadt}}, {{event.treffpunkt}}, {{event.protestform}}", "start": "{{event.datum}}T{{event.uhrzeit}}", "allDay":false, "url":"{{event.url}}", "country":"{{event.land}}" }
+    {% if event.livestream %}
+      {% capture title %}{{event.stadt }}, {{event.treffpunkt}}, {{event.protestform}} (live){% endcapture %}
+    {% else %}
+      {% capture title %}{{event.stadt }}, {{event.treffpunkt}}, {{event.protestform}}{% endcapture %}
+    {% endif %}
+    { "color":"{{color}}", "title":"{{title}}", "start": "{{event.datum}}T{{event.uhrzeit}}", "allDay":false, "country":"{{event.land}}", "url":"{{event.livestream}}" }
     {%unless forloop.last %},{%endunless%}
   {% endfor %}
 ]

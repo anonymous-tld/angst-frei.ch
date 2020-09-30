@@ -58,15 +58,17 @@
             }
           }
         },
-        events:'https://www.angst-frei.ch/event-data',
+        events:'/event-data',
+        titleFormat: { year: 'numeric', month: 'numeric', day: 'numeric' },
         navLinks: true,
         locale: 'de',
         themeSystem: 'standard',
+        height: 'auto',
         initialView: 'listWeek',
-        view: {
+        views: {
           dayGridMonth: {
             dayMaxEvents: 5,
-            firstDay: 1,
+            firstDay: 1
           }
         },
         eventTimeFormat: {
@@ -74,9 +76,17 @@
           minute: '2-digit',
           hour12: false
         },
+        eventClick: function(info) {
+          console.log(info);
+          info.jsEvent.preventDefault(); // don't let the browser navigate
+          if (info.event.url) {
+            window.open(info.event.url);
+          }
+        },
         eventClassNames: function(arg) {
-          return [ arg.event.extendedProps.country.toLowerCase() + "-flag" ]
-        }
+          classname = arg.event.extendedProps.country.toLowerCase() + "-flag";
+          return classname;
+        },
       });
       calendar.render();
     });

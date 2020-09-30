@@ -18,12 +18,21 @@ document.addEventListener('DOMContentLoaded', function() {
         }
       }
     },
+    titleFormat: { year: 'numeric', month: 'numeric', day: 'numeric' },
     events:'/event-data',
+    eventClick: function(info) {
+      info.jsEvent.preventDefault(); // don't let the browser navigate
+      console.log(info);
+      if (info.event.url) {
+        window.open(info.event.url);
+      }
+    },
     navLinks: true,
     locale: 'de',
+    height: 'auto',
     themeSystem: 'standard',
     initialView: 'listWeek',
-    view: {
+    views: {
       dayGridMonth: {
         dayMaxEvents: 5,
         firstDay: 1,
