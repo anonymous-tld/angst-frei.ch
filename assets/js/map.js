@@ -41,7 +41,7 @@ $.get('/assets/data/demotermine.csv', function(csvString) {
     var coords = {};
     $.ajax({
       url: 'https://nominatim.openstreetmap.org/search/?city=' + row.stadt + "&country=" + row.land + "&postalCode=" + row.postleitzahl + "&limit=1&format=json",
-      async: true,
+      async: false,
       dataType: 'json',
       success: function (json) {   
         assignVariable(json);
