@@ -43,9 +43,22 @@ document.addEventListener('DOMContentLoaded', function() {
       minute: '2-digit',
       hour12: false
     },
-    eventClassNames: function(arg) {
-      return [ arg.event.extendedProps.country.toLowerCase() + "-flag" ]
+    eventDidMount: function(info) {
+      var elemTitle = info.el.getElementsByClassName('fc-list-event-title')[0];
+      if (elemTitle) {
+        if (info.event.url) {
+          elemTitle.innerHTML = '<a href="' + info.event.url + '">' + elemTitle.innerText + '&nbsp&nbsp<img src="https://demo.terminkalender.top/img/live.png" height="16px" style="vertical-align:middle"/></a>';
+        } else {
+          elemTitle.innerHTML = elemTitle.innerText;
+        }
+      }
+      var elemDot = info.el.getElementsByClassName('fc-list-event-dot')[0];
+      if (elemDot) {
+         elemDot.outerHTML = '<img src="https://demo.terminkalender.top/img/' + info.event.extendedProps.country.toUpperCase() + '.png" height="16px" width="16px" style="vertical-align: top;"/>'
+      }
     }
   });
+
   calendar.render();
+
 });
