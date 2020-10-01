@@ -40,8 +40,8 @@ $.get('/assets/data/demotermine.csv', function(csvString) {
 
     var coords = {};
     $.ajax({
-      url: 'http://api.geonames.org/postalCodeSearchJSON?formatted=true&postalcode=' + row.postleitzahl + '&countryCode=' + row.land + '&maxRows=1&placeName=' + row.stadt + '&username=leylines&style=full',
-      async: false,
+      url: 'https://nominatim.openstreetmap.org/search/?city=' + row.stadt + "&country=" + row.land + "&postalCode=" + row.postleitzahl + "&limit=1&format=json",
+      async: true,
       dataType: 'json',
       success: function (json) {   
         assignVariable(json);
@@ -49,20 +49,18 @@ $.get('/assets/data/demotermine.csv', function(csvString) {
     });
 
     function assignVariable(geodata) {
-      if (geodata['postalCodes'].length > 0) {
-        coords['lat'] = geodata['postalCodes'][0]['lat'];
-        coords['lng'] = geodata['postalCodes'][0]['lng'];
+      if (geodata.length > 0) {
+        coords['lat'] = geodata[0]['lat'];
+        coords['lon'] = geodata[0]['lon'];
+        var marker = L.marker([coords['lat'], coords['lon']], {
+          opacity: 1
+        }).bindPopup("Stadt: " + row.stadt + "<br/>Datum: " + row.datum + "<br/>Uhrzeit: " + row.uhrzeit + "<br/>Treffpunkt: " + row.treffpunkt + "<br/>Protestform: " + row.protestform)
+        marker.addTo(map)
+      } else {
+        console.log("Keine Koordinaten verfügbar");
+        console.log(row);
       }
     }
 
-    if (typeof coords['lat'] !== "undefined" ) {
-      var marker = L.marker([coords['lat'], coords['lng']], {
-        opacity: 1
-      }).bindPopup("Stadt: " + row.stadt + "<br/>Datum: " + row.datum + "<br/>Uhrzeit: " + row.uhrzeit + "<br/>Treffpunkt: " + row.treffpunkt + "<br/>Protestform: " + row.protestform)
-      marker.addTo(map)
-    } else {
-      console.log("No Koordinates available");
-      console.log(row);
-    }
   }
 })
