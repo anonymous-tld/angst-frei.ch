@@ -58,12 +58,6 @@
   background-image: url(https://demo.terminkalender.top/img/RU.png);
 }
 
-
-.fc .fc-list-event-title a {
-  text-decoration: underline;
-  color: initial;
-}
-
 .fc .fc-list-event-dot {
   background-repeat: no-repeat;
   background-origin: border-box;
