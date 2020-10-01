@@ -1,7 +1,7 @@
 var map = L.map('map', {
-  center: [41.57, -72.69], // EDIT latitude, longitude to re-center map
-  zoom: 9,  // EDIT from 1 to 18 -- decrease to zoom out, increase to zoom in
-  scrollWheelZoom: false
+  center: [48.2, 16.3], // EDIT latitude, longitude to re-center map
+  zoom: 4,  // EDIT from 1 to 18 -- decrease to zoom out, increase to zoom in
+  scrollWheelZoom: true
 });
 
 /* Control panel to display map layers */
@@ -28,20 +28,41 @@ controlLayers.addBaseLayer(terrain, 'Stamen Terrain basemap');
 geocoder = new L.Control.Geocoder.Nominatim();
 
 // Read markers data from data.csv
-$.get('./data.csv', function(csvString) {
+$.get('/assets/data/demotermine.csv', function(csvString) {
 
   // Use PapaParse to convert string to array of objects
-  var data = Papa.parse(csvString, {header: true, dynamicTyping: true}).data;
+  var data = Papa.parse(csvString, {header: true, dynamicTyping: true, skipEmptyLines: true}).data;
 
   // For each row in data, create a marker and add it to the map
   // For each row, columns `Latitude`, `Longitude`, and `Title` are required
   for (var i in data) {
     var row = data[i]
 
-    var marker = L.marker([row.Latitude, row.Longitude], {
-      opacity: 1
-    }).bindPopup(row.Title)
-    
-    marker.addTo(map)
+    var coords = {};
+    $.ajax({
+      url: 'http://api.geonames.org/postalCodeSearchJSON?formatted=true&postalcode=' + row.postleitzahl + '&countryCode=' + row.land + '&maxRows=1&placeName=' + row.stadt + '&username=leylines&style=full',
+      async: false,
+      dataType: 'json',
+      success: function (json) {   
+        assignVariable(json);
+      }
+    });
+
+    function assignVariable(geodata) {
+      if (geodata['postalCodes'].length > 0) {
+        coords['lat'] = geodata['postalCodes'][0]['lat'];
+        coords['lng'] = geodata['postalCodes'][0]['lng'];
+      }
+    }
+
+    if (typeof coords['lat'] !== "undefined" ) {
+      var marker = L.marker([coords['lat'], coords['lng']], {
+        opacity: 1
+      }).bindPopup("Stadt: " + row.stadt + "<br/>Datum: " + row.datum + "<br/>Uhrzeit: " + row.uhrzeit + "<br/>Treffpunkt: " + row.treffpunkt + "<br/>Protestform: " + row.protestform)
+      marker.addTo(map)
+    } else {
+      console.log("No Koordinates available");
+      console.log(row);
+    }
   }
 })
