@@ -10,6 +10,12 @@ Michael Ballweg
 
 | {{ site.icons.globe }}    | [michael-ballweg.de](https://michael-ballweg.de/) |
 
+## Stefan Bauer
+
+Straßenumfragen, Interviews mit Politikern, Demonstrationen, alles zum Thema ziviler Ungehorsam und Volkesstimme.
+
+| {{ site.icons.youtube }}   | [Stefan Bauer](https://www.youtube.com/channel/UCY0f3Up37e3kGRvXjNewpzA) |
+
 ## Andreas Beutel
 
 Andreas Beutel
