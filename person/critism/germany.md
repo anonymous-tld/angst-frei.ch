@@ -39,15 +39,6 @@ Blauman.TV
 
 | {{ site.icons.youtube }}  | [BLAUMANN.TV](https://www.youtube.com/channel/UCqXyHhSk2oo1QLJ5wCzbQBw) |
 
-## Samuel Eckert
-
-Samuel Eckert
-
-| {{ site.icons.globe }}    | [samueleckert.net](https://samueleckert.net/) |
-| {{ site.icons.youtube }}  | [Samuel Eckert](https://www.youtube.com/c/SamuelEckert) |
-| {{ site.icons.telegram }} | [Samuel Eckert](https://t.me/samueleckert) |
-| {{ site.icons.forward }}  | [Coronainfo-Tour]({{ site.baseurl }}/org/critism/germany.html#coronainfo-tour) |
-
 ## Miriam Hope
 
 Miriam Hope

@@ -10,6 +10,15 @@ Roger Bittel
 
 | {{ site.icons.forward }}  | [Roger Bittel]({{ site.baseurl }}/media/swiss.html#bittel-tv) |
 
+## Samuel Eckert
+
+Samuel Eckert
+
+| {{ site.icons.globe }}    | [samueleckert.net](https://samueleckert.net/) |
+| {{ site.icons.youtube }}  | [Samuel Eckert](https://www.youtube.com/c/SamuelEckert) |
+| {{ site.icons.telegram }} | [Samuel Eckert](https://t.me/samueleckert) |
+| {{ site.icons.forward }}  | [Coronainfo-Tour]({{ site.baseurl }}/org/critism/germany.html#coronainfo-tour) |
+
 ## Christoph Pfluger
 
 Christoph Pfluger
