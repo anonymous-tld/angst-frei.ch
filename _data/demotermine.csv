@@ -1,5 +1,6 @@
 land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream
 DE,2020-10-02,14:00:00,83278,Traunstein,Stadtpark,Kundgebung,
+DE,2020-10-02,15:00:00,10557,Berlin,Platz der Republik (Reichstags,Kundgebung,https://youtu.be/gERSJaCMmZo
 DE,2020-10-02,15:00:00,10557,Berlin,Platz der Republik,Kundgebung,
 DE,2020-10-02,17:00:00,95326,Kulmbach,Marktplatz,Kundgebung,
 DE,2020-10-02,17:30:00,35398,Gießen,Seltersweg/ Kugelbrunnen,Mahnwache,
@@ -59,6 +60,8 @@ DE,2020-10-05,18:00:00,18057,Rostock,Neuer Markt vorm Rathaus,Demonstration,
 DE,2020-10-05,18:30:00,02763,Zittau,Markt,Spaziergang,
 DE,2020-10-05,18:30:00,16321,Bernau,Marktplatz,Kundgebung,
 DE,2020-10-05,19:00:00,18539,Stralsund,Alter Markt,Mahnwache,
+DE,2020-10-05,19:00:00,07318,Saalfeld,Markt, Ecke Apotheke,Demonstration,
+DE,2020-10-05,19:00:00,07407,Rudolstadt,Markt, Ecke Apotheke,Spaziergang,
 DE,2020-10-05,19:00:00,21465,Reinbek/Wentorf,Schloß/Innenhof,Spaziergang,
 DE,2020-10-05,19:00:00,17033,Neubrandenburg,Marktplatz/Innenstadt,Spaziergang,
 DE,2020-10-05,19:00:00,99974,Mühlhausen/ Thüringen,Postplatz,Spaziergang,
