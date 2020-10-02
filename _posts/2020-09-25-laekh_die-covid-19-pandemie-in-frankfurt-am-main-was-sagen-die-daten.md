@@ -4,5 +4,5 @@ redirect:      https://www.laekh.de/heftarchiv/ausgabe/artikel/2020/oktober-2020
 title:         Hessisches Ärzteblatt
 subtitle:      "Die Covid-19-Pandemie in Frankfurt am Main: Was sagen die Daten?"
 categories:    Wissenschaft
-tags:          [hessisches ärzteblatt, angst]
+tags:          [hessisches ärzteblatt, gottschalk, angst]
 ---
