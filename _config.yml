@@ -147,4 +147,5 @@ exclude:
   - node_modules
   - _newposts
   - imagemosaic
+  - geocode
   - temp
