@@ -1,5 +1,6 @@
 land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream
 DE,2020-10-07,16:30:00,80000,München,Theresienwiese,Sonstiges,
+DE,2020-10-07,17:00:00,74172,Neckarsulm,Stadtpark,Kundgebung,
 DE,2020-10-07,18:00:00,10117,Berlin,Bundeskanzleramt,Kundgebung,https://demo.stream/mariagoetz
 DE,2020-10-07,19:00:00,01662,Meißen,Heinrichsplatz,Kundgebung,
 DE,2020-10-08,10:30:00,91054,Erlangen,Schlossplatz,Kundgebung,
@@ -17,6 +18,7 @@ DE,2020-10-10,13:00:00,50321,Brühl,Markt/Höhe Kreissparkasse,Kundgebung,
 DE,2020-10-10,13:15:00,31789,Hameln,Pferdemarkt,Kundgebung,
 DE,2020-10-10,13:15:00,31785,Hameln,Hochzeitshausterrasse,Kundgebung,
 DE,2020-10-10,13:15:00,31789,Hameln,Pferdemarkt,Kundgebung,
+DE,2020-10-10,13:45:00,30159,Hannover,Rudolf-Hillebrecht-Platz,Autokorso,
 IT,2020-10-10,14:00:00,00184,Roma,Piazza San Giovanni,Demonstration,https://cutt.ly/ifxC3Q7
 DE,2020-10-10,14:00:00,64385,Reichelsheim,B 38 Ortseingang Aldi,Kundgebung,
 DE,2020-10-10,14:00:00,14471,Potsdam,Luisenplatz,Kundgebung,
