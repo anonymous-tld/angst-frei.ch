@@ -68,6 +68,7 @@ for index, row in df.iterrows():
   df.loc[index,"latitude"] = location.latitude 
   df.loc[index,"longitude"] = location.longitude 
 
-df.to_csv('./demotermine_geo.csv-' + t, index=False)
+#df.to_csv('./demotermine_geo.csv-' + t, index=False)
+df.to_csv('../../demotermine_geo.csv', index=False)
 
 
