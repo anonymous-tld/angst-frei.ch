@@ -19,33 +19,50 @@ df.head()
 
 df["latitude"]   = ""
 df["longitude"]   = ""
-#geocode = RateLimiter(locator.geocode, error_wait_seconds=11, min_delay_seconds=10)
+
 geocode = RateLimiter(locator.geocode, error_wait_seconds=11, min_delay_seconds=10)
 
 for index, row in df.iterrows():
 
-  gc_col_full = row["treffpunkt"] + ',' + \
+  gc_full = row["treffpunkt"] + ',' + \
                 str(row["postleitzahl"]) + ',' + \
                 row["stadt"] + ',' + \
                 row["land"]   
-
-  location = locator.geocode(gc_col_full, timeout=10)
+  try:
+    location = geocode(gc_full, timeout=10)
+  except:
+    pass
   if location is None:
-    gc_col_tp = row["treffpunkt"] + ',' + \
+    print(gc_full)
+    print("Full did not work")
+    gc_tp = row["treffpunkt"] + ',' + \
                 str(row["postleitzahl"]) + ',' + \
                 row["land"]   
-    print(gc_col_full)
-    print("Full did not work")
-    location = locator.geocode(gc_col_tp, timeout=10)
+    try:
+      location = geocode(gc_tp, timeout=10)
+    except:
+      pass
   if location is None:
-    gc_col_plz = str(row["postleitzahl"]) + ',' + \
-                 row["land"]   
-
-    print(gc_col_tp)
+    print(gc_tp)
     print("TP did not work")
-    location = locator.geocode(gc_col_plz, timeout=10)
+    gc_city = str(row["postleitzahl"]) + ',' + \
+                 row["stadt"] + ',' + \
+                 row["land"]   
+    try:
+      location = geocode(gc_city, timeout=10)
+    except:
+      pass
   if location is None:
-    print(gc_col_plz)
+    print(gc_city)
+    print("City did not work")
+    gc_plz = str(row["postleitzahl"]) + ',' + \
+                 row["land"]   
+    try:
+      location = geocode(gc_plz, timeout=10)
+    except:
+      pass
+  if location is None:
+    print(gc_plz)
     print("PLZ did not work")
 
   df.loc[index,"latitude"] = location.latitude 
