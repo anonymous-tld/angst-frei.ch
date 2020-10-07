@@ -1,37 +1,56 @@
 from geopy.geocoders import Nominatim
+from geopy.geocoders import GeoNames
 from geopy.extra.rate_limiter import RateLimiter
 import pandas as pd 
 import geopandas as gpd 
 
+from datetime import datetime
+
+# current date and time
+now = datetime.now()
+t = now.strftime("%Y-%m-%d-%H-%M-%S")
+
 locator = Nominatim(user_agent="angst-frei")
+#locator = GeoNames(username="leylines", user_agent="angst-frei", scheme="http")
 
 df = pd.read_csv("../../_data/demotermine.csv")
+#df = pd.read_csv("./demotermine.csv")
 df.head()
 
-df["gc_col_full"] = df["treffpunkt"].astype(str) + ',' + \
-                    df["postleitzahl"].astype(str) + ',' + \
-                    df["stadt"] + ',' + \
-                    df["land"]   
+df["latitude"]   = ""
+df["longitude"]   = ""
+#geocode = RateLimiter(locator.geocode, error_wait_seconds=11, min_delay_seconds=10)
+geocode = RateLimiter(locator.geocode, error_wait_seconds=11, min_delay_seconds=10)
 
-df["gc_col_short"] = df["postleitzahl"].astype(str) + ',' + \
-                     df["stadt"] + ',' + \
-                     df["land"]   
+for index, row in df.iterrows():
 
-df["gc_col_plz"] = df["postleitzahl"].astype(str) + ',' + \
-                     df["land"]   
+  gc_col_full = row["treffpunkt"] + ',' + \
+                str(row["postleitzahl"]) + ',' + \
+                row["stadt"] + ',' + \
+                row["land"]   
 
-geocode = RateLimiter(locator.geocode, min_delay_seconds=1)
-df["location"] = df["gc_col_full"].apply(geocode)
-if df["location"] is None:
-  df["location"] = df["gc_col_short"].apply(geocode)
-if df["location"] is None:
-  df["location"] = df["gc_col_plz"].apply(geocode)
+  location = locator.geocode(gc_col_full, timeout=10)
+  if location is None:
+    gc_col_tp = row["treffpunkt"] + ',' + \
+                str(row["postleitzahl"]) + ',' + \
+                row["land"]   
+    print(gc_col_full)
+    print("Full did not work")
+    location = locator.geocode(gc_col_tp, timeout=10)
+  if location is None:
+    gc_col_plz = str(row["postleitzahl"]) + ',' + \
+                 row["land"]   
 
-print(df["location"])
+    print(gc_col_tp)
+    print("TP did not work")
+    location = locator.geocode(gc_col_plz, timeout=10)
+  if location is None:
+    print(gc_col_plz)
+    print("PLZ did not work")
 
-df["point"] = df["location"].apply(lambda loc: tuple(loc.point) if loc else None)
-df[["latitude", "longitude", "altitude"]] = pd.DataFrame(df["point"].tolist(), index=df.index)
+  df.loc[index,"latitude"] = location.latitude 
+  df.loc[index,"longitude"] = location.longitude 
 
-df.to_csv('../../demotermine_geo.csv', index=False)
+df.to_csv('./demotermine_geo.csv-' + t, index=False)
 
 

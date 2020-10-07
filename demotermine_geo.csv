@@ -1,122 +1,133 @@
-land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,gc_col_full,gc_col_short,gc_col_plz,location,point,latitude,longitude,altitude
-DE,2020-10-07,16:30:00,80000,München,Theresienwiese,Sonstiges,,"Theresienwiese,80000,München,DE","80000,München,DE","80000,DE","Theresienwiese, Sankt-Paul-Straße, Bezirksteil St. Paul, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80336, Deutschland","(48.1313385, 11.549418875169831, 0.0)",48.1313385,11.549418875169831,0.0
-DE,2020-10-07,18:00:00,10117,Berlin,Bundeskanzleramt,Kundgebung,https://demo.stream/mariagoetz,"Bundeskanzleramt,10117,Berlin,DE","10117,Berlin,DE","10117,DE","Bundeskanzleramt, 1, Willy-Brandt-Straße, Tiergarten, Mitte, Berlin, 10557, Deutschland","(52.520045350000004, 13.369133681226069, 0.0)",52.520045350000004,13.369133681226069,0.0
-DE,2020-10-07,19:00:00,1662,Meißen,Heinrichsplatz,Kundgebung,,"Heinrichsplatz,1662,Meißen,DE","1662,Meißen,DE","1662,DE","Heinrichsplatz, Triebischvorstadt, Meißen, Sachsen, 01662, Deutschland","(51.1629954, 13.4723184, 0.0)",51.1629954,13.4723184,0.0
-DE,2020-10-08,10:30:00,91054,Erlangen,Schlossplatz,Kundgebung,,"Schlossplatz,91054,Erlangen,DE","91054,Erlangen,DE","91054,DE","Schloßplatz, Burgberg, Erlangen, Bayern, 91054, Deutschland","(49.5982338, 11.0045282, 0.0)",49.5982338,11.0045282,0.0
-DE,2020-10-08,18:00:00,85586,Poing,S-Bahnhof / Neue Unterführung,Kundgebung,,"S-Bahnhof / Neue Unterführung,85586,Poing,DE","85586,Poing,DE","85586,DE",,,,,
-DE,2020-10-09,16:00:00,90429,Nürnberg,Jakobsplatz,Demonstration,,"Jakobsplatz,90429,Nürnberg,DE","90429,Nürnberg,DE","90429,DE","Jakobsplatz, Altstadt, St. Lorenz, Nürnberg, Bayern, 90402, Deutschland","(49.449493, 11.0686986, 0.0)",49.449493,11.0686986,0.0
-AT,2020-10-09,17:00:00,1010,Wien,Ballhausplatz,Menschenkette,,"Ballhausplatz,1010,Wien,AT","1010,Wien,AT","1010,AT","Ballhausplatz, Schottenviertel, KG Innere Stadt, Innere Stadt, Wien, 1010, Österreich","(48.2081743, 16.3636984, 0.0)",48.2081743,16.3636984,0.0
-DE,2020-10-09,17:00:00,74889,Sinsheim,Burgplatz,Vortrag,,"Burgplatz,74889,Sinsheim,DE","74889,Sinsheim,DE","74889,DE","Burgplatz, Gartenstadt, Krebsgrund, Sinsheim, Verwaltungsgemeinschaft Sinsheim, Rhein-Neckar-Kreis, Baden-Württemberg, 74889, Deutschland","(49.2528286, 8.87411502627451, 0.0)",49.2528286,8.87411502627451,0.0
-DE,2020-10-09,17:00:00,74889,Sinsheim,Burgplatz,Kundgebung,,"Burgplatz,74889,Sinsheim,DE","74889,Sinsheim,DE","74889,DE","Burgplatz, Gartenstadt, Krebsgrund, Sinsheim, Verwaltungsgemeinschaft Sinsheim, Rhein-Neckar-Kreis, Baden-Württemberg, 74889, Deutschland","(49.2528286, 8.87411502627451, 0.0)",49.2528286,8.87411502627451,0.0
-DE,2020-10-09,17:00:00,51515,Bergisch Gladbach,Trotzenburger Platz,Kundgebung,,"Trotzenburger Platz,51515,Bergisch Gladbach,DE","51515,Bergisch Gladbach,DE","51515,DE","Trotzenburger Weg, Asselborner Hof, Bergisch Gladbach, Rheinisch-Bergischer Kreis, Nordrhein-Westfalen, 51465, Deutschland","(51.0057188, 7.1806686, 0.0)",51.0057188,7.1806686,0.0
-DE,2020-10-09,17:30:00,73614,Schorndorf,Oberer Marktplatz,Kundgebung,,"Oberer Marktplatz,73614,Schorndorf,DE","73614,Schorndorf,DE","73614,DE","Oberer Marktplatz, Metzlinsweilerhof, Schorndorf, Vereinbarte Verwaltungsgemeinschaft der Stadt Schorndorf, Rems-Murr-Kreis, Baden-Württemberg, 73614, Deutschland","(48.804936850000004, 9.527458464798523, 0.0)",48.804936850000004,9.527458464798523,0.0
-DE,2020-10-10,10:00:00,10117,Berlin,US Botschaft am Brandenburger,Kundgebung,,"US Botschaft am Brandenburger,10117,Berlin,DE","10117,Berlin,DE","10117,DE",,,,,
-DE,2020-10-10,11:55:00,10707,Berlin,Adenauer Platz,Spaziergang,,"Adenauer Platz,10707,Berlin,DE","10707,Berlin,DE","10707,DE","Adenauerplatz, Wilmersdorfer Straße, Charlottenburg, Charlottenburg-Wilmersdorf, 10629, Deutschland","(52.50056725, 13.307020931213284, 0.0)",52.50056725,13.307020931213284,0.0
-DE,2020-10-10,11:59:00,10629,Berlin,Adenauerplatz Schweigemarsch,Sonstiges,,"Adenauerplatz Schweigemarsch,10629,Berlin,DE","10629,Berlin,DE","10629,DE",,,,,
-DE,2020-10-10,13:00:00,50321,Brühl,Markt/Höhe Kreissparkasse,Kundgebung,,"Markt/Höhe Kreissparkasse,50321,Brühl,DE","50321,Brühl,DE","50321,DE",,,,,
-DE,2020-10-10,13:15:00,31789,Hameln,Pferdemarkt,Kundgebung,,"Pferdemarkt,31789,Hameln,DE","31789,Hameln,DE","31789,DE","Pferdemarkt, Altstadt, Kernstadt, Hameln, Landkreis Hameln-Pyrmont, Niedersachsen, 31785, Deutschland","(52.1051313, 9.356639, 0.0)",52.1051313,9.356639,0.0
-DE,2020-10-10,13:15:00,31785,Hameln,Hochzeitshausterrasse,Kundgebung,,"Hochzeitshausterrasse,31785,Hameln,DE","31785,Hameln,DE","31785,DE","Hochzeitshausterrasse, Altstadt, Kernstadt, Hameln, Landkreis Hameln-Pyrmont, Niedersachsen, 31785, Deutschland","(52.104769649999994, 9.35666144712343, 0.0)",52.104769649999994,9.35666144712343,0.0
-DE,2020-10-10,13:15:00,31789,Hameln,Pferdemarkt,Kundgebung,,"Pferdemarkt,31789,Hameln,DE","31789,Hameln,DE","31789,DE","Pferdemarkt, Altstadt, Kernstadt, Hameln, Landkreis Hameln-Pyrmont, Niedersachsen, 31785, Deutschland","(52.1051313, 9.356639, 0.0)",52.1051313,9.356639,0.0
-IT,2020-10-10,14:00:00,184,Roma,Piazza San Giovanni,Demonstration,https://cutt.ly/ifxC3Q7,"Piazza San Giovanni,184,Roma,IT","184,Roma,IT","184,IT","Piazza San Giovanni, Guidonia Montecelio, Roma Capitale, 00010, Italia","(42.0209051, 12.7435566, 0.0)",42.0209051,12.7435566,0.0
-DE,2020-10-10,14:00:00,64385,Reichelsheim,B 38 Ortseingang Aldi,Kundgebung,,"B 38 Ortseingang Aldi,64385,Reichelsheim,DE","64385,Reichelsheim,DE","64385,DE",,,,,
-DE,2020-10-10,14:00:00,14471,Potsdam,Luisenplatz,Kundgebung,,"Luisenplatz,14471,Potsdam,DE","14471,Potsdam,DE","14471,DE","Luisenplatz, Brandenburger Vorstadt, Potsdam, Brandenburg, 14471, Deutschland","(52.3988316, 13.0467331, 0.0)",52.3988316,13.0467331,0.0
-DE,2020-10-10,14:00:00,99084,Erfurt,Wenigemarkt,Flashmob,,"Wenigemarkt,99084,Erfurt,DE","99084,Erfurt,DE","99084,DE","Wenigemarkt, Altstadt, Erfurt, Thüringen, 99084, Deutschland","(50.9784535, 11.0316365, 0.0)",50.9784535,11.0316365,0.0
-DE,2020-10-10,14:00:00,53111,Bonn,Hofgarten,Demonstration,,"Hofgarten,53111,Bonn,DE","53111,Bonn,DE","53111,DE","Hofgarten, Südstadt, Stadtbezirk Bonn, Bonn, Nordrhein-Westfalen, 53113, Deutschland","(50.732675650000004, 7.104331140587496, 0.0)",50.732675650000004,7.104331140587496,0.0
-DE,2020-10-10,14:30:00,26382,Wilhelmshaven,Pacific Cafe,Spaziergang,,"Pacific Cafe,26382,Wilhelmshaven,DE","26382,Wilhelmshaven,DE","26382,DE","China Restaurant Pacific, 11, Virchowstraße, City, Innenstadt, Wilhelmshaven, Niedersachsen, 26382, Deutschland","(53.5194381, 8.1190093, 0.0)",53.5194381,8.1190093,0.0
-DE,2020-10-10,14:30:00,25335,Elmshorn,Nikolai-Kirche,Spaziergang,,"Nikolai-Kirche,25335,Elmshorn,DE","25335,Elmshorn,DE","25335,DE",,,,,
-AT,2020-10-10,15:00:00,1010,Wien,Stephansplatz,Kundgebung,,"Stephansplatz,1010,Wien,AT","1010,Wien,AT","1010,AT","Stephansplatz, Stock-im-Eisen-Platz, Kärntner Viertel, KG Innere Stadt, Innere Stadt, Wien, 1010, Österreich","(48.2080838, 16.3715166, 0.0)",48.2080838,16.3715166,0.0
-DE,2020-10-10,15:00:00,91054,Erlangen,Schlossplatz,Kundgebung,,"Schlossplatz,91054,Erlangen,DE","91054,Erlangen,DE","91054,DE","Schloßplatz, Burgberg, Erlangen, Bayern, 91054, Deutschland","(49.5982338, 11.0045282, 0.0)",49.5982338,11.0045282,0.0
-DE,2020-10-10,15:00:00,44137,Dortmund,Friedensplatz,Kundgebung,,"Friedensplatz,44137,Dortmund,DE","44137,Dortmund,DE","44137,DE","Friedensplatz, Klinikviertel, Innenstadt West, Dortmund, Nordrhein-Westfalen, 44135, Deutschland","(51.511244899999994, 7.466280754553832, 0.0)",51.511244899999994,7.466280754553832,0.0
-DE,2020-10-10,15:00:00,40213,Düsseldorf,Grabbeplatz/Kunstmuseum,Spaziergang,,"Grabbeplatz/Kunstmuseum,40213,Düsseldorf,DE","40213,Düsseldorf,DE","40213,DE",,,,,
-DE,2020-10-10,15:00:00,55543,Bad Kreuznach,Kornmarkt,Kundgebung,,"Kornmarkt,55543,Bad Kreuznach,DE","55543,Bad Kreuznach,DE","55543,DE","Kornmarkt, Mannheimer Straße, Winzenheim, Bad Kreuznach, Landkreis Bad Kreuznach, Rheinland-Pfalz, 55543, Deutschland","(49.844042349999995, 7.858693611279245, 0.0)",49.844042349999995,7.858693611279245,0.0
-DE,2020-10-10,15:00:00,26603,Aurich,Marktplatz,Spaziergang,,"Marktplatz,26603,Aurich,DE","26603,Aurich,DE","26603,DE","Marktplatz, Kirchdorf, Kernstadt Aurich (ehemalige Stadt Aurich), Aurich, Landkreis Aurich, Niedersachsen, 26603, Deutschland","(53.470508, 7.4826295, 0.0)",53.470508,7.4826295,0.0
-DE,2020-10-10,15:00:00,22926,Ahrensburg,Parkplatz Schlossbrücke,Spaziergang,,"Parkplatz Schlossbrücke,22926,Ahrensburg,DE","22926,Ahrensburg,DE","22926,DE",,,,,
-DE,2020-10-10,15:00:00,52064,Aachen,Marktplatz,Kundgebung,,"Marktplatz,52064,Aachen,DE","52064,Aachen,DE","52064,DE","Marktplatz, Niederforstbach, Brand, Aachen, Städteregion Aachen, Nordrhein-Westfalen, 52078, Deutschland","(50.7486615, 6.162881, 0.0)",50.7486615,6.162881,0.0
-DE,2020-10-10,15:30:00,18057,Rostock,Universitätsplatz am Brunnen,Kundgebung,,"Universitätsplatz am Brunnen,18057,Rostock,DE","18057,Rostock,DE","18057,DE",,,,,
-DE,2020-10-10,15:30:00,35398,Gießen,Seltersweg/ Kugelbrunnen,Mahnwache,,"Seltersweg/ Kugelbrunnen,35398,Gießen,DE","35398,Gießen,DE","35398,DE",,,,,
-DE,2020-10-10,16:00:00,48143,Münster,Stubengasse,Kundgebung,,"Stubengasse,48143,Münster,DE","48143,Münster,DE","48143,DE","Stubengasse, Dom, Altstadt, Münster-Mitte, Münster, Nordrhein-Westfalen, 48143, Deutschland","(51.9607213, 7.6293851, 0.0)",51.9607213,7.6293851,0.0
-DE,2020-10-10,18:00:00,91301,Forchheim,Paradeplatz,Kundgebung,,"Paradeplatz,91301,Forchheim,DE","91301,Forchheim,DE","91301,DE","Paradeplatz, Sigritzau, Forchheim, Landkreis Forchheim, Bayern, 91301, Deutschland","(49.7178746, 11.0606281, 0.0)",49.7178746,11.0606281,0.0
-DE,2020-10-11,10:45:00,75015,Bretten,Marktplatz,Meditation,,"Marktplatz,75015,Bretten,DE","75015,Bretten,DE","75015,DE","Marktplatz, Bretten, Verwaltungsgemeinschaft Bretten, Landkreis Karlsruhe, Baden-Württemberg, 75015, Deutschland","(49.0372069, 8.7069939, 0.0)",49.0372069,8.7069939,0.0
-DE,2020-10-11,11:00:00,10117,Berlin,Brandenburger Tor,Kundgebung,,"Brandenburger Tor,10117,Berlin,DE","10117,Berlin,DE","10117,DE","Brandenburger Tor, 1, Pariser Platz, Mitte, Berlin, 10117, Deutschland","(52.51628045, 13.37770188288172, 0.0)",52.51628045,13.37770188288172,0.0
-DE,2020-10-11,15:30:00,82140,Olching (FFB),Nöscherplatz,Kundgebung,,"Nöscherplatz,82140,Olching (FFB),DE","82140,Olching (FFB),DE","82140,DE",,,,,
-DE,2020-10-11,15:30:00,90431,Nürnberg,Westpark,Kundgebung,,"Westpark,90431,Nürnberg,DE","90431,Nürnberg,DE","90431,DE","Westpark, Von-der-Tann-Straße, Sündersbühl, Nürnberg, Bayern, 90439, Deutschland","(49.4452159, 11.0355898, 0.0)",49.4452159,11.0355898,0.0
-DE,2020-10-11,18:00:00,91301,Forchheim,Paradeplatz,Kundgebung,,"Paradeplatz,91301,Forchheim,DE","91301,Forchheim,DE","91301,DE","Paradeplatz, Sigritzau, Forchheim, Landkreis Forchheim, Bayern, 91301, Deutschland","(49.7178746, 11.0606281, 0.0)",49.7178746,11.0606281,0.0
-DE,2020-10-12,14:00:00,10829,Greifswald,Dom / Merkel kommt,Gegenprotest,,"Dom / Merkel kommt,10829,Greifswald,DE","10829,Greifswald,DE","10829,DE",,,,,
-DE,2020-10-12,17:00:00,63825,Schöllkrippen,Marktplatz,Demonstration,,"Marktplatz,63825,Schöllkrippen,DE","63825,Schöllkrippen,DE","63825,DE","Marktplatz, Schöllkrippen, Landkreis Aschaffenburg, Bayern, 63825, Deutschland","(50.0850616, 9.2460507, 0.0)",50.0850616,9.2460507,0.0
-DE,2020-10-12,17:00:00,80331,München,Marienplatz,Meditation,http://www.mbsr-muenchen.net/openair,"Marienplatz,80331,München,DE","80331,München,DE","80331,DE","Marienplatz, Weinstraße, Altstadt-Lehel, München, Bayern, 80331, Deutschland","(48.13736145, 11.574172059316222, 0.0)",48.13736145,11.574172059316222,0.0
-DE,2020-10-12,17:45:00,50674,Köln,Aachener Weiher,Mahnwache,,"Aachener Weiher,50674,Köln,DE","50674,Köln,DE","50674,DE","Aachener Weiher, Frieda-Fischer-Weg, Neustadt/Süd, Innenstadt, Köln, Nordrhein-Westfalen, 50674, Deutschland","(50.93525555, 6.9276249955832565, 0.0)",50.93525555,6.9276249955832565,0.0
-DE,2020-10-12,18:00:00,69190,Walldorf,Drehscheibe,Kundgebung,,"Drehscheibe,69190,Walldorf,DE","69190,Walldorf,DE","69190,DE","Drehscheibe, Aussiedlerhöfe Leimengrube, Walldorf, Rhein-Neckar-Kreis, Baden-Württemberg, 69190, Deutschland","(49.3030003, 8.643124781042571, 0.0)",49.3030003,8.643124781042571,0.0
-DE,2020-10-12,19:00:00,17033,Neubrandenburg,Marktplatz / Innenstadt,Spaziergang,,"Marktplatz / Innenstadt,17033,Neubrandenburg,DE","17033,Neubrandenburg,DE","17033,DE","Marktplatz, Innenstadt, Neubrandenburg, Mecklenburgische Seenplatte, Mecklenburg-Vorpommern, 17033, Deutschland","(53.55740205, 13.260322640114307, 0.0)",53.55740205,13.260322640114307,0.0
-DE,2020-10-12,19:00:00,26441,Jever,Marktplatz,Spaziergang,,"Marktplatz,26441,Jever,DE","26441,Jever,DE","26441,DE","Jever, Landkreis Friesland, Niedersachsen, 26441, Deutschland","(53.5736426, 7.9020696, 0.0)",53.5736426,7.9020696,0.0
-DE,2020-10-12,19:00:00,99510,Apolda,Markt/ Rathaus,Spaziergang,,"Markt/ Rathaus,99510,Apolda,DE","99510,Apolda,DE","99510,DE","Rathaus, 1, Markt, Apolda, Landkreis Weimarer Land, Thüringen, 99510, Deutschland","(51.022758, 11.5134546, 0.0)",51.022758,11.5134546,0.0
-DE,2020-10-12,19:00:00,52064,Aachen,Katschhof an den Treppen,Musik,,"Katschhof an den Treppen,52064,Aachen,DE","52064,Aachen,DE","52064,DE",,,,,
-DE,2020-10-14,18:00:00,10117,Berlin,Bundeskanzleramt,Kundgebung,https://demo.stream/mariagoetz,"Bundeskanzleramt,10117,Berlin,DE","10117,Berlin,DE","10117,DE","Bundeskanzleramt, 1, Willy-Brandt-Straße, Tiergarten, Mitte, Berlin, 10557, Deutschland","(52.520045350000004, 13.369133681226069, 0.0)",52.520045350000004,13.369133681226069,0.0
-DE,2020-10-14,19:00:00,87776,Sontheim/Schwaben,Dampfsäg/Westerheimer Str. 10,Vortrag,,"Dampfsäg/Westerheimer Str. 10,87776,Sontheim/Schwaben,DE","87776,Sontheim/Schwaben,DE","87776,DE",,,,,
-DE,2020-10-15,18:00:00,85586,Poing,S-Bahnhof / Neue Unterführung,Kundgebung,,"S-Bahnhof / Neue Unterführung,85586,Poing,DE","85586,Poing,DE","85586,DE",,,,,
-DE,2020-10-16,17:00:00,74889,Sinsheim,Burgplatz,Kundgebung,,"Burgplatz,74889,Sinsheim,DE","74889,Sinsheim,DE","74889,DE","Burgplatz, Gartenstadt, Krebsgrund, Sinsheim, Verwaltungsgemeinschaft Sinsheim, Rhein-Neckar-Kreis, Baden-Württemberg, 74889, Deutschland","(49.2528286, 8.87411502627451, 0.0)",49.2528286,8.87411502627451,0.0
-DE,2020-10-17,11:45:00,52525,Heinsberg,Parkplatz Ostpromenade,Demonstration,,"Parkplatz Ostpromenade,52525,Heinsberg,DE","52525,Heinsberg,DE","52525,DE","Markt, Wittrock, Heinsberg, Kreis Heinsberg, Nordrhein-Westfalen, 52525, Deutschland","(51.0636532, 6.096959565457431, 0.0)",51.0636532,6.096959565457431,0.0
-DE,2020-10-17,13:00:00,63571,Gelnhausen,Parkplatz am Uferweg/ Bleiche,Kundgebung,,"Parkplatz am Uferweg/ Bleiche,63571,Gelnhausen,DE","63571,Gelnhausen,DE","63571,DE",,,,,
-DE,2020-10-17,14:30:00,26382,Wilhelmshaven,Pacific Cafe,Spaziergang,,"Pacific Cafe,26382,Wilhelmshaven,DE","26382,Wilhelmshaven,DE","26382,DE","China Restaurant Pacific, 11, Virchowstraße, City, Innenstadt, Wilhelmshaven, Niedersachsen, 26382, Deutschland","(53.5194381, 8.1190093, 0.0)",53.5194381,8.1190093,0.0
-DE,2020-10-17,15:00:00,56068,Koblenz,Münzplatz,Kundgebung,,"Münzplatz,56068,Koblenz,DE","56068,Koblenz,DE","56068,DE","Münzplatz, Gebrüder-Dommermuth-Weg, Altstadt, Koblenz, Rheinland-Pfalz, 56068, Deutschland","(50.3614711, 7.594252769490055, 0.0)",50.3614711,7.594252769490055,0.0
-DE,2020-10-17,15:00:00,22926,Ahrensburg,Parkplatz Schlossbrücke,Spaziergang,,"Parkplatz Schlossbrücke,22926,Ahrensburg,DE","22926,Ahrensburg,DE","22926,DE",,,,,
-DE,2020-10-17,15:30:00,14471,Potsdam,Brandenburger Tor,Kundgebung,,"Brandenburger Tor,14471,Potsdam,DE","14471,Potsdam,DE","14471,DE","Brandenburger Tor, Brandenburger Straße, Nördliche Innenstadt, Innenstadt, Potsdam, Brandenburg, 14467, Deutschland","(52.39955055, 13.048065746780047, 0.0)",52.39955055,13.048065746780047,0.0
-DE,2020-10-17,15:30:00,39104,Magdeburg,Domplatz,Kundgebung,,"Domplatz,39104,Magdeburg,DE","39104,Magdeburg,DE","39104,DE","Domplatz, Rathausviertel, Altstadt, Magdeburg, Sachsen-Anhalt, 39104, Deutschland","(52.1250109, 11.6353743, 0.0)",52.1250109,11.6353743,0.0
-DE,2020-10-17,16:45:00,28211,Bremen,Platz am Hauptbahnhof,Kundgebung,,"Platz am Hauptbahnhof,28211,Bremen,DE","28211,Bremen,DE","28211,DE",,,,,
-DE,2020-10-18,13:00:00,36433,Bad Salzungen,Puschkinpark,Event,,"Puschkinpark,36433,Bad Salzungen,DE","36433,Bad Salzungen,DE","36433,DE","Puschkinpark, Wildprechtroda, Bad Salzungen, Wartburgkreis, Thüringen, 36433, Deutschland","(50.8164699, 10.228611212461011, 0.0)",50.8164699,10.228611212461011,0.0
-DE,2020-10-19,17:00:00,63825,Schöllkrippen,Marktplatz,Demonstration,,"Marktplatz,63825,Schöllkrippen,DE","63825,Schöllkrippen,DE","63825,DE","Marktplatz, Schöllkrippen, Landkreis Aschaffenburg, Bayern, 63825, Deutschland","(50.0850616, 9.2460507, 0.0)",50.0850616,9.2460507,0.0
-DE,2020-10-19,17:00:00,80331,München,Marienplatz,Meditation,http://www.mbsr-muenchen.net/openair,"Marienplatz,80331,München,DE","80331,München,DE","80331,DE","Marienplatz, Weinstraße, Altstadt-Lehel, München, Bayern, 80331, Deutschland","(48.13736145, 11.574172059316222, 0.0)",48.13736145,11.574172059316222,0.0
-DE,2020-10-19,17:45:00,50674,Köln,Aachener Weiher,Mahnwache,,"Aachener Weiher,50674,Köln,DE","50674,Köln,DE","50674,DE","Aachener Weiher, Frieda-Fischer-Weg, Neustadt/Süd, Innenstadt, Köln, Nordrhein-Westfalen, 50674, Deutschland","(50.93525555, 6.9276249955832565, 0.0)",50.93525555,6.9276249955832565,0.0
-DE,2020-10-19,18:30:00,99510,Apolda,Markt/ Rathaus,Spaziergang,,"Markt/ Rathaus,99510,Apolda,DE","99510,Apolda,DE","99510,DE","Rathaus, 1, Markt, Apolda, Landkreis Weimarer Land, Thüringen, 99510, Deutschland","(51.022758, 11.5134546, 0.0)",51.022758,11.5134546,0.0
-DE,2020-10-19,19:00:00,26441,Jever,Marktplatz,Spaziergang,,"Marktplatz,26441,Jever,DE","26441,Jever,DE","26441,DE","Jever, Landkreis Friesland, Niedersachsen, 26441, Deutschland","(53.5736426, 7.9020696, 0.0)",53.5736426,7.9020696,0.0
-DE,2020-10-19,20:00:00,69190,Walldorf,Drehscheibe,Kundgebung,,"Drehscheibe,69190,Walldorf,DE","69190,Walldorf,DE","69190,DE","Drehscheibe, Aussiedlerhöfe Leimengrube, Walldorf, Rhein-Neckar-Kreis, Baden-Württemberg, 69190, Deutschland","(49.3030003, 8.643124781042571, 0.0)",49.3030003,8.643124781042571,0.0
-DE,2020-10-21,18:00:00,10117,Berlin,Bundeskanzleramt,Kundgebung,https://demo.stream/mariagoetz,"Bundeskanzleramt,10117,Berlin,DE","10117,Berlin,DE","10117,DE","Bundeskanzleramt, 1, Willy-Brandt-Straße, Tiergarten, Mitte, Berlin, 10557, Deutschland","(52.520045350000004, 13.369133681226069, 0.0)",52.520045350000004,13.369133681226069,0.0
-DE,2020-10-22,18:00:00,85586,Poing,S-Bahnhof / Neue Unterführung,Kundgebung,,"S-Bahnhof / Neue Unterführung,85586,Poing,DE","85586,Poing,DE","85586,DE",,,,,
-DE,2020-10-23,17:00:00,74889,Sinsheim,Burgplatz,Kundgebung,,"Burgplatz,74889,Sinsheim,DE","74889,Sinsheim,DE","74889,DE","Burgplatz, Gartenstadt, Krebsgrund, Sinsheim, Verwaltungsgemeinschaft Sinsheim, Rhein-Neckar-Kreis, Baden-Württemberg, 74889, Deutschland","(49.2528286, 8.87411502627451, 0.0)",49.2528286,8.87411502627451,0.0
-DE,2020-10-24,14:00:00,83026,Rosenheim,wird noch bekanntgegeben,Kundgebung,,"wird noch bekanntgegeben,83026,Rosenheim,DE","83026,Rosenheim,DE","83026,DE",,,,,
-DE,2020-10-24,14:30:00,26382,Wilhelmshaven,Pacific Cafe,Spaziergang,,"Pacific Cafe,26382,Wilhelmshaven,DE","26382,Wilhelmshaven,DE","26382,DE","China Restaurant Pacific, 11, Virchowstraße, City, Innenstadt, Wilhelmshaven, Niedersachsen, 26382, Deutschland","(53.5194381, 8.1190093, 0.0)",53.5194381,8.1190093,0.0
-DE,2020-10-24,15:00:00,84130,Dingolfing,Marienplatz,Kundgebung,,"Marienplatz,84130,Dingolfing,DE","84130,Dingolfing,DE","84130,DE","Marienplatz, Altstadt, Oberdingolfing, Dingolfing, Landkreis Dingolfing-Landau, Niederbayern, Bayern, 84130, Deutschland","(48.6294028, 12.4988493, 0.0)",48.6294028,12.4988493,0.0
-DE,2020-10-24,15:00:00,84130,Dingolfing,MARIENPLATZ,Kundgebung,,"MARIENPLATZ,84130,Dingolfing,DE","84130,Dingolfing,DE","84130,DE","Marienplatz, Altstadt, Oberdingolfing, Dingolfing, Landkreis Dingolfing-Landau, Niederbayern, Bayern, 84130, Deutschland","(48.6294028, 12.4988493, 0.0)",48.6294028,12.4988493,0.0
-DE,2020-10-24,15:00:00,22926,Ahrensburg,Parkplatz Schlossbrücke,Spaziergang,,"Parkplatz Schlossbrücke,22926,Ahrensburg,DE","22926,Ahrensburg,DE","22926,DE",,,,,
-DE,2020-10-24,15:30:00,14471,Potsdam,Brandenburger Tor,Kundgebung,,"Brandenburger Tor,14471,Potsdam,DE","14471,Potsdam,DE","14471,DE","Brandenburger Tor, Brandenburger Straße, Nördliche Innenstadt, Innenstadt, Potsdam, Brandenburg, 14467, Deutschland","(52.39955055, 13.048065746780047, 0.0)",52.39955055,13.048065746780047,0.0
-DE,2020-10-24,16:00:00,67657,Kaiserslautern,Stiftsplatz (Marktplatz),Kundgebung,,"Stiftsplatz (Marktplatz),67657,Kaiserslautern,DE","67657,Kaiserslautern,DE","67657,DE","Stiftsplatz, PRE Wohnpark, Betzenberg, Kaiserslautern, Rheinland-Pfalz, 67655, Deutschland","(49.4445761, 7.772191651358115, 0.0)",49.4445761,7.772191651358115,0.0
-BE,2020-10-25,12:00:00,1000,Brüssel,Hauptbahnhof,Kundgebung,,"Hauptbahnhof,1000,Brüssel,BE","1000,Brüssel,BE","1000,BE",,,,,
-BE,2020-10-25,13:00:00,1000,Brüssel,Bolivar/Station North,Spaziergang,,"Bolivar/Station North,1000,Brüssel,BE","1000,Brüssel,BE","1000,BE",,,,,
-DE,2020-10-26,17:00:00,63825,Schöllkrippen,Marktplatz,Demonstration,,"Marktplatz,63825,Schöllkrippen,DE","63825,Schöllkrippen,DE","63825,DE","Marktplatz, Schöllkrippen, Landkreis Aschaffenburg, Bayern, 63825, Deutschland","(50.0850616, 9.2460507, 0.0)",50.0850616,9.2460507,0.0
-DE,2020-10-26,17:00:00,80331,München,Max Joseph Platz/vor der Oper,Meditation,http://www.mbsr-muenchen.net/openair,"Max Joseph Platz/vor der Oper,80331,München,DE","80331,München,DE","80331,DE",,,,,
-DE,2020-10-26,17:00:00,80331,München,Marienplatz,Meditation,,"Marienplatz,80331,München,DE","80331,München,DE","80331,DE","Marienplatz, Weinstraße, Altstadt-Lehel, München, Bayern, 80331, Deutschland","(48.13736145, 11.574172059316222, 0.0)",48.13736145,11.574172059316222,0.0
-DE,2020-10-26,17:45:00,50674,Köln,Aachener Weiher,Mahnwache,,"Aachener Weiher,50674,Köln,DE","50674,Köln,DE","50674,DE","Aachener Weiher, Frieda-Fischer-Weg, Neustadt/Süd, Innenstadt, Köln, Nordrhein-Westfalen, 50674, Deutschland","(50.93525555, 6.9276249955832565, 0.0)",50.93525555,6.9276249955832565,0.0
-DE,2020-10-26,18:00:00,69190,Walldorf,Drehscheibe,Kundgebung,,"Drehscheibe,69190,Walldorf,DE","69190,Walldorf,DE","69190,DE","Drehscheibe, Aussiedlerhöfe Leimengrube, Walldorf, Rhein-Neckar-Kreis, Baden-Württemberg, 69190, Deutschland","(49.3030003, 8.643124781042571, 0.0)",49.3030003,8.643124781042571,0.0
-DE,2020-10-26,18:30:00,99510,Apolda,Markt/ Rathaus,Spaziergang,,"Markt/ Rathaus,99510,Apolda,DE","99510,Apolda,DE","99510,DE","Rathaus, 1, Markt, Apolda, Landkreis Weimarer Land, Thüringen, 99510, Deutschland","(51.022758, 11.5134546, 0.0)",51.022758,11.5134546,0.0
-DE,2020-10-26,19:00:00,26441,Jever,Marktplatz,Spaziergang,,"Marktplatz,26441,Jever,DE","26441,Jever,DE","26441,DE","Jever, Landkreis Friesland, Niedersachsen, 26441, Deutschland","(53.5736426, 7.9020696, 0.0)",53.5736426,7.9020696,0.0
-DE,2020-10-28,18:00:00,10117,Berlin,Bundeskanzleramt,Kundgebung,https://demo.stream/mariagoetz,"Bundeskanzleramt,10117,Berlin,DE","10117,Berlin,DE","10117,DE","Bundeskanzleramt, 1, Willy-Brandt-Straße, Tiergarten, Mitte, Berlin, 10557, Deutschland","(52.520045350000004, 13.369133681226069, 0.0)",52.520045350000004,13.369133681226069,0.0
-DE,2020-10-29,18:00:00,85586,Poing,S-Bahnhof / Neue Unterführung,Kundgebung,,"S-Bahnhof / Neue Unterführung,85586,Poing,DE","85586,Poing,DE","85586,DE",,,,,
-DE,2020-10-30,17:00:00,74889,Sinsheim,Burgplatz,Kundgebung,,"Burgplatz,74889,Sinsheim,DE","74889,Sinsheim,DE","74889,DE","Burgplatz, Gartenstadt, Krebsgrund, Sinsheim, Verwaltungsgemeinschaft Sinsheim, Rhein-Neckar-Kreis, Baden-Württemberg, 74889, Deutschland","(49.2528286, 8.87411502627451, 0.0)",49.2528286,8.87411502627451,0.0
-DE,2020-10-31,12:00:00,38100,Braunschweig,Schlossplatz Reiterdenkmal,Kundgebung,https://www.youtube.com/channel/UCA4_Yt4m1wzGlhUVS6vW5YA,"Schlossplatz Reiterdenkmal,38100,Braunschweig,DE","38100,Braunschweig,DE","38100,DE",,,,,
-DE,2020-10-31,13:00:00,38100,Braunschweig,Schlossplatz Reiterdenkmal,Demonstration,https://www.youtube.com/channel/UCA4_Yt4m1wzGlhUVS6vW5YA,"Schlossplatz Reiterdenkmal,38100,Braunschweig,DE","38100,Braunschweig,DE","38100,DE",,,,,
-DE,2020-10-31,14:30:00,26382,Wilhelmshaven,Pacific Cafe,Spaziergang,,"Pacific Cafe,26382,Wilhelmshaven,DE","26382,Wilhelmshaven,DE","26382,DE","China Restaurant Pacific, 11, Virchowstraße, City, Innenstadt, Wilhelmshaven, Niedersachsen, 26382, Deutschland","(53.5194381, 8.1190093, 0.0)",53.5194381,8.1190093,0.0
-DE,2020-10-31,15:00:00,1067,Dresden,Theaterplatz,Kundgebung,https://demo.stream/live,"Theaterplatz,1067,Dresden,DE","1067,Dresden,DE","1067,DE","Theaterplatz, Innere Altstadt, Altstadt, Dresden, Sachsen, 01067, Deutschland","(51.0539914, 13.735724647674175, 0.0)",51.0539914,13.735724647674175,0.0
-DE,2020-10-31,15:00:00,38100,Braunschweig,Bürgerpark Hinter der VW Halle,Kundgebung,https://www.youtube.com/channel/UCA4_Yt4m1wzGlhUVS6vW5YA,"Bürgerpark Hinter der VW Halle,38100,Braunschweig,DE","38100,Braunschweig,DE","38100,DE",,,,,
-DE,2020-11-02,17:00:00,80331,München,Max Joseph Platz/vor der Oper,Meditation,http://www.mbsr-muenchen.net/openair,"Max Joseph Platz/vor der Oper,80331,München,DE","80331,München,DE","80331,DE",,,,,
-DE,2020-11-02,17:45:00,50674,Köln,Aachener Weiher,Mahnwache,,"Aachener Weiher,50674,Köln,DE","50674,Köln,DE","50674,DE","Aachener Weiher, Frieda-Fischer-Weg, Neustadt/Süd, Innenstadt, Köln, Nordrhein-Westfalen, 50674, Deutschland","(50.93525555, 6.9276249955832565, 0.0)",50.93525555,6.9276249955832565,0.0
-DE,2020-11-05,18:00:00,10117,Berlin,Brandenburger Tor,Kundgebung,https://anonymous.support/tv,"Brandenburger Tor,10117,Berlin,DE","10117,Berlin,DE","10117,DE","Brandenburger Tor, 1, Pariser Platz, Mitte, Berlin, 10117, Deutschland","(52.51628045, 13.37770188288172, 0.0)",52.51628045,13.37770188288172,0.0
-DE,2020-11-07,14:00:00,4105,Leipzig,Rosental,Kundgebung,,"Rosental,4105,Leipzig,DE","4105,Leipzig,DE","4105,DE","Rosental, Waldstraßenviertel, Zentrum-Nordwest, Mitte, Leipzig, Sachsen, 04105, Deutschland","(51.34999295, 12.363226166008772, 0.0)",51.34999295,12.363226166008772,0.0
-DE,2020-11-07,14:00:00,4105,Leipzig,Rosental,Kundgebung,,"Rosental,4105,Leipzig,DE","4105,Leipzig,DE","4105,DE","Rosental, Waldstraßenviertel, Zentrum-Nordwest, Mitte, Leipzig, Sachsen, 04105, Deutschland","(51.34999295, 12.363226166008772, 0.0)",51.34999295,12.363226166008772,0.0
-DE,2020-11-07,14:30:00,26382,Wilhelmshaven,Pacific Cafe,Spaziergang,,"Pacific Cafe,26382,Wilhelmshaven,DE","26382,Wilhelmshaven,DE","26382,DE","China Restaurant Pacific, 11, Virchowstraße, City, Innenstadt, Wilhelmshaven, Niedersachsen, 26382, Deutschland","(53.5194381, 8.1190093, 0.0)",53.5194381,8.1190093,0.0
-DE,2020-11-07,15:30:00,24568,Kaltenkirchen,Park ggü. Rathaus,Sonstiges,,"Park ggü. Rathaus,24568,Kaltenkirchen,DE","24568,Kaltenkirchen,DE","24568,DE",,,,,
-DE,2020-11-09,17:00:00,80331,München,Marienplatz,Meditation,http://www.mbsr-muenchen.net/openair,"Marienplatz,80331,München,DE","80331,München,DE","80331,DE","Marienplatz, Weinstraße, Altstadt-Lehel, München, Bayern, 80331, Deutschland","(48.13736145, 11.574172059316222, 0.0)",48.13736145,11.574172059316222,0.0
-DE,2020-11-09,17:45:00,50674,Köln,Aachener Weiher,Mahnwache,,"Aachener Weiher,50674,Köln,DE","50674,Köln,DE","50674,DE","Aachener Weiher, Frieda-Fischer-Weg, Neustadt/Süd, Innenstadt, Köln, Nordrhein-Westfalen, 50674, Deutschland","(50.93525555, 6.9276249955832565, 0.0)",50.93525555,6.9276249955832565,0.0
-DE,2020-11-11,11:00:00,14195,Berlin,Finkenstraße 21,Flashmob,,"Finkenstraße 21,14195,Berlin,DE","14195,Berlin,DE","14195,DE","21, Finkenstraße, Dahlem, Steglitz-Zehlendorf, Berlin, 14195, Deutschland","(52.4653907, 13.2795815, 0.0)",52.4653907,13.2795815,0.0
-DE,2020-11-13,19:00:00,4668,Grimma,Marktplatz,Spaziergang,,"Marktplatz,4668,Grimma,DE","4668,Grimma,DE","4668,DE","Marktplatz, Mutzschen, Grimma, Landkreis Leipzig, Sachsen, 04668, Deutschland","(51.2607361, 12.8883784, 0.0)",51.2607361,12.8883784,0.0
-DE,2020-11-14,14:00:00,10117,Berlin,Am Kupfergraben 6,Flashmob,,"Am Kupfergraben 6,10117,Berlin,DE","10117,Berlin,DE","10117,DE","6, Am Kupfergraben, Spandauer Vorstadt, Mitte, Berlin, 10117, Deutschland","(52.5201855, 13.3952703, 0.0)",52.5201855,13.3952703,0.0
-DE,2020-11-16,17:00:00,80331,München,Marienplatz,Meditation,http://www.mbsr-muenchen.net/openair,"Marienplatz,80331,München,DE","80331,München,DE","80331,DE","Marienplatz, Weinstraße, Altstadt-Lehel, München, Bayern, 80331, Deutschland","(48.13736145, 11.574172059316222, 0.0)",48.13736145,11.574172059316222,0.0
-DE,2020-11-16,17:45:00,50674,Köln,Aachener Weiher,Mahnwache,,"Aachener Weiher,50674,Köln,DE","50674,Köln,DE","50674,DE","Aachener Weiher, Frieda-Fischer-Weg, Neustadt/Süd, Innenstadt, Köln, Nordrhein-Westfalen, 50674, Deutschland","(50.93525555, 6.9276249955832565, 0.0)",50.93525555,6.9276249955832565,0.0
-DE,2020-11-23,17:00:00,80331,München,Marienplatz,Meditation,http://www.mbsr-muenchen.net/openair,"Marienplatz,80331,München,DE","80331,München,DE","80331,DE","Marienplatz, Weinstraße, Altstadt-Lehel, München, Bayern, 80331, Deutschland","(48.13736145, 11.574172059316222, 0.0)",48.13736145,11.574172059316222,0.0
-DE,2020-11-23,17:45:00,50674,Köln,Aachener Weiher,Mahnwache,,"Aachener Weiher,50674,Köln,DE","50674,Köln,DE","50674,DE","Aachener Weiher, Frieda-Fischer-Weg, Neustadt/Süd, Innenstadt, Köln, Nordrhein-Westfalen, 50674, Deutschland","(50.93525555, 6.9276249955832565, 0.0)",50.93525555,6.9276249955832565,0.0
-DE,2020-11-30,17:00:00,80331,München,Marienplatz,Meditation,http://www.mbsr-muenchen.net/openair,"Marienplatz,80331,München,DE","80331,München,DE","80331,DE","Marienplatz, Weinstraße, Altstadt-Lehel, München, Bayern, 80331, Deutschland","(48.13736145, 11.574172059316222, 0.0)",48.13736145,11.574172059316222,0.0
-DE,2020-11-30,17:45:00,50674,Köln,Aachener Weiher,Mahnwache,,"Aachener Weiher,50674,Köln,DE","50674,Köln,DE","50674,DE","Aachener Weiher, Frieda-Fischer-Weg, Neustadt/Süd, Innenstadt, Köln, Nordrhein-Westfalen, 50674, Deutschland","(50.93525555, 6.9276249955832565, 0.0)",50.93525555,6.9276249955832565,0.0
-AT,2020-12-06,17:00:00,4020,Linz,Hauptplatz,Kundgebung,,"Hauptplatz,4020,Linz,AT","4020,Linz,AT","4020,AT","Hauptplatz, Altstadtviertel, Innere Stadt, Linz, Oberösterreich, 4020, Österreich","(48.3050286, 14.2871388, 0.0)",48.3050286,14.2871388,0.0
-DE,2020-12-07,17:00:00,80331,München,Max Joseph Platz/vor der Oper,Meditation,http://www.mbsr-muenchen.net/openair,"Max Joseph Platz/vor der Oper,80331,München,DE","80331,München,DE","80331,DE",,,,,
-DE,2020-12-14,17:00:00,80331,München,Marienplatz,Meditation,http://www.mbsr-muenchen.net/openair,"Marienplatz,80331,München,DE","80331,München,DE","80331,DE","Marienplatz, Weinstraße, Altstadt-Lehel, München, Bayern, 80331, Deutschland","(48.13736145, 11.574172059316222, 0.0)",48.13736145,11.574172059316222,0.0
-DE,2020-12-24,12:00:00,10178,Berlin,Weltzeituhr/Alexanderplatz,Charity,https://demo.stream/anonymous,"Weltzeituhr/Alexanderplatz,10178,Berlin,DE","10178,Berlin,DE","10178,DE",,,,,
-DE,2020-12-31,15:00:00,10117,Berlin,Straße des 17. Juni,Kundgebung,,"Straße des 17. Juni,10117,Berlin,DE","10117,Berlin,DE","10117,DE","Straße des 17. Juni, Mitte, Berlin, 10117, Deutschland","(52.5161603, 13.3767938, 0.0)",52.5161603,13.3767938,0.0
-DE,2021-06-20,16:30:00,94315,Straubing,Ludwigsplatz,Mahnwache,,"Ludwigsplatz,94315,Straubing,DE","94315,Straubing,DE","94315,DE","Ludwigsplatz, Straubing, Bayern, 94315, Deutschland","(48.8820981, 12.5738356, 0.0)",48.8820981,12.5738356,0.0
+land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,latitude,longitude
+DE,2020-10-07,16:30:00,80000,München,Theresienwiese,Sonstiges,,48.1313385,11.549418875169831
+DE,2020-10-07,17:00:00,74172,Neckarsulm,Stadtpark,Kundgebung,,49.19263255,9.229923522742915
+DE,2020-10-07,18:00:00,10117,Berlin,Bundeskanzleramt,Kundgebung,https://demo.stream/mariagoetz,52.520045350000004,13.369133681226069
+DE,2020-10-07,19:00:00,1662,Meißen,Heinrichsplatz,Kundgebung,,51.1629954,13.4723184
+DE,2020-10-08,10:30:00,91054,Erlangen,Schlossplatz,Kundgebung,,49.5982338,11.0045282
+DE,2020-10-08,18:00:00,85586,Poing,S-Bahnhof / Neue Unterführung,Kundgebung,,48.1730647,11.8107748
+DE,2020-10-09,16:00:00,90429,Nürnberg,Jakobsplatz,Demonstration,,49.449493,11.0686986
+AT,2020-10-09,17:00:00,1010,Wien,Ballhausplatz,Menschenkette,,48.2081743,16.3636984
+DE,2020-10-09,17:00:00,74889,Sinsheim,Burgplatz,Vortrag,,49.2528286,8.87411502627451
+DE,2020-10-09,17:00:00,74889,Sinsheim,Burgplatz,Kundgebung,,49.2528286,8.87411502627451
+DE,2020-10-09,17:00:00,51515,Bergisch Gladbach,Trotzenburger Platz,Kundgebung,,51.0057188,7.1806686
+DE,2020-10-09,17:30:00,73614,Schorndorf,Oberer Marktplatz,Kundgebung,,48.804936850000004,9.527458464798523
+DE,2020-10-10,10:00:00,10117,Berlin,US Botschaft am Brandenburger,Kundgebung,,52.5266899,13.3742174
+DE,2020-10-10,11:30:00,83435,Bad Reichenhall,Rathausplatz,Kundgebung,,47.722072,12.8764586
+DE,2020-10-10,11:55:00,10707,Berlin,Adenauer Platz,Spaziergang,,52.50056725,13.307020931213284
+DE,2020-10-10,11:59:00,10629,Berlin,Adenauerplatz Schweigemarsch,Sonstiges,,52.502541750000006,13.30732968170198
+DE,2020-10-10,13:00:00,50321,Brühl,Markt/Höhe Kreissparkasse,Kundgebung,,50.9332113,7.3235675
+DE,2020-10-10,13:15:00,31789,Hameln,Pferdemarkt,Kundgebung,,52.1051313,9.356639
+DE,2020-10-10,13:15:00,31785,Hameln,Hochzeitshausterrasse,Kundgebung,,52.104769649999994,9.35666144712343
+DE,2020-10-10,13:15:00,31789,Hameln,Pferdemarkt,Kundgebung,,52.1051313,9.356639
+DE,2020-10-10,13:45:00,30159,Hannover,Rudolf-Hillebrecht-Platz,Autokorso,,52.3684155,9.7361392
+IT,2020-10-10,14:00:00,184,Roma,Piazza San Giovanni,Demonstration,https://cutt.ly/ifxC3Q7,42.0209051,12.7435566
+DE,2020-10-10,14:00:00,64385,Reichelsheim,B 38 Ortseingang Aldi,Kundgebung,,49.708660249999994,8.84127655
+DE,2020-10-10,14:00:00,14471,Potsdam,Luisenplatz,Kundgebung,,52.3988316,13.0467331
+DE,2020-10-10,14:00:00,83395,Freilassing,Fußgängerzone,Kundgebung,,52.84593935,8.043328561024929
+DE,2020-10-10,14:00:00,99084,Erfurt,Wenigemarkt,Flashmob,,50.9784535,11.0316365
+DE,2020-10-10,14:00:00,53111,Bonn,Hofgarten,Demonstration,,50.732675650000004,7.104331140587496
+DE,2020-10-10,14:30:00,26382,Wilhelmshaven,Pacific Cafe,Spaziergang,,37.7798428,-122.4946117
+DE,2020-10-10,14:30:00,25335,Elmshorn,Nikolai-Kirche,Spaziergang,,54.783158900000004,9.435655555465177
+AT,2020-10-10,15:00:00,1010,Wien,Stephansplatz,Kundgebung,,48.2080838,16.3715166
+DE,2020-10-10,15:00:00,33098,Paderborn,Domplatz,Kundgebung,,51.7186801,8.7568245
+DE,2020-10-10,15:00:00,91054,Erlangen,Schlossplatz,Kundgebung,,49.5982338,11.0045282
+DE,2020-10-10,15:00:00,44137,Dortmund,Friedensplatz,Kundgebung,,51.511244899999994,7.466280754553832
+DE,2020-10-10,15:00:00,40213,Düsseldorf,Grabbeplatz/Kunstmuseum,Spaziergang,,51.2301695,6.775083742567567
+DE,2020-10-10,15:00:00,77815,Bühl,Europaplatz,Kundgebung,,48.69686125,8.133491432747753
+DE,2020-10-10,15:00:00,55543,Bad Kreuznach,Kornmarkt,Kundgebung,,49.844042349999995,7.858693611279245
+DE,2020-10-10,15:00:00,26603,Aurich,Marktplatz,Spaziergang,,53.470508,7.4826295
+DE,2020-10-10,15:00:00,22926,Ahrensburg,Parkplatz Schlossbrücke,Spaziergang,,53.657520149999996,10.23791324418292
+DE,2020-10-10,15:00:00,52064,Aachen,Marktplatz,Kundgebung,,50.7486615,6.162881
+DE,2020-10-10,15:30:00,18057,Rostock,Universitätsplatz am Brunnen,Kundgebung,,54.087873,12.11672771906468
+DE,2020-10-10,15:30:00,35398,Gießen,Seltersweg/ Kugelbrunnen,Mahnwache,,50.587612500000006,8.663904606232292
+DE,2020-10-10,15:30:00,99084,Erfurt,Anger 1,Kundgebung,,50.9776985,11.036467811188633
+DE,2020-10-10,16:00:00,48143,Münster,Stubengasse,Kundgebung,,51.9607213,7.6293851
+DE,2020-10-10,16:00:00,28199,Bremen,Bahnhofsvorplatz / Wiese,Kundgebung,,53.072299650000005,8.787363550000006
+DE,2020-10-10,18:00:00,91301,Forchheim,Paradeplatz,Kundgebung,,49.7178746,11.0606281
+DE,2020-10-11,10:45:00,75015,Bretten,Marktplatz,Meditation,,49.0372069,8.7069939
+DE,2020-10-11,11:00:00,10117,Berlin,Brandenburger Tor,Kundgebung,,52.51628045,13.37770188288172
+DE,2020-10-11,15:30:00,82140,Olching (FFB),Nöscherplatz,Kundgebung,,48.207883,11.3279282
+DE,2020-10-11,15:30:00,90431,Nürnberg,Westpark,Kundgebung,,49.4452159,11.0355898
+DE,2020-10-11,18:00:00,91301,Forchheim,Paradeplatz,Kundgebung,,49.7178746,11.0606281
+DE,2020-10-12,14:00:00,10829,Greifswald,Dom / Merkel kommt,Gegenprotest,,52.4937288,13.3716666
+DE,2020-10-12,17:00:00,63825,Schöllkrippen,Marktplatz,Demonstration,,50.0850616,9.2460507
+DE,2020-10-12,17:00:00,80331,München,Marienplatz,Meditation,http://www.mbsr-muenchen.net/openair,48.13736145,11.574172059316222
+DE,2020-10-12,17:45:00,50674,Köln,Aachener Weiher,Mahnwache,,50.93525555,6.9276249955832565
+DE,2020-10-12,18:00:00,69190,Walldorf,Drehscheibe,Kundgebung,,49.3030003,8.643124781042571
+DE,2020-10-12,19:00:00,7318,Saalfeld,Markt/Ecke Apotheke,Spaziergang,,51.5130677,7.4488942
+DE,2020-10-12,19:00:00,7407,Rudolstadt,Markt,Spaziergang,,50.7205069,11.3394869
+DE,2020-10-12,19:00:00,17033,Neubrandenburg,Marktplatz / Innenstadt,Spaziergang,,53.55740205,13.260322640114307
+DE,2020-10-12,19:00:00,99974,Mühlhausen/ Thüringen,Postplatz,Spaziergang,,51.2012547,10.465766557088608
+DE,2020-10-12,19:00:00,26441,Jever,Marktplatz,Spaziergang,,48.3965518,9.9939363
+DE,2020-10-12,19:00:00,99510,Apolda,Markt/ Rathaus,Spaziergang,,51.022758,11.5134546
+DE,2020-10-12,19:00:00,52064,Aachen,Katschhof an den Treppen,Musik,,50.767057199999996,6.081157775458715
+DE,2020-10-14,18:00:00,10117,Berlin,Bundeskanzleramt,Kundgebung,https://demo.stream/mariagoetz,52.520045350000004,13.369133681226069
+DE,2020-10-14,19:00:00,87776,Sontheim/Schwaben,Dampfsäg/Westerheimer Str. 10,Vortrag,,48.012285750000004,10.3415979775159
+DE,2020-10-15,18:00:00,85586,Poing,S-Bahnhof / Neue Unterführung,Kundgebung,,48.1730647,11.8107748
+DE,2020-10-16,17:00:00,74889,Sinsheim,Burgplatz,Kundgebung,,49.2528286,8.87411502627451
+DE,2020-10-17,11:45:00,52525,Heinsberg,Parkplatz Ostpromenade,Demonstration,,51.0636532,6.096959565457431
+DE,2020-10-17,13:00:00,63571,Gelnhausen,Parkplatz am Uferweg/ Bleiche,Kundgebung,,50.2116006,9.2239556
+DE,2020-10-17,14:30:00,26382,Wilhelmshaven,Pacific Cafe,Spaziergang,,37.7798428,-122.4946117
+DE,2020-10-17,15:00:00,56068,Koblenz,Münzplatz,Kundgebung,,50.3614711,7.594252769490055
+DE,2020-10-17,15:00:00,22926,Ahrensburg,Parkplatz Schlossbrücke,Spaziergang,,53.657520149999996,10.23791324418292
+DE,2020-10-17,15:30:00,14471,Potsdam,Brandenburger Tor,Kundgebung,,52.39955055,13.048065746780047
+DE,2020-10-17,15:30:00,39104,Magdeburg,Domplatz,Kundgebung,,52.1250109,11.6353743
+DE,2020-10-17,16:45:00,28211,Bremen,Platz am Hauptbahnhof,Kundgebung,,53.088077549999994,8.861432200000007
+DE,2020-10-18,13:00:00,36433,Bad Salzungen,Puschkinpark,Event,,50.8164699,10.228611212461011
+DE,2020-10-19,17:00:00,63825,Schöllkrippen,Marktplatz,Demonstration,,50.0850616,9.2460507
+DE,2020-10-19,17:00:00,80331,München,Marienplatz,Meditation,http://www.mbsr-muenchen.net/openair,48.13736145,11.574172059316222
+DE,2020-10-19,17:45:00,50674,Köln,Aachener Weiher,Mahnwache,,50.93525555,6.9276249955832565
+DE,2020-10-19,18:30:00,99510,Apolda,Markt/ Rathaus,Spaziergang,,51.022758,11.5134546
+DE,2020-10-19,19:00:00,26441,Jever,Marktplatz,Spaziergang,,48.3965518,9.9939363
+DE,2020-10-19,20:00:00,69190,Walldorf,Drehscheibe,Kundgebung,,49.3030003,8.643124781042571
+DE,2020-10-21,18:00:00,10117,Berlin,Bundeskanzleramt,Kundgebung,https://demo.stream/mariagoetz,52.520045350000004,13.369133681226069
+DE,2020-10-22,18:00:00,85586,Poing,S-Bahnhof / Neue Unterführung,Kundgebung,,48.1730647,11.8107748
+DE,2020-10-23,17:00:00,74889,Sinsheim,Burgplatz,Kundgebung,,49.2528286,8.87411502627451
+DE,2020-10-24,14:00:00,83026,Rosenheim,wird noch bekanntgegeben,Kundgebung,,47.83175855,12.109955485090833
+DE,2020-10-24,14:30:00,26382,Wilhelmshaven,Pacific Cafe,Spaziergang,,37.7798428,-122.4946117
+DE,2020-10-24,15:00:00,84130,Dingolfing,Marienplatz,Kundgebung,,48.6294028,12.4988493
+DE,2020-10-24,15:00:00,84130,Dingolfing,MARIENPLATZ,Kundgebung,,48.6294028,12.4988493
+DE,2020-10-24,15:00:00,22926,Ahrensburg,Parkplatz Schlossbrücke,Spaziergang,,53.657520149999996,10.23791324418292
+DE,2020-10-24,15:30:00,14471,Potsdam,Brandenburger Tor,Kundgebung,,52.39955055,13.048065746780047
+DE,2020-10-24,16:00:00,67657,Kaiserslautern,Stiftsplatz (Marktplatz),Kundgebung,,49.4445761,7.772191651358115
+BE,2020-10-25,12:00:00,1000,Brüssel,Hauptbahnhof,Kundgebung,,52.4580188,13.5431614
+BE,2020-10-25,13:00:00,1000,Brüssel,Bolivar/Station North,Spaziergang,,50.8467204,4.3588996
+DE,2020-10-26,17:00:00,63825,Schöllkrippen,Marktplatz,Demonstration,,50.0850616,9.2460507
+DE,2020-10-26,17:00:00,80331,München,Max Joseph Platz/vor der Oper,Meditation,http://www.mbsr-muenchen.net/openair,48.1353885,11.580827978671106
+DE,2020-10-26,17:00:00,80331,München,Marienplatz,Meditation,,48.13736145,11.574172059316222
+DE,2020-10-26,17:45:00,50674,Köln,Aachener Weiher,Mahnwache,,50.93525555,6.9276249955832565
+DE,2020-10-26,18:00:00,69190,Walldorf,Drehscheibe,Kundgebung,,49.3030003,8.643124781042571
+DE,2020-10-26,18:30:00,99510,Apolda,Markt/ Rathaus,Spaziergang,,51.022758,11.5134546
+DE,2020-10-26,19:00:00,26441,Jever,Marktplatz,Spaziergang,,48.3965518,9.9939363
+DE,2020-10-28,18:00:00,10117,Berlin,Bundeskanzleramt,Kundgebung,https://demo.stream/mariagoetz,52.520045350000004,13.369133681226069
+DE,2020-10-29,18:00:00,85586,Poing,S-Bahnhof / Neue Unterführung,Kundgebung,,48.1730647,11.8107748
+DE,2020-10-30,17:00:00,74889,Sinsheim,Burgplatz,Kundgebung,,49.2528286,8.87411502627451
+DE,2020-10-31,12:00:00,38100,Braunschweig,Schlossplatz Reiterdenkmal,Kundgebung,https://www.youtube.com/channel/UCA4_Yt4m1wzGlhUVS6vW5YA,52.2571281,10.5220154
+DE,2020-10-31,13:00:00,38100,Braunschweig,Schlossplatz Reiterdenkmal,Demonstration,https://www.youtube.com/channel/UCA4_Yt4m1wzGlhUVS6vW5YA,52.2571281,10.5220154
+DE,2020-10-31,14:30:00,26382,Wilhelmshaven,Pacific Cafe,Spaziergang,,37.7798428,-122.4946117
+DE,2020-10-31,15:00:00,1067,Dresden,Theaterplatz,Kundgebung,https://demo.stream/live,51.0539914,13.735724647674175
+DE,2020-10-31,15:00:00,38100,Braunschweig,Bürgerpark Hinter der VW Halle,Kundgebung,https://www.youtube.com/channel/UCA4_Yt4m1wzGlhUVS6vW5YA,52.2571281,10.5220154
+DE,2020-11-02,17:00:00,80331,München,Max Joseph Platz/vor der Oper,Meditation,http://www.mbsr-muenchen.net/openair,48.1353885,11.580827978671106
+DE,2020-11-02,17:45:00,50674,Köln,Aachener Weiher,Mahnwache,,50.93525555,6.9276249955832565
+DE,2020-11-05,18:00:00,10117,Berlin,Brandenburger Tor,Kundgebung,https://anonymous.support/tv,52.51628045,13.37770188288172
+DE,2020-11-07,14:00:00,4105,Leipzig,Rosental,Kundgebung,,51.34999295,12.363226166008772
+DE,2020-11-07,14:00:00,4105,Leipzig,Rosental,Kundgebung,,51.34999295,12.363226166008772
+DE,2020-11-07,14:30:00,26382,Wilhelmshaven,Pacific Cafe,Spaziergang,,37.7798428,-122.4946117
+DE,2020-11-07,15:30:00,24568,Kaltenkirchen,Park ggü. Rathaus,Sonstiges,,53.84131405,9.958796139197192
+DE,2020-11-09,17:00:00,80331,München,Marienplatz,Meditation,http://www.mbsr-muenchen.net/openair,48.13736145,11.574172059316222
+DE,2020-11-09,17:45:00,50674,Köln,Aachener Weiher,Mahnwache,,50.93525555,6.9276249955832565
+DE,2020-11-11,11:00:00,14195,Berlin,Finkenstraße 21,Flashmob,,52.4653907,13.2795815
+DE,2020-11-13,19:00:00,4668,Grimma,Marktplatz,Spaziergang,,51.2607361,12.8883784
+DE,2020-11-14,14:00:00,10117,Berlin,Am Kupfergraben 6,Flashmob,,52.5201855,13.3952703
+DE,2020-11-16,17:00:00,80331,München,Marienplatz,Meditation,http://www.mbsr-muenchen.net/openair,48.13736145,11.574172059316222
+DE,2020-11-16,17:45:00,50674,Köln,Aachener Weiher,Mahnwache,,50.93525555,6.9276249955832565
+DE,2020-11-23,17:00:00,80331,München,Marienplatz,Meditation,http://www.mbsr-muenchen.net/openair,48.13736145,11.574172059316222
+DE,2020-11-23,17:45:00,50674,Köln,Aachener Weiher,Mahnwache,,50.93525555,6.9276249955832565
+DE,2020-11-30,17:00:00,80331,München,Marienplatz,Meditation,http://www.mbsr-muenchen.net/openair,48.13736145,11.574172059316222
+DE,2020-11-30,17:45:00,50674,Köln,Aachener Weiher,Mahnwache,,50.93525555,6.9276249955832565
+AT,2020-12-06,17:00:00,4020,Linz,Hauptplatz,Kundgebung,,48.3050286,14.2871388
+DE,2020-12-07,17:00:00,80331,München,Max Joseph Platz/vor der Oper,Meditation,http://www.mbsr-muenchen.net/openair,48.1353885,11.580827978671106
+DE,2020-12-14,17:00:00,80331,München,Marienplatz,Meditation,http://www.mbsr-muenchen.net/openair,48.13736145,11.574172059316222
+DE,2020-12-24,12:00:00,10178,Berlin,Weltzeituhr/Alexanderplatz,Charity,https://demo.stream/anonymous,52.5205535,13.4225552
+DE,2020-12-31,15:00:00,10117,Berlin,Straße des 17. Juni,Kundgebung,,52.5161603,13.3767938
+DE,2021-06-20,16:30:00,94315,Straubing,Ludwigsplatz,Mahnwache,,48.8820981,12.5738356

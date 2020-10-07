@@ -38,7 +38,7 @@ $.get('/demotermine_geo.csv', function(csvString) {
   for (var i in data) {
     var row = data[i]
 
-    if (row['location'] != null) {
+    if (row['latitude'] != "") {
       var marker = L.marker([row['latitude'], row['longitude']], {
         opacity: 1
       }).bindPopup("Stadt: " + row.stadt + "<br/>Datum: " + row.datum + "<br/>Uhrzeit: " + row.uhrzeit + "<br/>Treffpunkt: " + row.treffpunkt + "<br/>Protestform: " + row.protestform)
