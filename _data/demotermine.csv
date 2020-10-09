@@ -1,4 +1,5 @@
 land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream
+PL,2020-10-10,10:00:00,00-039,Warszawa,Plac Powstancow Warszawy 7,Kundgebung,
 DE,2020-10-10,10:00:00,24340,Eckernförde,Hafenspitze,Kundgebung,
 DE,2020-10-10,10:00:00,24340,Eckernförde,Hafenspitze,Kundgebung,
 DE,2020-10-10,10:00:00,10117,Berlin,US Botschaft am Brandenburger,Kundgebung,
@@ -117,8 +118,7 @@ DE,2020-10-19,17:45:00,50674,Köln,Aachener Weiher,Mahnwache,
 DE,2020-10-19,18:00:00,16321,Bernau,Bahnhofsvorplatz/Marktplatz,Kundgebung,
 DE,2020-10-19,18:30:00,02763,Zittau,Markt,Spaziergang,
 DE,2020-10-19,18:30:00,99510,Apolda,Markt/ Rathaus,Spaziergang,
-DE,2020-10-19,19:00:00,21465,Reinbek / 
- Wentorf,Reinbeker Schloß / Innenhof,Spaziergang,
+DE,2020-10-19,19:00:00,21465,Reinbek-Wentorf,Schloß/Innenhof,Spaziergang,
 DE,2020-10-19,19:00:00,47906,Kempen,Buttermarkt,Spaziergang,
 DE,2020-10-19,19:00:00,26441,Jever,Marktplatz,Spaziergang,
 DE,2020-10-19,20:00:00,69190,Walldorf,Drehscheibe,Kundgebung,
