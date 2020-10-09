@@ -29,7 +29,7 @@ jobs:
           # The url of the file to download
           url: https://maps.leylines.net/geodata/anonymous/demotermine_geo.csv
           # The location of the file in the repository to update if changed
-          file_in_repo: demotermine_geo.csv
+          file_in_repo: /assets/data/demotermine_geo.csv
           # The name of the git user
           git_user: leylines
           # The email of the git user
