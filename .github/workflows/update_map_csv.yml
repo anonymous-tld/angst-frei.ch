@@ -27,7 +27,7 @@ jobs:
         uses: TheLastProject/keep-remote-file-locally-up-to-date-action@v1
         with: 
           # The url of the file to download
-          url: https://maps.leylines.net/geodata/anonymous/demotemine_geo.csv
+          url: https://maps.leylines.net/geodata/anonymous/demotermine_geo.csv
           # The location of the file in the repository to update if changed
           file_in_repo: demotermine_geo.csv
           # The name of the git user
