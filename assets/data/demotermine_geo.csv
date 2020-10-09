@@ -15,9 +15,9 @@ DE,2020-10-10,10:00:00,10117,Berlin,US Botschaft am Brandenburger,Kundgebung,,52
 DE,2020-10-10,11:00:00,02763,Zittau,Neustadt Herkukesbrunnen,Kundgebung,,50.8616772,14.819248240260684
 DE,2020-10-10,11:00:00,79312,Emmendingen,Kleiner Marktplatz,Kundgebung,,51.9461657,7.168322673540681
 DE,2020-10-10,11:30:00,83435,Bad Reichenhall,Rathausplatz,Kundgebung,,47.722072,12.8764586
-DE,2020-10-10,11:55:00,10707,Berlin,Adenauer Platz,Spaziergang,,52.50056725,13.307020931213284
-DE,2020-10-10,11:59:00,10629,Berlin,Adenauerplatz Schweigemarsch,Sonstiges,,52.5170365,13.3888599
-DE,2020-10-10,11:59:00,10629,Berlin,Adenauer Platz,Demonstration,,52.50056725,13.307020931213284
+DE,2020-10-10,11:55:00,10707,Berlin,Adenauer Platz,Spaziergang,https://demo.stream/berlinberlin,52.50056725,13.307020931213284
+DE,2020-10-10,11:59:00,10629,Berlin,Adenauerplatz Schweigemarsch,Sonstiges,https://demo.stream/berlinberlin,52.5170365,13.3888599
+DE,2020-10-10,11:59:00,10629,Berlin,Adenauer Platz,Demonstration,https://demo.stream/berlinberlin,52.50056725,13.307020931213284
 UK,2020-10-10,12:00:00,G1 5DB,Glasgow,Greendyke St / Obelisk,Demonstration,,55.853273976962626,-4.239484284389175
 DE,2020-10-10,13:00:00,50321,Brühl,Markt/Höhe Kreissparkasse,Kundgebung,,50.9332113,7.3235675
 DE,2020-10-10,13:00:00,83646,Bad Tölz,Marktstr. / beim Winzerer Denkmal,Kundgebung,,47.7610641,11.5582933
@@ -26,6 +26,7 @@ DE,2020-10-10,13:15:00,31785,Hameln,Hochzeitshausterrasse,Kundgebung,,52.1047696
 DE,2020-10-10,13:15:00,31789,Hameln,Pferdemarkt,Kundgebung,,52.1051313,9.356639
 DE,2020-10-10,13:30:00,60313,Frankfurt/Main,Opernplatz 1 / Alte Oper,Spaziergang,,50.0537637,8.6370858
 DE,2020-10-10,13:45:00,30159,Hannover,Rudolf-Hillebrecht-Platz,Autokorso,,52.3684155,9.7361392
+CH,2020-10-10,14:00:00,8000,Zürich,Innenstadt,Flashmob,,50.94238405,6.97493939485127
 IT,2020-10-10,14:00:00,00184,Roma,Piazza San Giovanni,Demonstration,https://cutt.ly/ifxC3Q7,42.0209051,12.7435566
 DE,2020-10-10,14:00:00,64385,Reichelsheim,B 38 Ortseingang Aldi,Kundgebung,,49.708660249999994,8.84127655
 DE,2020-10-10,14:00:00,14471,Potsdam,Luisenplatz,Kundgebung,,52.3988316,13.0467331
