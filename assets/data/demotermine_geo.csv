@@ -1,24 +1,15 @@
 land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,latitude,longitude
-DE,2020-10-09,12:00:00,10178,Berlin,Alexanderplatz,Kundgebung,https://demo.stream/mariagoetz,52.52197645,13.413637435864272
-DE,2020-10-09,16:00:00,90429,Nürnberg,Jakobsplatz,Demonstration,,49.449493,11.0686986
-DE,2020-10-09,16:30:00,10627,Berlin,Schillerstr. 71,Demonstration,https://youtu.be/_-1V6I2hprA,52.5097388,13.3034509
-AT,2020-10-09,17:00:00,1010,Wien,Ballhausplatz,Menschenkette,,48.2081743,16.3636984
-DE,2020-10-09,17:00:00,74889,Sinsheim,Burgplatz,Vortrag,,49.2528286,8.87411502627451
-DE,2020-10-09,17:00:00,74889,Sinsheim,Burgplatz,Kundgebung,,49.2528286,8.87411502627451
-DE,2020-10-09,17:00:00,91217,Hersbruck,Marktplatz,Kundgebung,,49.6134299,11.5107402
-DE,2020-10-09,17:00:00,51515,Bergisch Gladbach,Trotzenburger Platz,Kundgebung,,51.0057188,7.1806686
-DE,2020-10-09,17:00:00,51465,Bergisch Gladbach,Hauptstr. 164,Kundgebung,,50.9910625,7.1276563
-DE,2020-10-09,17:30:00,73614,Schorndorf,Oberer Marktplatz,Kundgebung,,48.804936850000004,9.527458464798523
+PL,2020-10-10,10:00:00,00-039,Warszawa,Plac Powstancow Warszawy 7,Kundgebung,,52.235395749999995,21.012724225377006
 DE,2020-10-10,10:00:00,24340,Eckernförde,Hafenspitze,Kundgebung,,54.473835550000004,9.840768880559047
 DE,2020-10-10,10:00:00,24340,Eckernförde,Hafenspitze,Kundgebung,,54.473835550000004,9.840768880559047
 DE,2020-10-10,10:00:00,10117,Berlin,US Botschaft am Brandenburger,Kundgebung,,52.5170365,13.3888599
 DE,2020-10-10,11:00:00,02763,Zittau,Neustadt Herkukesbrunnen,Kundgebung,,50.8616772,14.819248240260684
 DE,2020-10-10,11:00:00,79312,Emmendingen,Kleiner Marktplatz,Kundgebung,,51.9461657,7.168322673540681
 DE,2020-10-10,11:30:00,83435,Bad Reichenhall,Rathausplatz,Kundgebung,,47.722072,12.8764586
-DE,2020-10-10,11:55:00,10707,Berlin,Adenauer Platz,Spaziergang,https://demo.stream/berlinberlin,52.50056725,13.307020931213284
-DE,2020-10-10,11:59:00,10629,Berlin,Adenauerplatz Schweigemarsch,Sonstiges,https://demo.stream/berlinberlin,52.5170365,13.3888599
-DE,2020-10-10,11:59:00,10629,Berlin,Adenauer Platz,Demonstration,https://demo.stream/berlinberlin,52.50056725,13.307020931213284
 UK,2020-10-10,12:00:00,G1 5DB,Glasgow,Greendyke St / Obelisk,Demonstration,,55.853273976962626,-4.239484284389175
+DE,2020-10-10,12:00:00,10707,Berlin,Adenauer Platz,Livestream,https://demo.stream/berlinberlin,52.50056725,13.307020931213284
+DE,2020-10-10,12:00:00,10629,Berlin,Adenauer Platz,Demonstration,https://demo.stream/live,52.50056725,13.307020931213284
+DE,2020-10-10,12:00:00,10629,Berlin,Adenauer Platz,Livestream,https://youtu.be/8RYbZPGyY3A,52.50056725,13.307020931213284
 DE,2020-10-10,13:00:00,50321,Brühl,Markt/Höhe Kreissparkasse,Kundgebung,,50.9332113,7.3235675
 DE,2020-10-10,13:00:00,83646,Bad Tölz,Marktstr. / beim Winzerer Denkmal,Kundgebung,,47.7610641,11.5582933
 DE,2020-10-10,13:15:00,31789,Hameln,Pferdemarkt,Kundgebung,,52.1051313,9.356639
@@ -75,6 +66,7 @@ DE,2020-10-11,10:45:00,75015,Bretten,Marktplatz,Meditation,,49.0372069,8.7069939
 DE,2020-10-11,11:00:00,10117,Berlin,Brandenburger Tor,Kundgebung,,52.51628045,13.37770188288172
 DE,2020-10-11,14:00:00,90402,Nürnberg,Jakobsplatz,Kundgebung,,49.4495647,11.0704212
 DE,2020-10-11,14:00:00,25524,Itzehoe,Berliner Platz,Vortrag,,53.9223942,9.5193939
+DE,2020-10-11,14:30:00,50667,Köln,Heumarkt,Mahnwache,https://youtu.be/qGRHRvRWXRM,50.9352392,6.9576027
 DE,2020-10-11,15:00:00,54516,Wittlich,Platz an der Lieser,Versammlung,,49.985748799999996,6.886222090008787
 DE,2020-10-11,15:30:00,82140,Olching (FFB),Nöscherplatz,Kundgebung,,48.207883,11.3279282
 DE,2020-10-11,15:30:00,90431,Nürnberg,Westpark,Kundgebung,,49.4452159,11.0355898
@@ -126,6 +118,7 @@ DE,2020-10-19,17:45:00,50674,Köln,Aachener Weiher,Mahnwache,,50.93525555,6.9276
 DE,2020-10-19,18:00:00,16321,Bernau,Bahnhofsvorplatz/Marktplatz,Kundgebung,,47.81392785,12.375903475862899
 DE,2020-10-19,18:30:00,02763,Zittau,Markt,Spaziergang,,50.8967307,14.8058848
 DE,2020-10-19,18:30:00,99510,Apolda,Markt/ Rathaus,Spaziergang,,51.022758,11.5134546
+DE,2020-10-19,19:00:00,21465,Reinbek-Wentorf,Schloß/Innenhof,Spaziergang,,51.655736250000004,10.33055160692108
 DE,2020-10-19,19:00:00,47906,Kempen,Buttermarkt,Spaziergang,,51.364228,6.4185212
 DE,2020-10-19,19:00:00,26441,Jever,Marktplatz,Spaziergang,,48.3965518,9.9939363
 DE,2020-10-19,20:00:00,69190,Walldorf,Drehscheibe,Kundgebung,,49.3030003,8.643124781042571
