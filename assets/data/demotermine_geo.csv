@@ -1,7 +1,6 @@
 land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,latitude,longitude
 PL,2020-10-10,10:00:00,00-039,Warszawa,Plac Powstancow Warszawy 7,Kundgebung,,52.235395749999995,21.012724225377006
 DE,2020-10-10,10:00:00,24340,Eckernförde,Hafenspitze,Kundgebung,,54.473835550000004,9.840768880559047
-DE,2020-10-10,10:00:00,24340,Eckernförde,Hafenspitze,Kundgebung,,54.473835550000004,9.840768880559047
 DE,2020-10-10,10:00:00,10117,Berlin,US Botschaft am Brandenburger,Kundgebung,,52.5170365,13.3888599
 DE,2020-10-10,11:00:00,02763,Zittau,Neustadt Herkukesbrunnen,Kundgebung,,50.8616772,14.819248240260684
 DE,2020-10-10,11:00:00,79312,Emmendingen,Kleiner Marktplatz,Kundgebung,,51.9461657,7.168322673540681
@@ -13,7 +12,6 @@ DE,2020-10-10,12:00:00,10629,Berlin,Adenauer Platz,Livestream,https://youtu.be/8
 DE,2020-10-10,13:00:00,85435,Erding,Schrannenplatz,Kundgebung,,48.3064306,11.907679243515055
 DE,2020-10-10,13:00:00,50321,Brühl,Markt/Höhe Kreissparkasse,Kundgebung,,50.9332113,7.3235675
 DE,2020-10-10,13:00:00,83646,Bad Tölz,Marktstr. / beim Winzerer Denkmal,Kundgebung,,47.7610641,11.5582933
-DE,2020-10-10,13:15:00,31789,Hameln,Pferdemarkt,Kundgebung,,52.1051313,9.356639
 DE,2020-10-10,13:15:00,31785,Hameln,Hochzeitshausterrasse,Kundgebung,,52.104769649999994,9.35666144712343
 DE,2020-10-10,13:15:00,31789,Hameln,Pferdemarkt,Kundgebung,,52.1051313,9.356639
 DE,2020-10-10,13:30:00,60313,Frankfurt/Main,Opernplatz 1 / Alte Oper,Spaziergang,,50.0537637,8.6370858
@@ -21,7 +19,6 @@ DE,2020-10-10,13:45:00,30159,Hannover,Rudolf-Hillebrecht-Platz,Autokorso,,52.368
 CH,2020-10-10,14:00:00,8000,Zürich,Rosenplatz / Innenstadt,Flashmob,,52.2658794,8.0548309
 IT,2020-10-10,14:00:00,00184,Roma,Piazza San Giovanni,Demonstration,https://cutt.ly/ifxC3Q7,42.0209051,12.7435566
 DE,2020-10-10,14:00:00,64385,Reichelsheim,B 38 Ortseingang Aldi,Kundgebung,,49.708660249999994,8.84127655
-DE,2020-10-10,14:00:00,14471,Potsdam,Luisenplatz,Kundgebung,,52.3988316,13.0467331
 DE,2020-10-10,14:00:00,14471,Potsdam,Luisenplatz,Kundgebung,,52.3988316,13.0467331
 DE,2020-10-10,14:00:00,80239,München,Innenstadt,Flashmob,,48.3989708,11.7434041
 DE,2020-10-10,14:00:00,79539,Lörrach,Marktplatz,Mahnwache,,47.6117179,7.6608726
@@ -32,7 +29,6 @@ DE,2020-10-10,14:00:00,99084,Erfurt,Wenigemarkt,Flashmob,,50.9784535,11.0316365
 DE,2020-10-10,14:00:00,53111,Bonn,Hofgarten,Demonstration,,50.732675650000004,7.104331140587496
 DE,2020-10-10,14:30:00,26382,Wilhelmshaven,Pacific Cafe,Spaziergang,,37.7798428,-122.4946117
 DE,2020-10-10,14:30:00,24768,Rendsburg,Schiffbrückenplatz,Versammlung,,54.3048878,9.6613263
-DE,2020-10-10,14:30:00,79098,Freiburg,Platz der alten Synagoge,Demonstration,,47.995169,7.8466209
 DE,2020-10-10,14:30:00,79100,Freiburg,Platz der alten Synagoge,Kundgebung,,47.9944087,7.8464205
 DE,2020-10-10,14:30:00,25335,Elmshorn,Nikolai-Kirche,Spaziergang,,54.783158900000004,9.435655555465177
 CH,2020-10-10,14:30:00,4001,Basel,Rümelinsplatz,Vortrag,,47.5565965,7.5876664
@@ -81,6 +77,7 @@ DE,2020-10-12,17:45:00,50674,Köln,Aachener Weiher,Mahnwache,,50.93525555,6.9276
 DE,2020-10-12,18:00:00,69190,Walldorf,Drehscheibe,Kundgebung,,49.3030003,8.643124781042571
 DE,2020-10-12,18:00:00,98574,Schmalkalden,Altmarkt,Spaziergang,,50.7212987,10.4518065
 DE,2020-10-12,18:00:00,16225,Eberswalde,Marktplatz,Kundgebung,,48.3965518,9.9939363
+DE,2020-10-12,18:00:00,09111,Chemnitz,Rathaus,Spaziergang,,50.8330529,12.91975991863628
 DE,2020-10-12,18:30:00,71332,Waiblingen,Am Marktbrunnen,Spaziergang,,48.8324288,9.3166667
 DE,2020-10-12,18:45:00,01067,Dresden,Neumarkt,Spaziergang,,51.0517369,13.7401609
 DE,2020-10-12,19:00:00,18439,Stralsund,Alter Markt,Mahnwache,,54.3157546,13.0905458
