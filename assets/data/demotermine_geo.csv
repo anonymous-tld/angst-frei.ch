@@ -10,6 +10,7 @@ UK,2020-10-10,12:00:00,G1 5DB,Glasgow,Greendyke St / Obelisk,Demonstration,,55.8
 DE,2020-10-10,12:00:00,10707,Berlin,Adenauer Platz,Livestream,https://demo.stream/berlinberlin,52.50056725,13.307020931213284
 DE,2020-10-10,12:00:00,10629,Berlin,Adenauer Platz,Demonstration,https://demo.stream/live,52.50056725,13.307020931213284
 DE,2020-10-10,12:00:00,10629,Berlin,Adenauer Platz,Livestream,https://youtu.be/8RYbZPGyY3A,52.50056725,13.307020931213284
+DE,2020-10-10,13:00:00,85435,Erding,Schrannenplatz,Kundgebung,,48.3064306,11.907679243515055
 DE,2020-10-10,13:00:00,50321,Brühl,Markt/Höhe Kreissparkasse,Kundgebung,,50.9332113,7.3235675
 DE,2020-10-10,13:00:00,83646,Bad Tölz,Marktstr. / beim Winzerer Denkmal,Kundgebung,,47.7610641,11.5582933
 DE,2020-10-10,13:15:00,31789,Hameln,Pferdemarkt,Kundgebung,,52.1051313,9.356639
@@ -17,7 +18,7 @@ DE,2020-10-10,13:15:00,31785,Hameln,Hochzeitshausterrasse,Kundgebung,,52.1047696
 DE,2020-10-10,13:15:00,31789,Hameln,Pferdemarkt,Kundgebung,,52.1051313,9.356639
 DE,2020-10-10,13:30:00,60313,Frankfurt/Main,Opernplatz 1 / Alte Oper,Spaziergang,,50.0537637,8.6370858
 DE,2020-10-10,13:45:00,30159,Hannover,Rudolf-Hillebrecht-Platz,Autokorso,,52.3684155,9.7361392
-CH,2020-10-10,14:00:00,8000,Zürich,Innenstadt,Flashmob,,50.94238405,6.97493939485127
+CH,2020-10-10,14:00:00,8000,Zürich,Rosenplatz / Innenstadt,Flashmob,,52.2658794,8.0548309
 IT,2020-10-10,14:00:00,00184,Roma,Piazza San Giovanni,Demonstration,https://cutt.ly/ifxC3Q7,42.0209051,12.7435566
 DE,2020-10-10,14:00:00,64385,Reichelsheim,B 38 Ortseingang Aldi,Kundgebung,,49.708660249999994,8.84127655
 DE,2020-10-10,14:00:00,14471,Potsdam,Luisenplatz,Kundgebung,,52.3988316,13.0467331
@@ -82,6 +83,7 @@ DE,2020-10-12,18:00:00,98574,Schmalkalden,Altmarkt,Spaziergang,,50.7212987,10.45
 DE,2020-10-12,18:00:00,16225,Eberswalde,Marktplatz,Kundgebung,,48.3965518,9.9939363
 DE,2020-10-12,18:30:00,71332,Waiblingen,Am Marktbrunnen,Spaziergang,,48.8324288,9.3166667
 DE,2020-10-12,18:45:00,01067,Dresden,Neumarkt,Spaziergang,,51.0517369,13.7401609
+DE,2020-10-12,19:00:00,18439,Stralsund,Alter Markt,Mahnwache,,54.3157546,13.0905458
 DE,2020-10-12,19:00:00,07318,Saalfeld,Markt / Ecke Apotheke,Spaziergang,,50.6466654,11.3721416
 DE,2020-10-12,19:00:00,07407,Rudolstadt,Markt,Spaziergang,,50.7203574,11.3395425
 DE,2020-10-12,19:00:00,17033,Neubrandenburg,Marktplatz / Innenstadt,Spaziergang,,53.55740205,13.260322640114307
