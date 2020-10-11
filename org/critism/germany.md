@@ -96,6 +96,7 @@ Webseite der Initiative Querdenken 711 - Wir für die Grundrechte.
 | {{ site.icons.globe }}    | [querdenken-711.de](https://querdenken-711.de/) |
 | {{ site.icons.youtube }}  | [QUERDENKEN 711 - Wir für das Grundgesetz](https://www.youtube.com/channel/UCXv5ymMarHvOOQeMChYo42w) |
 | {{ site.icons.facebook }} | [querdenken711](https://www.facebook.com/querdenken711/) |
+| {{ site.icons.globe }}    | [Querdenken-711-RM](https://qdrm.querdenken-711.de/) |
 
 ## Unternehmer stehen auf
 

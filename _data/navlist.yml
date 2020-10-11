@@ -27,6 +27,8 @@ toc:
             url: org/health/germany.html
           - page: Schweiz
             url: org/health/swiss.html
+          - page: Welt
+            url: org/health/world.html
       - page: Kritik
         subsubfolderitems:
           - page: Deutschland
