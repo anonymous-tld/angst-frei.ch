@@ -77,12 +77,6 @@ Demokratiebewegung
 
 | {{ site.icons.globe }}    | [www.nichtohneuns.de](https://www.nichtohneuns.de/) |
 
-## Pädagogen für Aufklärung
-
-Weckruf an alle Menschen auf der ganzen Welt mit pädagogischer Verantwortung.
-
-| {{ site.icons.telegram }} | [PaedagogenFuerAufklaerung](https://t.me/PaedagogenFuerAufklaerung) |
-
 ## Schulen stehen auf
 
 Wir sind Eltern, die sich aufgrund der Corona-Maßnahmen Sorgen um die Gesundheit unserer Kinder machen. Anhand der Zahlen des RKI sehen wir keinen Grund, warum in unserem Land von einer Pandemie gesprochen wird.
