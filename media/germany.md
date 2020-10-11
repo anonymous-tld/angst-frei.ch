@@ -4,6 +4,12 @@ title:    Medien
 subtitle: Deutschland
 ---
 
+## Aachen Doku
+
+Freie und faire Berichterstattung aus dem Großraum Aachen, Deutschland und der Welt.
+
+| {{ site.icons.youtube }}  | [Aachen Doku](https://www.youtube.com/c/AachenDoku) |
+
 ## Die Achse des Guten
 
 "Der einflussreichste deutsche Autorenblog." (Berliner Zeitung)
@@ -132,3 +138,11 @@ Seit November 2005 ist "www.themen-der-zeit.de" ein Teil der "alternativen" Inte
 Das liberal-konservative Meinungsmagazin.
 
 | {{ site.icons.globe }}    | [www.tichyseinblick.de](https://www.tichyseinblick.de/) |
+
+## TV Deutschland
+
+Unabhängig. Überparteilich. Unvoreingenommen.
+
+| {{ site.icons.globe }}    | [www.tvdeutschland.net](https://www.tvdeutschland.net/) |
+| {{ site.icons.youtube }}  | [TV Deutschland](https://www.youtube.com/channel/UCWdqKzn_0Ohphs_8i-BYYqg) |
+
