@@ -102,3 +102,9 @@ Webseite der Initiative Querdenken 711 - Wir für die Grundrechte.
 Wir lassen uns von verantwortungslosen Politikern nicht unsere Unternehmen, unsere Zukunft und die Zukunft unserer Kinder kaputt machen!
 
 | {{ site.icons.globe }}    | [unternehmer-stehen-auf.de](https://unternehmer-stehen-auf.de) |
+
+## Zeig mir Dein Lächeln!
+
+Wir möchten wieder Menschlichkeit und das Lächeln unserer Mitbürger sehen.
+
+| {{ site.icons.globe }}    | [zeigmirdeinlaecheln.de](https://zeigmirdeinlaecheln.de/) |
