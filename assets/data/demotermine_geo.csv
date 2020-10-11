@@ -1,18 +1,4 @@
 land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,latitude,longitude
-DE,2020-10-11,10:00:00,2763,Zittau bis Sassnitz,B 96,Menschenkette,,52.175146299999994,13.468939859541443
-DE,2020-10-11,10:00:00,2730,Ebersbach-Neugersdorf,B 96 Zittau bis Sassnitz,Menschenkette,,51.0007273,14.5986609
-DE,2020-10-11,10:00:00,15831,Blankenfelde Mahlow,B96/Krügers Land,Menschenkette,,52.3593699,13.424087
-DE,2020-10-11,10:45:00,75015,Bretten,Marktplatz,Meditation,,49.0372069,8.7069939
-DE,2020-10-11,11:00:00,28199,Bremen,Überseemuseum Bodo u. S. Bus,Sonstiges,,53.0758196,8.8071646
-DE,2020-10-11,11:00:00,10117,Berlin,Brandenburger Tor,Kundgebung,,52.51628045,13.37770188288172
-DE,2020-10-11,14:00:00,90402,Nürnberg,Jakobsplatz,Kundgebung,,49.4495647,11.0704212
-DE,2020-10-11,14:00:00,25524,Itzehoe,Berliner Platz,Vortrag,,53.9223942,9.5193939
-DE,2020-10-11,14:30:00,50667,Köln,Heumarkt,Mahnwache,https://youtu.be/qGRHRvRWXRM,50.9352392,6.9576027
-DE,2020-10-11,15:00:00,54516,Wittlich,Platz an der Lieser,Versammlung,,49.985748799999996,6.886222090008787
-DE,2020-10-11,15:30:00,82140,Olching (FFB),Nöscherplatz,Kundgebung,,48.207883,11.3279282
-DE,2020-10-11,15:30:00,90431,Nürnberg,Westpark,Kundgebung,,49.4452159,11.0355898
-DE,2020-10-11,15:30:00,91301,Forchheim,Nürnberg Westp. 3.Schülerdemo,Kundgebung,,49.7231,11.0669
-DE,2020-10-11,17:00:00,23843,Bad Oldesloe,Markt,Kundgebung,,53.809675049999996,10.373360293538497
 DE,2020-10-12,14:00:00,17489,Greifswald,Domstr. 54 / Dom / A. Merkel,Gegenprotest,,54.095791,13.3815238
 DE,2020-10-12,17:00:00,63825,Schöllkrippen,Marktplatz,Demonstration,,50.0850616,9.2460507
 DE,2020-10-12,17:00:00,46045,Oberhausen,Marktstr./ Elsässer Str.,Demonstration,,51.4700186,6.8642998
@@ -32,6 +18,7 @@ DE,2020-10-12,19:00:00,18439,Stralsund,Alter Markt,Mahnwache,,54.3157546,13.0905
 DE,2020-10-12,19:00:00,7907,Schleiz,Neumarkt,Spaziergang,,50.577778,11.8087341
 DE,2020-10-12,19:00:00,7318,Saalfeld,Markt / Ecke Apotheke,Spaziergang,,50.6481277,11.3616652
 DE,2020-10-12,19:00:00,7407,Rudolstadt,Markt,Spaziergang,,50.7205069,11.3394869
+DE,2020-10-12,19:00:00,52159,Roetgen,Faulenbruchstr. 3 / Parkplatz,Spaziergang,,50.6471603,6.1967728
 DE,2020-10-12,19:00:00,33098,Paderborn,Rathausplatz,Spaziergang,,51.7168603,8.7538145
 DE,2020-10-12,19:00:00,17033,Neubrandenburg,Marktplatz / Innenstadt,Spaziergang,,53.55740205,13.260322640114307
 DE,2020-10-12,19:00:00,99974,Mühlhausen/ Thüringen,Postplatz,Spaziergang,,51.2012547,10.465766557088608
