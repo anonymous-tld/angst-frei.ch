@@ -34,6 +34,13 @@ Heiko Schöning, Arzt - Hamburg
 
 | {{ site.icons.forward }}  | [Ärzte für Aufklärung]({{ site.baseurl }}/org/health/germany.html#ärzte-für-aufklärung) |
 
+## Harald Walach
+
+Prof. Harald Walach
+
+| {{ site.icons.globe }}    | [harald-walach.de](https://harald-walach.de/) |
+| {{ site.icons.forward }}  | [Beiträge]({{ site.baseurl }}/Tags.html#walach) |
+
 ## Walter Weber
 
 Walter Weber, Arzt - Hamburg

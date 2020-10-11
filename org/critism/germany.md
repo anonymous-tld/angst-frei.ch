@@ -4,6 +4,15 @@ title:    Kritik
 subtitle: Deutschland
 ---
 
+## BewegungLeipzig
+
+Für die Wiederherstellung der Grundrechte und einen friedlichen, ethischen Wandel
+
+| {{ site.icons.globe }}       | [bewegungleipzig.de](https://bewegungleipzig.de/) |
+| {{ site.icons.telegram }}    | [BewegungLeipzig / Querdenken-341](https://t.me/bewegungLeipzig) |
+| {{ site.icons.youtube }}     | [BewegungLeipzig Querdenken-341](https://www.youtube.com/channel/UCaWsTB362ikTBD5cXyxA7Eg/) |
+| {{ site.icons.facebook }}    | [Bewegung Leipzig / Querdenken-341](https://www.facebook.com/BewegungLeipzig/) |
+
 ## Coronainfo-Tour
 
 Coronainfo-Tour mit Dr. Bodo Schiffmann und Samuel Eckert
