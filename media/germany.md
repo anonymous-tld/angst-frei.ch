@@ -23,6 +23,13 @@ unabhängig - überparteilich
 
 | {{ site.icons.globe }}    | [clubderklarenworte.de](https://clubderklarenworte.de/) |
 
+## The Deframing Channel
+
+Die BEWEGUNG ist der schnellste Weg etwas zu ändern. Es gibt nichts zu glauben, keine politische Richtung oder Ideologie. Dies alles interessiert die Bewegung nicht!
+
+| {{ site.icons.youtube }}  | [The Deframing Channel](https://www.youtube.com/c/TheDeframingChannel) |
+| {{ site.icons.facebook }} | [The Deframing Channel](https://www.facebook.com/thedeframingchannel/) |
+
 ## ET Video & Content
 
 ET Video & Content
