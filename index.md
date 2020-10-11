@@ -16,12 +16,6 @@ Es gibt sehr viele kritische Webseiten, Facebook-Seiten, Telegram-Gruppen etc. F
 
 Auch in den Mainstream-Medien erscheinen durchaus kritische Artikel zum Thema, die sich nicht gross von den Artikeln der alternativen Medien unterscheiden. Es sind nicht viele, aber es gibt sie. Ein [Newsarchiv](/news_archive.html) soll dabei helfen, Artikel der MSM mit denen der alternativen Medien zu vergleichen.
 
-## Great Barrington Declaration
-
-Bitte unterschreibe die Great Barrington Declaration:
-
-[![Great Barrington Declaration](/assets/img/great-barrington-declaration-logo.png)](https://gbdeclaration.org/)
-
 ## Hilfe willkommen
 
 Wenn Du uns helfen möchtest, findest Du weitere Informationen [hier](/help.html).
