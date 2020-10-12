@@ -60,9 +60,6 @@ share-links-active:
   linkedin: true
   vk: false
 
-# --- Favicons --- #
-head-extra: favicons.html
-
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
 

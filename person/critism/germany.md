@@ -54,11 +54,14 @@ Oliver Janich
 | {{ site.icons.youtube }}  | [OliverJanich](https://www.youtube.com/user/OliverJanich) |
 | {{ site.icons.telegram }} | [oliverjanich](https://t.me/oliverjanich) |
 
-## Aktivist Mann
+## Gunnar Kaiser
 
-Aktivist Mann
+Gunnar Kaiser ist Schriftsteller und Philosoph. 
 
-| {{ site.icons.youtube }}  | [AktivistMann](https://www.youtube.com/c/AktivistMann) |
+| {{ site.icons.globe }}    | [www.gunnarkaiser.de](https://www.gunnarkaiser.de/) |
+| {{ site.icons.youtube }}  | [Kaiser TV](https://www.youtube.com/user/KaiserFEGBonn) |
+| {{ site.icons.telegram }} | [KaiserTV](https://t.me/gunnarkaisertv) |
+| {{ site.icons.facebook }} | [Gunnar Kaiser](https://www.facebook.com/gunnarkaiserliteratur) |
 
 ## Kilez More
 
@@ -68,6 +71,12 @@ Kilez More
 | {{ site.icons.youtube }}  | [Kilez More](https://www.youtube.com/c/KilezMoreTV) |
 | {{ site.icons.telegram }} | [KilezMore](https://t.me/KilezMore) |
 | {{ site.icons.facebook }} | [KilezMore](https://www.facebook.com/KilezMore) |
+
+## Aktivist Mann
+
+Aktivist Mann
+
+| {{ site.icons.youtube }}  | [AktivistMann](https://www.youtube.com/c/AktivistMann) |
 
 ## Boris Reitschuster
 

@@ -1,8 +1,14 @@
 ---
-layout:   page
-title:    Kritik
-subtitle: Deutschland
+layout:         page
+title:          Kritik
+subtitle:       Deutschland
 ---
+
+### Inhalt
+{: .no_toc}
+
+* TOC
+{:toc}
 
 ## BewegungLeipzig
 
