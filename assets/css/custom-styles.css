@@ -11,6 +11,16 @@ h1, h2, h3, h4 {
   margin-top: 2.5rem;
 }
 
+#markdown-toc {  
+  margin-top: 0.75rem;
+  padding-left: 0;
+}
+
+#markdown-toc li {  
+  list-style-type: none;
+  font-size: small;
+}
+
 @media (min-width: 768px) {
   .post-preview {
     padding: 1.0rem 0;

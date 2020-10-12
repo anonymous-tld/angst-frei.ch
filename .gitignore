@@ -3,6 +3,7 @@ _site
 .jekyll-metadata
 /node_modules
 /imagemosaic/env
+/geocode/env
 /temp
 /assets/img/faces_out
 package-lock.json

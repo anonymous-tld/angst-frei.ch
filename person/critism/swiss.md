@@ -33,6 +33,12 @@ Milosz Matuschek
 
 | {{ site.icons.forward }}  | [Milosz Matuschek]({{ site.baseurl }}/media/swiss.html#schweizer-monat) |
 
+## Lena Spielmann
+
+Verifizierung des lebenden Menschen
+
+| {{ site.icons.globe }}    | [www.saferaum.ch](https://www.saferaum.ch) |
+
 ## Daniel Stricker
 
 Daniel Stricker

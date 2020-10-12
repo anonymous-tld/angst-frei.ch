@@ -1,8 +1,23 @@
 ---
-layout:   page
-title:    Kritik
-subtitle: Deutschland
+layout:         page
+title:          Kritik
+subtitle:       Deutschland
 ---
+
+### Inhalt
+{: .no_toc}
+
+* TOC
+{:toc}
+
+## BewegungLeipzig
+
+Für die Wiederherstellung der Grundrechte und einen friedlichen, ethischen Wandel
+
+| {{ site.icons.globe }}       | [bewegungleipzig.de](https://bewegungleipzig.de/) |
+| {{ site.icons.telegram }}    | [BewegungLeipzig / Querdenken-341](https://t.me/bewegungLeipzig) |
+| {{ site.icons.youtube }}     | [BewegungLeipzig Querdenken-341](https://www.youtube.com/channel/UCaWsTB362ikTBD5cXyxA7Eg/) |
+| {{ site.icons.facebook }}    | [Bewegung Leipzig / Querdenken-341](https://www.facebook.com/BewegungLeipzig/) |
 
 ## Coronainfo-Tour
 
@@ -68,12 +83,6 @@ Demokratiebewegung
 
 | {{ site.icons.globe }}    | [www.nichtohneuns.de](https://www.nichtohneuns.de/) |
 
-## Pädagogen für Aufklärung
-
-Weckruf an alle Menschen auf der ganzen Welt mit pädagogischer Verantwortung.
-
-| {{ site.icons.telegram }} | [PaedagogenFuerAufklaerung](https://t.me/PaedagogenFuerAufklaerung) |
-
 ## Schulen stehen auf
 
 Wir sind Eltern, die sich aufgrund der Corona-Maßnahmen Sorgen um die Gesundheit unserer Kinder machen. Anhand der Zahlen des RKI sehen wir keinen Grund, warum in unserem Land von einer Pandemie gesprochen wird.
@@ -87,9 +96,16 @@ Webseite der Initiative Querdenken 711 - Wir für die Grundrechte.
 | {{ site.icons.globe }}    | [querdenken-711.de](https://querdenken-711.de/) |
 | {{ site.icons.youtube }}  | [QUERDENKEN 711 - Wir für das Grundgesetz](https://www.youtube.com/channel/UCXv5ymMarHvOOQeMChYo42w) |
 | {{ site.icons.facebook }} | [querdenken711](https://www.facebook.com/querdenken711/) |
+| {{ site.icons.globe }}    | [Querdenken-711-RM](https://qdrm.querdenken-711.de/) |
 
 ## Unternehmer stehen auf
 
 Wir lassen uns von verantwortungslosen Politikern nicht unsere Unternehmen, unsere Zukunft und die Zukunft unserer Kinder kaputt machen!
 
 | {{ site.icons.globe }}    | [unternehmer-stehen-auf.de](https://unternehmer-stehen-auf.de) |
+
+## Zeig mir Dein Lächeln!
+
+Wir möchten wieder Menschlichkeit und das Lächeln unserer Mitbürger sehen.
+
+| {{ site.icons.globe }}    | [zeigmirdeinlaecheln.de](https://zeigmirdeinlaecheln.de/) |

@@ -5,6 +5,8 @@ toc:
         url: media/movie.html
       - page: Deutschland
         url: media/germany.html
+      - page: Österreich
+        url: media/autria.html
       - page: Schweiz
         url: media/swiss.html
   - title: Organisationen
@@ -23,12 +25,18 @@ toc:
         subsubfolderitems:
           - page: Deutschland
             url: org/health/germany.html
+          - page: Schweiz
+            url: org/health/swiss.html
+          - page: Welt
+            url: org/health/world.html
       - page: Kritik
         subsubfolderitems:
           - page: Deutschland
             url: org/critism/germany.html
           - page: Europa
             url: org/critism/europe.html
+          - page: Österreich
+            url: org/critism/austria.html
           - page: Schweiz
             url: org/critism/swiss.html
       - page: Recht

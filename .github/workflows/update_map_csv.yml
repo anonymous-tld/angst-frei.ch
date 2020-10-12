@@ -1,13 +1,13 @@
-# This is a workflow to keep demotermine.csv uptodate
+# This is a workflow to keep demotermine_geo.csv uptodate
 
-name: Keep demotermine.csv uptodate
+name: Keep demotermine_geo.csv uptodate
 
 # Controls when the action will run. Triggers the workflow on push or pull request
 # events but only for the master branch
 on:      
   schedule:
     # * is a special character in YAML so you have to quote this string
-    - cron:  '*/15 * * * *'
+    - cron:  '0 * * * *'
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -27,9 +27,9 @@ jobs:
         uses: TheLastProject/keep-remote-file-locally-up-to-date-action@v1
         with: 
           # The url of the file to download
-          url: https://demo.terminkalender.top/demotermine.csv
+          url: https://maps.leylines.net/geodata/anonymous/demotermine_geo.csv
           # The location of the file in the repository to update if changed
-          file_in_repo: _data/demotermine.csv
+          file_in_repo: assets/data/demotermine_geo.csv
           # The name of the git user
           git_user: leylines
           # The email of the git user
