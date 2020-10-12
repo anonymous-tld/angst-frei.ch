@@ -70,13 +70,13 @@ Multipolar - das Magazin für eine friedliche, freie und plurale Welt, herausgeg
 | {{ site.icons.globe }}    | [multipolar-magazin.de](https://multipolar-magazin.de/) |
 | {{ site.icons.forward }}  | [Beiträge]({{ site.baseurl }}/Tags.html#multipolar) |
 
-## Münchner Demokratie TV
+## Münchner Demokratie TV ![MDTV-Logo](/assets/img/logos/mdtv.jpg){:style="float: right; display: inline-block; top: 0; height: 50px; width: auto"}
 
 Münchner Demokratie TV
 
 | {{ site.icons.youtube }}  | [Münchner Demokratie TV](https://www.youtube.com/channel/UCcz6KU4ZA0kPMcxz5XEce1A) |
 
-## Nachdenkseiten
+## Nachdenkseiten ![Nachdenkseiten-Logo](/assets/img/logos/nachdenkseiten.jpg){:style="float: right; height: 50px; width: auto"}
 
 Analysen zum Zeitgeschehen, Blick hinter die Kulissen, Ideen für eine bessere und gerechtere Welt.
 
@@ -84,7 +84,7 @@ Analysen zum Zeitgeschehen, Blick hinter die Kulissen, Ideen für eine bessere u
 | {{ site.icons.youtube }}  | [wwwNACHDENKSEITENde](https://www.youtube.com/user/wwwNACHDENKSEITENde) |
 | {{ site.icons.facebook }} | [NachDenkSeiten](https://www.facebook.com/NachDenkSeiten) |
 
-## NuoViso
+## NuoViso ![Nuoviso-Logo](/assets/img/logos/nuoviso.png){:style="float: right; height: 50px; width: auto"}
 
 NuoViso wurde bereits 2005 gegründet und zählt zu den Pionieren in der der alternativen Medienszene, welche ein ganzes Jahrzehnt von Aufklärung geprägt war.
 
@@ -93,14 +93,14 @@ NuoViso wurde bereits 2005 gegründet und zählt zu den Pionieren in der der alt
 | {{ site.icons.telegram }} | [nuoviso](https://t.me/nuoviso) |
 | {{ site.icons.facebook }} | [NuoViso.TV](https://www.facebook.com/NuoViso.TV/) |
 
-## RT Deutsch
+## RT Deutsch ![RT Deutsch-Logo](/assets/img/logos/rt_deutsch.png){:style="float: right; height: 50px; width: auto"}
 
 RT International gehört zu den renommiertesten Medien-Gruppen mit globaler Ausrichtung und sendet in englischer, spanischer, arabischer, deutscher, französischer und russischer Sprache.
 
 | {{ site.icons.globe }}    | [deutsch.rt.com](https://deutsch.rt.com/) |
 | {{ site.icons.globe }}    | [Aktuelles zu Covid-19](https://deutsch.rt.com/tag/Corona-Virus/) |
 
-## Rubikon
+## Rubikon ![Rubikon-Logo](/assets/img/logos/rubikon.png){:style="float: right; height: 50px; width: auto"} 
 
 Rubikon ist das Magazin für die kritische Masse. Sie berichten über das, was in den Massenmedien nicht zu finden ist.
 
