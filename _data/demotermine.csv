@@ -1,5 +1,6 @@
 land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream
 DE,2020-10-12,14:00:00,17489,Greifswald,Domstr. 54 / Dom / A. Merkel,Gegenprotest,
+DE,2020-10-12,16:00:00,47798,Krefeld,Neumarkt,Versammlung,https://demo.stream/kevingabbe
 DE,2020-10-12,17:00:00,63825,Schöllkrippen,Marktplatz,Demonstration,
 DE,2020-10-12,17:00:00,46045,Oberhausen,Marktstr./ Elsässer Str.,Demonstration,
 DE,2020-10-12,17:00:00,02727,Neugersdorf,Hauptstraße gegenüber Edeka,Menschenkette,
@@ -56,6 +57,7 @@ DE,2020-10-17,15:00:00,22926,Ahrensburg,Parkplatz Schlossbrücke,Spaziergang,
 DE,2020-10-17,15:30:00,58455,Witten,Rathausplatz,Meditation,
 DE,2020-10-17,15:30:00,14471,Potsdam,Brandenburger Tor,Kundgebung,
 DE,2020-10-17,15:30:00,39104,Magdeburg,Domplatz,Kundgebung,
+DE,2020-10-17,15:30:00,44787,Bochum,Husemannplatz,Kundgebung,
 DE,2020-10-17,16:45:00,28211,Bremen,Platz am Hauptbahnhof,Kundgebung,
 DE,2020-10-17,16:45:00,28199,Bremen,Bahnhofsvorplatz (Wiese),Kundgebung,
 DE,2020-10-18,10:45:00,75015,Bretten,Marktplatz,Meditation,
