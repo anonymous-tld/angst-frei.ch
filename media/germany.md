@@ -83,7 +83,7 @@ Multipolar - das Magazin für eine friedliche, freie und plurale Welt, herausgeg
 | {{ site.icons.globe }}    | [multipolar-magazin.de](https://multipolar-magazin.de/) |
 | {{ site.icons.forward }}  | [Beiträge]({{ site.baseurl }}/Tags.html#multipolar) |
 
-## Münchner Demokratie TV ![MDTV-Logo](/assets/img/logos/mdtv.jpg){:style="float: right; display: inline-block; top: 0; height: 50px; width: auto"}
+## ![MDTV-Logo](/assets/img/logos/mdtv.jpg){:style="float: left; margin-top: 0.4rem; margin-right: 0.4rem; height: 50px; width: auto"} Münchner Demokratie TV 
 
 Münchner Demokratie TV
 
