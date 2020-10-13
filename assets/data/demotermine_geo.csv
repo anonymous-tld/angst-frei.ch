@@ -1,5 +1,4 @@
 land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,latitude,longitude
-NL,2020-10-13,09:32:00,2511CS,Den Haag,Plein / 2.Kamer,Kundgebung,https://demo.stream/liveport,52.080207759247735,4.316094783101641
 DE,2020-10-14,18:00:00,10117,Berlin,Bundeskanzleramt,Kundgebung,https://demo.stream/mariagoetz,52.520045350000004,13.369133681226069
 DE,2020-10-14,19:00:00,87776,Sontheim/Schwaben,Dampfsäg/Westerheimer Str. 10,Vortrag,,48.012285750000004,10.3415979775159
 DE,2020-10-15,10:30:00,91054,Erlangen,Rathausplatz,Mahnwache,,49.59099005,11.006952966069356
@@ -7,8 +6,11 @@ DE,2020-10-15,17:00:00,02625,Bautzen,Reichenturm / Platte,Spaziergang,,51.184583
 DE,2020-10-15,18:00:00,85586,Poing,S-Bahnhof / Neue Unterführung,Kundgebung,,48.1667467,11.803713
 DE,2020-10-16,16:00:00,32657,Lemgo,Marktplatz,Kundgebung,,52.0281144,8.901281112193983
 DE,2020-10-16,16:00:00,73033,Göppingen,EWS-Arena,Sonstiges,,48.710665000000006,9.648009664849628
+DE,2020-10-16,17:00:00,67346,Speyer,Dom,Spaziergang,,49.3174862,8.438744
 DE,2020-10-16,17:00:00,74889,Sinsheim,Burgplatz,Kundgebung,,49.2528286,8.87411502627451
 DE,2020-10-16,17:30:00,73033,Göppingen,EWS Arena,Kundgebung,,48.710665000000006,9.648009664849628
+DE,2020-10-17,10:00:00,67435,Neustadt an der Weinstraße,Stiftskirche,Sonstiges,,49.3538968,8.136447883186952
+DE,2020-10-17,10:00:00,67227,Frankenthal,Parsevalplatz,Spaziergang,,49.5332261,8.35855247985744
 DE,2020-10-17,11:00:00,89522,Heidenheim,Bahnhof / Parkanlage,Kundgebung,,48.66671475,10.18280036152375
 DE,2020-10-17,11:45:00,52525,Heinsberg,Parkplatz Ostpromenade,Demonstration,,51.0636532,6.096959565457431
 DE,2020-10-17,11:45:00,52525,Heinsberg,Parkplatz Ostpromenade,Spaziergang,https://www.youtube.com/channel/UCwq7QORP0F7Xnma07LcsOdQ,51.0636532,6.096959565457431
@@ -17,12 +19,14 @@ DE,2020-10-17,11:45:00,52525,Heinsberg,Parkplatz Ostpromenade,Spaziergang,,51.06
 DE,2020-10-17,12:00:00,65183,Wiesbaden,Schlossplatz vor dem Landtag,Kundgebung,,50.083038,8.2407725
 DE,2020-10-17,12:00:00,70372,Stuttgart,Cannstatter Wasen,Kundgebung,,48.7965164,9.2201988
 NL,2020-10-17,12:01:00,5213JG,Den Bosch,Stadion de Vliert,Demonstration,,51.7016546,5.329820252254152
+DE,2020-10-17,13:00:00,76829,Landau,Ostbahnstraße,Kundgebung,,49.1976495,8.1154275
 DE,2020-10-17,13:00:00,63571,Gelnhausen,Parkplatz am Uferweg/ Bleiche,Kundgebung,,50.2028622,9.190486
 DE,2020-10-17,13:00:00,26603,Aurich,Sparkassen-Arena,Demonstration,,53.4710902,7.474347110781295
 DE,2020-10-17,13:15:00,31785,Hameln,Hochzeitshausterrasse,Kundgebung,,52.104769649999994,9.35666144712343
 DE,2020-10-17,14:00:00,97080,Würzburg,Mainwiesen / Höhe Talavera,Kundgebung,,49.801987600000004,9.95157360499574
 DE,2020-10-17,14:00:00,93426,Roding,Am Esper Regenreim,Kundgebung,,49.2358141,12.414524540165242
 DE,2020-10-17,14:00:00,64385,Reichelsheim,B38 / Ortseingang Aldi ,Kundgebung,,49.708660249999994,8.84127655
+DE,2020-10-17,14:00:00,95028,Hof,Kugelbrunnen,Kundgebung,,50.324146400000004,11.935875809591519
 DE,2020-10-17,14:00:00,79215,Elzach,Nikolausplatz,Demonstration,,48.17400095,8.0710023535877
 DE,2020-10-17,14:30:00,26382,Wilhelmshaven,Pacific Cafe,Spaziergang,,37.7798428,-122.4946117
 DE,2020-10-17,14:30:00,40213,Düsseldorf,Grabbeplatz Kunstmuseum,Kundgebung,,51.2254018,6.7763137
@@ -36,6 +40,7 @@ DE,2020-10-17,15:30:00,49074,Osnabrück,Hauptbahnhof,Kundgebung,,52.2727811,8.05
 DE,2020-10-17,15:30:00,39104,Magdeburg,Domplatz,Kundgebung,,52.1250109,11.6353743
 DE,2020-10-17,15:30:00,87600,Kaufbeuren,Obstmarkt (Fußgängerzone),Meditation,,47.87328765,10.625516300000001
 DE,2020-10-17,15:30:00,24558,Henstedt-Ulzburg,CCU / Eingang,Spaziergang,,53.7926888,9.9808134
+DE,2020-10-17,15:30:00,99084,Erfurt,Domplatz,Kundgebung,,50.9763915,11.0252436
 DE,2020-10-17,15:30:00,40213,Düsseldorf,Grabbeplatz Kunstmuseum,Spaziergang,,51.2254018,6.7763137
 DE,2020-10-17,15:30:00,44787,Bochum,Husemannplatz,Kundgebung,,51.480299,7.2165827
 DE,2020-10-17,16:45:00,28211,Bremen,Platz am Hauptbahnhof,Kundgebung,,53.0758196,8.8071646
@@ -52,6 +57,8 @@ DE,2020-10-19,18:00:00,14467,Potsdam,Platz am Filmmuseum,Mahnwache,,52.4009309,1
 DE,2020-10-19,18:00:00,16321,Bernau,Bahnhofsvorplatz/Marktplatz,Kundgebung,,47.81392785,12.375903475862899
 DE,2020-10-19,18:30:00,02763,Zittau,Markt,Spaziergang,,50.8967307,14.8058848
 DE,2020-10-19,18:30:00,99510,Apolda,Markt/ Rathaus,Spaziergang,,51.022758,11.5134546
+DE,2020-10-19,19:00:00,07318,Saalfeld,Markt / Apotheke,Spaziergang,,50.6484393,11.3607617
+DE,2020-10-19,19:00:00,07407,Rudolstadt,Markt,Spaziergang,,50.7203574,11.3395425
 DE,2020-10-19,19:00:00,52159,Roetgen,Faulenbruchstr. 3 / Parkplatz,Spaziergang,,50.6471603,6.1967728
 DE,2020-10-19,19:00:00,21465,Reinbek-Wentorf,Schloß/Innenhof,Spaziergang,,51.655736250000004,10.33055160692108
 DE,2020-10-19,19:00:00,17033,Neubrandenburg,Marktplatz / Innenstadt,Spaziergang,,53.55740205,13.260322640114307
@@ -95,6 +102,7 @@ NL,2020-11-01,13:30:00,8911,Leeuwarden,Blauwe golf Leeuwarden,Demonstration,http
 DE,2020-11-02,17:45:00,50674,Köln,Aachener Weiher,Mahnwache,,50.93525555,6.9276249955832565
 DE,2020-11-02,19:00:00,52159,Roetgen,Faulenbruchstr. 3 / Parkplatz,Kundgebung,,50.6471603,6.1967728
 DE,2020-11-05,18:00:00,10117,Berlin,Brandenburger Tor,Kundgebung,https://anonymous.support/tv,52.51628045,13.37770188288172
+DE,2020-11-07,13:00:00,32756,Detmold,Brunnenwiese,Kundgebung,,51.9371421,8.89057358743315
 DE,2020-11-07,14:00:00,04105,Leipzig,Rosental,Kundgebung,,51.34999295,12.363226166008772
 DE,2020-11-07,14:00:00,04105,Leipzig,Rosental,Kundgebung,,51.34999295,12.363226166008772
 DE,2020-11-07,14:30:00,26382,Wilhelmshaven,Pacific Cafe,Spaziergang,,37.7798428,-122.4946117
