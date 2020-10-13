@@ -4,13 +4,13 @@ title:    Medien
 subtitle: Deutschland
 ---
 
-## Aachen Doku
+## ![Aachen Doku-Logo](/assets/img/logos/aachen_doku.jpg){:class="logo"} Aachen Doku
 
 Freie und faire Berichterstattung aus dem Großraum Aachen, Deutschland und der Welt.
 
 | {{ site.icons.youtube }}  | [Aachen Doku](https://www.youtube.com/c/AachenDoku) |
 
-## Die Achse des Guten
+## ![Die Achse des Guten-Logo](/assets/img/logos/achgut.jpg){:class="logo"} Die Achse des Guten
 
 "Der einflussreichste deutsche Autorenblog." (Berliner Zeitung)
 
@@ -23,33 +23,33 @@ Das Portal des Anderwelt Verlags für kritischen Journalismus und Meinungsbildun
 
 | {{ site.icons.globe }}    | [www.anderweltonline.com](https://www.anderweltonline.com/) |
 
-## Club der klaren Worte
+## ![Club der klaren Worte-Logo](/assets/img/logos/clubderklarenworte.png){:class="logo"} Club der klaren Worte
 
 unabhängig - überparteilich
 
 | {{ site.icons.globe }}    | [clubderklarenworte.de](https://clubderklarenworte.de/) |
 
-## The Deframing Channel
+## ![The Deframing Channel-Logo](/assets/img/logos/deframing-channel.jpg){:class="logo"} The Deframing Channel
 
 Die BEWEGUNG ist der schnellste Weg etwas zu ändern. Es gibt nichts zu glauben, keine politische Richtung oder Ideologie. Dies alles interessiert die Bewegung nicht!
 
 | {{ site.icons.youtube }}  | [The Deframing Channel](https://www.youtube.com/c/TheDeframingChannel) |
 | {{ site.icons.facebook }} | [The Deframing Channel](https://www.facebook.com/thedeframingchannel/) |
 
-## ET Video & Content
+## ![ET Video & Content-Logo](/assets/img/logos/et_video.jpg){:class="logo"} ET Video & Content
 
 ET Video & Content
 
 | {{ site.icons.telegram }} | [etvideocontent](https://t.me/etvideocontent) |
 | {{ site.icons.youtube }}  | [ET Video & Content](https://www.youtube.com/channel/UCgY1gZzOWKSSdUPWCvIlZgg) |
 
-## GD-TV Schwäbisch Gmünd
+## ![GD-TV Schwäbisch Gmünd-Logo](/assets/img/logos/gd-tv.jpg){:class="logo"} GD-TV Schwäbisch Gmünd
 
 GD-TV Schwäbisch Gmünd
 
 | {{ site.icons.youtube }}  | [GD-TV Schwäbisch Gmünd](https://www.youtube.com/c/GDTVSchw%C3%A4bischGm%C3%BCnd) |
 
-## Geschichten aus Wikihausen
+## ![Geschichten aus Wikihausen-Logo](/assets/img/logos/wikihausen.jpg){:class="logo"} Geschichten aus Wikihausen
 
 Groteske und postfaktische Inhalte aus der Wikipedia.
 
@@ -57,13 +57,14 @@ Groteske und postfaktische Inhalte aus der Wikipedia.
 | {{ site.icons.telegram }} | [geschichten_aus_wikihausen](https://t.me/geschichten_aus_wikihausen) |
 | {{ site.icons.youtube }}  | [wikihausen](https://www.youtube.com/channel/UCQWqzh6Wcc_2mkBJ5sy3SqA) |
 
-## jouwatch
+## ![Jouwatch-Logo](/assets/img/logos/jouwatch.jpg){:class="logo"} Jouwatch
 
 www.journalistenwatch.com
 
 | {{ site.icons.globe }}    | [www.journalistenwatch.com](https://www.journalistenwatch.com/) |
+| {{ site.icons.telegram }} | [Jouwatch](https://t.me/jouwatch) |
 
-## KenFM
+## ![KenFM](/assets/img/logos/kenfm.jpg){:class="logo"} KenFM
 
 KenFM ist ein freies Presseportal, eine Nachrichtenplattform, die bewusst das Internet als einziges Verbreitungsmedium nutzt und damit im gesamten deutschsprachigen Raum „empfangen“ werden kann.
 
@@ -76,20 +77,20 @@ Man höre auch die andere Seite.
 
 | {{ site.icons.globe }}    | [kollateral.news](https://kollateral.news/) |
 
-## Multipolar - Magazin
+## ![Multipolar-Logo](/assets/img/logos/multipolar.png){:class="logo"} Multipolar - Magazin
 
 Multipolar - das Magazin für eine friedliche, freie und plurale Welt, herausgegeben von Stefan Korinth, Paul Schreyer und Ulrich Teusch
 
 | {{ site.icons.globe }}    | [multipolar-magazin.de](https://multipolar-magazin.de/) |
 | {{ site.icons.forward }}  | [Beiträge]({{ site.baseurl }}/Tags.html#multipolar) |
 
-## ![MDTV-Logo](/assets/img/logos/mdtv.jpg){:style="float: left; margin-top: 0.4rem; margin-right: 0.4rem; height: 50px; width: auto"} Münchner Demokratie TV 
+## ![MDTV-Logo](/assets/img/logos/mdtv.jpg){:class="logo"} Münchner Demokratie TV 
 
 Münchner Demokratie TV
 
 | {{ site.icons.youtube }}  | [Münchner Demokratie TV](https://www.youtube.com/channel/UCcz6KU4ZA0kPMcxz5XEce1A) |
 
-## Nachdenkseiten ![Nachdenkseiten-Logo](/assets/img/logos/nachdenkseiten.jpg){:style="float: right; height: 50px; width: auto"}
+## ![Nachdenkseiten-Logo](/assets/img/logos/nachdenkseiten.jpg){:class="logo"} Nachdenkseiten
 
 Analysen zum Zeitgeschehen, Blick hinter die Kulissen, Ideen für eine bessere und gerechtere Welt.
 
@@ -97,7 +98,7 @@ Analysen zum Zeitgeschehen, Blick hinter die Kulissen, Ideen für eine bessere u
 | {{ site.icons.youtube }}  | [wwwNACHDENKSEITENde](https://www.youtube.com/user/wwwNACHDENKSEITENde) |
 | {{ site.icons.facebook }} | [NachDenkSeiten](https://www.facebook.com/NachDenkSeiten) |
 
-## NuoViso ![Nuoviso-Logo](/assets/img/logos/nuoviso.png){:style="float: right; height: 50px; width: auto"}
+## ![Nuoviso-Logo](/assets/img/logos/nuoviso.png){:class="logo"} Nuoviso
 
 NuoViso wurde bereits 2005 gegründet und zählt zu den Pionieren in der der alternativen Medienszene, welche ein ganzes Jahrzehnt von Aufklärung geprägt war.
 
@@ -106,20 +107,20 @@ NuoViso wurde bereits 2005 gegründet und zählt zu den Pionieren in der der alt
 | {{ site.icons.telegram }} | [nuoviso](https://t.me/nuoviso) |
 | {{ site.icons.facebook }} | [NuoViso.TV](https://www.facebook.com/NuoViso.TV/) |
 
-## RT Deutsch ![RT Deutsch-Logo](/assets/img/logos/rt_deutsch.png){:style="float: right; height: 50px; width: auto"}
+## ![RT Deutsch-Logo](/assets/img/logos/rt_deutsch.png){:class="logo"} RT Deutsch
 
 RT International gehört zu den renommiertesten Medien-Gruppen mit globaler Ausrichtung und sendet in englischer, spanischer, arabischer, deutscher, französischer und russischer Sprache.
 
 | {{ site.icons.globe }}    | [deutsch.rt.com](https://deutsch.rt.com/) |
 | {{ site.icons.globe }}    | [Aktuelles zu Covid-19](https://deutsch.rt.com/tag/Corona-Virus/) |
 
-## Rubikon ![Rubikon-Logo](/assets/img/logos/rubikon.png){:style="float: right; height: 50px; width: auto"} 
+## ![Rubikon-Logo](/assets/img/logos/rubikon.png){:class="logo"} Rubikon
 
 Rubikon ist das Magazin für die kritische Masse. Sie berichten über das, was in den Massenmedien nicht zu finden ist.
 
 | {{ site.icons.globe }}    | [www.rubikon.news](https://www.rubikon.news/) |
 
-## Telepolis
+## ![Telepolis-Logo](/assets/img/logos/telepolis.png){:class="logo"} Telepolis
 
 Telepolis
 
@@ -133,13 +134,13 @@ Seit November 2005 ist "www.themen-der-zeit.de" ein Teil der "alternativen" Inte
 
 | {{ site.icons.globe }}    | [www.themen-der-zeit.de](https://www.themen-der-zeit.de) |
 
-## Tichys Einblick
+## ![Tichys Einblick-Logo](/assets/img/logos/tichy.png){:class="logo"} Tichys Einblick
 
 Das liberal-konservative Meinungsmagazin.
 
 | {{ site.icons.globe }}    | [www.tichyseinblick.de](https://www.tichyseinblick.de/) |
 
-## TV Deutschland
+## ![TV Deutschland-Logo](/assets/img/logos/tvd.jpg){:class="logo"} TV Deutschland
 
 Unabhängig. Überparteilich. Unvoreingenommen.
 
