@@ -4,6 +4,12 @@ title:    Medien
 subtitle: Deutschland
 ---
 
+### Inhalt
+{: .no_toc}
+
+* TOC
+{:toc}
+
 ## ![Aachen Doku-Logo](/assets/img/logos/aachen_doku.jpg){:class="logo"} Aachen Doku
 
 Freie und faire Berichterstattung aus dem Großraum Aachen, Deutschland und der Welt.
@@ -17,7 +23,7 @@ Freie und faire Berichterstattung aus dem Großraum Aachen, Deutschland und der 
 | {{ site.icons.globe }}    | [www.achgut.com](https://www.achgut.com/) |
 | {{ site.icons.facebook }} | [achgutcom](https://www.facebook.com/achgutcom/) |
 
-## Anderwelt Verlag
+## ![angst-frei.ch-Logo](/assets/img/logos/sun.png){:class="logo"} Anderwelt Verlag
 
 Das Portal des Anderwelt Verlags für kritischen Journalismus und Meinungsbildung.
 
@@ -42,6 +48,14 @@ ET Video & Content
 
 | {{ site.icons.telegram }} | [etvideocontent](https://t.me/etvideocontent) |
 | {{ site.icons.youtube }}  | [ET Video & Content](https://www.youtube.com/channel/UCgY1gZzOWKSSdUPWCvIlZgg) |
+
+## ![exomagazin.tv-Logo](/assets/img/logos/exomagazintv.jpg){:class="logo"} exomagazin.tv
+
+Verlässliche Fakten über Themen wie Grenzwissenschaften und Zukunftsforschung
+
+| {{ site.icons.globe }}    | [exomagazin.tv](https://exomagazin.tv) |
+| {{ site.icons.youtube }}  | [ExoMagazinTV](https://www.youtube.com/c/ExoMagazinTV) |
+| {{ site.icons.facebook }} | [ExoMagazin.tv](https://www.facebook.com/exomagazinTV) |
 
 ## ![GD-TV Schwäbisch Gmünd-Logo](/assets/img/logos/gd-tv.jpg){:class="logo"} GD-TV Schwäbisch Gmünd
 
@@ -71,7 +85,7 @@ KenFM ist ein freies Presseportal, eine Nachrichtenplattform, die bewusst das In
 | {{ site.icons.globe }}    | [kenfm.de](https://kenfm.de/) |
 | {{ site.icons.youtube }}  | [KenFM](https://www.youtube.com/user/wwwKenFMde) |
 
-## KOLLATERAL
+## ![angst-frei.ch-Logo](/assets/img/logos/sun.png){:class="logo"} KOLLATERAL
 
 Man höre auch die andere Seite.
 
@@ -98,6 +112,13 @@ Analysen zum Zeitgeschehen, Blick hinter die Kulissen, Ideen für eine bessere u
 | {{ site.icons.youtube }}  | [wwwNACHDENKSEITENde](https://www.youtube.com/user/wwwNACHDENKSEITENde) |
 | {{ site.icons.facebook }} | [NachDenkSeiten](https://www.facebook.com/NachDenkSeiten) |
 | {{ site.icons.forward }}  | [Beiträge]({{ site.baseurl }}/Tags.html#nachdenkseiten) |
+
+## ![Neverforgetniki-Logo](/assets/img/logos/neverforgetniki.jpg){:class="logo"} Neverforgetniki
+
+Niki vom Online-Blog Neverforgetniki.
+
+| {{ site.icons.youtube }}  | [Neverforgetniki](https://www.youtube.com/c/Neverforgetnikichannel) |
+| {{ site.icons.telegram }} | [Neverforgetniki](https://t.me/neverforgetnikiblog) |
 
 ## ![Nuoviso-Logo](/assets/img/logos/nuoviso.png){:class="logo"} Nuoviso
 
@@ -129,7 +150,7 @@ Telepolis
 | {{ site.icons.globe }}    | [Thema: Coronavirus](https://www.heise.de/tp/thema/Coronavirus) |
 | {{ site.icons.forward }}  | [Beiträge]({{ site.baseurl }}/Tags.html#telepolis) |
 
-## Themen der Zeit
+## ![angst-frei.ch-Logo](/assets/img/logos/sun.png){:class="logo"} Themen der Zeit
 
 Seit November 2005 ist "www.themen-der-zeit.de" ein Teil der "alternativen" Internet-Presselandschaft.
 

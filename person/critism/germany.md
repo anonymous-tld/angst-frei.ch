@@ -85,6 +85,12 @@ Boris Reitschuster
 | {{ site.icons.globe }}    | [www.reitschuster.de](https://www.reitschuster.de/) |
 | {{ site.icons.forward }}  | [Beiträge]({{ site.baseurl }}/Tags.html#reitschuster) |
 
+## Paul Schreyer
+
+Journalist und Autor
+
+| {{ site.icons.globe }}    | [paulschreyer.wordpress.com](https://paulschreyer.wordpress.com/) |
+
 ## Gerhard Wisnewski
 
 Gerhard Wisnewski

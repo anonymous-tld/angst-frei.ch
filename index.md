@@ -14,7 +14,7 @@ Es gibt sehr viele kritische Webseiten, Facebook-Seiten, Telegram-Gruppen etc. F
 
 ## Brücken schlagen
 
-Auch in den Mainstream-Medien erscheinen durchaus kritische Artikel zum Thema, die sich nicht gross von den Artikeln der alternativen Medien unterscheiden. Es sind nicht viele, aber es gibt sie. Ein [Newsarchiv](/news_archive.html) soll dabei helfen, Artikel der MSM mit denen der alternativen Medien zu vergleichen.
+Auch in den Mainstream-Medien erscheinen durchaus kritische Artikel zum Thema, die sich nicht gross von den Artikeln der alternativen Medien unterscheiden. Es sind nicht viele, aber es gibt sie. Ein [Newsarchiv](/news-archive.html) soll dabei helfen, Artikel der MSM mit denen der alternativen Medien zu vergleichen.
 
 ## Hilfe willkommen
 
