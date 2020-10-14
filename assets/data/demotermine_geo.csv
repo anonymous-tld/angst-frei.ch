@@ -1,6 +1,4 @@
 land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,latitude,longitude
-DE,2020-10-14,18:00:00,10117,Berlin,Bundeskanzleramt,Kundgebung,https://demo.stream/mariagoetz,52.520045350000004,13.369133681226069
-DE,2020-10-14,19:00:00,87776,Sontheim/Schwaben,Dampfsäg/Westerheimer Str. 10,Vortrag,,48.012285750000004,10.3415979775159
 DE,2020-10-15,10:30:00,91054,Erlangen,Rathausplatz,Mahnwache,,49.59099005,11.006952966069356
 DE,2020-10-15,17:00:00,13405,Berlin,Julius-Leber-Kaserne,Versammlung,,52.55536945,13.316120199000117
 DE,2020-10-15,17:00:00,02625,Bautzen,Reichenturm / Platte,Spaziergang,,51.1845835,14.426628367252972
@@ -23,6 +21,7 @@ DE,2020-10-17,12:00:00,65183,Wiesbaden,Schlossplatz vor dem Landtag,Kundgebung,,
 DE,2020-10-17,12:00:00,70372,Stuttgart,Cannstatter Wasen,Kundgebung,,48.7965164,9.2201988
 NL,2020-10-17,12:01:00,5213JG,Den Bosch,Stadion de Vliert,Demonstration,,51.7016546,5.329820252254152
 DE,2020-10-17,13:00:00,76829,Landau,Ostbahnstraße,Kundgebung,,49.1976495,8.1154275
+AT,2020-10-17,13:00:00,8010,Graz,Hauptplatz,Demonstration,https://www.youtube.com/Politcafé,47.0710049,15.438515254785102
 DE,2020-10-17,13:00:00,63571,Gelnhausen,Parkplatz am Uferweg/ Bleiche,Kundgebung,,50.2028622,9.190486
 DE,2020-10-17,13:00:00,26603,Aurich,Sparkassen-Arena,Demonstration,,53.4710902,7.474347110781295
 DE,2020-10-17,13:15:00,31785,Hameln,Hochzeitshausterrasse,Kundgebung,,52.104769649999994,9.35666144712343
@@ -51,9 +50,11 @@ DE,2020-10-17,15:30:00,24558,Henstedt-Ulzburg,CCU / Eingang,Spaziergang,,53.7926
 DE,2020-10-17,15:30:00,99084,Erfurt,Domplatz,Kundgebung,,50.9763915,11.0252436
 DE,2020-10-17,15:30:00,40213,Düsseldorf,Grabbeplatz Kunstmuseum,Spaziergang,,51.2254018,6.7763137
 DE,2020-10-17,15:30:00,44787,Bochum,Husemannplatz,Kundgebung,,51.480299,7.2165827
+DE,2020-10-17,16:00:00,91301,Forchheim,Paradeplatz,Kundgebung,,49.7178746,11.0606281
 DE,2020-10-17,16:45:00,28211,Bremen,Platz am Hauptbahnhof,Kundgebung,,53.0758196,8.8071646
 DE,2020-10-17,16:45:00,28199,Bremen,Bahnhofsvorplatz (Wiese),Kundgebung,,53.0758196,8.8071646
 DE,2020-10-18,10:45:00,75015,Bretten,Marktplatz,Meditation,,49.0372069,8.7069939
+DE,2020-10-18,11:00:00,91301,Forchheim,Paradeplatz,Kundgebung,,49.7178746,11.0606281
 DE,2020-10-18,13:00:00,36433,Bad Salzungen,Puschkinpark,Event,,50.8164699,10.228611212461011
 DE,2020-10-18,14:00:00,44135,Dortmund,Hansaplatz,Kundgebung,,51.5132754,7.46512
 AT,2020-10-18,14:00:00,6900,Bregenz,Platz vor dem Festspielhaus,Kundgebung,,47.5025779,9.7472924
@@ -87,6 +88,7 @@ DE,2020-10-24,13:00:00,50354,Hürth,Berliner Platz am Hürth-Park,Kundgebung,,50
 DE,2020-10-24,14:00:00,83026,Rosenheim,wird noch bekanntgegeben,Kundgebung,,47.8539273,12.127262
 DE,2020-10-24,14:30:00,26382,Wilhelmshaven,Pacific Cafe,Spaziergang,,37.7798428,-122.4946117
 DE,2020-10-24,14:30:00,06484,Quedlinburg,Markplatz,Kundgebung,,51.80180835,11.166493665060342
+DE,2020-10-24,15:00:00,91301,Forchheim,Paradeplatz,Kundgebung,,49.7178746,11.0606281
 DE,2020-10-24,15:00:00,84130,Dingolfing,Marienplatz,Kundgebung,,48.6294028,12.4988493
 DE,2020-10-24,15:00:00,84130,Dingolfing,MARIENPLATZ,Kundgebung,,48.6294028,12.4988493
 DE,2020-10-24,15:00:00,22926,Ahrensburg,Parkplatz Schlossbrücke,Spaziergang,,53.6736529,10.2358999
