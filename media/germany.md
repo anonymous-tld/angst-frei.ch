@@ -97,6 +97,7 @@ Analysen zum Zeitgeschehen, Blick hinter die Kulissen, Ideen für eine bessere u
 | {{ site.icons.globe }}    | [www.nachdenkseiten.de](https://www.nachdenkseiten.de/) |
 | {{ site.icons.youtube }}  | [wwwNACHDENKSEITENde](https://www.youtube.com/user/wwwNACHDENKSEITENde) |
 | {{ site.icons.facebook }} | [NachDenkSeiten](https://www.facebook.com/NachDenkSeiten) |
+| {{ site.icons.forward }}  | [Beiträge]({{ site.baseurl }}/Tags.html#nachdenkseiten) |
 
 ## ![Nuoviso-Logo](/assets/img/logos/nuoviso.png){:class="logo"} Nuoviso
 

@@ -18,6 +18,12 @@ Die offiziellen Daten vom RKI.
 
 | {{ site.icons.globe }}    | [Aktueller Lage-/Situationsbericht des RKI zu COVID-19](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Gesamt.html) |
 
+## Querdenken-841
+
+Jeden Mittwoch werden die Zahlen der letzten Woche veröffentlicht und auch die Zahlen der Wochen davor korrigiert.
+
+| {{ site.icons.globe }}    | [Zahlen Daten Fakten](https://querdenken-841.de/zahlen-daten-fakten) |
+
 ## Visualisierung der aktuellen Bettenauslastung
 
 Zur Erkennung von Engpässen in den Krankenhäusern hat die Arbeitsgruppe Datenanalyse und Visualisierung an der Universität Konstanz eine optische Visualisierung der Auslastungslage entwickelt.

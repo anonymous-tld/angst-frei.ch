@@ -4,5 +4,5 @@ redirect:      https://www.wochenblick.at/mutbrief-eines-polizisten-will-nicht-k
 title:         WB
 subtitle:      "Mutbrief eines Polizisten: „Will nicht Komplize des Unrechts sein“"
 categories:    MSM
-tags:          [wb, polizei]
+tags:          [wb, gewalt]
 ---
