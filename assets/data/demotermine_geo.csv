@@ -4,6 +4,7 @@ DE,2020-10-14,19:00:00,87776,Sontheim/Schwaben,Dampfsäg/Westerheimer Str. 10,Vo
 DE,2020-10-15,10:30:00,91054,Erlangen,Rathausplatz,Mahnwache,,49.59099005,11.006952966069356
 DE,2020-10-15,17:00:00,02625,Bautzen,Reichenturm / Platte,Spaziergang,,51.1845835,14.426628367252972
 DE,2020-10-15,18:00:00,85586,Poing,S-Bahnhof / Neue Unterführung,Kundgebung,,48.1667467,11.803713
+DE,2020-10-15,19:00:00,18055,Rostock,Neuer Markt,Meditation,,54.0889851,12.140552
 DE,2020-10-16,16:00:00,32657,Lemgo,Marktplatz,Kundgebung,,52.0281144,8.901281112193983
 DE,2020-10-16,16:00:00,73033,Göppingen,EWS-Arena,Sonstiges,,48.710665000000006,9.648009664849628
 DE,2020-10-16,17:00:00,67346,Speyer,Dom,Spaziergang,,49.3174862,8.438744
@@ -12,6 +13,7 @@ DE,2020-10-16,17:30:00,73033,Göppingen,EWS Arena,Kundgebung,,48.710665000000006
 DE,2020-10-17,10:00:00,67435,Neustadt an der Weinstraße,Stiftskirche,Sonstiges,,49.3538968,8.136447883186952
 DE,2020-10-17,10:00:00,67227,Frankenthal,Parsevalplatz,Spaziergang,,49.5332261,8.35855247985744
 DE,2020-10-17,11:00:00,89522,Heidenheim,Bahnhof / Parkanlage,Kundgebung,,48.66671475,10.18280036152375
+DE,2020-10-17,11:00:00,18273,Güstrow,Am Wall,Meditation,,53.791445,12.1726442
 DE,2020-10-17,11:45:00,52525,Heinsberg,Parkplatz Ostpromenade,Demonstration,,51.0636532,6.096959565457431
 DE,2020-10-17,11:45:00,52525,Heinsberg,Parkplatz Ostpromenade,Spaziergang,https://www.youtube.com/channel/UCwq7QORP0F7Xnma07LcsOdQ,51.0636532,6.096959565457431
 DE,2020-10-17,11:45:00,52525,Heinsberg,Ostpromenade / Parkplatz,Spaziergang,,51.0654268,6.0984461
@@ -34,10 +36,12 @@ DE,2020-10-17,14:30:00,40213,Düsseldorf,Grabbeplatz Kunstmuseum,Kundgebung,,51.
 AT,2020-10-17,15:00:00,1010,Wien,Rathausplatz,Kundgebung,,48.2121408,16.3609868
 DE,2020-10-17,15:00:00,56068,Koblenz,Münzplatz,Kundgebung,,50.3614711,7.594252769490055
 DE,2020-10-17,15:00:00,91054,Erlangen,Schlossplatz,Kundgebung,,49.5982338,11.0045282
+DE,2020-10-17,15:00:00,53111,Bonn,Kaiserplatz,Demonstration,,50.7312713,7.1004359
 DE,2020-10-17,15:00:00,77815,Bühl,Hauptstraße 47,Kundgebung,,48.695599849999994,8.135672900880108
 DE,2020-10-17,15:00:00,55435,Bad Kreuznach,Kornmarkt,Kundgebung,,49.844042349999995,7.858693611279245
 DE,2020-10-17,15:00:00,22926,Ahrensburg,Parkplatz Schlossbrücke,Spaziergang,,53.6736529,10.2358999
 DE,2020-10-17,15:30:00,58455,Witten,Rathausplatz,Meditation,,51.43962515,7.335978968777999
+DE,2020-10-17,15:30:00,18055,Rostock,Neuer Markt,Meditation,,54.0889851,12.140552
 DE,2020-10-17,15:30:00,14471,Potsdam,Brandenburger Tor,Kundgebung,,52.39955055,13.048065746780047
 DE,2020-10-17,15:30:00,49074,Osnabrück,Hauptbahnhof,Kundgebung,,52.2727811,8.0590257
 DE,2020-10-17,15:30:00,39104,Magdeburg,Domplatz,Kundgebung,,52.1250109,11.6353743
@@ -53,12 +57,14 @@ DE,2020-10-18,13:00:00,36433,Bad Salzungen,Puschkinpark,Event,,50.8164699,10.228
 DE,2020-10-18,14:00:00,44135,Dortmund,Hansaplatz,Kundgebung,,51.5132754,7.46512
 AT,2020-10-18,14:00:00,6900,Bregenz,Platz vor dem Festspielhaus,Kundgebung,,47.5025779,9.7472924
 DE,2020-10-18,15:30:00,82140,Olching (FFB),Schwaigfeld am Gruenanger,Kundgebung,,48.208217700000006,11.350507609978315
+DE,2020-10-18,16:00:00,80336,München,Theresienwiese,Kundgebung,,48.135672,11.5522316
 DE,2020-10-19,17:00:00,63825,Schöllkrippen,Marktplatz,Demonstration,,50.0850616,9.2460507
 DE,2020-10-19,17:00:00,46045,Oberhausen,Marktstr. / Elsässer Str.,Demonstration,,51.4700186,6.8642998
 DE,2020-10-19,17:00:00,32756,Detmold,Marktplatz,Meditation,,51.9355127,8.8785883
 DE,2020-10-19,17:45:00,50674,Köln,Aachener Weiher,Mahnwache,,50.93525555,6.9276249955832565
 DE,2020-10-19,18:00:00,14467,Potsdam,Platz am Filmmuseum,Mahnwache,,52.4009309,13.0591397
 DE,2020-10-19,18:00:00,80331,München,Marienplatz,Meditation,http://www.mbsr-muenchen.net/demo,48.13736145,11.574172059316222
+DE,2020-10-19,18:00:00,09599,Freiberg,Albertpark - Springbrunnen,Spaziergang,,50.9043038,13.3808367
 DE,2020-10-19,18:00:00,16321,Bernau,Bahnhofsvorplatz/Marktplatz,Kundgebung,,47.81392785,12.375903475862899
 DE,2020-10-19,18:30:00,02763,Zittau,Markt,Spaziergang,,50.8967307,14.8058848
 DE,2020-10-19,18:30:00,99510,Apolda,Markt/ Rathaus,Spaziergang,,51.022758,11.5134546
@@ -79,6 +85,7 @@ DE,2020-10-23,17:00:00,74889,Sinsheim,Burgplatz,Kundgebung,,49.2528286,8.8741150
 DE,2020-10-24,13:00:00,50354,Hürth,Berliner Platz am Hürth-Park,Kundgebung,,50.8792153,6.8765034
 DE,2020-10-24,14:00:00,83026,Rosenheim,wird noch bekanntgegeben,Kundgebung,,47.8539273,12.127262
 DE,2020-10-24,14:30:00,26382,Wilhelmshaven,Pacific Cafe,Spaziergang,,37.7798428,-122.4946117
+DE,2020-10-24,14:30:00,06484,Quedlinburg,Markplatz,Kundgebung,,51.80180835,11.166493665060342
 DE,2020-10-24,15:00:00,84130,Dingolfing,Marienplatz,Kundgebung,,48.6294028,12.4988493
 DE,2020-10-24,15:00:00,84130,Dingolfing,MARIENPLATZ,Kundgebung,,48.6294028,12.4988493
 DE,2020-10-24,15:00:00,22926,Ahrensburg,Parkplatz Schlossbrücke,Spaziergang,,53.6736529,10.2358999
@@ -101,6 +108,7 @@ DE,2020-10-30,17:00:00,74889,Sinsheim,Burgplatz,Kundgebung,,49.2528286,8.8741150
 DE,2020-10-31,12:00:00,38100,Braunschweig,Schlossplatz Reiterdenkmal,Kundgebung,https://www.youtube.com/channel/UCA4_Yt4m1wzGlhUVS6vW5YA,52.2646577,10.5236066
 DE,2020-10-31,13:00:00,38100,Braunschweig,Schlossplatz Reiterdenkmal,Demonstration,https://www.youtube.com/channel/UCA4_Yt4m1wzGlhUVS6vW5YA,52.2646577,10.5236066
 DE,2020-10-31,14:30:00,26382,Wilhelmshaven,Pacific Cafe,Spaziergang,,37.7798428,-122.4946117
+DE,2020-10-31,14:30:00,38855,Wernigerode,Marktplatz,Kundgebung,,51.8335944,10.7846581
 DE,2020-10-31,15:00:00,01067,Dresden,Theaterplatz,Kundgebung,https://demo.stream/live,51.0535763,13.7355076
 DE,2020-10-31,15:00:00,38100,Braunschweig,Bürgerpark Hinter der VW Halle,Kundgebung,https://www.youtube.com/channel/UCA4_Yt4m1wzGlhUVS6vW5YA,52.2646577,10.5236066
 NL,2020-11-01,01:20:00,8917EN,Leeuwarden,Zwembad de blauwe golf,Demonstration,https://demo.stream/liveport,53.1727834,5.802385071171171
