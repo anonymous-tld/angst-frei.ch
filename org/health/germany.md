@@ -16,11 +16,12 @@ Die Initiative „Mediziner und Wissenschaftler für Gesundheit, Freiheit und De
 
 | {{ site.icons.globe }}    | [www.mwgfd.de](https://www.mwgfd.de/) |
 | {{ site.icons.youtube }}  | [MWGFD e.V.](https://www.youtube.com/channel/UCxIFA_dljpxpUU8-rEXG5Rw) |
+| {{ site.icons.telegram }} | [MWGFD](https://t.me/MWGFD_Kanal) |
 
 ## RPP-Institut
 
 Das Institut für Religiosität in Psychiatrie und Psychotherapie ist 2009 aus der gleichnamigen, 2007 in Graz gestarteten Kongressreihe hervorgegangen und dessen Rechtsnachfolger. Die Gründer sind der Psychiater Raphael M. Bonelli, der Psychotherapeut Walter Pieringer und der Theologe Bernd Oberndorfer. Der Sitz des Institutes ist Wien.
 
 | {{ site.icons.globe }}    | [rpp-institut.org](https://rpp-institut.org/) |
-| {{ site.icons.youtube }}  | [rppinstitut](https://www.youtube.com/user/rppinstitut) |
-| {{ site.icons.telegram }} | [rppinstitut](https://t.me/rppinstitut) |
+| {{ site.icons.youtube }}  | [RPP Institut](https://www.youtube.com/user/rppinstitut) |
+| {{ site.icons.telegram }} | [RPP Institut - Offiziell](https://t.me/rppinstitut) |

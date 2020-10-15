@@ -24,6 +24,7 @@ Für die Wiederherstellung der Grundrechte und einen friedlichen, ethischen Wand
 Coronainfo-Tour mit Dr. Bodo Schiffmann und Samuel Eckert
 
 | {{ site.icons.globe }}       | [coronainfo-tour.de](https://coronainfo-tour.de/) |
+| {{ site.icons.telegram }}    | [Corona Info Tour](https://t.me/coronainfo_tour) |
 
 ## Das Volk gegen Corona
 
@@ -51,17 +52,17 @@ Du möchtest Flugblätter, Infobriefe und Informationen in Deiner Gegend verteil
 | {{ site.icons.globe }}       | [freiheitsboten.de](https://www.freiheitsboten.de/) |
 | {{ site.icons.telegram }}    | [Freiheitsboten](https://t.me/Freiheitsboten) |
 
-## Lehrer für Aufklärung
-
-Anlaufstelle für Lehrer, Schüler und Eltern in "Corona"-Zeiten
-
-| {{ site.icons.globe }}       | [lehrer-fuer-aufklaerung.de](https://lehrer-fuer-aufklaerung.de/) |
-
 ## Kritische Polizisten
 
 Bundesarbeitsgemeinschaft kritischer Polizistinnen und Polizisten (Hamburger Signal) e.V.
 
 | {{ site.icons.globe }}    | [www.kritische-polizisten.de](https://www.kritische-polizisten.de/) |
+
+## Lehrer für Aufklärung
+
+Anlaufstelle für Lehrer, Schüler und Eltern in "Corona"-Zeiten
+
+| {{ site.icons.globe }}       | [lehrer-fuer-aufklaerung.de](https://lehrer-fuer-aufklaerung.de/) |
 
 ## Mutigmacher e.V.
 
