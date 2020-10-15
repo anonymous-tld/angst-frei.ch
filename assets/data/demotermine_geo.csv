@@ -1,11 +1,5 @@
 land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,latitude,longitude
-DE,2020-10-15,10:30:00,91054,Erlangen,Rathausplatz,Mahnwache,,49.59099005,11.006952966069356
-DE,2020-10-15,17:00:00,13405,Berlin,Julius-Leber-Kaserne,Versammlung,,52.55536945,13.316120199000117
-DE,2020-10-15,17:00:00,02625,Bautzen,Reichenturm / Platte,Spaziergang,,51.1813907,14.4275735
-DE,2020-10-15,18:00:00,85586,Poing,S-Bahnhof / Neue Unterführung,Kundgebung,,48.1667467,11.803713
-DE,2020-10-15,19:00:00,18055,Rostock,Neuer Markt,Meditation,,54.0889851,12.140552
 DE,2020-10-16,16:00:00,32657,Lemgo,Marktplatz,Kundgebung,,52.0281144,8.901281112193983
-DE,2020-10-16,16:00:00,73033,Göppingen,EWS-Arena,Sonstiges,,48.710665000000006,9.648009664849628
 DE,2020-10-16,17:00:00,67346,Speyer,Dom,Spaziergang,,49.3174862,8.438744
 DE,2020-10-16,17:00:00,74889,Sinsheim,Burgplatz,Kundgebung,,49.2528286,8.87411502627451
 DE,2020-10-16,17:30:00,73033,Göppingen,EWS Arena,Kundgebung,,48.710665000000006,9.648009664849628
@@ -100,6 +94,7 @@ DE,2020-10-21,19:00:00,08261,Schöneck/Vogtl.,Gaststätte Gartensparte,Zusammenk
 DE,2020-10-22,18:00:00,85586,Poing,S-Bahnhof / Neue Unterführung,Kundgebung,,48.1667467,11.803713
 AT,2020-10-23,16:45:00,1010,Wien,Stubenring / Radetzkydenkmal,Menschenkette,,48.2083537,16.3725042
 DE,2020-10-23,17:00:00,74889,Sinsheim,Burgplatz,Kundgebung,,49.2528286,8.87411502627451
+DE,2020-10-24,11:00:00,73525,Schwäbisch Gmünd,Johannisplatz,Kundgebung,,48.79985875,9.79631243056441
 DE,2020-10-24,13:00:00,50354,Hürth,Berliner Platz am Hürth-Park,Kundgebung,,50.8807379,6.876568
 DE,2020-10-24,13:00:00,95444,Bayreuth,Maximilianstr. / Neptunbrunnen,Kundgebung,,49.9427202,11.5763079
 DE,2020-10-24,14:00:00,83026,Rosenheim,wird noch bekanntgegeben,Kundgebung,,47.8539273,12.127262
