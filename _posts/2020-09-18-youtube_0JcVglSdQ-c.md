@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Youtube
-subtitle:   "Dr. Claus Köhnlein über \"fatale Corona-Experimente\" der WHO"
+subtitle:   "Dr. Claus Köhnlein über 'fatale Corona-Experimente' der WHO"
 date:       2020-09-18
 categories: Video
 tags:       [youtube, who, köhnlein]
