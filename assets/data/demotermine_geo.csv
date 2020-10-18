@@ -1,19 +1,4 @@
 land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,latitude,longitude
-DE,2020-10-18,10:00:00,15831,Blankenfelde-Mahlow,B96 / KrügersLand / Fußgängerüberweg,Versammlung,,52.3479238,13.4119554
-DE,2020-10-18,10:45:00,75015,Bretten,Marktplatz,Meditation,,49.0372069,8.7069939
-DE,2020-10-18,11:00:00,91301,Forchheim,Paradeplatz,Kundgebung,,49.7178746,11.0606281
-NL,2020-10-18,12:00:00,3077AA,Rotterdam,De Kuip,Kundgebung,https://demo.stream/liveport,51.8938646,4.523228129966229
-DE,2020-10-18,13:00:00,83527,Haag,Marktplatz / Rathaus,Demonstration,,48.4584421,11.831745122840081
-DE,2020-10-18,13:00:00,36433,Bad Salzungen,Puschkinpark,Event,,50.812318,10.2320784
-DE,2020-10-18,14:00:00,73525,Schwäbisch Gmünd,Schiesstalplatz,Autokorso,,48.804761799999994,9.812843513475519
-DE,2020-10-18,14:00:00,90402,Nürnberg,Kornmarkt,Kundgebung,,49.4489943,11.0766021
-DE,2020-10-18,14:00:00,44135,Dortmund,Hansaplatz,Kundgebung,,51.5132754,7.46512
-AT,2020-10-18,14:00:00,6900,Bregenz,Platz vor dem Festspielhaus,Kundgebung,,47.5025779,9.7472924
-DE,2020-10-18,14:30:00,50667,Köln,Heumarkt,Mahnwache,,50.9352392,6.9576027
-DE,2020-10-18,15:00:00,69469,Weinheim,Dürreplatz,Spaziergang,,49.5502937,8.6724015
-DE,2020-10-18,15:00:00,69231,Rauenberg,Rathausplatz,Kundgebung,,49.2581739,8.7155494
-DE,2020-10-18,15:30:00,82140,Olching (FFB),Schwaigfeld am Gruenanger,Kundgebung,,48.208217700000006,11.350507609978315
-DE,2020-10-18,16:00:00,80336,München,Theresienwiese,Kundgebung,,48.135672,11.5522316
 DE,2020-10-19,12:05:00,10178,Berlin,Rathausstraße 15 / Rathaus,Flashmob,,52.518271799999994,13.407830867048435
 DE,2020-10-19,17:00:00,63825,Schöllkrippen,Marktplatz,Demonstration,,50.0850616,9.2460507
 DE,2020-10-19,17:00:00,46045,Oberhausen,Marktstr. / Elsässer Str.,Demonstration,,51.4700747,6.8538975
