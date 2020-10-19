@@ -47,6 +47,7 @@ DE,2020-10-22,18:00:00,85586,Poing,S-Bahnhof / Neue Unterführung,Kundgebung,,48
 DE,2020-10-23,16:00:00,32657,Lemgo,Mittelstr. 59 / Marktplatz,Kundgebung,,52.0282824,8.9017858
 AT,2020-10-23,16:45:00,1010,Wien,Stubenring / Radetzkydenkmal,Menschenkette,,48.2083537,16.3725042
 DE,2020-10-23,17:00:00,74889,Sinsheim,Burgplatz,Kundgebung,,49.2528286,8.87411502627451
+DE,2020-10-24,00:00:14,92637,Weiden,Neuer Volksfestplatz,Kundgebung,,49.6752749,12.1631636
 DE,2020-10-24,09:00:00,22926,Ahrensburg,Manfred-Samusch-Straße 5,Kundgebung,,53.673429600000006,10.235793907479401
 DE,2020-10-24,11:00:00,73525,Schwäbisch Gmünd,Johannisplatz,Kundgebung,,48.79985875,9.79631243056441
 DE,2020-10-24,12:00:00,10117,Berlin,Brandenburger Tor,Revolte,,52.51628045,13.37770188288172
@@ -97,8 +98,8 @@ DE,2020-10-28,19:00:00,92237,Sulzbach-Rosenberg,Luitpoldplatz,Versammlung,,49.50
 DE,2020-10-28,19:00:00,92237,Sulzbach-Rosenberg,Luitpoltplatz,Kundgebung,,49.4992468,11.7470259
 DE,2020-10-29,18:00:00,85586,Poing,S-Bahnhof / Neue Unterführung,Kundgebung,,48.1667467,11.803713
 DE,2020-10-30,17:00:00,74889,Sinsheim,Burgplatz,Kundgebung,,49.2528286,8.87411502627451
-AT,2020-10-31,10:00:00,1010,Wien,Albertinaplatz,Event,,48.2047278,16.3694307
-AT,2020-10-31,12:00:00,1010,Wien,Heldenplatz,Event,,48.2061159,16.3640506
+AT,2020-10-31,10:00:00,1010,Wien,Albertinaplatz,Kundgebung,,48.2047278,16.3694307
+AT,2020-10-31,12:00:00,1010,Wien,Heldenplatz,Kundgebung,,48.2061159,16.3640506
 DE,2020-10-31,12:00:00,38100,Braunschweig,Schlossplatz Reiterdenkmal,Kundgebung,https://www.youtube.com/channel/UCA4_Yt4m1wzGlhUVS6vW5YA,52.2646577,10.5236066
 DE,2020-10-31,13:00:00,38100,Braunschweig,Schlossplatz Reiterdenkmal,Demonstration,https://www.youtube.com/channel/UCA4_Yt4m1wzGlhUVS6vW5YA,52.2646577,10.5236066
 DE,2020-10-31,14:00:00,67346,Speyer,Berliner Platz,Kundgebung,,49.32730645,8.417900999795725
@@ -108,8 +109,8 @@ DE,2020-10-31,15:00:00,98574,Schmalkalden,Altmakt,Kundgebung,,50.7213643,10.4510
 DE,2020-10-31,15:00:00,01067,Dresden,Theaterplatz,Kundgebung,https://demo.stream/live,51.0535763,13.7355076
 DE,2020-10-31,15:00:00,38100,Braunschweig,Bürgerpark Hinter der VW Halle,Kundgebung,https://www.youtube.com/channel/UCA4_Yt4m1wzGlhUVS6vW5YA,52.2646577,10.5236066
 NL,2020-11-01,01:20:00,8917EN,Leeuwarden,Zwembad de blauwe golf,Demonstration,https://demo.stream/liveport,53.2005936,5.7918548
-AT,2020-11-01,10:00:00,1010,Wien,Rathausplatz,Event,,48.2121408,16.3609868
-AT,2020-11-01,10:00:00,1010,Wien,Heldenplatz,Event,,48.2061159,16.3640506
+AT,2020-11-01,10:00:00,1010,Wien,Rathausplatz,Kundgebung,,48.2121408,16.3609868
+AT,2020-11-01,10:00:00,1010,Wien,Heldenplatz,Kundgebung,,48.2061159,16.3640506
 NL,2020-11-01,13:30:00,8911,Leeuwarden,Blauwe golf Leeuwarden,Demonstration,https://www.facebook.com/groups/302712857518469/permalink/358939268562494/,53.2005936,5.7918548
 DE,2020-11-01,15:00:00,07318,Saalfeld,Markt,Kundgebung,,50.6474917,11.3602176
 DE,2020-11-01,15:00:00,69231,Rauenberg,Rathausplatz,Kundgebung,,49.2581739,8.7155494
@@ -143,3 +144,4 @@ AT,2020-12-06,17:00:00,4020,Linz,Hauptplatz,Kundgebung,,48.3050286,14.2871388
 DE,2020-12-24,12:00:00,10178,Berlin,Alexanderplatz / Weltzeituhr,Charity,https://demo.stream/anonymous,52.5170365,13.3888599
 DE,2020-12-31,15:00:00,10117,Berlin,Straße des 17. Juni,Kundgebung,,52.5161603,13.3767938
 DE,2021-06-20,16:30:00,94315,Straubing,Ludwigsplatz,Mahnwache,,48.8820981,12.5738356
+DE,2021-10-26,19:00:00,73728,Esslingen,Heugasse 10 / Delicantina,Treffpunkt,,48.7427584,9.3071685
