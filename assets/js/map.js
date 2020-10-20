@@ -46,7 +46,9 @@ $.get('/assets/data/demotermine_geo.csv', function(csvString) {
     var description = ""
 
     if (i == 0) {
-      $("map_created").firstChild.nodeValue = row['created'];
+      span = document.getElementById("created");
+      newdate = document.createTextNode(row['created']);
+      span.appendChild(newdate);
     }
 
     if (row.livestream) {
