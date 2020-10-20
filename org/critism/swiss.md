@@ -12,6 +12,11 @@ Corona Rebellen Schweiz ist die offizielle Untergruppe aus über 100'000 Corona 
 | {{ site.icons.telegram }} | [Best of MSM](https://t.me/CR_MSM_dislike) |
 | {{ site.icons.telegram }} | [Rechtliches/Muster](https://t.me/CR_Juristisches) |
 
+## Corona Whistle
+
+Helfen Sie mit, ans Licht zu bringen, was gezielt verborgen wurde, um die damit verbundenen negativen Konsequenzen für Individuen und Gesellschaft zu vertuschen.
+
+| {{ site.icons.globe }}    | [www.coronawhistle.ch](https://www.coronawhistle.ch/) |
 
 ## Eltern & Schule stehen auf - Schweiz
 
