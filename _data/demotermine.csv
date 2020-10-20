@@ -1,6 +1,4 @@
 land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream
-DE,2020-10-20,14:15:00,55127,Mainz,ZDF-Straße 1 / Zufahrt,Kundgebung,
-DE,2020-10-20,16:15:00,55131,Mainz,Freiligrathstr. 1 / Parkplatz BioNtech,Kundgebung,
 DE,2020-10-21,11:00:00,48143,Münster,Rathaus,Kundgebung,
 DE,2020-10-21,18:00:00,40629,Düsseldorf,Burgplatz,Spaziergang,
 DE,2020-10-21,18:00:00,10117,Berlin,Bundeskanzleramt,Kundgebung,https://demo.stream/mariagoetz
@@ -70,6 +68,7 @@ DE,2020-10-26,19:00:00,07318,Saalfeld,Markt / Apotheke,Spaziergang,
 DE,2020-10-26,19:00:00,07407,Rudolstadt,Markt,Spaziergang,
 DE,2020-10-26,19:00:00,52159,Roetgen,Faulenbruchstr. 3 / Parkplatz,Spaziergang,
 DE,2020-10-26,19:00:00,99974,Mühlhausen/ Thüringen,Postplatz,Spaziergang,
+DE,2020-10-26,19:00:00,04177,Leipzig,Augustusplatz / Goldenes Ei,Spaziergang,
 DE,2020-10-26,19:00:00,26441,Jever,Marktplatz,Spaziergang,
 DE,2020-10-26,19:30:00,47906,Kempen,Buttermarkt,Spaziergang,
 DE,2020-10-28,18:00:00,10117,Berlin,Bundeskanzleramt,Kundgebung,https://demo.stream/mariagoetz
