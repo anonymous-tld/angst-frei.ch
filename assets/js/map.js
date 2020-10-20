@@ -41,8 +41,13 @@ $.get('/assets/data/demotermine_geo.csv', function(csvString) {
   // For each row in data, create a marker and add it to the map
   // For each row, columns `Latitude`, `Longitude`, and `Title` are required
   for (var i in data) {
+
     var row = data[i]
     var description = ""
+
+    if (i == 0) {
+      $("map_created").firstChild.nodeValue = row['created'];
+    }
 
     if (row.livestream) {
       var description = "Stadt: " + row.stadt + "<br/>Datum: " + row.datum + "<br/>Uhrzeit: " + row.uhrzeit + "<br/>Treffpunkt: " + row.treffpunkt + "<br/>Protestform: " + row.protestform + "<br/><a href='" + row.livestream + "'>Livestream</>"

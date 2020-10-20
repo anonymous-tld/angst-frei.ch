@@ -22,8 +22,15 @@ permalink: /timeline-data/
       {% capture month %}{{ post.date | date: "%-m" }}{% endcapture %}
       {% capture day %}{{ post.date | date: "%-d" }}{% endcapture %}
       {
+        "background": {
+          "url": "/assets/img/timeline/{{ post.categories }}.jpg"
+        },
         "media": {
+          {% if post.youtubeId %}
+          "url": "https://www.youtu.be/{{ post.youtubeid }}",
+          {% else %}
           "url": "{{ post.redirect }}",
+          {% endif %}
           "caption": "{{ post.tags | join: ", " }}",
           "credit": ""
         },
