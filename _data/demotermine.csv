@@ -1,4 +1,5 @@
 land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream
+DE,2020-10-21,00:00:18,88255,Bainfurt,Marktplatz,Demonstration,
 DE,2020-10-21,11:00:00,48143,Münster,Rathaus,Kundgebung,
 DE,2020-10-21,18:00:00,40629,Düsseldorf,Burgplatz,Spaziergang,
 DE,2020-10-21,18:00:00,10117,Berlin,Bundeskanzleramt,Kundgebung,https://demo.stream/mariagoetz
@@ -8,6 +9,7 @@ DE,2020-10-22,16:00:00,09575,Eppendorf,Grosswaltersdorfer Str. 18 / Parkplatz,Ku
 DE,2020-10-22,18:00:00,85586,Poing,S-Bahnhof / Neue Unterführung,Kundgebung,
 DE,2020-10-23,10:00:00,80539,München,Odeonsplatz,Kundgebung,
 DE,2020-10-23,11:00:00,80539,München,Odeonsplatz,Demonstration,
+DE,2020-10-23,15:00:00,69469,Weinheim,Dürreplatz,Sonstiges,
 DE,2020-10-23,16:00:00,32657,Lemgo,Mittelstr. 59 / Marktplatz,Kundgebung,
 AT,2020-10-23,16:45:00,1010,Wien,Stubenring / Radetzkydenkmal,Menschenkette,
 DE,2020-10-23,17:00:00,74889,Sinsheim,Burgplatz,Kundgebung,
@@ -42,11 +44,14 @@ DE,2020-10-24,15:30:00,06484,Quedlinburg,Marktplatz,Kundgebung,
 DE,2020-10-24,15:30:00,14471,Potsdam,Brandenburger Tor,Kundgebung,
 DE,2020-10-24,15:30:00,21335,Lüneburg,Clamartpark,Trauermarsch,
 DE,2020-10-24,15:30:00,85049,Ingolstadt,Theatervorplatz,Kundgebung,
+DE,2020-10-24,15:30:00,24558,Henstedt-Ulzburg,Hamburger Str. 8 / Eingang  CCU,Spaziergang,
+DE,2020-10-24,15:30:00,21073,Hamburg-Harburg,Museumsplatz 1 / am Brunnen,Meditation,
 DE,2020-10-24,15:30:00,99084,Erfurt,Domplatz,Kundgebung,
 CH,2020-10-24,16:00:00,9004,St. Gallen,Stadtpark,Kundgebung,
 DE,2020-10-24,16:00:00,48143,Münster,Stubengasse / Karstadt Sport,Kundgebung,
 DE,2020-10-24,16:00:00,04109,Leipzig,Markt,Kundgebung,
 DE,2020-10-24,16:00:00,67657,Kaiserslautern,Stiftsplatz (Marktplatz),Kundgebung,
+NL,2020-10-24,16:30:00,2596AA,Den Haag,Malieveld,Demonstration,https://demo.stream/liveport
 DE,2020-10-25,10:00:00,15831,Blankenfelde-Mahlow,B96 / KrügersLand / Fußgängerüberweg,Versammlung,
 DE,2020-10-25,10:00:00,10178,Berlin,Alexanderplatz,Kundgebung,
 DE,2020-10-25,10:30:00,86633,Neuburg a.d.Donau,Schrannenplatz,Kundgebung,
@@ -55,6 +60,7 @@ BE,2020-10-25,12:00:00,1000,Brüssel,Centraal Station,Kundgebung,
 DE,2020-10-25,12:00:00,10115,Berlin,Alexanderplatz,Demonstration,
 BE,2020-10-25,13:00:00,1000,Brüssel,Bolivar/Station North,Spaziergang,
 NL,2020-10-25,14:00:00,3521AL,Utrecht,Jaarbeursplein,Demonstration,
+DE,2020-10-25,14:00:00,90402,Nürnberg,Magnus-Hirschfeld-Platz,Kundgebung,
 DE,2020-10-25,14:00:00,68165,Mannheim,Unterer Luisenpark,Kundgebung,
 DE,2020-10-25,14:00:00,88131,Lindau / Bodensee,Ludwig-Kick-Str. 19 / Parkplatz Penny,Kundgebung,
 DE,2020-10-25,15:00:00,69231,Rauenberg,Rathausplatz,Kundgebung,
@@ -83,6 +89,7 @@ DE,2020-10-28,19:00:00,92237,Sulzbach-Rosenberg,Luitpoltplatz,Kundgebung,
 NL,2020-10-29,10:00:00,3077AA,Rotterdam,Stadion De Kuip,Demonstration,https://demo.stream/liveport
 DE,2020-10-29,18:00:00,85586,Poing,S-Bahnhof / Neue Unterführung,Kundgebung,
 DE,2020-10-30,17:00:00,74889,Sinsheim,Burgplatz,Kundgebung,
+DE,2020-10-30,17:00:00,73614,Schorndorf,Oberer Marktplatz,Kundgebung,
 AT,2020-10-31,10:00:00,1010,Wien,Albertinaplatz,Kundgebung,
 AT,2020-10-31,12:00:00,1010,Wien,Heldenplatz,Kundgebung,
 DE,2020-10-31,12:00:00,38100,Braunschweig,Schlossplatz Reiterdenkmal,Kundgebung,https://www.youtube.com/channel/UCA4_Yt4m1wzGlhUVS6vW5YA
@@ -94,6 +101,7 @@ DE,2020-10-31,14:30:00,38855,Wernigerode,Marktplatz,Kundgebung,
 DE,2020-10-31,15:00:00,98574,Schmalkalden,Altmarkt,Kundgebung,
 DE,2020-10-31,15:00:00,01067,Dresden,Theaterplatz,Kundgebung,https://demo.stream/live
 DE,2020-10-31,15:00:00,38100,Braunschweig,Bürgerpark Hinter der VW Halle,Kundgebung,https://www.youtube.com/channel/UCA4_Yt4m1wzGlhUVS6vW5YA
+AT,2020-10-31,16:00:00,1010,Wien,Volksgarten / Theseustempel,Zusammenkunft,
 DE,2020-10-31,16:00:00,48143,Münster,Stubengasse / Karstadt Sport,Kundgebung,
 NL,2020-11-01,01:20:00,8917EN,Leeuwarden,Zwembad de blauwe golf,Demonstration,https://demo.stream/liveport
 AT,2020-11-01,10:00:00,1010,Wien,Rathausplatz,Kundgebung,
