@@ -12,6 +12,12 @@ Zeitgeschichtliche und unabhängige Forschung
 
 | {{ site.icons.globe }}    | [samueleckert.net](https://samueleckert.net/corona-fakten/) |
 
+### WHO-Empfehlung und Umsetzung!
+
+Steffen Ghani
+
+| {{ site.icons.globe }}    | [www.hausarzt-kenzingen.de](https://www.hausarzt-kenzingen.de/aktuelles/) |
+
 ## Mund-Nasenschutz
 
 ### Mund-Nasenschutz aus psychologischer Sicht – eine Studie deckt die Folgen auf
