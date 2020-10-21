@@ -56,6 +56,13 @@ round-avatar: true
 # then specify the following parameter
 #title-img: /path/to/image
 
+algolia:
+  search_only_api_key: 'a92c1cd242eca6e401d2cc8ab75be236'
+  files_to_exclude:
+    - /event-data/event-data.son
+  application_id: '6K253N69ME'
+  index_name: 'prod_angst-frei.ch'
+
 # --- Social --- #
 
 # Select which social network share links to show in posts

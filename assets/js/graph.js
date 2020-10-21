@@ -17,7 +17,7 @@ var nodes = new vis.DataSet([
 
 // create an array with edges
 var edges = new vis.DataSet([
-  { from: 401, to: 101, arrows: "to" },
+  { from: 401, to: 101, arrows: "to", title: "Grants/2020/03/INV-005971" },
   { from: 401, to: 402, arrows: "to" },
   { from: 401, to: 102, arrows: "to" },
   { from: 401, to: 103, arrows: "to" },
