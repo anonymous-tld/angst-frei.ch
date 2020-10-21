@@ -16,6 +16,12 @@ Latest updates of COVID-19 development in Switzerland.
 
 | {{ site.icons.globe }} | [www.corona-data.ch](https://www.corona-data.ch/) |
 
+## ICU Monitoring
+
+Near-real time monitoring of intensive care occupancy.
+
+| {{ site.icons.globe }} | [icumonitoring.ch/](https://icumonitoring.ch/) |
+
 ## openZH
 
 Kanton Zürich -  Statistisches Amt

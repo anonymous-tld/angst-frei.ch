@@ -9,6 +9,8 @@ toc:
         url: media/austria.html
       - page: Schweiz
         url: media/swiss.html
+      - page: Webseiten
+        url: media/websites.html
   - title: Organisationen
     subfolderitems:
       - page: Daten

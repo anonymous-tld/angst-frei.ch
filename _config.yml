@@ -35,6 +35,7 @@ language: "de"
 navbar-links:
   News: 
     - Ticker: /blog/index.html
+    - Timeline: /timeline/index.html
     - Kategorien: /categories.html
     - Tags: /tags.html
     - Archiv: /news-archive.html
@@ -81,9 +82,7 @@ rss-description: angst-frei News-Feed
 
 collections:
   events:
-    output: true
-    permalink: /events/:path/
-    title: Events
+    output: false
 
 icons:
   book:     '<i class="fas fa-book" title="Buch" style="color: black"></i>'
