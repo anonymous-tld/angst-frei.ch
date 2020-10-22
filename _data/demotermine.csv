@@ -1,8 +1,4 @@
 land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream
-DE,2020-10-22,00:00:15,55545,Bad Kreuznach,Kornmarkt,Kundgebung,
-DE,2020-10-22,16:00:00,09575,Eppendorf,Grosswaltersdorfer Str. 18 / Parkplatz,Kundgebung,
-DE,2020-10-22,18:00:00,85586,Poing,S-Bahnhof / Neue Unterführung,Kundgebung,
-DE,2020-10-22,19:00:00,18055,Rostock,Neuer Markt,Meditation,
 DE,2020-10-23,10:00:00,80539,München,Odeonsplatz,Kundgebung,
 DE,2020-10-23,11:00:00,80539,München,Odeonsplatz,Demonstration,
 DE,2020-10-23,15:00:00,69469,Weinheim,Dürreplatz,Sonstiges,
@@ -104,6 +100,7 @@ DE,2020-10-28,14:30:00,50667,Köln,Heumarkt,Mahnwache,
 DE,2020-10-28,18:00:00,10117,Berlin,Bundeskanzleramt,Kundgebung,https://demo.stream/mariagoetz
 DE,2020-10-28,19:00:00,92237,Sulzbach-Rosenberg,Luitpoldplatz,Versammlung,
 DE,2020-10-28,19:00:00,92237,Sulzbach-Rosenberg,Luitpoltplatz,Kundgebung,
+DE,2020-10-28,19:00:00,86343,Königsbrunn,Marktplatz,Vortrag,https://www.youtube.com/c/Augsburgunmaskiert
 NL,2020-10-29,10:00:00,3077AA,Rotterdam,Stadion De Kuip,Demonstration,https://demo.stream/liveport
 DE,2020-10-29,10:30:00,91054,Erlangen,Rathausplatz,Mahnwache,
 DE,2020-10-29,18:00:00,85586,Poing,S-Bahnhof / Neue Unterführung,Kundgebung,
