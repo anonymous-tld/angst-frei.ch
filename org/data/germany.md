@@ -12,6 +12,12 @@ News und Zusammenfassungen zu den Themen Impfung, Corona, Viren, Bakterien, Infe
 | {{ site.icons.telegram }} | [Corona_Fakten](https://t.me/Corona_Fakten) |
 | {{ site.icons.download }} | [Ihr fragt, wir antworten. Fragen 1-60]({{site.baseurl}}/assets/files/Fragen_Antworten_Corona_Fakten_1_60_Deckblatt.pdf) |
 
+## DIVI-Intensivregister
+
+Freie und belegte Behandlungskapazitäten in der Intensivmedizin von etwa 1.300 Akut-Krankenhäusern in Deutschland.
+
+| {{ site.icons.globe }}    | [www.intensivregister.de](https://www.intensivregister.de/) |
+
 ## Robert Koch Institut
 
 Die offiziellen Daten vom RKI.
