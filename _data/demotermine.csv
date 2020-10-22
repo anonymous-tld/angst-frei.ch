@@ -1,6 +1,5 @@
 land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream
 DE,2020-10-22,00:00:15,55545,Bad Kreuznach,Kornmarkt,Kundgebung,
-DE,2020-10-22,14:00:00,56068,Koblenz,Jesuitenplatz,Mahnwache,
 DE,2020-10-22,16:00:00,09575,Eppendorf,Grosswaltersdorfer Str. 18 / Parkplatz,Kundgebung,
 DE,2020-10-22,18:00:00,85586,Poing,S-Bahnhof / Neue Unterführung,Kundgebung,
 DE,2020-10-22,19:00:00,18055,Rostock,Neuer Markt,Meditation,
@@ -25,6 +24,7 @@ DE,2020-10-24,14:00:00,83026,Rosenheim,wird noch bekanntgegeben,Kundgebung,
 DE,2020-10-24,14:00:00,64385,Reichelsheim,Bahnhofstr. 28 / Aldi,Kundgebung,
 DE,2020-10-24,14:00:00,68161,Mannheim,Schlossplatz,Kundgebung,
 DE,2020-10-24,14:00:00,58511,Lüdenscheid,Schillerstraße / Am Rosengarten,Mahnwache,
+DE,2020-10-24,14:00:00,56068,Koblenz,Jesuitenplatz,Mahnwache,
 DE,2020-10-24,14:00:00,56068,Koblenz,Jesuitenplatz,Mahnwache,
 DE,2020-10-24,14:00:00,06108,Halle (Saale),Marktplatz,Kundgebung,https://demo.stream/halleleaks
 DE,2020-10-24,14:00:00,60313,Frankfurt,Goetheplatz,Kundgebung,
