@@ -77,6 +77,8 @@ toc:
             url: files/data/germany.html
       - page: Gesundheit
         subsubfolderitems:
+          - page: Deutschland
+            url: files/health/germany.html
           - page: Schweiz
             url: files/health/swiss.html
       - page: Recht

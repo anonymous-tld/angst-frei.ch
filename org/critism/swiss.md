@@ -4,6 +4,13 @@ title:    Kritik
 subtitle: Schweiz
 ---
 
+## Corona Dialog
+
+Fachleute aus der Medizin, der Verwaltung oder der Wirtschaft treffen sich zur Diskussion. Sachbezogen, auf der Basis von Fakten.
+
+| {{ site.icons.globe }}    | [www.coronadialog.ch](https://www.coronadialog.ch/) |
+| {{ site.icons.youtube }}  | [CoronaDialog on Tour](https://www.youtube.com/channel/UCOuNSDSdo9YCl3dstpTRZng) |
+
 ## Corona Rebellen Schweiz
 
 Corona Rebellen Schweiz ist die offizielle Untergruppe aus über 100'000 Corona Rebellen europaweit.

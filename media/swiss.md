@@ -56,6 +56,12 @@ Hinter der Plattform Infosperber.ch steht die gemeinnützige «Schweizerische St
 | {{ site.icons.telegram }} | [strickertv](https://t.me/strickertv) |
 | {{ site.icons.facebook }} | [DanielStrickercom](https://www.facebook.com/DanielStrickercom) |
 
+## videocut
+
+videocut ist eine Video Produktions Firma in der deutschen Schweiz.
+
+| {{ site.icons.youtube }}  | [videocut](https://www.youtube.com/user/videocut) |
+
 ## Die Weltwoche
 
 Die Weltwoche
