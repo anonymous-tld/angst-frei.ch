@@ -83,5 +83,7 @@ toc:
             url: files/health/swiss.html
       - page: Recht
         subsubfolderitems:
+          - page: Deutschland
+            url: files/law/germany.html
           - page: Schweiz
             url: files/law/swiss.html
