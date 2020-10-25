@@ -1,22 +1,4 @@
 land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream
-DE,2020-10-25,10:00:00,02829,Markersdorf / Holtendorf,B6,Menschenkette,
-DE,2020-10-25,10:00:00,15831,Blankenfelde-Mahlow,B96 / KrügersLand / Fußgängerüberweg,Versammlung,
-DE,2020-10-25,10:00:00,10178,Berlin,Alexanderplatz,Kundgebung,
-DE,2020-10-25,10:30:00,86633,Neuburg a.d.Donau,Schrannenplatz,Kundgebung,
-DE,2020-10-25,10:45:00,75015,Bretten,Marktplatz,Meditation,
-BE,2020-10-25,12:00:00,1000,Brüssel,Centraal Station,Kundgebung,
-DE,2020-10-25,12:00:00,10115,Berlin,Alexanderplatz,Demonstration,https://demo.stream/berlinberlin
-BE,2020-10-25,13:00:00,1000,Brüssel,Bolivar/Station North,Spaziergang,
-NL,2020-10-25,14:00:00,3521AL,Utrecht,Jaarbeursplein,Demonstration,
-DE,2020-10-25,14:00:00,90402,Nürnberg,Magnus-Hirschfeld-Platz,Kundgebung,
-DE,2020-10-25,14:00:00,68165,Mannheim,Unterer Luisenpark,Kundgebung,
-DE,2020-10-25,14:00:00,88131,Lindau / Bodensee,Ludwig-Kick-Str. 19 / Parkplatz Penny,Kundgebung,
-DE,2020-10-25,14:30:00,50667,Köln,Heumarkt,Mahnwache,
-DE,2020-10-25,15:00:00,69231,Rauenberg,Rathausplatz,Kundgebung,
-DE,2020-10-25,15:00:00,80539,München,Odeonsplatz / [Requiem],Konzert,
-DE,2020-10-25,15:00:00,88400,Biberach,Gigelberg,Kundgebung,
-DE,2020-10-25,15:00:00,10243,Berlin,Karl-Marx-Allee 131A / Kosmos,Kundgebung,https://demo.stream/berlinberlin
-DE,2020-10-25,15:30:00,40974,Osnabrück,Hauptbahnhof / Vorplatz,Demonstration,
 DE,2020-10-26,11:30:00,55116,Mainz,Bauhofstr. / Kaiserstr.,Kundgebung,
 AT,2020-10-26,12:00:00,1010,Wien,Weihburggasse 10-12 /Ärztekammer,Kundgebung,
 AT,2020-10-26,14:00:00,1010,Wien,Michaelerplatz,Kundgebung,
