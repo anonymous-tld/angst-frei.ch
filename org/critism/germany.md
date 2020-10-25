@@ -19,6 +19,12 @@ Für die Wiederherstellung der Grundrechte und einen friedlichen, ethischen Wand
 | {{ site.icons.youtube }}     | [BewegungLeipzig Querdenken-341](https://www.youtube.com/channel/UCaWsTB362ikTBD5cXyxA7Eg/) |
 | {{ site.icons.facebook }}    | [Bewegung Leipzig / Querdenken-341](https://www.facebook.com/BewegungLeipzig/) |
 
+## Corona Doks
+
+Wenig beachtete Informationen
+
+| {{ site.icons.globe }}       | [www.corodok.de](https://www.corodok.de/) |
+
 ## Coronainfo-Tour
 
 Coronainfo-Tour mit Dr. Bodo Schiffmann und Samuel Eckert

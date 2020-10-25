@@ -4,6 +4,12 @@ title:    Kritik
 subtitle: Österreich 
 ---
 
+## Corona Datencheck
+
+Machst du dir Sorgen wegen dem Corona Virus, dann hör vielleicht auch mal andere Ärzte und Experten an. Suche einmal in der Molekularbiologie nach dem Ursprung von Viren!? Könnte es bei Corona um Geopolitik gehen? Ist die WHO gar nicht so unabhängig, oder Bill Gates gar kein Philantrop?
+
+| {{ site.icons.globe }}    | [coronadatencheck.com](https://coronadatencheck.com/) |
+
 ## Eltern stehen auf Österreich
 
 Gemeinsam für ein Miteinander ohne Einschränkung
