@@ -11,6 +11,7 @@ Corona Rebellen Schweiz ist die offizielle Untergruppe aus über 100'000 Corona 
 | {{ site.icons.telegram }} | [coronarebellenCH](https://t.me/coronarebellenCH) |
 | {{ site.icons.telegram }} | [Best of MSM](https://t.me/CR_MSM_dislike) |
 | {{ site.icons.telegram }} | [Rechtliches/Muster](https://t.me/CR_Juristisches) |
+| {{ site.icons.forward }}  | [Dateien]({{ site.baseurl }}/files/law/swiss.html#corona-rebellen) |
 
 ## Corona Whistle
 
