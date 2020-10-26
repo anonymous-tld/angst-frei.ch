@@ -129,6 +129,13 @@ NuoViso wurde bereits 2005 gegründet und zählt zu den Pionieren in der der alt
 | {{ site.icons.telegram }} | [nuoviso](https://t.me/nuoviso) |
 | {{ site.icons.facebook }} | [NuoViso.TV](https://www.facebook.com/NuoViso.TV/) |
 
+## ![OVALmedia-Logo](/assets/img/logos/ovalmedia.jpg){:class="logo"} OVALmedia
+
+Wir schaffen Story-Welten: Erlebnis. Emotion. Erkenntnis.
+
+| {{ site.icons.globe }}    | [oval.media](https://oval.media/de/) |
+| {{ site.icons.youtube }}  | [OVALmedia](https://www.youtube.com/channel/UCHFutW4T9dpZqGk6e0OZL9Q) |
+
 ## ![RT Deutsch-Logo](/assets/img/logos/rt_deutsch.png){:class="logo"} RT Deutsch
 
 RT International gehört zu den renommiertesten Medien-Gruppen mit globaler Ausrichtung und sendet in englischer, spanischer, arabischer, deutscher, französischer und russischer Sprache.

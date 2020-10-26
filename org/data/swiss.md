@@ -10,17 +10,18 @@ Die offiziellen Daten vom BAG.
 
 | {{ site.icons.globe }} | [Situation Schweiz](https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html) |
 
+## Spitalkapazitäten
+
+Die Daten stammen von den Spitälern, je nach Spital sind die Datenstände unterschiedlich. Negative Werte können eine mögliche Überbelegung dokumentieren.
+
+| {{ site.icons.globe }} | [Schweizer Armee](https://www.vtg.admin.ch/de/aktuell/coronavirus/spitalkapazitaeten.html) |
+| {{ site.icons.globe }} | [icumonitoring.ch](https://icumonitoring.ch/) |
+
 ## COVID-19 Information for Switzerland
 
 Latest updates of COVID-19 development in Switzerland.
 
 | {{ site.icons.globe }} | [www.corona-data.ch](https://www.corona-data.ch/) |
-
-## ICU Monitoring
-
-Near-real time monitoring of intensive care occupancy.
-
-| {{ site.icons.globe }} | [icumonitoring.ch/](https://icumonitoring.ch/) |
 
 ## openZH
 

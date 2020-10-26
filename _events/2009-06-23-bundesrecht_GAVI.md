@@ -4,5 +4,5 @@ subtitle:   "Abkommen zwischen dem Schweizerischen Bundesrat und GAVI Alliance (
 date:       2009-06-23
 categories: Datei
 tags:       [gavi, pdf]
-data:       "/assets/files/law/4567-GAVI-20090623.pdf"
+link:       "/assets/files/law/4567-GAVI-20090623.pdf"
 ---

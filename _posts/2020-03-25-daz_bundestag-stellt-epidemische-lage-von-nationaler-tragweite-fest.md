@@ -4,6 +4,6 @@ redirect:      https://www.deutsche-apotheker-zeitung.de/news/artikel/2020/03/25
 title:         DAZ
 timeline:      true
 subtitle:      "Bundestag stellt „epidemische Lage von nationaler Tragweite“ fest"
-categories:    Wisenschaft
+categories:    Wissenschaft
 tags:          [daz, lockdown]
 ---

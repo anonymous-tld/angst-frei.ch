@@ -1,9 +1,7 @@
-#timeline-container-full {
-  position: relative;
-  top: 100px;
+html, body {
+  height:100%;
+  padding: 0px;
+  margin: 0px;
 }
 
-.timeline-full {
-  height: 900px;
-}
-
+#timeline-embed { height: 100%; }

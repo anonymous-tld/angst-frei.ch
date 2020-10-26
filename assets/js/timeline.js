@@ -3,6 +3,7 @@ var options = {
   language: "de",
   width: "100%",
   height: "100%",
+  initial_zoom: 5,
   slide_padding_lr: 100,
   hash_bookmark: true,
   start_at_end: true
