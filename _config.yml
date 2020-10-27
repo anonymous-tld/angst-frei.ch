@@ -33,7 +33,7 @@ language: "de"
 # --- Navbar --- #
 
 navbar-links:
-  News: 
+  Meldungen: 
     - Ticker: /blog/index.html
     - Timeline: /timeline/index.html
     - Kategorien: /categories.html

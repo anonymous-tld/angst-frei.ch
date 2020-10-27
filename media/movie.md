@@ -20,4 +20,6 @@ From the creators of the most viewed and banned documentary of all time.
 
 Der Dokfilm zur Coronakrise von Reto Brennwald.
 
-| {{ site.icons.movie }}    | [www.unerhoert-der-film.ch](https://www.unerhoert-der-film.ch/) |
+| {{ site.icons.globe }}    | [www.unerhoert-der-film.ch](https://www.unerhoert-der-film.ch/) |
+| {{ site.icons.movie }}    | [Unerhört!](https://vimeo.com/471959768) |
+

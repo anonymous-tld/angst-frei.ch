@@ -8,9 +8,17 @@ subtitle: Deutschland
 
 Prof. Dr. med. Sucharit Bhakdi
 
-| {{ site.icons.youtube }}  | [Prof. Dr. med. Sucharit Bhakdi](https://www.youtube.com/channel/UCgjxQLDkeoa-uJu4sE0eNrg)
+| {{ site.icons.youtube }}  | [Prof. Dr. med. Sucharit Bhakdi](https://www.youtube.com/channel/UCgjxQLDkeoa-uJu4sE0eNrg) |
 | {{ site.icons.book }}     | Corona Fehlalarm? Zahlen, Daten und Hintergründe. Zwischen Panikmache und Wissenschaft: welche Maßnahmen sind im Kampf gegen Virus und COVID-19 sinnvoll?<br/>ISBN: 978-3-99060-191-4 |
 | {{ site.icons.forward }}  | [Beiträge]({{ site.baseurl }}/Tags.html#bhakdi) |
+
+## Kai Brenner
+
+Kai Brenner ist Gesundheitsberater, Krankenpfleger und Krankenhaus-Spezialist.
+
+| {{ site.icons.youtube }}  | [Krank war gestern - by Kai Brenner](https://www.youtube.com/c/KaiBrenner-einfach-gesund-sein) |
+| {{ site.icons.telegram }} | [Kai Brenner - Krank war gestern](https://t.me/kaibrenner) |
+| {{ site.icons.facebook }} | [Kai Brenner](https://www.facebook.com/kai.brenner.krank.war.gestern/) |
 
 ## Olav Müller-Liebenau
 
@@ -52,4 +60,4 @@ Walter Weber, Arzt - Hamburg
 Dr. Wolfgang Wodarg
 
 | {{ site.icons.globe }}    | [wodarg.com](https://wodarg.com/) |
-| {{ site.icons.facebook }} | [Dr-Wolfgang-Wodarg-83788386909](https://www.facebook.com/Dr-Wolfgang-Wodarg-83788386909) |
+| {{ site.icons.facebook }} | [Dr. Wolfgang Wodarg](https://www.facebook.com/Dr-Wolfgang-Wodarg-83788386909) |

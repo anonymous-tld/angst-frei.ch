@@ -39,6 +39,12 @@ Blauman.TV
 
 | {{ site.icons.youtube }}  | [BLAUMANN.TV](https://www.youtube.com/channel/UCqXyHhSk2oo1QLJ5wCzbQBw) |
 
+## Norbert Häring
+
+Norbert Häring ist ein deutscher Wirtschaftsjournalist. Er ist seit 2002 Redakteur für Wirtschaftswissenschaft und Konjunktur beim Handelsblatt. 
+
+| {{ site.icons.globe }}    | [norberthaering.de](https://norberthaering.de/) |
+
 ## Miriam Hope
 
 Miriam Hope
