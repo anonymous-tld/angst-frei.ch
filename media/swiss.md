@@ -53,6 +53,7 @@ Hinter der Plattform Infosperber.ch steht die gemeinnützige «Schweizerische St
 
 | {{ site.icons.globe }}    | [stricker.tv](https://www.stricker.tv/) |
 | {{ site.icons.youtube }}  | [StrickerTV](https://www.youtube.com/channel/UC4b0Zc5gTZqupfe0Twh-6RA) |
+| {{ site.icons.youtube }}  | [StrickerTV2](https://www.youtube.com/channel/UChlbCb754shuIOzmxw_61Bg) |
 | {{ site.icons.telegram }} | [strickertv](https://t.me/strickertv) |
 | {{ site.icons.facebook }} | [DanielStrickercom](https://www.facebook.com/DanielStrickercom) |
 

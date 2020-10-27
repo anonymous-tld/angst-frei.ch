@@ -8,7 +8,7 @@ subtitle: Filme
 
 Einige wenige Pharmaunternehmen teilen sich einen riesigen Markt und beeinflussen gesundheitspolitische Entscheidungen weltweit. Die Dokumentation "Big Pharma" schlüsselt die Praktiken der Unternehmen auf.
 
-{% include youtubePlayer.html id="DhVtd4jnSUg" %}
+{% include youtubePlayer.html id="WwHr4mYkhF4" %}
 
 ## Plandemic Indoctornation
 
