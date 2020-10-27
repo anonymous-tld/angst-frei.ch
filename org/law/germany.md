@@ -15,6 +15,8 @@ Außerparlamentarischer Corona Untersuchungsausschuss
 Wir sind eine Gruppe von unabhängigen Anwälten die sich vernetzt hat, um auf den unterschiedlichen Rechtsgebieten bei der Aufklärung der angeblichen Pandemie zu helfen und juristische Antworten auf die sich dabei stellenden Fragen zu finden.
 
 | {{ site.icons.globe }}    | [www.afa.zone](https://www.afa.zone/) |
+| {{ site.icons.youtube }}  | [Anwälte für Aufklärung](https://www.youtube.com/channel/UCBFOCCmCrkKNE8KMNXboSog) |
+| {{ site.icons.telegram }} | [Anwälte für Aufklärung](https://t.me/AnwaelteFuerAufklaerung) |
 
 ## Corona-Ausschuss
 
@@ -22,7 +24,7 @@ Der Corona-Ausschuss untersucht, warum die Bundes- und Landesregierungen beispie
 
 | {{ site.icons.globe }}    | [corona-ausschuss.de](https://corona-ausschuss.de/) |
 | {{ site.icons.youtube }}  | [Stiftung Corona-Ausschuss](https://www.youtube.com/channel/UCYcno3d4fvSvUWGOvoJelUg) |
-| {{ site.icons.telegram }} | [Corona_Ausschuss](https://t.me/Corona_Ausschuss) |
+| {{ site.icons.telegram }} | [corona-ausschuss.de](https://t.me/Corona_Ausschuss) |
 | {{ site.icons.twitter }}  | [CoronaAusschuss](https://twitter.com/CoronaAusschuss) |
 | {{ site.icons.facebook }} | [CoronaAusschuss](https://www.facebook.com/CoronaAusschuss/) |
 
