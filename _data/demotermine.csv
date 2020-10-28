@@ -1,12 +1,4 @@
 land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream
-CZ,2020-10-28,11:55:00,11000,Prag,Náměstí Republiky,Demonstration,
-CH,2020-10-28,14:00:00,3000,Bern,Bundesplatz,Mahnwache,
-DE,2020-10-28,14:30:00,50667,Köln,Heumarkt,Mahnwache,
-DE,2020-10-28,15:00:00,01662,Dresden,Prager Str.,Kundgebung,https://demo.stream/derdresdner
-DE,2020-10-28,18:00:00,10117,Berlin,Bundeskanzleramt,Kundgebung,https://demo.stream/mariagoetz
-DE,2020-10-28,19:00:00,92237,Sulzbach-Rosenberg,Luitpoldplatz,Versammlung,
-DE,2020-10-28,19:00:00,92237,Sulzbach-Rosenberg,Luitpoltplatz,Kundgebung,
-DE,2020-10-28,19:00:00,86343,Königsbrunn,Marktplatz,Vortrag,https://www.youtube.com/c/Augsburgunmaskiert
 DE,2020-10-29,00:00:00,10117,Berlin,Siegessäule,Kundgebung,
 NL,2020-10-29,10:00:00,3077AA,Rotterdam,Stadion De Kuip,Demonstration,https://demo.stream/liveport
 DE,2020-10-29,10:30:00,91054,Erlangen,Rathausplatz,Mahnwache,
@@ -44,7 +36,7 @@ DE,2020-10-31,14:30:00,26382,Wilhelmshaven,Pacific Cafe,Spaziergang,
 DE,2020-10-31,14:30:00,38855,Wernigerode,Marktplatz,Kundgebung,
 DE,2020-10-31,14:30:00,83278,Traunstein,Stadtplatz,Kundgebung,
 DE,2020-10-31,14:30:00,90403,Nürnberg,Gewerbemuseumsplatz,Demonstration,
-DE,2020-10-31,14:30:00,79100,Freiburg i.Br,Bertoldstra�e 30,Kundgebung,
+DE,2020-10-31,14:30:00,79100,Freiburg i.Br,Bertoldstr. 30,Kundgebung,
 DE,2020-10-31,14:30:00,28195,Bremen,Überseemuseum,Demonstration,
 DE,2020-10-31,14:55:00,53111,Bonn,Kaiserplatz,Demonstration,
 DE,2020-10-31,15:00:00,98574,Schmalkalden,Altmarkt,Kundgebung,
