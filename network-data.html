@@ -1,0 +1,30 @@
+---
+layout:
+title:
+permalink: /network-data/
+---
+
+{
+  "nodes": [
+    {% for node in site.data.network-nodes %}
+    {
+      "id": "{{ node.id }}",
+      "label": "{{ node.label }}",
+      "image": "/assets/img/graph/{{ node.image }}",
+      "group": "{{ node.group }}"
+    }
+    {%unless forloop.last %},{%endunless%}
+    {% endfor %}
+  ],
+  "edges": [
+    {% for edge in site.data.network-edges %}
+    {
+      "from": "{{ edge.from }}",
+      "to": "{{ edge.to }}",
+      "arrows": "{{ edge.arrows }}",
+      "title": "{{ edge.title }}"
+    }
+    {%unless forloop.last %},{%endunless%}
+    {% endfor %}
+  ]
+}
