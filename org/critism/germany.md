@@ -45,6 +45,12 @@ Herausgegeben von Anselm Lenz, Batseba N‘diaye und Hendrik Sodenkamp mit Prof.
 
 | {{ site.icons.globe }}       | [demokratischerwiderstand.de](https://demokratischerwiderstand.de/) |
 
+## Eltern für Aufklärung und Freiheit
+
+Wir setzen uns für die freie Entfaltung unserer Kinder ein, frei von Zwangsmassnahmen, die mit der derzeitigen Corona Situation begründet werden.
+
+| {{ site.icons.globe }}       | [www.eltern-fuer-aufklaerung.org](https://www.eltern-fuer-aufklaerung.org/) |
+
 ## Eltern stehen auf
 
 Für Freiheit, Recht und Selbstbestimmung der Kinder

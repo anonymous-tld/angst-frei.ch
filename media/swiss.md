@@ -47,6 +47,12 @@ Hinter der Plattform Infosperber.ch steht die gemeinnützige «Schweizerische St
 | {{ site.icons.globe }}    | [www.infosperber.ch](https://www.infosperber.ch/) |
 | {{ site.icons.globe }}    | [Coronavirus: Information statt Panik](https://www.infosperber.ch/Dossier/Coronavirus-Hysterie-oder-Gefahr) |
 
+## Die Ostschweiz
+
+Die Ostschweiz
+
+| {{ site.icons.globe }}    | [www.dieostschweiz.ch](https://www.dieostschweiz.ch/) |
+
 ## stricker.tv
 
 “Daniel Stricker ist der Wachhund der traditionellen Medien.” - NZZ am Sonntag

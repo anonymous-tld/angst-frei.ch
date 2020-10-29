@@ -5,7 +5,7 @@ subtitle:      "Ärztin für Arbeitsmedizin: Potentielle Schädlichkeit von Mask
 date:          2020-10-23
 categories:    Video
 tags:          [mediarebell, maske]
-mediarebellId: "ec1aOVFEI1lkgN9""
+mediarebellId: "ec1aOVFEI1lkgN9"
 ---
 
 {% include mediarebellPlayer.html id=page.mediarebellId %}
