@@ -44,10 +44,11 @@ Die BEWEGUNG ist der schnellste Weg etwas zu ändern. Es gibt nichts zu glauben,
 
 ## ![ET Video & Content-Logo](/assets/img/logos/et_video.jpg){:class="logo"} ET Video & Content
 
-ET Video & Content
+Elijah Tee - ET Video & Content
 
 | {{ site.icons.telegram }} | [etvideocontent](https://t.me/etvideocontent) |
 | {{ site.icons.youtube }}  | [ET Video & Content](https://www.youtube.com/channel/UCgY1gZzOWKSSdUPWCvIlZgg) |
+| {{ site.icons.youtube }}  | [Elijah Tee - ET Video & Content](https://www.youtube.com/channel/UCt9JJYHNQVsPt2srjJ9KZ6Q) |
 
 ## ![exomagazin.tv-Logo](/assets/img/logos/exomagazintv.jpg){:class="logo"} exomagazin.tv
 
