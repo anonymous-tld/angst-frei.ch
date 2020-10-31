@@ -10,6 +10,13 @@ subtitle: Deutschland
 * TOC
 {:toc}
 
+## ![5 Ideen-Logo](/assets/img/logos/5-ideen.jpg){:class="logo"} 5 Ideen
+
+Damit dir ein Licht aufgeht!
+
+| {{ site.icons.youtube }}  | [5 Ideen](https://www.youtube.com/channel/UCXTTZIvh1UAlf0kv6XHvOtg) |
+| {{ site.icons.telegram }} | [Dave Brych Kanal](https://t.me/davebrych_public) |
+
 ## ![Aachen Doku-Logo](/assets/img/logos/aachen_doku.jpg){:class="logo"} Aachen Doku
 
 Freie und faire Berichterstattung aus dem Großraum Aachen, Deutschland und der Welt.
@@ -85,12 +92,20 @@ KenFM ist ein freies Presseportal, eine Nachrichtenplattform, die bewusst das In
 
 | {{ site.icons.globe }}    | [kenfm.de](https://kenfm.de/) |
 | {{ site.icons.youtube }}  | [KenFM](https://www.youtube.com/user/wwwKenFMde) |
+| {{ site.icons.telegram }} | [KenFM](https://t.me/KenFM) |
 
 ## ![angst-frei.ch-Logo](/assets/img/logos/sun.png){:class="logo"} KOLLATERAL
 
 Man höre auch die andere Seite.
 
 | {{ site.icons.globe }}    | [kollateral.news](https://kollateral.news/) |
+
+## ![LION Media-Logo](/assets/img/logos/lion.jpg){:class="logo"} LION Media
+
+Freier Journalismus für den Durchblick in einer Zeit, die geprägt ist von politisch motivierter Desinformation.
+
+| {{ site.icons.youtube }}  | [LION Media](https://www.youtube.com/c/LIONMediaNetwork/) |
+| {{ site.icons.telegram }} | [LION Media](https://t.me/LIONMediaTelegram) |
 
 ## ![Multipolar-Logo](/assets/img/logos/multipolar.png){:class="logo"} Multipolar - Magazin
 
@@ -136,6 +151,12 @@ Wir schaffen Story-Welten: Erlebnis. Emotion. Erkenntnis.
 
 | {{ site.icons.globe }}    | [oval.media](https://oval.media/de/) |
 | {{ site.icons.youtube }}  | [OVALmedia](https://www.youtube.com/channel/UCHFutW4T9dpZqGk6e0OZL9Q) |
+
+## ![PI Politik Spezial-Logo](/assets/img/logos/pi.jpg){:class="logo"} PI Politik Spezial
+
+Markus Gärtner
+
+| {{ site.icons.youtube }}  | [PI Politik Spezial - Stimme der Vernunft](https://www.youtube.com/channel/UCi5RJM_p1NajcGdBQfjyU4A) |
 
 ## ![RT Deutsch-Logo](/assets/img/logos/rt_deutsch.png){:class="logo"} RT Deutsch
 

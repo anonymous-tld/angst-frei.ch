@@ -11,7 +11,9 @@ Bittel TV
 | {{ site.icons.youtube }}  | [Bittel TV](https://www.youtube.com/c/BITTELTV) |
 | {{ site.icons.youtube }}  | [Bittel TV 2](https://www.youtube.com/channel/UCHfqgvjntX8kXYOl08j2pAg) |
 | {{ site.icons.youtube }}  | [Bittel TV 3](https://www.youtube.com/channel/UClg3R88fje-5MLDrFvly_Lw) |
-| {{ site.icons.telegram }} | [bitteltv](https://t.me/bitteltv) |
+| {{ site.icons.telegram }} | [Bittel TV - Einfach anders](https://t.me/bitteltv) |
+| {{ site.icons.telegram }} | [Bittel TV - Linksammlung](https://t.me/bitteltv_links) |
+| {{ site.icons.telegram }} | [Bittel TV - Austausch](https://t.me/bitteltv_austausch) |
 
 ## Corona-Transition
 

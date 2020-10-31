@@ -40,11 +40,23 @@ Wir gestalten ein GEMEINSAMES Vorgehen von kreativen und vor allem FRIEDvollen A
 
 | {{ site.icons.facebook }} | [FRIEDvolles Einstehen für unsere Grundrechte und Demokratie](https://www.facebook.com/groups/2589298507992281/about) |
 
+## GnueHeuDunge
+
+Geistreiches Informations- und Aufklärungsportal
+
+| {{ site.icons.globe }}    | [gnueheudunge.ch](https://gnueheudunge.ch/) |
+
 ## Maskenfrei.ZH
 
 Gruppe, um im Kanton ZH Aktionen gegen die Maskenpflicht zu organisieren. Z.B. gemeinsames Einkaufen oder Fahren im OeV.
 
 | {{ site.icons.telegram }} | [maskenfrei_Zuerich](https://t.me/maskenfrei_Zuerich) |
+
+## Verein Itus
+
+Es ist Zeit etwas zu tun – jetzt!
+
+| {{ site.icons.globe }}    | [verein-itus.ch](https://verein-itus.ch/) |
 
 ## WIR2020
 

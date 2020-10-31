@@ -64,11 +64,17 @@ Du möchtest Flugblätter, Infobriefe und Informationen in Deiner Gegend verteil
 | {{ site.icons.globe }}       | [freiheitsboten.de](https://www.freiheitsboten.de/) |
 | {{ site.icons.telegram }}    | [Freiheitsboten](https://t.me/Freiheitsboten) |
 
+## Herzensmenschen United!
+
+Der Herzmensch ist ein lächelndes, fröhliches Lebewesen. Menschen dieser Kategorie gehen Situationen immer positiv an. Erfahrungen werden aufgesogen und mit extremer Herzintensität diskutiert und einem kräftigen Denkverfahren unterzogen
+
+| {{ site.icons.telegram }}    | [Herzensmenschen United!](https://t.me/HerzensmenschenUnited) |
+
 ## Kritische Polizisten
 
 Bundesarbeitsgemeinschaft kritischer Polizistinnen und Polizisten (Hamburger Signal) e.V.
 
-| {{ site.icons.globe }}    | [www.kritische-polizisten.de](https://www.kritische-polizisten.de/) |
+| {{ site.icons.globe }}       | [www.kritische-polizisten.de](https://www.kritische-polizisten.de/) |
 
 ## Lehrer für Aufklärung
 
