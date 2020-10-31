@@ -150,7 +150,10 @@ NuoViso wurde bereits 2005 gegründet und zählt zu den Pionieren in der der alt
 Wir schaffen Story-Welten: Erlebnis. Emotion. Erkenntnis.
 
 | {{ site.icons.globe }}    | [oval.media](https://oval.media/de/) |
+| {{ site.icons.globe }}    | [live.oval.media](https://live.oval.media/) |
 | {{ site.icons.youtube }}  | [OVALmedia](https://www.youtube.com/channel/UCHFutW4T9dpZqGk6e0OZL9Q) |
+| {{ site.icons.movie }}    | [bitchute: OVALmedia](https://bitchute.com/ovalmedia/) |
+| {{ site.icons.telegram }} | [OVALmedia](https://t.me/ovalMedia) |
 
 ## ![PI Politik Spezial-Logo](/assets/img/logos/pi.jpg){:class="logo"} PI Politik Spezial
 
