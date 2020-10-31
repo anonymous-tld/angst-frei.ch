@@ -7,5 +7,4 @@ categories: Video
 tags:       [youtube, bittel, bhakdi]
 youtubeId:  "VfW_IuAe8L0"
 ---
-
 {% include youtubePlayer.html id=page.youtubeId %}

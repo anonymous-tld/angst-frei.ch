@@ -20,6 +20,12 @@ Kai Brenner ist Gesundheitsberater, Krankenpfleger und Krankenhaus-Spezialist.
 | {{ site.icons.telegram }} | [Kai Brenner - Krank war gestern](https://t.me/kaibrenner) |
 | {{ site.icons.facebook }} | [Kai Brenner](https://www.facebook.com/kai.brenner.krank.war.gestern/) |
 
+## Eugen Janzen
+
+Eugen Janzen
+
+| {{ site.icons.youtube }}  | [Eugen Janzen](https://www.youtube.com/channel/UC9eYgck3eZUj_0t-V2FfkWg) |
+
 ## Olav Müller-Liebenau
 
 Olav Müller-Liebenau, Arzt - Hamburg
