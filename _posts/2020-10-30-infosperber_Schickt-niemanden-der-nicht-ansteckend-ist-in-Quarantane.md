@@ -1,0 +1,8 @@
+---
+date:          2020-10-30
+redirect:      https://www.infosperber.ch/Artikel/Gesundheit/Schickt-niemanden-der-nicht-ansteckend-ist-in-Quarantane
+title:         INFOsperber
+subtitle:      "Schickt niemanden, der nicht ansteckend ist, in Quarantäne!"
+categories:    Medien
+tags:          [infosperber, massnahmen]
+---

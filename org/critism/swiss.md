@@ -46,6 +46,12 @@ Geistreiches Informations- und Aufklärungsportal
 
 | {{ site.icons.globe }}    | [gnueheudunge.ch](https://gnueheudunge.ch/) |
 
+## Inside Corona
+
+InsideCorona ist eine unabhängige Plattform und eine Bewegung von Unternehmerinnen und Unternehmer sowie Expertinnen und Experten, welche von Dr. med. Stephan Rietiker ins Leben gerufen wurde.
+
+| {{ site.icons.globe }}    | [www.insidecorona.ch](https://www.insidecorona.ch/) |
+
 ## Maskenfrei.ZH
 
 Gruppe, um im Kanton ZH Aktionen gegen die Maskenpflicht zu organisieren. Z.B. gemeinsames Einkaufen oder Fahren im OeV.
