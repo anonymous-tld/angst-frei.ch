@@ -1,18 +1,4 @@
 land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream
-NL,2020-11-01,01:20:00,8917EN,Leeuwarden,Zwembad de blauwe golf,Demonstration,https://demo.stream/liveport
-AT,2020-11-01,10:00:00,1010,Wien,Rathausplatz,Kundgebung,
-AT,2020-11-01,10:00:00,1010,Wien,Heldenplatz,Kundgebung,
-DE,2020-11-01,10:00:00,02730,Ebersbach-Neugersdorf,B 96,Menschenkette,
-DE,2020-11-01,10:45:00,75015,Bretten,Marktplatz,Meditation,
-DE,2020-11-01,11:00:00,71638,Ludwigsburg,Schlosspark / Forum,Kundgebung,
-DE,2020-11-01,11:00:00,91301,Forchheim,Paradeplatz,Kundgebung,
-DE,2020-11-01,11:00:00,91301,Forchheim,Am Streckerpl. 3 / Landratsamt,Kundgebung,
-NL,2020-11-01,13:30:00,8911,Leeuwarden,Blauwe golf Leeuwarden,Demonstration,https://www.facebook.com/groups/302712857518469/permalink/358939268562494/
-DE,2020-11-01,14:00:00,79761,Waldshut,Viehmarktplatz,Kundgebung,
-AT,2020-11-01,14:00:00,6900,Bregenz,Festspielhaus,Kundgebung,
-DE,2020-11-01,14:00:00,10117,Berlin,Brandenburger Tor / 18. Maerz,Spaziergang,https://demo.stream/live
-DE,2020-11-01,15:00:00,07318,Saalfeld,Markt,Kundgebung,
-DE,2020-11-01,15:00:00,69231,Rauenberg,Rathausplatz,Kundgebung,
 DE,2020-11-02,11:30:00,55116,Mainz,Bauhofstr. / Kaiserstr.,Kundgebung,
 DE,2020-11-02,15:30:00,84347,Pfarrkirchen,Volksfestplatz / Parkplatz,Demonstration,
 DE,2020-11-02,16:00:00,46045,Oberhausen,Elsässer Str. / Marktstr. ,Demonstration,
@@ -82,6 +68,7 @@ DE,2020-11-14,14:30:00,31141,Hildesheim,Platz auf der Lilie,Spaziergang,
 DE,2020-11-14,15:00:00,52062,Aachen,Monheimsallee 48 / Eurogress,Kundgebung,
 DE,2020-11-14,16:00:00,79650,Schopfheim,Marktplatz,Mahnwache,
 DE,2020-11-14,16:00:00,48143,Münster,Stubengasse / Karstadt Sport,Kundgebung,
+DE,2020-11-14,16:00:00,96047,Bamberg,Maxplatz,Kundgebung,
 DE,2020-11-15,13:00:00,83527,Haag,Marktplatz,Kundgebung,
 DE,2020-11-15,15:00:00,69231,Rauenberg,Rathausplatz,Kundgebung,
 DE,2020-11-16,11:30:00,55116,Mainz,Bauhofstr. / Kaiserstr.,Kundgebung,
