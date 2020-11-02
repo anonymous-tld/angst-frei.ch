@@ -20,6 +20,13 @@ Kai Brenner ist Gesundheitsberater, Krankenpfleger und Krankenhaus-Spezialist.
 | {{ site.icons.telegram }} | [Kai Brenner - Krank war gestern](https://t.me/kaibrenner) |
 | {{ site.icons.facebook }} | [Kai Brenner](https://www.facebook.com/kai.brenner.krank.war.gestern/) |
 
+## Anja Heitlinger
+
+Anja Heitlinger Lebensberatung
+
+| {{ site.icons.globe }}    | [anja-heitlinger.de](https://anja-heitlinger.de/) |
+| {{ site.icons.movie }}    | [bitchute: Anja-H.](https://www.bitchute.com/channel/xPW2txH5mo5A/) |
+
 ## Eugen Janzen
 
 Eugen Janzen
