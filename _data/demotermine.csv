@@ -1,5 +1,6 @@
 land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream
 DE,2020-11-03,15:00:00,67547,Worms,Bahnhof,Lichterkette,
+DE,2020-11-04,16:00:00,10178,Berlin,Alexanderplatz,Kundgebung,
 DE,2020-11-04,18:00:00,15344,Strausberg,Predigerstr. 2 / Marienkirche,Spaziergang,
 DE,2020-11-04,18:00:00,10117,Berlin,Bundeskanzleramt,Kundgebung,https://demo.stream/mariagoetz
 US,2020-11-05,10:30:00,33602,Tampa / Florida,Lykes Gaslight Park,MillionMaskMarch,
@@ -47,6 +48,7 @@ DE,2020-11-08,10:45:00,75015,Bretten,Marktplatz,Meditation,
 DE,2020-11-08,13:00:00,83536,Gars,Marktplatz,Kundgebung,
 DE,2020-11-08,15:00:00,69231,Rauenberg,Rathausplatz,Kundgebung,
 DE,2020-11-08,16:00:00,10117,Berlin,Brandenburger Tor,Kundgebung,
+DE,2020-11-09,07:00:00,73728,Esslingen,Marktplatz,Treffpunkt,
 DE,2020-11-09,11:30:00,55116,Mainz,Bauhofstr. / Kaiserstr.,Kundgebung,
 DE,2020-11-09,14:30:00,82362,Weilheim,Marienplatz,Mahnwache,
 DE,2020-11-09,17:45:00,50674,Köln,Aachener Weiher,Mahnwache,
