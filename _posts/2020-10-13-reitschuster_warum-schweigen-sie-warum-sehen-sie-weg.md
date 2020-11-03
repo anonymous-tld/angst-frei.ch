@@ -4,5 +4,5 @@ redirect:      https://www.reitschuster.de/post/warum-schweigen-sie-warum-sehen-
 title:         reitschuster
 subtitle:      "Warum schweigen Sie? Warum sehen Sie weg?"
 categories:    Medien
-tags:          [reitschuster, gewalt]
+tags:          [reitschuster, polizei]
 ---

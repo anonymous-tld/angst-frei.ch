@@ -1,5 +1,5 @@
 ---
-title:      "Swissmedic"
+title:      Swissmedic
 subtitle:   "Merkblatt zur aktuellen COVID-19 Testung in der Schweiz Swissmedic BAG"
 date:       2020-05-20
 categories: Datei

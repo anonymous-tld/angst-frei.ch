@@ -18,6 +18,12 @@ Freie und belegte Behandlungskapazitäten in der Intensivmedizin von etwa 1.300 
 
 | {{ site.icons.globe }}    | [www.intensivregister.de](https://www.intensivregister.de/) |
 
+## Covid-19 bei Helios
+
+Täglich die Zahlen zur Betten-Auslastung der 86 Kliniken in Deutschland
+
+| {{ site.icons.globe }}    | [www.helios-gesundheit.de](https://www.helios-gesundheit.de/qualitaet/auslastung/) |
+
 ## Robert Koch Institut
 
 Die offiziellen Daten vom RKI.
