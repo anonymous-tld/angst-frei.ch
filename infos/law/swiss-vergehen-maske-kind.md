@@ -127,15 +127,15 @@ Verweigert er/sie auch dies, dann bekommt er anderntags von den Eltern einen <a 
 
 Das Doppel dieses Einschreibens dient als Beweismittel für eine umgehend einzureichende Strafanzeige wegen Nötigung gem. Art 181. StBG gegen diejenige/denjenigen die Zwangsausübenden.
 
-### eMail
+## eMail
 
 Sollte jemand, wie das vorkommt, Ihnen per eMail mitteilen, nicht medizinische Gründe seien nicht mehr gültig, bitte untenstehende <a href="#beschwerde">Vorlage</a> verwenden.
 
 Ausser der Art (eMail) solcher Kommunikation ist auch der Zeitpunkt eine Frechheit, die abzulehnen ist. Es geht nicht an, dass Eltern diese eMails um 20<sup>00</sup> erhalten, was den Schulbesuch der Kinder für den nächsten Tag anbelangt.
 
-### Beschwerde
+## Beschwerde
 
-#### Vorlage
+### Vorlage
 
 | <a href="/assets/files/law/photo_2020-11-04 09.48.32.jpeg">![Musterschreiben Eltern 1](/assets/files/law/photo_2020-11-04 09.48.32.jpeg)</a> | <a href="/assets/files/law/photo_2020-11-04 09.48.39.jpeg">![Musterschreiben Eltern 2](/assets/files/law/photo_2020-11-04 09.48.39.jpeg)</a> |
 {: .image-table}
