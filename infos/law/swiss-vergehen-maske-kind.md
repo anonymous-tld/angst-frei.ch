@@ -111,7 +111,7 @@ Fehlt auch nur eines dieser Merkmale sind staatliche Anordnungen, und dazu gehö
 
 ## Vorgehen
 
-Attest herunterladen und ausdrucken:
+Attest von [Heinz Raschein]({{site.baseurl}}/person/law/swiss.html#heinz-raschein) herunterladen und ausdrucken:
 
   * <a href="{{site.baseurl}}/assets/files/law/Attest-23102020.pdf">Sach- und Rechtsattest</a>
   * <a href="{{site.baseurl}}/assets/files/law/Attestation fait et droit 25.10.2020.pdf">Attestation de fait et de droit</a>
@@ -121,7 +121,7 @@ Schicken Sie Ihr Kind mit dem von Ihnen und dem Kind unterschriebenen Sach- und 
 
 ## Beweissicherung
 
-Wer dieses Dokument nicht aktzeptieren will, wird gebeten, seine/ihre Weigerung auf dem Dokument selbst unterschriftlich zu bestätigen. Heinz Raschein nimmt gerne jede rechtliche Beanstandung seiner rechtlichen Ausführungen entgegen. 
+Wer dieses Dokument nicht aktzeptieren will, wird gebeten, seine/ihre Weigerung auf dem Dokument selbst unterschriftlich zu bestätigen. [Heinz Raschein]({{site.baseurl}}/person/law/swiss.html#heinz-raschein) nimmt gerne jede rechtliche Beanstandung seiner rechtlichen Ausführungen entgegen. 
 
 Verweigert er/sie auch dies, dann bekommt er anderntags von den Eltern einen <a href="#beschwerde">eingeschriebenen Brief</a>, worin ihm mitgeilt wird, dass er/sie am Kind **Gesichtsverhüllungszwang** ausgeübt hat.
 
