@@ -106,8 +106,9 @@ Fehlt auch nur eines dieser Merkmale sind staatliche Anordnungen, und dazu gehö
 ### Weiterführende Link 
 
  * [Medizinische und juristische Informationen zu Maskenpflicht und Befreiungsmöglichkeiten](https://www.mwgfd.de/zur-maskenpflicht/)
- * <a href="{{site.baseurl}}/assets/files/health/201018 Info-Schulbrief-BUNDESLANDUNABHAeNGIG.pdf">Informationsbrief für SchulleiterInnen, Lehrkräfte und Eltern schulpflichtiger Kinder bzgl. des neuen Hygieneplans</a>
+ * [Informationsbrief für SchulleiterInnen, Lehrkräfte und Eltern schulpflichtiger Kinder bzgl. des neuen Hygieneplan](/assets/files/health/201018 Info-Schulbrief-BUNDESLANDUNABHAeNGIG.pdf)
  * [Anästhesistin und Notfallärztin Heike Sensendorf klärt auf!](https://mauricejanich.de/heike-sensendorf/) 
+ * [Flyer rund ums Thema Corona - eine Einladung zum selber denken](/assets/files/health/flyer_corona_a4.pdf)
 
 ## Vorgehen
 
@@ -158,6 +159,24 @@ Sollte eine Schule auf einem Unterrichtsobligatorium bestehen, ist Widerstand zu
 
 Vollmacht, welche [Heinz Raschein]({{site.baseurl}}/person/law/swiss.html#heinz-raschein) bevollmächtigt, Sie und Ihr Kind gegenüber der Schulleitung anwaltlich zu vertreten. Das muss aber vorher mit ihm abgesprochen werden.
 
+## Videos
+
+### Experten klären auf - Generation 2020: Deutschlands Kinder in Not
+
+{% include bitchutePlayer.html id="KUlPJG0fdNX3" %}
+
+### Anästhesistin und Notfallärztin Heike Sensendorf klärt auf!
+
+{% include youtubePlayer.html id="fxcoc02rhGc" %}
+
+### Wichtige Botschaft von Neurologin Dr. Margareta Griesz-Brisson
+
+{% include bitchutePlayer.html id="xD5gvDL3RIGb" %}
+
+### Kinderarzt Eugen Janzen erklärt warum für Kinder Mund Nasen Schutz so gefährlich ist
+
+{% include bitchutePlayer.html id="hd796VYYyIUr" %}
+
 ## Homeschooling
 
 ### Links zum Thema Homschooling
@@ -169,7 +188,8 @@ Vollmacht, welche [Heinz Raschein]({{site.baseurl}}/person/law/swiss.html#heinz-
 
 ## Referenz
 
-[Heinz Raschein]({{site.baseurl}}/person/law/swiss.html#heinz-raschein)  
-[Bodo Schiffmann]({{site.baseurl}}/person/health/germany.html#bodo-schiffmann)  
+[Heinz Raschein](/person/law/swiss.html#heinz-raschein)  
+[Bodo Schiffmann](/person/health/germany.html#bodo-schiffmann)  
+[aletheia-scimed.ch](/org/health/swiss.html#aletheia)
 
 {% include social-share.html %}
