@@ -111,6 +111,8 @@ Fehlt auch nur eines dieser Merkmale sind staatliche Anordnungen, und dazu gehö
 
 ## Vorgehen
 
+### Attest verwenden
+
 Attest von [Heinz Raschein]({{site.baseurl}}/person/law/swiss.html#heinz-raschein) herunterladen und ausdrucken:
 
   * <a href="{{site.baseurl}}/assets/files/law/Attest-23102020.pdf">Sach- und Rechtsattest</a>
@@ -119,7 +121,7 @@ Attest von [Heinz Raschein]({{site.baseurl}}/person/law/swiss.html#heinz-raschei
 
 Schicken Sie Ihr Kind mit dem von Ihnen und dem Kind unterschriebenen Sach- und Rechtsattest zur Schule, sofern es selbst auch die Maske verweigern will.
 
-## Beweissicherung
+### Beweissicherung
 
 Wer dieses Dokument nicht aktzeptieren will, wird gebeten, seine/ihre Weigerung auf dem Dokument selbst unterschriftlich zu bestätigen. [Heinz Raschein]({{site.baseurl}}/person/law/swiss.html#heinz-raschein) nimmt gerne jede rechtliche Beanstandung seiner rechtlichen Ausführungen entgegen. 
 
@@ -127,20 +129,20 @@ Verweigert er/sie auch dies, dann bekommt er anderntags von den Eltern einen <a 
 
 Das Doppel dieses Einschreibens dient als Beweismittel für eine umgehend einzureichende Strafanzeige wegen Nötigung gem. Art 181. StBG gegen diejenige/denjenigen die Zwangsausübenden.
 
-## eMail
+#### eMail
 
 Sollte jemand, wie das vorkommt, Ihnen per eMail mitteilen, nicht medizinische Gründe seien nicht mehr gültig, bitte untenstehende <a href="#beschwerde">Vorlage</a> verwenden.
 
 Ausser der Art (eMail) solcher Kommunikation ist auch der Zeitpunkt eine Frechheit, die abzulehnen ist. Es geht nicht an, dass Eltern diese eMails um 20<sup>00</sup> erhalten, was den Schulbesuch der Kinder für den nächsten Tag anbelangt.
 
-## Beschwerde
+### Beschwerde
 
-### Vorlage
+#### Vorlage
 
 | <a href="/assets/files/law/photo_2020-11-04 09.48.32.jpeg">![Musterschreiben Eltern 1](/assets/files/law/photo_2020-11-04 09.48.32.jpeg)</a> | <a href="/assets/files/law/photo_2020-11-04 09.48.39.jpeg">![Musterschreiben Eltern 2](/assets/files/law/photo_2020-11-04 09.48.39.jpeg)</a> |
 {: .image-table}
 
-## Weiteres Vorgehen
+### Weiteres Vorgehen
 
 Wenn man die Möglichkeit hat, das Kind selbst zu unterrichten, soll es zuhause bleiben und [von den Eltern](#homeschooling) unterrichtet werden. 
 
@@ -167,6 +169,6 @@ Vollmacht, welche [Heinz Raschein]({{site.baseurl}}/person/law/swiss.html#heinz-
 
 ## Referenz
 
-[Heinz Raschein]({{site.baseurl}}/person/law/swiss.html#heinz-raschein)
-[Bodo Schiffmann]({{site.baseurl}}/person/health/germany.html#bodo-schiffmann)
+[Heinz Raschein]({{site.baseurl}}/person/law/swiss.html#heinz-raschein)  
+[Bodo Schiffmann]({{site.baseurl}}/person/health/germany.html#bodo-schiffmann)  
 
