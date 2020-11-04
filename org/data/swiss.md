@@ -10,6 +10,12 @@ Die offiziellen Daten vom BAG.
 
 | {{ site.icons.globe }} | [Situation Schweiz](https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html) |
 
+## Swiss National COVID-19 Science Task Force
+
+Lagebericht
+
+| {{ site.icons.globe }} | [Effektive Reproduktionszahl](https://ncs-tf.ch/de/lagebericht) |
+
 ## Spitalkapazitäten
 
 Die Daten stammen von den Spitälern, je nach Spital sind die Datenstände unterschiedlich. Negative Werte können eine mögliche Überbelegung dokumentieren.

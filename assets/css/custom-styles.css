@@ -7,6 +7,14 @@ table td:first-of-type {
   text-align: center;
 }
 
+.image-table td:first-of-type {
+  width: auto;
+}
+
+blockquote blockquote p {
+  padding-left: 5%;
+}
+
 h1, h2, h3, h4 {
   margin-top: 2.5rem;
 }

@@ -1,4 +1,10 @@
 toc:
+  - title: Infos
+    subfolderitems:
+      - page: Recht
+        subsubfolderitems:
+          - page: Schweiz - Vorgehen Maske Kind
+            url: infos/law/swiss-vergehen-maske-kind.html
   - title: Medien
     subfolderitems:
       - page: Filme
