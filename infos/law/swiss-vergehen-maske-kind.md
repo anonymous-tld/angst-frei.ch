@@ -172,3 +172,4 @@ Vollmacht, welche [Heinz Raschein]({{site.baseurl}}/person/law/swiss.html#heinz-
 [Heinz Raschein]({{site.baseurl}}/person/law/swiss.html#heinz-raschein)  
 [Bodo Schiffmann]({{site.baseurl}}/person/health/germany.html#bodo-schiffmann)  
 
+{% include social-share.html %}
