@@ -27,10 +27,7 @@ subtitle: Schweiz - Vorgehen Maske Kind
 > >  a. Kinder vor ihrem 12. Geburtstag;  
 > >  b. Personen, die nachweisen können, dass sie aus besonderen Gründen, insbe- sondere medizinischen, keine Gesichtsmasken tragen können.  
 >
-> <sup>2</sup> Als Fahrzeuge des öffentlichen Verkehrs nach Absatz 1 gelten:  
->
-> > a. Fahrzeuge von Unternehmen mit einer Konzession nach Artikel 6 oder einer Bewilligung nach Artikel 8 des Personenbeförderungsgesetzes vom 20. März 2009<sup>5</sup>; davon ausgenommen sind Skilifte und Sesselbahnen; für diese gelten die Massnahmen, die der Betreiber im Schutzkonzept festlegt;  
-> > b. Luftfahrzeuge von Unternehmen mit einer Betriebsbewilligung nach Artikel 27 oder 29 des Luftfahrtgesetzes vom 21. Dezember 1948<sup>6</sup>, die im Linien- oder Charterverkehr eingesetzt werden.  
+> [...]
 >
 > <strong>Art. 3*b*<sup>7</sup></strong> Personen in öffentlich zugänglichen Bereichen von Einrichtungen und Betrieben und in Zugangsbereichen des öffentlichen Verkehrs  
 >
@@ -102,6 +99,10 @@ Fehlt auch nur eines dieser Merkmale sind staatliche Anordnungen, und dazu gehö
 > * Das Recht des Kindes auf Leben, Überleben und Entwicklung  
 > * Das Recht des Kindes auf Schutz, namentlich vor Missbrauch und Ausbeutung  
 > * Ein Diskriminierungsverbot  
+
+### Kantonale Verfügungen
+
+ * [Zürich: Verfügung Bildungsdirektion: Volksschulen. Vorgaben Schutzkonzepte vom 28.10.2020](/assets/files/law/verfuegung_bi_vorgaben_schutzkonzepte.pdf)
 
 ### Weiterführende Link 
 
