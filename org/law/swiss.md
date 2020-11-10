@@ -18,6 +18,18 @@ Gratis Rechtsberatung im Zusammenhang mit der Corona-Krise.
 
 | {{ site.icons.globe }} | [www.corona-legal.ch](https://www.corona-legal.ch/) |
 
+## Jetzt klagen.
+
+BAG-IVI-Swissmedic-Fall, jetzt klagen: die Corona-Massnahmen stoppen und den Verantwortlichen die Möglichkeit geben, sich zu erklären. Unterstützer.innen willkommen!
+
+| {{ site.icons.globe }} | [www.bag-ivi-swissmedic-fall.ch](https://www.bag-ivi-swissmedic-fall.ch) |
+
+## Neue Volkspartei
+
+Grundrechte sind nicht verhandelbar.
+
+| {{ site.icons.globe }} | [www.neue-volkspartei.ch](https://www.neue-volkspartei.ch/) |
+
 ## Notrecht Referendum
 
 Notrecht Referendum

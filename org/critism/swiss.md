@@ -52,6 +52,12 @@ InsideCorona ist eine unabhängige Plattform und eine Bewegung von Unternehmerin
 
 | {{ site.icons.globe }}    | [www.insidecorona.ch](https://www.insidecorona.ch/) |
 
+## Licht ins Corona-Dunkel
+
+LICHT INS CORONA-DUNKEL ist unser aller Kind.
+
+| {{ site.icons.globe }}    | [www.licht-ins-corona-dunkel.ch§](https://www.licht-ins-corona-dunkel.ch/) |
+
 ## Maskenfrei.ZH
 
 Gruppe, um im Kanton ZH Aktionen gegen die Maskenpflicht zu organisieren. Z.B. gemeinsames Einkaufen oder Fahren im OeV.
