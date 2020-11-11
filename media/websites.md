@@ -31,3 +31,9 @@ Eine Studie deckt auf, was viele schon vermutet hatten
 Wichtig für Lehrer, Schüler, Eltern, Ersthelfer: Anästhesistin und Notfallärztin Heike Sensendorf klärt auf!
 
 | {{ site.icons.globe }}    | [mauricejanich.de](https://mauricejanich.de/heike-sensendorf/) |
+
+### Maskenpflicht kann fahrlässige Körperverletzung sein!
+
+Jeder Mensch hat das Recht auf seine körperliche Unversehrtheit.
+
+| {{ site.icons.globe }}    | [https://rolandbeek.wordpress.com](https://rolandbeek.wordpress.com/2020/11/05/maskenpflicht-kann-fahrlassige-korperverletzung-sein/) |

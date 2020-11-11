@@ -7,6 +7,16 @@ table td:first-of-type {
   text-align: center;
 }
 
+.dlive {
+  background: url('/assets/img/logos/dlive.jpg');
+  background-size: contain;
+  height: 18px;
+  width: 18px;
+  display: flex;
+  font-style: normal;
+  margin: auto;
+}
+
 .image-table td:first-of-type {
   width: auto;
 }

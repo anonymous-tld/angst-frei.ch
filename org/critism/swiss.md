@@ -64,6 +64,12 @@ Gruppe, um im Kanton ZH Aktionen gegen die Maskenpflicht zu organisieren. Z.B. g
 
 | {{ site.icons.telegram }} | [maskenfrei_Zuerich](https://t.me/maskenfrei_Zuerich) |
 
+## Aktionsbündnis Urkantone
+
+Für eine vernünftige Corona-Politik
+
+| {{ site.icons.globe }}    | [www.ur-kantone.ch](https://www.ur-kantone.ch/) |
+
 ## Verein Itus
 
 Es ist Zeit etwas zu tun – jetzt!

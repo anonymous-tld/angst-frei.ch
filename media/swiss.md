@@ -8,6 +8,7 @@ subtitle: Schweiz
 
 Bittel TV
 
+| {{ site.icons.dlive }}    | [bitteltv](https://dlive.tv/bitteltv) |
 | {{ site.icons.youtube }}  | [Bittel TV](https://www.youtube.com/c/BITTELTV) |
 | {{ site.icons.youtube }}  | [Bittel TV 2](https://www.youtube.com/channel/UCHfqgvjntX8kXYOl08j2pAg) |
 | {{ site.icons.youtube }}  | [Bittel TV 3](https://www.youtube.com/channel/UClg3R88fje-5MLDrFvly_Lw) |

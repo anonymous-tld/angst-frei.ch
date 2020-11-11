@@ -27,10 +27,17 @@ Anja Heitlinger Lebensberatung
 | {{ site.icons.globe }}    | [anja-heitlinger.de](https://anja-heitlinger.de/) |
 | {{ site.icons.movie }}    | [bitchute: Anja-H.](https://www.bitchute.com/channel/xPW2txH5mo5A/) |
 
+## Maurice Janich
+
+Kraft Deiner Gedanken
+
+| {{ site.icons.globe }}    | [mauricejanich.de](https://mauricejanich.de/) |
+
 ## Eugen Janzen
 
 Eugen Janzen
 
+| {{ site.icons.globe }}    | [www.kinderarzteugenjanzen.com](https://www.kinderarzteugenjanzen.com/) |
 | {{ site.icons.youtube }}  | [Eugen Janzen](https://www.youtube.com/channel/UC9eYgck3eZUj_0t-V2FfkWg) |
 
 ## Olav Müller-Liebenau
@@ -45,6 +52,7 @@ Dr. Bodo Schiffmann
 
 | {{ site.icons.globe }}    | [www.schwindelambulanz-sinsheim.de](https://www.schwindelambulanz-sinsheim.de/) |
 | {{ site.icons.movie }}    | [bitchute: Alles_Ausser_Mainstream](https://www.bitchute.com/channel/BFqZplJLluQB/) |
+| {{ site.icons.dlive }}    | [Boschimo](https://dlive.tv/Boschimo) |
 | {{ site.icons.youtube }}  | [Alles Ausser Mainstream Dr. Bodo Schiffmann](https://www.youtube.com/channel/UC94WBmb8xvVUcV_b9Px0P3A) |
 | {{ site.icons.telegram }} | [alles_ausser_mainstream](https://t.me/alles_ausser_mainstream) |
 | {{ site.icons.forward }}  | [Coronainfo-Tour]({{ site.baseurl }}/org/critism/germany.html#coronainfo-tour) |

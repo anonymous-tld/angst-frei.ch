@@ -4,6 +4,12 @@ title:    Kritik
 subtitle: Schweiz
 ---
 
+## Roland Beek
+
+Roland Beek
+
+| {{ site.icons.globe }}    | [rolandbeek.wordpress.com](https://rolandbeek.wordpress.com) |
+
 ## Roger Bittel
 
 Roger Bittel
@@ -15,6 +21,7 @@ Roger Bittel
 Samuel Eckert
 
 | {{ site.icons.globe }}    | [samueleckert.net](https://samueleckert.net/) |
+| {{ site.icons.dlive }}    | [samueleckert](https://dlive.tv/samueleckert) |
 | {{ site.icons.youtube }}  | [Samuel Eckert](https://www.youtube.com/c/SamuelEckert) |
 | {{ site.icons.telegram }} | [Samuel Eckert](https://t.me/samueleckert) |
 | {{ site.icons.forward }}  | [Coronainfo-Tour]({{ site.baseurl }}/org/critism/germany.html#coronainfo-tour) |
