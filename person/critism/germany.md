@@ -32,6 +32,12 @@ Andreas Beutel
 | {{ site.icons.telegram }} | [AndreasBeutelPythagorasInstitut](https://t.me/AndreasBeutelPythagorasInstitut) |
 | {{ site.icons.facebook }} | [Pythagoras.Institut](https://www.facebook.com/Pythagoras.Institut) |
 
+## Dave Brych
+
+Dave Brych
+
+| {{ site.icons.forward }}  | [5 Ideen]({{ site.baseurl }}/media/germany.html#-5-ideen) |
+
 ## Joe Conrad
 
 Joe Conrad

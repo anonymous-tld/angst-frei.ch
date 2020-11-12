@@ -1,12 +1,12 @@
 ---
 layout:     post
-title:      Youtube
+title:      bitchute
 subtitle:   "Hohe Gesundheitsrisiken durch das Maskentragen bei Kindern"
 date:       2020-10-28
 timeline:   true
 categories: Video
-tags:       [youtube, kind]
-youtubeId:  "3yiQ7xpVako"
+tags:       [bitchute, kind]
+bitchuteId: "OBK4JJ0jNsYy"
 ---
 
-{% include youtubePlayer.html id=page.youtubeId %}
+{% include bitchutePlayer.html id=page.bitchuteId %}

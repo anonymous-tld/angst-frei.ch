@@ -14,8 +14,10 @@ subtitle: Deutschland
 
 Damit dir ein Licht aufgeht!
 
-| {{ site.icons.youtube }}  | [5 Ideen](https://www.youtube.com/channel/UCXTTZIvh1UAlf0kv6XHvOtg) |
+| {{ site.icons.dlive }}    | [DaveBrych](https://dlive.tv/DaveBrych) |
 | {{ site.icons.telegram }} | [Dave Brych Kanal](https://t.me/davebrych_public) |
+| {{ site.icons.youtube }}  | [Dave Brych vloggt](https://www.youtube.com/channel/UCqm_HA3cfKrfODLGOgr2IKg) |
+| {{ site.icons.youtube }}  | [5 Ideen](https://www.youtube.com/channel/UCXTTZIvh1UAlf0kv6XHvOtg) |
 
 ## ![Aachen Doku-Logo](/assets/img/logos/aachen_doku.jpg){:class="logo"} Aachen Doku
 
@@ -99,6 +101,12 @@ KenFM ist ein freies Presseportal, eine Nachrichtenplattform, die bewusst das In
 Man höre auch die andere Seite.
 
 | {{ site.icons.globe }}    | [kollateral.news](https://kollateral.news/) |
+
+## ![Liberty News Berlin-Logo](/assets/img/logos/liberty-news-berlin.jpg){:class="logo"} Liberty News Berlin
+
+Unabhängiger Kanal zur breiteren politischen Meinungsbildung außerhalb des Mainstreams.
+
+| {{ site.icons.youtube }}  | [Liberty News Berlin](https://www.youtube.com/channel/UCy6Alueu32R7OZKwItdlihA) |
 
 ## ![LION Media-Logo](/assets/img/logos/lion.jpg){:class="logo"} LION Media
 

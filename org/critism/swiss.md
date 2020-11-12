@@ -11,6 +11,12 @@ Fachleute aus der Medizin, der Verwaltung oder der Wirtschaft treffen sich zur D
 | {{ site.icons.globe }}    | [www.coronadialog.ch](https://www.coronadialog.ch/) |
 | {{ site.icons.youtube }}  | [CoronaDialog on Tour](https://www.youtube.com/channel/UCOuNSDSdo9YCl3dstpTRZng) |
 
+## corona differenziert schweiz
+
+Corona differenziert betrachten
+
+| {{ site.icons.globe }}    | [coronadifferenziert.ch](https://coronadifferenziert.ch/) |
+
 ## Corona Rebellen Schweiz
 
 Corona Rebellen Schweiz ist die offizielle Untergruppe aus über 100'000 Corona Rebellen europaweit.
