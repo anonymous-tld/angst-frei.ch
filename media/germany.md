@@ -102,6 +102,12 @@ Man höre auch die andere Seite.
 
 | {{ site.icons.globe }}    | [kollateral.news](https://kollateral.news/) |
 
+## ![kwerformat-Logo](/assets/img/logos/kwerformat.jpg){:class="logo"} kwerformat 
+
+Katja und Carsten sind Journalisten und freischaffende Filmemacher aus Berlin. Sie sind Vertreter der neuen, freien Medien.
+
+| {{ site.icons.youtube }}  | [kwerformat](https://www.youtube.com/user/filmkampagne) |
+
 ## ![Liberty News Berlin-Logo](/assets/img/logos/liberty-news-berlin.jpg){:class="logo"} Liberty News Berlin
 
 Unabhängiger Kanal zur breiteren politischen Meinungsbildung außerhalb des Mainstreams.

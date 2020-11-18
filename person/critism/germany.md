@@ -20,6 +20,7 @@ Michael Ballweg
 
 Straßenumfragen, Interviews mit Politikern, Demonstrationen, alles zum Thema ziviler Ungehorsam und Volkesstimme.
 
+| {{ site.icons.dlive }}    | [Stefan Bauer](https://dlive.tv/stupormedia) |
 | {{ site.icons.youtube }}  | [Stefan Bauer](https://www.youtube.com/channel/UCY0f3Up37e3kGRvXjNewpzA) |
 
 ## Andreas Beutel
