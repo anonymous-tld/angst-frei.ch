@@ -94,6 +94,7 @@ Kilez More
 
 Aktivist Mann
 
+| {{ site.icons.dlive }}    | [AktivistMann](https://dlive.tv/AktivistMann) |
 | {{ site.icons.youtube }}  | [AktivistMann](https://www.youtube.com/c/AktivistMann) |
 
 ## Boris Reitschuster
