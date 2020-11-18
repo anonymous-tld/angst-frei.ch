@@ -7,6 +7,14 @@ table td:first-of-type {
   text-align: center;
 }
 
+.movie-meta {
+  color: #808080;
+  font-size: 1.125rem;
+  font-style: italic;
+  margin: 0 0 0.625rem;
+  font-family: 'Lora', 'Times New Roman', serif;
+}
+
 .dlive {
   background: url('/assets/img/logos/dlive.jpg');
   background-size: contain;

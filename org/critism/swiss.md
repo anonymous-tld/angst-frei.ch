@@ -62,7 +62,13 @@ InsideCorona ist eine unabhängige Plattform und eine Bewegung von Unternehmerin
 
 LICHT INS CORONA-DUNKEL ist unser aller Kind.
 
-| {{ site.icons.globe }}    | [www.licht-ins-corona-dunkel.ch§](https://www.licht-ins-corona-dunkel.ch/) |
+| {{ site.icons.globe }}    | [www.licht-ins-corona-dunkel.ch](https://www.licht-ins-corona-dunkel.ch/) |
+
+## Lozärn stoht uf
+
+Mit unserer Vereinsarbeit versuchen wir Ihnen einen differenzierteren Blickwinkel auf das Thema Covid 19 und dessen Massnahmen zu ermöglichen.
+
+| {{ site.icons.globe }}    | [lozärnstohtuf.ch](https://lozärnstohtuf.ch/) |
 
 ## Maskenfrei.ZH
 

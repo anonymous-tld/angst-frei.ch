@@ -7,5 +7,4 @@ categories: Video
 tags:       [youtube, bhakdi]
 youtubeId:  "JKf4omCYu0Y"
 ---
-
 {% include youtubePlayer.html id=page.youtubeId %}

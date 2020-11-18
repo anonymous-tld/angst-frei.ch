@@ -7,5 +7,4 @@ categories: Video
 tags:       [youtube, klundt, kind]
 youtubeId:  "DYZC-Baluh0"
 ---
-
 {% include youtubePlayer.html id=page.youtubeId %}

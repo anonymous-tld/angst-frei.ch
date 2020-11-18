@@ -7,5 +7,4 @@ categories: Video
 tags:       [youtube, who, köhnlein]
 youtubeId:  "0JcVglSdQ-c"
 ---
-
 {% include youtubePlayer.html id=page.youtubeId %}
