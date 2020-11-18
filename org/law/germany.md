@@ -41,7 +41,7 @@ Die KlagePATEN sind ein Verein mit jahrelanger Erfahrung in rechtlichen Auseinan
 
 | {{ site.icons.globe }}    | [klagepaten.eu](https://klagepaten.eu/) |
 | {{ site.icons.globe }}    | [klagepaten.eu FAQ](https://klagepaten.eu/faq/) |
-| {{ site.icons.youtube }}  | [Klagepaten](https://www.youtube.com/channel/UCYEQ0YTNq-YEVopX9OFYifQ//) |
+| {{ site.icons.youtube }}  | [Klagepaten](https://www.youtube.com/channel/UCYEQ0YTNq-YEVopX9OFYifQ/) |
 | {{ site.icons.telegram }} | [KlagePATEN_eu](https://t.me/KlagePATEN_eu) |
 | {{ site.icons.telegram }} | [KlagepatenElternInfo](https://t.me/KlagepatenElternInfo) |
 | {{ site.icons.twitter }}  | [KlagePaten](https://twitter.com/KlagePaten) |

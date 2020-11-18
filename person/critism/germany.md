@@ -103,6 +103,7 @@ Aktivist Mann
 Boris Reitschuster
 
 | {{ site.icons.globe }}    | [www.reitschuster.de](https://www.reitschuster.de/) |
+| {{ site.icons.youtube }}  | [Boris Reitschuster](https://www.youtube.com/channel/UCkSEq4JuI5VxqWIrRY2-pew) |
 | {{ site.icons.forward }}  | [Beiträge]({{ site.baseurl }}/Tags.html#reitschuster) |
 
 ## Paul Schreyer
