@@ -1,8 +1,4 @@
 land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream
-DE,2020-11-25,09:00:00,10117,Berlin,Reichstag,Demonstration,
-DE,2020-11-25,17:00:00,75172,Pforzheim,Kiehnlestr. 5,Spaziergang,
-DE,2020-11-25,18:00:00,10117,Berlin,Bundeskanzleramt,Kundgebung,https://demo.stream/mariagoetz
-DE,2020-11-25,19:00:00,83022,Rosenheim,Ichikawaplatz / Innterrassen,Mahnwache,
 DE,2020-11-26,09:00:00,91710,Gunzenhausen,Glockenturm,Sonstiges,
 DE,2020-11-26,14:00:00,76131,Karlsruhe,Bundesverfassungsgericht,Kundgebung,
 DE,2020-11-26,14:00:00,76131,Karlsruhe,Schloßbezirk,Kundgebung,
