@@ -1,8 +1,4 @@
 land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream
-DE,2020-11-26,09:00:00,91710,Gunzenhausen,Glockenturm,Sonstiges,
-DE,2020-11-26,14:00:00,76131,Karlsruhe,Bundesverfassungsgericht,Kundgebung,
-DE,2020-11-26,14:00:00,76131,Karlsruhe,Schloßbezirk,Kundgebung,
-DE,2020-11-26,17:00:00,99974,Mühlhausen,Untermarkt / Amtsgericht,Lichterkette,
 DE,2020-11-27,13:00:00,83543,Rott,Kaisergarten,Kundgebung,
 DE,2020-11-27,14:00:00,85354,Freising,Marienplatz,Kundgebung,
 DE,2020-11-27,16:00:00,51465,Bergisch Gladbach,Trotzenburger Platz / Innenstadt,Kundgebung,
@@ -52,6 +48,7 @@ DE,2020-11-28,17:00:00,18546,Sassnitz,Hafenbahnhof,Kundgebung,
 DE,2020-11-29,01:00:00,80335,München,Stachus,Revolte,
 DE,2020-11-29,09:00:00,25451,Quickborn,Forumsplatz,Kundgebung,
 DE,2020-11-29,10:45:00,75015,Bretten,Marktplatz,Meditation,
+DE,2020-11-29,11:00:00,73614,Schorndorf,Marktplatz,Musik,
 DE,2020-11-29,11:00:00,91301,Forchheim,Park Ritter-von-Traitteur-Schu,Kundgebung,
 DE,2020-11-29,11:45:00,52525,Heinsberg,Parkplatz Ostpromenade,Demonstration,https://www.youtube.com/channel/UCwq7QORP0F7Xnma07LcsOdQ
 DE,2020-11-29,11:59:00,52525,Heinsberg,Parkplatz Ostpromenade,Spaziergang,https://www.youtube.com/channel/UCwq7QORP0F7Xnma07LcsOdQ
