@@ -7,7 +7,7 @@ subtitle: Filme
 ## arte - Big Pharma - Die Allmacht der Pharma-Konzerne
 
 08.09.2020
-{:class="movie-meta"}
+{:class="date-meta"}
 
 Einige wenige Pharmaunternehmen teilen sich einen riesigen Markt und beeinflussen gesundheitspolitische Entscheidungen weltweit. Die Dokumentation "Big Pharma" schlüsselt die Praktiken der Unternehmen auf.
 
@@ -16,7 +16,7 @@ Einige wenige Pharmaunternehmen teilen sich einen riesigen Markt und beeinflusse
 ## arte - Corona: Sicherheit kontra Freiheit
 
 10.11.2020
-{:class="movie-meta"}
+{:class="date-meta"}
 
 Seit Anfang 2020 fordert das Corona-Virus die Welt heraus. Die Regierungen Europas reagierten zunächst mit einem Lockdown. Allein Schweden setzt bis heute auf Freiwilligkeit. Zu Recht? Oder bewährt sich gar dieser Weg? Die Doku vergleicht den Kurs Deutschlands, Frankreichs und Schwedens im Gesundheitswesen, in Wirtschaft und Gesellschaft - und zeigt auch die Rolle der Medien.
 
@@ -33,7 +33,7 @@ From the creators of the most viewed and banned documentary of all time.
 ## arte - Profiteure der Angst (2009)
 
 23.11.2009
-{:class="movie-meta"}
+{:class="date-meta"}
 
 Ein lebensgefährlicher Virus scheint seit Mai 2009 die Menschheit zu bedrohen. Seit die ersten Fälle der so genannten Schweinegrippe in Mexiko gemeldet wurden, steht die Welt Kopf. Jeden Tag sterben angeblich mehr und mehr Menschen an dem vermeintlich neuen Virus.
 

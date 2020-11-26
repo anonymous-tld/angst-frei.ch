@@ -18,12 +18,6 @@ subtitle: Schweiz
   * <a href="{{site.baseurl}}/assets/files/Sammlung Argumente Maskenpflicht_2020-08-22.docx">Sammlung Argumente Maskenpflicht</a>
   * <a href="{{site.baseurl}}/assets/files/Unicef-Kinderrechtskonvention_2020-08-22.pdf">Unicef-Kinderrechtskonvention</a>
 
-## Heinz Raschein
-
-[Heinz Raschein]({{site.baseurl}}/person/law/swiss.html#heinz-raschein)
-
-  * <a href="{{site.baseurl}}/assets/files/law/Attest-23102020.pdf">Sach- und Rechtsattest</a>
-
 ## WirKlagenAn
 
 [WirKlagenAn]({{site.baseurl}}/org/law/swiss.html#wirklagenan)

@@ -104,61 +104,18 @@ Fehlt auch nur eines dieser Merkmale sind staatliche Anordnungen, und dazu gehö
 
  * [Zürich: Verfügung Bildungsdirektion: Volksschulen. Vorgaben Schutzkonzepte vom 28.10.2020](/assets/files/law/verfuegung_bi_vorgaben_schutzkonzepte.pdf)
 
-### Weiterführende Link 
+### Weiterführende Links 
 
+#### [Neues Sach- und Rechtsattest gegen Maskenzwang in der Schweiz](https://corona-transition.org/neues-sach-und-rechtsattest-gegen-maskenzwang-in-der-schweiz)  
+25.11.2020 [Heinz Raschein]({{site.baseurl}}/person/law/swiss.html#heinz-raschein)
+{:class="date-meta"}
+
+#### Diverse
  * [Medizinische und juristische Informationen zu Maskenpflicht und Befreiungsmöglichkeiten](https://www.mwgfd.de/zur-maskenpflicht/)
  * [Informationsbrief für SchulleiterInnen, Lehrkräfte und Eltern schulpflichtiger Kinder bzgl. des neuen Hygieneplan](/assets/files/health/201018 Info-Schulbrief-BUNDESLANDUNABHAeNGIG.pdf)
  * [Anästhesistin und Notfallärztin Heike Sensendorf klärt auf!](https://mauricejanich.de/heike-sensendorf/) 
  * [Flyer rund ums Thema Corona - eine Einladung zum selber denken](/assets/files/health/flyer_corona_a4.pdf)
 
-## Vorgehen
-
-### Attest verwenden
-
-Attest von [Heinz Raschein]({{site.baseurl}}/person/law/swiss.html#heinz-raschein) herunterladen und ausdrucken:
-
-  * <a href="{{site.baseurl}}/assets/files/law/Attest-23102020.pdf">Sach- und Rechtsattest</a>
-  * <a href="{{site.baseurl}}/assets/files/law/Attestation fait et droit 25.10.2020.pdf">Attestation de fait et de droit</a>
-  * <a href="{{site.baseurl}}/assets/files/law/Certificato-di-fatto-e-di-diritto_26102020.pdf">Certificato di fatto e di diritto</a>
-
-Schicken Sie Ihr Kind mit dem von Ihnen und dem Kind unterschriebenen Sach- und Rechtsattest zur Schule, sofern es selbst auch die Maske verweigern will.
-
-### Beweissicherung
-
-Wer dieses Dokument nicht aktzeptieren will, wird gebeten, seine/ihre Weigerung auf dem Dokument selbst unterschriftlich zu bestätigen. [Heinz Raschein]({{site.baseurl}}/person/law/swiss.html#heinz-raschein) nimmt gerne jede rechtliche Beanstandung seiner rechtlichen Ausführungen entgegen. 
-
-Verweigert er/sie auch dies, dann bekommt er anderntags von den Eltern einen <a href="#beschwerde">eingeschriebenen Brief</a>, worin ihm mitgeilt wird, dass er/sie am Kind **Gesichtsverhüllungszwang** ausgeübt hat.
-
-Das Doppel dieses Einschreibens dient als Beweismittel für eine umgehend einzureichende Strafanzeige wegen Nötigung gem. Art 181. StBG gegen diejenige/denjenigen die Zwangsausübenden.
-
-#### eMail
-
-Sollte jemand, wie das vorkommt, Ihnen per eMail mitteilen, nicht medizinische Gründe seien nicht mehr gültig, bitte untenstehende <a href="#beschwerde">Vorlage</a> verwenden.
-
-Ausser der Art (eMail) solcher Kommunikation ist auch der Zeitpunkt eine Frechheit, die abzulehnen ist. Es geht nicht an, dass Eltern diese eMails um 20<sup>00</sup> erhalten, was den Schulbesuch der Kinder für den nächsten Tag anbelangt.
-
-### Beschwerde
-
-#### Vorlage
-
-| <a href="/assets/files/law/photo_2020-11-04 09.48.32.jpeg">![Musterschreiben Eltern 1](/assets/files/law/photo_2020-11-04 09.48.32.jpeg)</a> | <a href="/assets/files/law/photo_2020-11-04 09.48.39.jpeg">![Musterschreiben Eltern 2](/assets/files/law/photo_2020-11-04 09.48.39.jpeg)</a> |
-{: .image-table}
-
-### Weiteres Vorgehen
-
-Wenn man die Möglichkeit hat, das Kind selbst zu unterrichten, soll es zuhause bleiben und [von den Eltern](#homeschooling) unterrichtet werden. 
-
-Vernetzen Sie sich mit [Eltern & Schule stehen auf - Schweiz](https://t.me/elternundschulestehenaufschweiz)
-
-Sollte eine Schule auf einem Unterrichtsobligatorium bestehen, ist Widerstand zu leisten. 
-
-### Vollmacht
-
-#### Dokument
-
- * <a href="{{site.baseurl}}/assets/files/law/VM-Gesichtsverhüllung.pdf">Vollmacht und Auftrag zur Rechtsvertretung bezüglich Gesichtsverhüllung</a>
-
-Vollmacht, welche [Heinz Raschein]({{site.baseurl}}/person/law/swiss.html#heinz-raschein) bevollmächtigt, Sie und Ihr Kind gegenüber der Schulleitung anwaltlich zu vertreten. Das muss aber vorher mit ihm abgesprochen werden.
 
 ## Videos
 
