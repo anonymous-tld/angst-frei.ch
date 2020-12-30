@@ -1,8 +1,7 @@
 land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream
 DE,2020-12-30,07:00:00,86343,Königsbrunn,Markplatz Rathaus,Kundgebung,
 DE,2020-12-30,14:00:00,40212,Düsseldorf,Corneliusplatz,Spaziergang,
-DE,2020-12-30,16:30:00,40210,Düsseldorf,Marktplatz / 
- Stadtmitte,Demonstration,
+DE,2020-12-30,16:30:00,40210,Düsseldorf,Marktplatz / Stadtmitte,Demonstration,
 DE,2020-12-30,17:15:00,70173,Stuttgart,Karlsplatz,Kundgebung,
 DE,2020-12-30,17:15:00,70173,Stuttgart,Karlsplatz (Disco Demo),Demonstration,
 DE,2020-12-30,18:00:00,88239,Wangen,Marktplatz,Spaziergang,
@@ -27,7 +26,7 @@ DE,2021-01-02,14:18:00,04129,Leipzig,Augustusplatz,Aufstand,
 DE,2021-01-02,15:00:00,33098,Paderborn,Herz-Jesu Kirche Westerntor/B,Schweigemarsch,
 DE,2021-01-02,15:00:00,50126,Bergheim,Hubert-Rheinfeld-Platz,Kundgebung,
 DE,2021-01-02,15:00:00,52062,Aachen,Elisenbrunnen,Kundgebung,
-DE,2021-01-02,15:30:00,21073,Hamburg-Harburg,Museumsplatz 1, am Brunnen,Meditation,
+DE,2021-01-02,15:30:00,21073,Hamburg-Harburg,Museumsplatz 1 / am Brunnen,Meditation,
 DE,2021-01-02,16:00:00,18546,Sassnitz,Brückenplatz,Kundgebung,
 DE,2021-01-02,16:00:00,93426,Roding,Am Siedersee 1,Autokorso,
 DE,2021-01-02,16:00:00,33098,Paderborn,Domplatz,Kundgebung,
