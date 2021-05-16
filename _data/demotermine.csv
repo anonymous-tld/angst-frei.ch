@@ -123,6 +123,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3009,DE,2021-05-19,17:30:00,32756,Detmold,Marktplatz,Meditation,,unbekannt,
 2601,CH,2021-05-19,18:00:00,2542,Pieterlen,Bahnhof,Spaziergang,,unknown,
 2739,DE,2021-05-19,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf!,https://www.hanau-steht-auf.de
+3268,DE,2021-05-19,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf,https://hanau-steht-auf.de
 3010,DE,2021-05-19,18:00:00,32756,Detmold,Marktplatz,Spaziergang,,unbekannt,
 3149,DE,2021-05-19,18:30:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 2595,CH,2021-05-19,18:30:00,9470,Buchs / SG,Lokremise,Spaziergang,,unknown,
@@ -215,6 +216,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2583,CH,2021-05-31,18:00:00,8636,Wald / ZH,Hallenbad/Windegg,Spaziergang,,unknown,
 2577,CH,2021-05-31,18:00:00,6362,Stansstad,Hafen,Spaziergang,,unknown,
 2286,DE,2021-05-31,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
+3267,DE,2021-06-03,13:00:00,76133,Karlsruhe,Marktplatz,Aufzug,,Querdenken 721,
 2842,DE,2021-06-03,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 2791,CH,2021-06-05,13:30:00,9050,Appenzell,Landesgemeindeplatz,Kundgebung,,unbekannt,
 2287,DE,2021-06-07,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
