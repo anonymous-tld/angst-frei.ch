@@ -1,8 +1,4 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
-21340,DE,2021-10-21,17:30:00,63457,Großauheim,Main Pilgerstr. / Leinpfad,Mahnwache,,Hanau steht auf!,http://www.hanau-steht-auf.de
-3806,DE,2021-10-21,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
-21470,DE,2021-10-21,18:00:00,90402,Nürnberg,Hallplatz / Königstraße,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
-21476,DE,2021-10-21,19:00:00,92286,Rieden / Amberg,SEVEN Gastro,Zusammenkunft,,unbekannt,
 21447,DE,2021-10-22,17:00:00,38518,Gifhorn,Schützenplatz / Parkplatz Impf,Autokorso,,Die Hinterfra-GEN-den,
 21492,DE,2021-10-22,17:30:00,76133,Karlsruhe,Friedrichsplatz,Demonstration,,GRUNDRECHTE,http://www.grundrechte.jetzt/
 21471,DE,2021-10-22,19:45:00,90402,Nürnberg,Hallplatz / Königstraße,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
@@ -51,6 +47,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21419,DE,2021-10-31,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,
 3808,DE,2021-11-04,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 1960,DE,2021-11-05,18:00:00,10117,Berlin,Pariser Platz / Brandenburger Tor,MillionMaskMarch,https://anonymous.support/live,Anonymous,https://anonymous.support
+21499,DE,2021-11-06,13:00:00,26122,Oldenburg,Waffenplatz,Aufzug,,Querdenken 441 - Oldenburg,https://querdenken441.de
 21453,DE,2021-11-06,15:00:00,04109,Leipzig,Augustusplatz,Aufzug,,unbekannt,
 3809,DE,2021-11-11,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 21487,DE,2021-11-13,11:00:00,23795,Bad Segeberg,Rennkoppel,Autokorso,,INITIATIVE FÜR AUFKLÄRUNG UND TRANSPARENZ,
