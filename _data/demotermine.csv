@@ -4,10 +4,13 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21636,DE,2021-11-18,17:30:00,63457,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf!,https://hanau-steht-auf.de/
 3810,DE,2021-11-18,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 21594,DE,2021-11-19,16:00:00,95326,Kulmbach,Marktplatz,Kundgebung,,20Plus1-Bürgerbewegung,https://20plus1.de
+21706,DE,2021-11-19,17:00:00,10315,Berlin,Alt-Friedrichsfelde 78 Parkpl.,Autokorso,,Autokorso Berlin-Das Original,
 21611,DE,2021-11-20,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,http://t.me/cellestehtauf
 21598,DE,2021-11-20,12:00:00,39104,Magdeburg,Innenstadt,Kundgebung,,unbekannt,https://www.worldwidedemonstration.com
 21656,DE,2021-11-20,13:00:00,60311,Frankfurt,Willy-Brandt-Platz,Spaziergang,,unbekannt,
 21697,DE,2021-11-20,14:00:00,64385,Reichelsheim,B 38 Ortseingang Aldi,Zusammenkunft,,unbekannt,
+21705,DE,2021-11-20,14:00:00,56068,Koblenz,Herz-Jesu-Kirche,Mahnwache,,unbekannt,
+21703,DE,2021-11-20,14:00:00,36037,Fulda,Bahnhofsplatz,Kundgebung,,unbekannt,
 21690,DE,2021-11-20,14:00:00,79098,Freiburg im Breisgau,Platz der alten Synagoge,Kundgebung,,FreiSeinFreiburg,https://freiseinfreiburg.de
 21583,DE,2021-11-20,15:00:00,20099,Hamburg,Ernst-Merck-Str. / Kunsthalle,Aufzug,,Unbekannt,
 21694,DE,2021-11-20,16:00:00,48151,Münster,Am Aasee,Schweigemarsch,,unbekannt,
@@ -27,6 +30,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21637,DE,2021-11-25,17:30:00,63457,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf!,https://hanau-steht-auf.de/
 3811,DE,2021-11-25,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 21365,DE,2021-11-25,18:00:00,06844,Dessau-Roßlau,Friedensglocke,Mahnwache,,Dessau steht auf,https://t.me/MontagsMahnwache
+21704,DE,2021-11-26,15:00:00,76744,Wörth,CJD Maximiliansau,Mahnwache,,Das deutsche Volk,
 21612,DE,2021-11-27,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,http://t.me/cellestehtauf
 21668,DE,2021-11-27,13:30:00,77694,Kehl,Europabücke Kehl / Straßburg,Aufzug,,Achern-Weiss-Bescheid und Collectif Anti-Pass,https://achern-weiss-bescheid.de/
 21685,DE,2021-11-27,13:30:00,77694,Kehl,Europabücke / Kehl / Straßburg,Aufzug,,Achern-Weiss-Bescheid und Collectif Anti-Pass,https://achern-weiss-bescheid.de/
