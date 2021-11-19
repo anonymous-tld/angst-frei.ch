@@ -1,6 +1,6 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
-21710,DE,2021-11-19,16:00:00,95326,Kulmbach,Marktplatz,Kundgebung,,20Plus1-Bürgerbewegung,https://20plus1.de
 21594,DE,2021-11-19,16:00:00,95326,Kulmbach,Marktplatz,Kundgebung,,20Plus1-Bürgerbewegung,https://20plus1.de
+21710,DE,2021-11-19,16:00:00,95326,Kulmbach,Marktplatz,Kundgebung,,20Plus1-Bürgerbewegung,https://20plus1.de
 21717,AT,2021-11-19,17:00:00,6900,Bregenz,Landhaus,Kundgebung,,unbekannt,
 21706,DE,2021-11-19,17:00:00,10315,Berlin,Alt-Friedrichsfelde 78 Parkpl.,Autokorso,,Autokorso Berlin-Das Original,
 21709,DE,2021-11-19,17:30:00,76133,Karlsruhe,Stephansplatz,Versammlung,,Rechtsstaat ist in Gefahr,https://grundrechte.jetzt
@@ -11,6 +11,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21598,DE,2021-11-20,12:00:00,39104,Magdeburg,Innenstadt,Kundgebung,,unbekannt,https://www.worldwidedemonstration.com
 21656,DE,2021-11-20,13:00:00,60311,Frankfurt,Willy-Brandt-Platz,Spaziergang,,unbekannt,
 21707,DE,2021-11-20,13:30:00,91058,Erlangen,Technische Fakultät,Aufzug,https://youtube.com/channel/UCVDiv0RwHzVXN55kQfrw87g,Studenten stehen auf,https://studentenstehenauf.eu/
+21728,DE,2021-11-20,14:00:00,70184,Stuttgart,Stafflenbergstrasse 81,Kundgebung,,unbekannt,
 21697,DE,2021-11-20,14:00:00,64385,Reichelsheim,B 38 Ortseingang Aldi,Zusammenkunft,,unbekannt,
 21705,DE,2021-11-20,14:00:00,56068,Koblenz,Herz-Jesu-Kirche,Mahnwache,,unbekannt,
 21722,DE,2021-11-20,14:00:00,30169,Hannover,Ritter-Brünning Parkplatz,Autokorso,,unbekannt,
@@ -48,9 +49,9 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21685,DE,2021-11-27,13:30:00,77694,Kehl,Europabücke / Kehl / Straßburg,Aufzug,,Achern-Weiss-Bescheid und Collectif Anti-Pass,https://achern-weiss-bescheid.de/
 21670,DE,2021-11-27,14:00:00,27356,Rotenburg,Pferdemarkt,Aufzug,,unbekannt,
 21674,DE,2021-11-27,14:00:00,76133,Karlsruhe,Kronenplatz,Kundgebung,,Offene Gesellschaft Kurpfalz,https://offene-gesellschaft-kurpfalz.de/12-versammlung-in-karlsruhe/
-21603,DE,2021-11-27,14:30:00,46049,Oberhausen,Ecke Duisburgerstr/ Niebuhrstr,Versammlung,,unbekannt,
 21599,DE,2021-11-27,14:30:00,46049,Oberhausen,Duisburgerstr. 
 / Niebuhrstr,Versammlung,,unbekannt,
+21603,DE,2021-11-27,14:30:00,46049,Oberhausen,Ecke Duisburgerstr/ Niebuhrstr,Versammlung,,unbekannt,
 21708,DE,2021-11-27,15:00:00,50828,Köln Ehrenfeld,Neptunplatz,Demonstration,,Koeln ist aktiv,koelnistaktiv.de
 21584,DE,2021-11-27,15:00:00,20099,Hamburg,Ernst-Merck-Str. / Kunsthalle,Aufzug,,Unbekannt,
 21719,DE,2021-11-27,16:30:00,80333,München,Max-Joseph-Platz,Kundgebung,,UlliOma,https://t.me/UlliOma_Muc
