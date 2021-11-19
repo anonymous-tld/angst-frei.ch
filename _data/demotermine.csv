@@ -1,6 +1,7 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
 21594,DE,2021-11-19,16:00:00,95326,Kulmbach,Marktplatz,Kundgebung,,20Plus1-Bürgerbewegung,https://20plus1.de
 21710,DE,2021-11-19,16:00:00,95326,Kulmbach,Marktplatz,Kundgebung,,20Plus1-Bürgerbewegung,https://20plus1.de
+21717,AT,2021-11-19,17:00:00,6900,Bregenz,Landhaus,Kundgebung,,unbekannt,
 21706,DE,2021-11-19,17:00:00,10315,Berlin,Alt-Friedrichsfelde 78 Parkpl.,Autokorso,,Autokorso Berlin-Das Original,
 21709,DE,2021-11-19,17:30:00,76133,Karlsruhe,Stephansplatz,Versammlung,,Rechtsstaat ist in Gefahr,https://grundrechte.jetzt
 21714,DE,2021-11-19,18:00:00,91126,Schwabach,Martin-Luther-platz,Kundgebung,,WIR für die Freiheit,
@@ -19,6 +20,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21698,DE,2021-11-21,10:00:00,02763,Zittau,B 96,Menschenkette,,unbekannt,
 21715,DE,2021-11-21,10:45:00,75015,Bretten,Stadtpark / Alter Friedhof,Meditation,,unbekannt,
 21684,DE,2021-11-21,11:00:00,79215,Elzach,Nikolausplatz,Mahnwache,,Initiative Elzach,https://initiative-elzach.de
+21716,AT,2021-11-21,13:00:00,6900,Bregenz,Bahnhofstraße /  Parkplatz,Schweigemarsch,,unbekannt,
 21712,DE,2021-11-21,15:00:00,64711,Erbach,Werner-von-Siemens Str. / Parkpl,Kundgebung,,unbekannt,
 21676,DE,2021-11-21,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,https://t.me/CUXHAVEN_PROTEST
 21699,DE,2021-11-22,17:30:00,02763,Zittau,Theater,Mahnwache,,unbekannt,
@@ -39,9 +41,9 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21685,DE,2021-11-27,13:30:00,77694,Kehl,Europabücke / Kehl / Straßburg,Aufzug,,Achern-Weiss-Bescheid und Collectif Anti-Pass,https://achern-weiss-bescheid.de/
 21670,DE,2021-11-27,14:00:00,27356,Rotenburg,Pferdemarkt,Aufzug,,unbekannt,
 21674,DE,2021-11-27,14:00:00,76133,Karlsruhe,Kronenplatz,Kundgebung,,Offene Gesellschaft Kurpfalz,https://offene-gesellschaft-kurpfalz.de/12-versammlung-in-karlsruhe/
-21603,DE,2021-11-27,14:30:00,46049,Oberhausen,Ecke Duisburgerstr/ Niebuhrstr,Versammlung,,unbekannt,
 21599,DE,2021-11-27,14:30:00,46049,Oberhausen,Duisburgerstr. 
 / Niebuhrstr,Versammlung,,unbekannt,
+21603,DE,2021-11-27,14:30:00,46049,Oberhausen,Ecke Duisburgerstr/ Niebuhrstr,Versammlung,,unbekannt,
 21708,DE,2021-11-27,15:00:00,50828,Köln Ehrenfeld,Neptunplatz,Demonstration,,Koeln ist aktiv,koelnistaktiv.de
 21584,DE,2021-11-27,15:00:00,20099,Hamburg,Ernst-Merck-Str. / Kunsthalle,Aufzug,,Unbekannt,
 21677,DE,2021-11-28,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,https://t.me/CUXHAVEN_PROTEST
