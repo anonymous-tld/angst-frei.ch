@@ -9,8 +9,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21697,DE,2021-11-20,14:00:00,64385,Reichelsheim,B 38 Ortseingang Aldi,Zusammenkunft,,unbekannt,
 21705,DE,2021-11-20,14:00:00,56068,Koblenz,Herz-Jesu-Kirche,Mahnwache,,unbekannt,
 21722,DE,2021-11-20,14:00:00,30169,Hannover,Ritter-Brünning Parkplatz,Autokorso,,unbekannt,
-21731,DE,2021-11-20,14:00:00,36037,Fulda,Bahnhofsplatz,Kundgebung,,unbekannt,
 21703,DE,2021-11-20,14:00:00,36037,Fulda,Bahnhofsplatz,Kundgebung,,unbekannt,
+21731,DE,2021-11-20,14:00:00,36037,Fulda,Bahnhofsplatz,Kundgebung,,unbekannt,
 21690,DE,2021-11-20,14:00:00,79098,Freiburg im Breisgau,Platz der alten Synagoge,Kundgebung,,FreiSeinFreiburg,https://freiseinfreiburg.de
 21583,DE,2021-11-20,15:00:00,20099,Hamburg,Ernst-Merck-Str. / Kunsthalle,Aufzug,,Unbekannt,
 21723,DE,2021-11-20,15:00:00,60323,Frankfurt am Main,Park am Reuterweg 44,Aufzug,,unbekannt,
@@ -21,9 +21,13 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21698,DE,2021-11-21,10:00:00,02763,Zittau,B 96,Menschenkette,,unbekannt,
 21715,DE,2021-11-21,10:45:00,75015,Bretten,Stadtpark / Alter Friedhof,Meditation,,unbekannt,
 21684,DE,2021-11-21,11:00:00,79215,Elzach,Nikolausplatz,Mahnwache,,Initiative Elzach,https://initiative-elzach.de
+21736,DE,2021-11-21,11:00:00,79215,Elzach,Nikolausplatz,Mahnwache,,Initiative Elzach,http://www.Initiative-Elzach.de
 21716,AT,2021-11-21,13:00:00,6900,Bregenz,Bahnhofstraße /  Parkplatz,Schweigemarsch,,unbekannt,
+21732,AT,2021-11-21,14:00:00,4020,Linz,Promenade,Kundgebung,,MFG,https://www.presseportal.de/pm/77516/5078015
 21712,DE,2021-11-21,15:00:00,64711,Erbach,Werner-von-Siemens Str. / Parkpl,Kundgebung,,unbekannt,
 21676,DE,2021-11-21,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,https://t.me/CUXHAVEN_PROTEST
+21733,DE,2021-11-22,16:00:00,18057,Rostock,Am Stadthafen,Schilderwald,,unbekannt,
+21734,DE,2021-11-22,17:00:00,18057,Rostock,Am Rosengarten / neben Steintor,Demonstration,https://dlive.tv/7TuermeMedien,unbekannt,
 21699,DE,2021-11-22,17:30:00,02763,Zittau,Theater,Mahnwache,,unbekannt,
 21552,DE,2021-11-22,18:00:00,63450,Hanau,Freiheitsplatz,Mahnwache,,Hanau steht auf!,https://hanau-steht-auf.de/
 21607,DE,2021-11-22,18:30:00,29221,Celle,Stechbahn vor Kirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,http://t.me/cellestehtauf
@@ -37,6 +41,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21637,DE,2021-11-25,17:30:00,63457,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf!,https://hanau-steht-auf.de/
 3811,DE,2021-11-25,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 21365,DE,2021-11-25,18:00:00,06844,Dessau-Roßlau,Friedensglocke,Mahnwache,,Dessau steht auf,https://t.me/MontagsMahnwache
+21735,DE,2021-11-26,14:45:00,47051,Duisburg,Hauptbahnhof / vor Haupteingang,Kundgebung,,unbekannt,
 21704,DE,2021-11-26,15:00:00,76744,Wörth,CJD Maximiliansau,Mahnwache,,Das deutsche Volk,
 21612,DE,2021-11-27,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,http://t.me/cellestehtauf
 21721,DE,2021-11-27,11:45:00,29221,Celle,Brandplatz,Kundgebung,,Celle steht auf,http://t.me/cellestehtauf
