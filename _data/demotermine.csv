@@ -1,13 +1,6 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
-21698,DE,2021-11-21,10:00:00,02763,Zittau,B 96,Menschenkette,,unbekannt,
-21715,DE,2021-11-21,10:45:00,75015,Bretten,Stadtpark / Alter Friedhof,Meditation,,unbekannt,
-21684,DE,2021-11-21,11:00:00,79215,Elzach,Nikolausplatz,Mahnwache,,Initiative Elzach,https://initiative-elzach.de
-21736,DE,2021-11-21,11:00:00,79215,Elzach,Nikolausplatz,Mahnwache,,Initiative Elzach,http://www.Initiative-Elzach.de
-21716,AT,2021-11-21,13:00:00,6900,Bregenz,Bahnhofstraße /  Parkplatz,Schweigemarsch,,unbekannt,
-21732,AT,2021-11-21,14:00:00,4020,Linz,Promenade,Kundgebung,,MFG,https://www.presseportal.de/pm/77516/5078015
-21712,DE,2021-11-21,15:00:00,64711,Erbach,Werner-von-Siemens Str. / Parkpl,Kundgebung,,unbekannt,
-21676,DE,2021-11-21,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,https://t.me/CUXHAVEN_PROTEST
 21733,DE,2021-11-22,16:00:00,18057,Rostock,Am Stadthafen,Schilderwald,,unbekannt,
+21744,DE,2021-11-22,16:30:00,90402,Nürnberg,Hallplatz / Pfannenschmiedsgasse,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 21734,DE,2021-11-22,17:00:00,18057,Rostock,Am Rosengarten / neben Steintor,Demonstration,https://dlive.tv/7TuermeMedien,unbekannt,
 21699,DE,2021-11-22,17:30:00,02763,Zittau,Theater,Mahnwache,,unbekannt,
 21740,DE,2021-11-22,18:00:00,92421,Schwandorf / Haselbach,Kirchawirt,Kundgebung,,unbekannt,
@@ -16,6 +9,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21741,DE,2021-11-22,18:30:00,90402,Nürnberg,Jakobsplatz,Demonstration,,Team Menschenrechte,http://team-menschenrechte.de
 21607,DE,2021-11-22,18:30:00,29221,Celle,Stechbahn vor Kirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,http://t.me/cellestehtauf
 21691,DE,2021-11-22,18:30:00,46236,Bottrop,Kirchplatz 1,Spaziergang,,Freiheitsboten Bottrop,
+21749,DE,2021-11-22,18:30:00,61350,Bad Homburg,Am Heuchelbach 1,Aufzug,,unbekannt,
 21680,DE,2021-11-22,18:30:00,99510,Apolda,Markt / Rathaus,Spaziergang,,unbekannt,
 21630,DE,2021-11-22,19:00:00,26382,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,
 21660,DE,2021-11-22,19:00:00,17033,Neubrandenburg,Marktplatz,Spaziergang,,unbekannt,
@@ -23,13 +17,16 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21682,DE,2021-11-22,19:00:00,99974,Mühlhausen,Untermarkt,Gegenprotest,,Gegen Corona Hetzer,
 21725,DE,2021-11-22,19:00:00,87600,Kaufbeuren-Neugablonz,Neuer Markt,Kundgebung,,unbekannt,
 21739,DE,2021-11-22,19:00:00,54568,Gerolstein,Rathaus / davor Nähe Brunnenplatz,Spaziergang,,unbekannt,
+21745,DE,2021-11-23,17:00:00,90402,Nürnberg,Hallplatz / Pfannenschmiedsgasse,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 21743,DE,2021-11-23,17:30:00,79108,Freiburg,Neues SC Stadion / Parkplatz,Autokorso,,Zukunft Freiburg,https://zukunft-fr.de
+21746,DE,2021-11-24,17:00:00,90402,Nürnberg,Hallplatz / Königstraße,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 21742,DE,2021-11-25,11:30:00,91052,Erlangen,Rathausplatz,Demonstration,,unbekannt,
 21637,DE,2021-11-25,17:30:00,63457,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf!,https://hanau-steht-auf.de/
 3811,DE,2021-11-25,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 21365,DE,2021-11-25,18:00:00,06844,Dessau-Roßlau,Friedensglocke,Mahnwache,,Dessau steht auf,https://t.me/MontagsMahnwache
 21735,DE,2021-11-26,14:45:00,47051,Duisburg,Hauptbahnhof / vor Haupteingang,Kundgebung,,unbekannt,
 21704,DE,2021-11-26,15:00:00,76744,Wörth,CJD Maximiliansau,Mahnwache,,Das deutsche Volk,
+21747,DE,2021-11-26,15:30:00,90402,Nürnberg,Hallplatz / Königstraße,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 21612,DE,2021-11-27,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,http://t.me/cellestehtauf
 21721,DE,2021-11-27,11:45:00,29221,Celle,Brandplatz,Kundgebung,,Celle steht auf,http://t.me/cellestehtauf
 21668,DE,2021-11-27,13:30:00,77694,Kehl,Europabücke Kehl / Straßburg,Aufzug,,Achern-Weiss-Bescheid und Collectif Anti-Pass,https://achern-weiss-bescheid.de/
@@ -41,6 +38,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21708,DE,2021-11-27,15:00:00,50828,Köln Ehrenfeld,Neptunplatz,Demonstration,,Koeln ist aktiv,koelnistaktiv.de
 21584,DE,2021-11-27,15:00:00,20099,Hamburg,Ernst-Merck-Str. / Kunsthalle,Aufzug,,Unbekannt,
 21719,DE,2021-11-27,16:30:00,80333,München,Max-Joseph-Platz,Kundgebung,,UlliOma,https://t.me/UlliOma_Muc
+21748,DE,2021-11-27,17:00:00,90402,Nürnberg,Hallplatz / Königstraße,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 21677,DE,2021-11-28,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,https://t.me/CUXHAVEN_PROTEST
 21553,DE,2021-11-29,18:00:00,63450,Hanau,Freiheitsplatz,Mahnwache,,Hanau steht auf!,https://hanau-steht-auf.de/
 21608,DE,2021-11-29,18:30:00,29221,Celle,Stechbahn vor Kirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,http://t.me/cellestehtauf
