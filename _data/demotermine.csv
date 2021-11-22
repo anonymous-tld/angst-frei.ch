@@ -1,23 +1,4 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
-21733,DE,2021-11-22,16:00:00,18057,Rostock,Am Stadthafen,Schilderwald,,unbekannt,
-21744,DE,2021-11-22,16:30:00,90402,Nürnberg,Hallplatz / Pfannenschmiedsgasse,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
-21734,DE,2021-11-22,17:00:00,18057,Rostock,Am Rosengarten / neben Steintor,Demonstration,https://dlive.tv/7TuermeMedien,unbekannt,
-21699,DE,2021-11-22,17:30:00,02763,Zittau,Theater,Mahnwache,,unbekannt,
-21740,DE,2021-11-22,18:00:00,92421,Schwandorf / Haselbach,Kirchawirt,Kundgebung,,unbekannt,
-21738,DE,2021-11-22,18:00:00,87435,Kempten / Allgäu,Hildegardplatz / am Brunnen,Mahnwache,,Privat,
-21552,DE,2021-11-22,18:00:00,63450,Hanau,Freiheitsplatz,Mahnwache,,Hanau steht auf!,https://hanau-steht-auf.de/
-21741,DE,2021-11-22,18:30:00,90402,Nürnberg,Jakobsplatz,Demonstration,,Team Menschenrechte,http://team-menschenrechte.de
-21607,DE,2021-11-22,18:30:00,29221,Celle,Stechbahn vor Kirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,http://t.me/cellestehtauf
-21691,DE,2021-11-22,18:30:00,46236,Bottrop,Kirchplatz 1,Spaziergang,,Freiheitsboten Bottrop,
-21749,DE,2021-11-22,18:30:00,61350,Bad Homburg,Am Heuchelbach 1,Aufzug,,unbekannt,
-21680,DE,2021-11-22,18:30:00,99510,Apolda,Markt / Rathaus,Spaziergang,,unbekannt,
-21630,DE,2021-11-22,19:00:00,26382,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,
-21660,DE,2021-11-22,19:00:00,17033,Neubrandenburg,Marktplatz,Spaziergang,,unbekannt,
-21695,DE,2021-11-22,19:00:00,99974,Mühlhausen / Thüringen,Untermarkt,Spaziergang,,unbekannt,
-21682,DE,2021-11-22,19:00:00,99974,Mühlhausen,Untermarkt,Gegenprotest,,Gegen Corona Hetzer,
-21725,DE,2021-11-22,19:00:00,87600,Kaufbeuren-Neugablonz,Neuer Markt,Kundgebung,,unbekannt,
-21758,DE,2021-11-22,19:00:00,38350,Helmstedt,Rathaus,Spaziergang,,unbekannt,
-21739,DE,2021-11-22,19:00:00,54568,Gerolstein,Rathaus / davor Nähe Brunnenplatz,Spaziergang,,unbekannt,
 21745,DE,2021-11-23,17:00:00,90402,Nürnberg,Hallplatz / Pfannenschmiedsgasse,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 21743,DE,2021-11-23,17:30:00,79108,Freiburg,Neues SC Stadion / Parkplatz,Autokorso,,Zukunft Freiburg,https://zukunft-fr.de
 21746,DE,2021-11-24,17:00:00,90402,Nürnberg,Hallplatz / Königstraße,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
@@ -33,8 +14,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21752,DE,2021-11-27,11:00:00,71394,Kernen,Stettener Straße,Kundgebung,,unbekannt,
 21612,DE,2021-11-27,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,http://t.me/cellestehtauf
 21721,DE,2021-11-27,11:45:00,29221,Celle,Brandplatz,Kundgebung,,Celle steht auf,http://t.me/cellestehtauf
-21668,DE,2021-11-27,13:30:00,77694,Kehl,Europabücke Kehl / Straßburg,Aufzug,,Achern-Weiss-Bescheid und Collectif Anti-Pass,https://achern-weiss-bescheid.de/
 21685,DE,2021-11-27,13:30:00,77694,Kehl,Europabücke / Kehl / Straßburg,Aufzug,,Achern-Weiss-Bescheid und Collectif Anti-Pass,https://achern-weiss-bescheid.de/
+21668,DE,2021-11-27,13:30:00,77694,Kehl,Europabücke Kehl / Straßburg,Aufzug,,Achern-Weiss-Bescheid und Collectif Anti-Pass,https://achern-weiss-bescheid.de/
 21670,DE,2021-11-27,14:00:00,27356,Rotenburg,Pferdemarkt,Aufzug,,unbekannt,
 21674,DE,2021-11-27,14:00:00,76133,Karlsruhe,Kronenplatz,Kundgebung,,Offene Gesellschaft Kurpfalz,https://offene-gesellschaft-kurpfalz.de/12-versammlung-in-karlsruhe/
 21756,DE,2021-11-27,14:00:00,30169,Hannover,Ritter-Brüning /Lodemanweg / Parkpl.,Autokorso,,Autocorso-Hannover,
