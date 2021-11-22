@@ -16,10 +16,12 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21695,DE,2021-11-22,19:00:00,99974,Mühlhausen / Thüringen,Untermarkt,Spaziergang,,unbekannt,
 21682,DE,2021-11-22,19:00:00,99974,Mühlhausen,Untermarkt,Gegenprotest,,Gegen Corona Hetzer,
 21725,DE,2021-11-22,19:00:00,87600,Kaufbeuren-Neugablonz,Neuer Markt,Kundgebung,,unbekannt,
+21758,DE,2021-11-22,19:00:00,38350,Helmstedt,Rathaus,Spaziergang,,unbekannt,
 21739,DE,2021-11-22,19:00:00,54568,Gerolstein,Rathaus / davor Nähe Brunnenplatz,Spaziergang,,unbekannt,
 21745,DE,2021-11-23,17:00:00,90402,Nürnberg,Hallplatz / Pfannenschmiedsgasse,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 21743,DE,2021-11-23,17:30:00,79108,Freiburg,Neues SC Stadion / Parkplatz,Autokorso,,Zukunft Freiburg,https://zukunft-fr.de
 21746,DE,2021-11-24,17:00:00,90402,Nürnberg,Hallplatz / Königstraße,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
+21760,DE,2021-11-24,18:00:00,81675,München,Ismaninger Str. 136,Aufzug,,München steht auf,https://muenchen-steht-auf.de/
 21742,DE,2021-11-25,11:30:00,91052,Erlangen,Rathausplatz,Demonstration,,unbekannt,
 21637,DE,2021-11-25,17:30:00,63457,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf!,https://hanau-steht-auf.de/
 3811,DE,2021-11-25,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
@@ -35,12 +37,14 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21685,DE,2021-11-27,13:30:00,77694,Kehl,Europabücke / Kehl / Straßburg,Aufzug,,Achern-Weiss-Bescheid und Collectif Anti-Pass,https://achern-weiss-bescheid.de/
 21670,DE,2021-11-27,14:00:00,27356,Rotenburg,Pferdemarkt,Aufzug,,unbekannt,
 21674,DE,2021-11-27,14:00:00,76133,Karlsruhe,Kronenplatz,Kundgebung,,Offene Gesellschaft Kurpfalz,https://offene-gesellschaft-kurpfalz.de/12-versammlung-in-karlsruhe/
-21599,DE,2021-11-27,14:30:00,46049,Oberhausen,Duisburgerstr. / Niebuhrstr,Versammlung,,unbekannt,
+21756,DE,2021-11-27,14:00:00,30169,Hannover,Ritter-Brüning /Lodemanweg / Parkpl.,Autokorso,,Autocorso-Hannover,
 21603,DE,2021-11-27,14:30:00,46049,Oberhausen,Duisburgerstr. / Niebuhrstr.,Versammlung,,unbekannt,
+21599,DE,2021-11-27,14:30:00,46049,Oberhausen,Duisburgerstr. / Niebuhrstr,Versammlung,,unbekannt,
 21708,DE,2021-11-27,15:00:00,50828,Köln Ehrenfeld,Neptunplatz,Demonstration,,Koeln ist aktiv,koelnistaktiv.de
 21584,DE,2021-11-27,15:00:00,20099,Hamburg,Ernst-Merck-Str. / Kunsthalle,Aufzug,,Unbekannt,
 21719,DE,2021-11-27,16:30:00,80333,München,Max-Joseph-Platz,Kundgebung,,UlliOma,https://t.me/UlliOma_Muc
 21748,DE,2021-11-27,17:00:00,90402,Nürnberg,Hallplatz / Königstraße,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
+21757,DE,2021-11-28,13:00:00,81675,München,Friedensengel,Aufzug,,Polizisten für Aufklärung e.V. u.a.,https://echte-polizisten.de/trauerzug-fuer-karl-hilz-am-28-11/
 21750,AT,2021-11-28,14:00:00,5020,Salzburg,Mozartplatz,Demonstration,,Salzburg wacht auf,http://www.salzburgwachtauf.at/
 21677,DE,2021-11-28,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,https://t.me/CUXHAVEN_PROTEST
 21553,DE,2021-11-29,18:00:00,63450,Hanau,Freiheitsplatz,Mahnwache,,Hanau steht auf!,https://hanau-steht-auf.de/
@@ -48,6 +52,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21681,DE,2021-11-29,18:30:00,99510,Apolda,Markt / Rathaus,Spaziergang,,unbekannt,
 21631,DE,2021-11-29,19:00:00,26382,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,
 21661,DE,2021-11-29,19:00:00,17033,Neubrandenburg,Marktplatz,Spaziergang,,unbekannt,
+21759,DE,2021-11-29,19:00:00,38350,Helmstedt,Rathaus,Spaziergang,,Freiheitsboten Helmstedt,
 3812,DE,2021-12-02,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 21754,AT,2021-12-03,17:00:00,4020,Linz,Hauptplatz,Demonstration,,Verein Kunst und GenussKultur Garten,https://demolinz.at/
 21755,AT,2021-12-04,12:00:00,1010,Wien,Innenstadt,Demonstration,,verschiedene,https://www.direktdemokratisch.jetzt/megademo/
