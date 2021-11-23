@@ -4,6 +4,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21746,DE,2021-11-24,17:00:00,90402,Nürnberg,Hallplatz / Königstraße,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 21760,DE,2021-11-24,18:00:00,81675,München,Ismaninger Str. 136,Aufzug,,München steht auf,https://muenchen-steht-auf.de/
 21742,DE,2021-11-25,11:30:00,91052,Erlangen,Rathausplatz,Demonstration,,unbekannt,
+21761,DE,2021-11-25,16:30:00,70192,Stuttgart,Lenzhalde 46 / ital. Konsulat,Kundgebung,,Privat,
 21637,DE,2021-11-25,17:30:00,63457,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf!,https://hanau-steht-auf.de/
 3811,DE,2021-11-25,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 21365,DE,2021-11-25,18:00:00,06844,Dessau-Roßlau,Friedensglocke,Mahnwache,,Dessau steht auf,https://t.me/MontagsMahnwache
@@ -19,10 +20,11 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21670,DE,2021-11-27,14:00:00,27356,Rotenburg,Pferdemarkt,Aufzug,,unbekannt,
 21674,DE,2021-11-27,14:00:00,76133,Karlsruhe,Kronenplatz,Kundgebung,,Offene Gesellschaft Kurpfalz,https://offene-gesellschaft-kurpfalz.de/12-versammlung-in-karlsruhe/
 21756,DE,2021-11-27,14:00:00,30169,Hannover,Ritter-Brüning /Lodemanweg / Parkpl.,Autokorso,,Autocorso-Hannover,
-21603,DE,2021-11-27,14:30:00,46049,Oberhausen,Duisburgerstr. / Niebuhrstr.,Versammlung,,unbekannt,
 21599,DE,2021-11-27,14:30:00,46049,Oberhausen,Duisburgerstr. / Niebuhrstr,Versammlung,,unbekannt,
+21603,DE,2021-11-27,14:30:00,46049,Oberhausen,Duisburgerstr. / Niebuhrstr.,Versammlung,,unbekannt,
 21708,DE,2021-11-27,15:00:00,50828,Köln Ehrenfeld,Neptunplatz,Demonstration,,Koeln ist aktiv,koelnistaktiv.de
 21584,DE,2021-11-27,15:00:00,20099,Hamburg,Ernst-Merck-Str. / Kunsthalle,Aufzug,,Unbekannt,
+21763,DE,2021-11-27,15:30:00,34117,Kassel,Rathaus,Kundgebung,,unbekannt,
 21719,DE,2021-11-27,16:30:00,80333,München,Max-Joseph-Platz,Kundgebung,,UlliOma,https://t.me/UlliOma_Muc
 21748,DE,2021-11-27,17:00:00,90402,Nürnberg,Hallplatz / Königstraße,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 21757,DE,2021-11-28,13:00:00,81675,München,Friedensengel,Aufzug,,Polizisten für Aufklärung e.V. u.a.,https://echte-polizisten.de/trauerzug-fuer-karl-hilz-am-28-11/
