@@ -12,6 +12,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21704,DE,2021-11-26,15:00:00,76744,Wörth,CJD Maximiliansau,Mahnwache,,Das deutsche Volk,
 21747,DE,2021-11-26,15:30:00,90402,Nürnberg,Hallplatz / Königstraße,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 21753,AT,2021-11-26,17:00:00,4020,Linz,Hauptplatz,Demonstration,,Verein Kunst und GenussKultur Garten,https://demolinz.at/
+21767,DE,2021-11-27,11:00:00,80538,München,Max-II-Denkmal,Aufzug,,Kinder stehen auf,https://diekinderstehenaufweb.wordpress.com/
 21752,DE,2021-11-27,11:00:00,71394,Kernen,Stettener Straße,Kundgebung,,unbekannt,
 21612,DE,2021-11-27,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,http://t.me/cellestehtauf
 21721,DE,2021-11-27,11:45:00,29221,Celle,Brandplatz,Kundgebung,,Celle steht auf,http://t.me/cellestehtauf
@@ -22,6 +23,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21599,DE,2021-11-27,14:30:00,46049,Oberhausen,Duisburgerstr. / Niebuhrstr,Versammlung,,unbekannt,
 21708,DE,2021-11-27,15:00:00,50828,Köln Ehrenfeld,Neptunplatz,Demonstration,,Koeln ist aktiv,koelnistaktiv.de
 21584,DE,2021-11-27,15:00:00,20099,Hamburg,Ernst-Merck-Str. / Kunsthalle,Aufzug,,Unbekannt,
+21769,DE,2021-11-27,15:00:00,60323,Frankfurt am Main,Reuterweg 44,Aufzug,,unbekannt,
 21763,DE,2021-11-27,15:30:00,34117,Kassel,Rathaus,Kundgebung,,unbekannt,
 21719,DE,2021-11-27,16:30:00,80333,München,Max-Joseph-Platz,Kundgebung,,UlliOma,https://t.me/UlliOma_Muc
 21748,DE,2021-11-27,17:00:00,90402,Nürnberg,Hallplatz / Königstraße,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
@@ -30,9 +32,12 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21677,DE,2021-11-28,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,https://t.me/CUXHAVEN_PROTEST
 21553,DE,2021-11-29,18:00:00,63450,Hanau,Freiheitsplatz,Mahnwache,,Hanau steht auf!,https://hanau-steht-auf.de/
 21608,DE,2021-11-29,18:30:00,29221,Celle,Stechbahn vor Kirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,http://t.me/cellestehtauf
+21765,DE,2021-11-29,18:30:00,46236,Bottrop,Kirchplatz 1,Spaziergang,,Freiheitsboten Bottrop,
 21681,DE,2021-11-29,18:30:00,99510,Apolda,Markt / Rathaus,Spaziergang,,unbekannt,
+21768,DE,2021-11-29,18:45:00,17033,Neubrandenburg,Marktplatz / Innenstadt,Aufzug,,unbekannt,
 21631,DE,2021-11-29,19:00:00,26382,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,
 21661,DE,2021-11-29,19:00:00,17033,Neubrandenburg,Marktplatz,Spaziergang,,unbekannt,
+21764,DE,2021-11-29,19:00:00,99974,Mühlhausen/ Thüringen,Untermarkt,Spaziergang,,unbekannt,
 21759,DE,2021-11-29,19:00:00,38350,Helmstedt,Rathaus,Spaziergang,,Freiheitsboten Helmstedt,
 3812,DE,2021-12-02,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 21754,AT,2021-12-03,17:00:00,4020,Linz,Hauptplatz,Demonstration,,Verein Kunst und GenussKultur Garten,https://demolinz.at/
