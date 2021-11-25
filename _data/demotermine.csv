@@ -12,6 +12,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21753,AT,2021-11-26,17:00:00,4020,Linz,Hauptplatz,Demonstration,,Verein Kunst und GenussKultur Garten,https://demolinz.at/
 21767,DE,2021-11-27,11:00:00,80538,München,Max-II-Denkmal,Aufzug,,Kinder stehen auf,https://diekinderstehenaufweb.wordpress.com/
 21752,DE,2021-11-27,11:00:00,71394,Kernen,Stettener Straße,Kundgebung,,unbekannt,
+21793,DE,2021-11-27,11:00:00,03046,Cottbus,Stadthalle / Vorplatz,Kundgebung,,Bürger für Bürgerrechte Cottbus,http://www.bfb-cottbus.de
 21612,DE,2021-11-27,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,http://t.me/cellestehtauf
 21721,DE,2021-11-27,11:45:00,29221,Celle,Brandplatz,Kundgebung,,Celle steht auf,http://t.me/cellestehtauf
 21792,CH,2021-11-27,13:30:00,9000,St. Gallen,Vadian Denkmal,Kundgebung,,unbekannt,
@@ -38,6 +39,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21766,DE,2021-11-28,13:00:00,80538,München,Max II Denkmal,Aufzug,,Alexander Ehrlich u.a.,https://t.me/alexander_ehrlich/6506
 21779,DE,2021-11-28,13:00:00,45149,Essen / Haarzopf,Neue Mitte Parkplatz,Treffpunkt,,unbekannt,
 21750,AT,2021-11-28,14:00:00,5020,Salzburg,Mozartplatz,Demonstration,,Salzburg wacht auf,http://www.salzburgwachtauf.at/
+21794,DE,2021-11-28,14:30:00,03046,Cottbus,Viehmarkt,Autokorso,,Bürger für Bürgerrechte Cottbus,http://www.bfb-cottbus.de
 21677,DE,2021-11-28,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,https://t.me/CUXHAVEN_PROTEST
 21790,DE,2021-11-28,18:00:00,14612,Falkensee,Alte Stadthalle,Gebet,,unebkannt,
 21783,DE,2021-11-29,16:00:00,18055,Rostock,Stadthafen / am Strande,Menschenkette,,Friedensbewegung Rostock,
@@ -54,6 +56,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3812,DE,2021-12-02,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 21754,AT,2021-12-03,17:00:00,4020,Linz,Hauptplatz,Demonstration,,Verein Kunst und GenussKultur Garten,https://demolinz.at/
 21755,AT,2021-12-04,12:00:00,1010,Wien,Innenstadt,Demonstration,,verschiedene,https://www.direktdemokratisch.jetzt/megademo/
+21795,DE,2021-12-04,13:00:00,10179,Berlin,Märkischer Platz,Spaziergang,,unbekannt,
 21713,DE,2021-12-04,14:30:00,60313,Frankfurt,Alte Oper,Aufzug,,unbekannt,
 21700,DE,2021-12-04,15:00:00,20099,Hamburg,Ernst-Merck-Str. / Kunsthalle,Aufzug,,Unbekannt,
 21751,AT,2021-12-05,14:00:00,5020,Salzburg,Mozartplatz,Demonstration,,Salzburg wacht auf,http://www.salzburgwachtauf.at/
