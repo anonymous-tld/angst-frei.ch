@@ -23,8 +23,9 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21776,DE,2021-11-27,14:00:00,79098,Freiburg,Platz der Alten Synagoge,Aufzug,,Frei Sein Freiburg,
 21781,DE,2021-11-27,14:00:00,40474,Düsseldorf,Parkplatz Nordpark,Kundgebung,,Freiheitsfahrer Deutschland / Arnsberg,
 21599,DE,2021-11-27,14:30:00,46049,Oberhausen,Duisburgerstr. / Niebuhrstr,Versammlung,,unbekannt,
-21796,DE,2021-11-27,15:00:00,70174,Stuttgart,Stadtpark,Kundgebung,,Pfleger,https://www.facebook.com/groups/DemoTermine/posts/1725054274371112
 21778,DE,2021-11-27,15:00:00,70174,Stuttgart,Kriegsbergstraße / Hegelplatz,Kundgebung,,unbekannt,https://www.facebook.com/groups/DemoTermine/posts/1725054274371112
+21796,DE,2021-11-27,15:00:00,70174,Stuttgart,Stadtpark,Kundgebung,,Pfleger,https://www.facebook.com/groups/DemoTermine/posts/1725054274371112
+21821,DE,2021-11-27,15:00:00,48143,Münster,Aasee / Kugeln,Zusammenkunft,,unbekannt,
 21708,DE,2021-11-27,15:00:00,50828,Köln Ehrenfeld,Neptunplatz,Demonstration,,Koeln ist aktiv,koelnistaktiv.de
 21584,DE,2021-11-27,15:00:00,20099,Hamburg,Ernst-Merck-Str. / Kunsthalle,Aufzug,,Unbekannt,
 21777,DE,2021-11-27,15:00:00,60323,Frankfurt am Main,Reuterweg 44,Aufzug,https://t.me/querdenken_615/2857,unbekannt,
@@ -47,6 +48,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21783,DE,2021-11-29,16:00:00,18055,Rostock,Stadthafen / am Strande,Menschenkette,,Friedensbewegung Rostock,
 21784,DE,2021-11-29,17:00:00,18055,Rostock,Rosengarten,Aufzug,,Friedensbewegung Rostock,
 21807,DE,2021-11-29,18:00:00,92421,Schwandorf / Haselbach,Kirchawirt,Versammlung,,unbekannt,
+21820,DE,2021-11-29,18:00:00,48143,Münster,Domplatz,Spaziergang,,unbekannt,
+21816,DE,2021-11-29,18:00:00,95326,Kulmbach,Marktplatz,Revolte,,20Plus1-Bürgerbewegung,https://20plus1.de
 21553,DE,2021-11-29,18:00:00,63450,Hanau,Freiheitsplatz,Mahnwache,,Hanau steht auf!,https://hanau-steht-auf.de/
 21608,DE,2021-11-29,18:30:00,29221,Celle,Stechbahn vor Kirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,http://t.me/cellestehtauf
 21765,DE,2021-11-29,18:30:00,46236,Bottrop,Kirchplatz 1,Spaziergang,,Freiheitsboten Bottrop,
@@ -65,22 +68,33 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21795,DE,2021-12-04,13:00:00,10179,Berlin,Märkischer Platz,Spaziergang,,unbekannt,
 21713,DE,2021-12-04,14:30:00,60313,Frankfurt,Alte Oper,Aufzug,,unbekannt,
 21700,DE,2021-12-04,15:00:00,20099,Hamburg,Ernst-Merck-Str. / Kunsthalle,Aufzug,,Unbekannt,
+21817,DE,2021-12-05,10:00:00,95326,Kulmbach,Marktplatz,Demonstration,,20Plus1-Bürgerbewegung,https://20plus1.de
 21751,AT,2021-12-05,14:00:00,5020,Salzburg,Mozartplatz,Demonstration,,Salzburg wacht auf,http://www.salzburgwachtauf.at/
 21678,DE,2021-12-05,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,https://t.me/CUXHAVEN_PROTEST
+21808,DE,2021-12-06,16:00:00,18055,Rostock,Stadthafen / am Strande,Menschenkette,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
+21809,DE,2021-12-06,17:00:00,18055,Rostock,Rosengarten,Aufzug,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
+21819,DE,2021-12-06,18:00:00,95326,Kulmbach,Marktplatz,Kundgebung,,20Plus1-Bürgerbewegung,
 21554,DE,2021-12-06,18:00:00,63450,Hanau,Freiheitsplatz,Mahnwache,,Hanau steht auf!,https://hanau-steht-auf.de/
 21662,DE,2021-12-06,19:00:00,17033,Neubrandenburg,Marktplatz,Spaziergang,,unbekannt,
 3813,DE,2021-12-09,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
+21818,DE,2021-12-10,08:00:00,10178,Berlin,Alexanderplatz,Sonstiges,,Kunstattacke,https://t.me/kunstattacke
 21803,DE,2021-12-11,13:00:00,80331,München,Marienplatz,Kundgebung,,UlliOma,https://t.me/UlliOma_Muc
 21701,DE,2021-12-11,15:00:00,20099,Hamburg,Ernst-Merck-Str. / Kunsthalle,Aufzug,,Unbekannt,
 21791,DE,2021-12-12,15:00:00,47057,Duisburg,Hauptbahnhof,Demonstration,,PEGIDA NRW,
+21810,DE,2021-12-13,16:00:00,18055,Rostock,Stadthafen / am Strande,Menschenkette,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
+21811,DE,2021-12-13,17:00:00,18055,Rostock,Rosengarten,Aufzug,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
 21663,DE,2021-12-13,19:00:00,17033,Neubrandenburg,Marktplatz,Spaziergang,,unbekannt,
 3814,DE,2021-12-16,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 21720,DE,2021-12-18,16:00:00,20099,Hamburg,Ernst-Merck-Str. / Kunsthalle,Aufzug,,Unbekannt,
+21812,DE,2021-12-20,16:00:00,18055,Rostock,Stadthafen / am Strande,Menschenkette,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
+21813,DE,2021-12-20,17:00:00,18055,Rostock,Rosengarten,Aufzug,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
 21785,DE,2021-12-20,17:00:00,84307,Eggenfelden,Rathausplatz,Aufstand,https://dlive.tv/SelbstDenken21,SelbstDenken21,http://shop.selbstdenken21.de
 21555,DE,2021-12-20,18:00:00,63450,Hanau,Freiheitsplatz,Mahnwache,,Hanau steht auf!,https://hanau-steht-auf.de/
 21664,DE,2021-12-20,19:00:00,17033,Neubrandenburg,Marktplatz,Spaziergang,,unbekannt,
 3815,DE,2021-12-23,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 1963,DE,2021-12-24,12:00:00,10178,Berlin,Weltzeituhr / Alexanderplatz,OpSafeWinter,https://anonymous.support/live,Anonymous,https://anonymous.support
+21814,DE,2021-12-27,16:00:00,18055,Rostock,Stadthafen / am Strande,Menschenkette,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
+21815,DE,2021-12-27,17:00:00,18055,Rostock,Rosengarten,Aufzug,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
 21665,DE,2021-12-27,19:00:00,17033,Neubrandenburg,Marktplatz,Spaziergang,,unbekannt,
 3816,DE,2021-12-30,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 1617,DE,2021-12-31,23:59:00,10117,Berlin,Brandenburger Tor,Event,,Welcome 2022,
