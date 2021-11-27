@@ -10,16 +10,17 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21775,AT,2021-11-27,14:00:00,3100,Sankt Pölten,Kremsergasse / Libro / Hauptbhf.,Demonstration,,Lukas Würrer,https://www.demo-info.at/
 21670,DE,2021-11-27,14:00:00,27356,Rotenburg,Pferdemarkt,Aufzug,,unbekannt,
 21770,DE,2021-11-27,14:00:00,64385,Reichelsheim,B 38 Ortseingang Aldi,Zusammenkunft,,unbekannt,
-21786,DE,2021-11-27,14:00:00,56068,Koblenz,Herz-Jesu-Kirche / Löhrcenter,Mahnwache,,unbekannt,
 21804,DE,2021-11-27,14:00:00,56068,Koblenz,Herz-Jesu-Kirche (/ Löhrcenter,Mahnwache,,unbekannt,
+21786,DE,2021-11-27,14:00:00,56068,Koblenz,Herz-Jesu-Kirche / Löhrcenter,Mahnwache,,unbekannt,
 21674,DE,2021-11-27,14:00:00,76133,Karlsruhe,Kronenplatz,Kundgebung,,Offene Gesellschaft Kurpfalz,https://offene-gesellschaft-kurpfalz.de/12-versammlung-in-karlsruhe/
 21756,DE,2021-11-27,14:00:00,30169,Hannover,Ritter-Brüning /Lodemanweg / Parkpl.,Autokorso,,Autocorso-Hannover,
+21828,DE,2021-11-27,14:00:00,36036,Fulda,Bahnhofsplatz,Kundgebung,,unbekannt,www.frieden-freiheit.de
 21776,DE,2021-11-27,14:00:00,79098,Freiburg,Platz der Alten Synagoge,Aufzug,,Frei Sein Freiburg,
 21781,DE,2021-11-27,14:00:00,40474,Düsseldorf,Parkplatz Nordpark,Kundgebung,,Freiheitsfahrer Deutschland / Arnsberg,
 21599,DE,2021-11-27,14:30:00,46049,Oberhausen,Duisburgerstr. / Niebuhrstr,Versammlung,,unbekannt,
 21827,DE,2021-11-27,15:00:00,42283,Wuppertal,Geschwister Scholl Platz,Mahnwache,,unbekannt,
-21778,DE,2021-11-27,15:00:00,70174,Stuttgart,Kriegsbergstraße / Hegelplatz,Kundgebung,,unbekannt,https://www.facebook.com/groups/DemoTermine/posts/1725054274371112
 21796,DE,2021-11-27,15:00:00,70174,Stuttgart,Stadtpark,Kundgebung,,Pfleger,https://www.facebook.com/groups/DemoTermine/posts/1725054274371112
+21778,DE,2021-11-27,15:00:00,70174,Stuttgart,Kriegsbergstraße / Hegelplatz,Kundgebung,,unbekannt,https://www.facebook.com/groups/DemoTermine/posts/1725054274371112
 21821,DE,2021-11-27,15:00:00,48143,Münster,Aasee / Kugeln,Zusammenkunft,,unbekannt,
 21708,DE,2021-11-27,15:00:00,50828,Köln Ehrenfeld,Neptunplatz,Demonstration,,Koeln ist aktiv,koelnistaktiv.de
 21584,DE,2021-11-27,15:00:00,20099,Hamburg,Ernst-Merck-Str. / Kunsthalle,Aufzug,,Unbekannt,
@@ -38,9 +39,10 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21779,DE,2021-11-28,13:00:00,45149,Essen / Haarzopf,Neue Mitte Parkplatz,Treffpunkt,,unbekannt,
 21750,AT,2021-11-28,14:00:00,5020,Salzburg,Mozartplatz,Demonstration,,Salzburg wacht auf,http://www.salzburgwachtauf.at/
 21794,DE,2021-11-28,14:30:00,03046,Cottbus,Viehmarkt,Autokorso,,Bürger für Bürgerrechte Cottbus,http://www.bfb-cottbus.de
+21829,DE,2021-11-28,15:00:00,45149,Essen / Haarzopf,Fulerumer Str. 221,Treffpunkt,,UNBESIEGBAR- NRW,
 21677,DE,2021-11-28,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,https://t.me/CUXHAVEN_PROTEST
-21790,DE,2021-11-28,18:00:00,14612,Falkensee,Alte Stadthalle,Gebet,,unebkannt,
 21825,BE,2021-11-28,18:00:00,14612,Falkensee,Alte Stadthalle,Gebet,,Friedenslicht Falkensee,
+21790,DE,2021-11-28,18:00:00,14612,Falkensee,Alte Stadthalle,Gebet,,unebkannt,
 21783,DE,2021-11-29,16:00:00,18055,Rostock,Stadthafen / am Strande,Menschenkette,,Friedensbewegung Rostock,
 21784,DE,2021-11-29,17:00:00,18055,Rostock,Rosengarten,Aufzug,,Friedensbewegung Rostock,
 21826,DE,2021-11-29,18:00:00,16792,Zehdenick,Markt,Lichterkette,,unbekannt,
