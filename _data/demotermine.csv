@@ -8,8 +8,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21794,DE,2021-11-28,14:30:00,03046,Cottbus,Viehmarkt,Autokorso,,Bürger für Bürgerrechte Cottbus,http://www.bfb-cottbus.de
 21829,DE,2021-11-28,15:00:00,45149,Essen / Haarzopf,Fulerumer Str. 221,Treffpunkt,,UNBESIEGBAR- NRW,
 21677,DE,2021-11-28,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,https://t.me/CUXHAVEN_PROTEST
-21825,BE,2021-11-28,18:00:00,14612,Falkensee,Alte Stadthalle,Gebet,,Friedenslicht Falkensee,
 21790,DE,2021-11-28,18:00:00,14612,Falkensee,Alte Stadthalle,Gebet,,unebkannt,
+21825,BE,2021-11-28,18:00:00,14612,Falkensee,Alte Stadthalle,Gebet,,Friedenslicht Falkensee,
 21783,DE,2021-11-29,16:00:00,18055,Rostock,Stadthafen / am Strande,Menschenkette,,Friedensbewegung Rostock,
 21784,DE,2021-11-29,17:00:00,18055,Rostock,Rosengarten,Aufzug,,Friedensbewegung Rostock,
 21826,DE,2021-11-29,18:00:00,16792,Zehdenick,Markt,Lichterkette,,unbekannt,
@@ -25,8 +25,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21661,DE,2021-11-29,19:00:00,17033,Neubrandenburg,Marktplatz,Spaziergang,,unbekannt,
 21764,DE,2021-11-29,19:00:00,99974,Mühlhausen/ Thüringen,Untermarkt,Spaziergang,,unbekannt,
 21806,DE,2021-11-29,19:00:00,87600,Kaufbeuren-Neugablonz,Neuer Markt,Kundgebung,,unbekannt,
-21845,DE,2021-11-29,19:00:00,38530,Helmstedt,Rathaus,Kundgebung,,Freiheitsboten Helmstedt,
 21759,DE,2021-11-29,19:00:00,38350,Helmstedt,Rathaus,Spaziergang,,Freiheitsboten Helmstedt,
+21845,DE,2021-11-29,19:00:00,38530,Helmstedt,Rathaus,Kundgebung,,Freiheitsboten Helmstedt,
 21824,DE,2021-11-30,08:00:00,01097,Dresden,Sächsische Staatskanzlei,Revolte,,Zerschlagung der jüdisch-terroristischen Okkupation,
 21835,DE,2021-11-30,17:00:00,90402,Nürnberg,Hallplatz / Pfannenschmiedsgasse,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 21847,AT,2021-12-01,13:00:00,1010,Wien,Maria-Theresien-Platz,Demonstration,,Alle ungeimpften Bürger | FPÖ | MFG | alle erwachten geimpften Bürger,http://www.drhubmermogg.at/
@@ -42,6 +42,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21802,DE,2021-12-04,13:00:00,80331,München,Marienplatz,Kundgebung,,UlliOma,https://t.me/UlliOma_Muc
 21795,DE,2021-12-04,13:00:00,10179,Berlin,Märkischer Platz,Spaziergang,,unbekannt,
 21841,DE,2021-12-04,13:30:00,80336,München,Theresienwiese / Ostzufahrt,Autokorso,,AutoKorsoMünchen,https://t.me/AutoKorsoMuc/309
+21850,DE,2021-12-04,14:00:00,40213,Düsseldorf,Wiese Rheinprom. /  Reuterkaserne,Aufzug,,Zurück auf den Campus,
 21713,DE,2021-12-04,14:30:00,60313,Frankfurt,Alte Oper,Aufzug,,unbekannt,
 21842,DE,2021-12-04,15:00:00,83278,Traunstein,Stadtplatz,Kundgebung,,Franz Lindlacher,https://www.ts-bgl.de/
 21700,DE,2021-12-04,15:00:00,20099,Hamburg,Ernst-Merck-Str. / Kunsthalle,Aufzug,,Unbekannt,
