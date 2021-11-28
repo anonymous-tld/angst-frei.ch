@@ -1,15 +1,4 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
-21800,DE,2021-11-28,10:45:00,75015,Bretten,Stadtpark / Alter Friedhof,Meditation,,unbekannt,
-21797,AT,2021-11-28,12:30:00,5020,Salzburg,Kapitelplatz,Kundgebung,,MFG u. Salzburg wacht auf,http://www.mfg-oe.at
-21766,DE,2021-11-28,13:00:00,80538,München,Max II Denkmal,Aufzug,,Alexander Ehrlich u.a.,https://t.me/alexander_ehrlich/6506
-21799,AT,2021-11-28,13:00:00,4020,Linz,Martin-Luther-Kirche / Platz,Aufzug,,FESTLINZ.at,https://t.me/DEMOjedenFREITAGfuerFREIHEIT/785
-21779,DE,2021-11-28,13:00:00,45149,Essen / Haarzopf,Neue Mitte Parkplatz,Treffpunkt,,unbekannt,
-21750,AT,2021-11-28,14:00:00,5020,Salzburg,Mozartplatz,Demonstration,,Salzburg wacht auf,http://www.salzburgwachtauf.at/
-21794,DE,2021-11-28,14:30:00,03046,Cottbus,Viehmarkt,Autokorso,,Bürger für Bürgerrechte Cottbus,http://www.bfb-cottbus.de
-21829,DE,2021-11-28,15:00:00,45149,Essen / Haarzopf,Fulerumer Str. 221,Treffpunkt,,UNBESIEGBAR- NRW,
-21677,DE,2021-11-28,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,https://t.me/CUXHAVEN_PROTEST
-21790,DE,2021-11-28,18:00:00,14612,Falkensee,Alte Stadthalle,Gebet,,unebkannt,
-21825,BE,2021-11-28,18:00:00,14612,Falkensee,Alte Stadthalle,Gebet,,Friedenslicht Falkensee,
 21783,DE,2021-11-29,16:00:00,18055,Rostock,Stadthafen / am Strande,Menschenkette,,Friedensbewegung Rostock,
 21784,DE,2021-11-29,17:00:00,18055,Rostock,Rosengarten,Aufzug,,Friedensbewegung Rostock,
 21826,DE,2021-11-29,18:00:00,16792,Zehdenick,Markt,Lichterkette,,unbekannt,
@@ -64,6 +53,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21830,DE,2021-12-06,19:00:00,26386,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,
 21662,DE,2021-12-06,19:00:00,17033,Neubrandenburg,Marktplatz,Spaziergang,,unbekannt,
 3813,DE,2021-12-09,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
+21855,DE,2021-12-10,08:00:00,59846,Sundern,Rathausplatz,Sonstiges,https://t.me/kunstattacke,,https://kunst-attacke.jimdosite.com/
 21818,DE,2021-12-10,08:00:00,10178,Berlin,Alexanderplatz,Sonstiges,,Kunstattacke,https://t.me/kunstattacke
 21803,DE,2021-12-11,13:00:00,80331,München,Marienplatz,Kundgebung,,UlliOma,https://t.me/UlliOma_Muc
 21844,DE,2021-12-11,14:00:00,63741,Aschaffenburg,Volksfestplatz,Demonstration,,unbekannt,http://www.aschaffenburg-steht-auf.de
