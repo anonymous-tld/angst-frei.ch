@@ -25,11 +25,14 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21661,DE,2021-11-29,19:00:00,17033,Neubrandenburg,Marktplatz,Spaziergang,,unbekannt,
 21764,DE,2021-11-29,19:00:00,99974,Mühlhausen/ Thüringen,Untermarkt,Spaziergang,,unbekannt,
 21806,DE,2021-11-29,19:00:00,87600,Kaufbeuren-Neugablonz,Neuer Markt,Kundgebung,,unbekannt,
+21845,DE,2021-11-29,19:00:00,38530,Helmstedt,Rathaus,Kundgebung,,Freiheitsboten Helmstedt,
 21759,DE,2021-11-29,19:00:00,38350,Helmstedt,Rathaus,Spaziergang,,Freiheitsboten Helmstedt,
 21824,DE,2021-11-30,08:00:00,01097,Dresden,Sächsische Staatskanzlei,Revolte,,Zerschlagung der jüdisch-terroristischen Okkupation,
 21835,DE,2021-11-30,17:00:00,90402,Nürnberg,Hallplatz / Pfannenschmiedsgasse,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
+21847,AT,2021-12-01,13:00:00,1010,Wien,Maria-Theresien-Platz,Demonstration,,Alle ungeimpften Bürger | FPÖ | MFG | alle erwachten geimpften Bürger,http://www.drhubmermogg.at/
 21801,DE,2021-12-01,13:00:00,84503,Altötting,Kapellplatz,Aufzug,,unbekannt,
 21822,DE,2021-12-01,14:00:00,91126,Schwabach,Martin-Luther-Platz,Demonstration,,WIR für die Freiheit,
+21849,DE,2021-12-01,17:00:00,70182,Stuttgart,Wilhelmplatz,Aufzug,,Privat,
 21836,DE,2021-12-01,17:00:00,90402,Nürnberg,Hallplatz / Pfannenschmiedsgasse,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 21837,DE,2021-12-02,17:00:00,90402,Nürnberg,Hallplatz / Königstraße,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 3812,DE,2021-12-02,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
@@ -42,6 +45,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21713,DE,2021-12-04,14:30:00,60313,Frankfurt,Alte Oper,Aufzug,,unbekannt,
 21842,DE,2021-12-04,15:00:00,83278,Traunstein,Stadtplatz,Kundgebung,,Franz Lindlacher,https://www.ts-bgl.de/
 21700,DE,2021-12-04,15:00:00,20099,Hamburg,Ernst-Merck-Str. / Kunsthalle,Aufzug,,Unbekannt,
+21848,DE,2021-12-04,15:00:00,60313,Frankfurt,Rathenauplatz,Demonstration,,Widerstand 4.0,https://widerstand4-0.net/2021/11/23/aufruf-zum-worldwidewalkout-am-4-12-2021/
 21843,DE,2021-12-04,16:00:00,84028,Landshut,Martinskirche / davor,Gebet,,Kraftquelle Gebet Landshut,
 21840,DE,2021-12-04,17:00:00,90402,Nürnberg,Hallplatz / Königstraße,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 21823,DE,2021-12-04,17:00:00,79215,Elzach,Nikolausplatz,Mahnwache,,unbekannt,
@@ -66,6 +70,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21663,DE,2021-12-13,19:00:00,17033,Neubrandenburg,Marktplatz,Spaziergang,,unbekannt,
 3814,DE,2021-12-16,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 21720,DE,2021-12-18,16:00:00,20099,Hamburg,Ernst-Merck-Str. / Kunsthalle,Aufzug,,Unbekannt,
+21846,DE,2021-12-19,14:00:00,69117,Heidelberg,Friedrich-Ebert-Platz,Kundgebung,,Offene Gesellschaft Kurpfalz,https://offene-gesellschaft-kurpfalz.de/13-demo-in-heidelberg/
 21812,DE,2021-12-20,16:00:00,18055,Rostock,Stadthafen / am Strande,Menschenkette,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
 21813,DE,2021-12-20,17:00:00,18055,Rostock,Rosengarten,Aufzug,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
 21785,DE,2021-12-20,17:00:00,84307,Eggenfelden,Rathausplatz,Aufstand,https://dlive.tv/SelbstDenken21,SelbstDenken21,http://shop.selbstdenken21.de
