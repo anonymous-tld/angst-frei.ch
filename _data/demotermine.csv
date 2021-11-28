@@ -8,8 +8,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21794,DE,2021-11-28,14:30:00,03046,Cottbus,Viehmarkt,Autokorso,,Bürger für Bürgerrechte Cottbus,http://www.bfb-cottbus.de
 21829,DE,2021-11-28,15:00:00,45149,Essen / Haarzopf,Fulerumer Str. 221,Treffpunkt,,UNBESIEGBAR- NRW,
 21677,DE,2021-11-28,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,https://t.me/CUXHAVEN_PROTEST
-21790,DE,2021-11-28,18:00:00,14612,Falkensee,Alte Stadthalle,Gebet,,unebkannt,
 21825,BE,2021-11-28,18:00:00,14612,Falkensee,Alte Stadthalle,Gebet,,Friedenslicht Falkensee,
+21790,DE,2021-11-28,18:00:00,14612,Falkensee,Alte Stadthalle,Gebet,,unebkannt,
 21783,DE,2021-11-29,16:00:00,18055,Rostock,Stadthafen / am Strande,Menschenkette,,Friedensbewegung Rostock,
 21784,DE,2021-11-29,17:00:00,18055,Rostock,Rosengarten,Aufzug,,Friedensbewegung Rostock,
 21826,DE,2021-11-29,18:00:00,16792,Zehdenick,Markt,Lichterkette,,unbekannt,
@@ -57,6 +57,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3813,DE,2021-12-09,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 21818,DE,2021-12-10,08:00:00,10178,Berlin,Alexanderplatz,Sonstiges,,Kunstattacke,https://t.me/kunstattacke
 21803,DE,2021-12-11,13:00:00,80331,München,Marienplatz,Kundgebung,,UlliOma,https://t.me/UlliOma_Muc
+21844,DE,2021-12-11,14:00:00,63741,Aschaffenburg,Volksfestplatz,Demonstration,,unbekannt,http://www.aschaffenburg-steht-auf.de
 21701,DE,2021-12-11,15:00:00,20099,Hamburg,Ernst-Merck-Str. / Kunsthalle,Aufzug,,Unbekannt,
 21791,DE,2021-12-12,15:00:00,47057,Duisburg,Hauptbahnhof,Demonstration,,PEGIDA NRW,
 21810,DE,2021-12-13,16:00:00,18055,Rostock,Stadthafen / am Strande,Menschenkette,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
