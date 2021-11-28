@@ -8,12 +8,13 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21794,DE,2021-11-28,14:30:00,03046,Cottbus,Viehmarkt,Autokorso,,Bürger für Bürgerrechte Cottbus,http://www.bfb-cottbus.de
 21829,DE,2021-11-28,15:00:00,45149,Essen / Haarzopf,Fulerumer Str. 221,Treffpunkt,,UNBESIEGBAR- NRW,
 21677,DE,2021-11-28,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,https://t.me/CUXHAVEN_PROTEST
-21790,DE,2021-11-28,18:00:00,14612,Falkensee,Alte Stadthalle,Gebet,,unebkannt,
 21825,BE,2021-11-28,18:00:00,14612,Falkensee,Alte Stadthalle,Gebet,,Friedenslicht Falkensee,
+21790,DE,2021-11-28,18:00:00,14612,Falkensee,Alte Stadthalle,Gebet,,unebkannt,
 21783,DE,2021-11-29,16:00:00,18055,Rostock,Stadthafen / am Strande,Menschenkette,,Friedensbewegung Rostock,
 21784,DE,2021-11-29,17:00:00,18055,Rostock,Rosengarten,Aufzug,,Friedensbewegung Rostock,
 21826,DE,2021-11-29,18:00:00,16792,Zehdenick,Markt,Lichterkette,,unbekannt,
 21807,DE,2021-11-29,18:00:00,92421,Schwandorf / Haselbach,Kirchawirt,Versammlung,,unbekannt,
+21851,DE,2021-11-29,18:00:00,65428,Rüsselsheim,Rathaus,Zusammenkunft,,unbekannt,
 21820,DE,2021-11-29,18:00:00,48143,Münster,Domplatz,Spaziergang,,unbekannt,
 21816,DE,2021-11-29,18:00:00,95326,Kulmbach,Marktplatz,Revolte,,20Plus1-Bürgerbewegung,https://20plus1.de
 21553,DE,2021-11-29,18:00:00,63450,Hanau,Freiheitsplatz,Mahnwache,,Hanau steht auf!,https://hanau-steht-auf.de/
@@ -29,6 +30,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21845,DE,2021-11-29,19:00:00,38530,Helmstedt,Rathaus,Kundgebung,,Freiheitsboten Helmstedt,
 21824,DE,2021-11-30,08:00:00,01097,Dresden,Sächsische Staatskanzlei,Revolte,,Zerschlagung der jüdisch-terroristischen Okkupation,
 21835,DE,2021-11-30,17:00:00,90402,Nürnberg,Hallplatz / Pfannenschmiedsgasse,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
+21853,DE,2021-11-30,18:30:00,79108,Freiburg,Neues SC-Stadion / Flugplatz,Autokorso,,FreiSeinFreiburg,
 21847,AT,2021-12-01,13:00:00,1010,Wien,Maria-Theresien-Platz,Demonstration,,Alle ungeimpften Bürger | FPÖ | MFG | alle erwachten geimpften Bürger,http://www.drhubmermogg.at/
 21801,DE,2021-12-01,13:00:00,84503,Altötting,Kapellplatz,Aufzug,,unbekannt,
 21822,DE,2021-12-01,14:00:00,91126,Schwabach,Martin-Luther-Platz,Demonstration,,WIR für die Freiheit,
@@ -47,6 +49,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21842,DE,2021-12-04,15:00:00,83278,Traunstein,Stadtplatz,Kundgebung,,Franz Lindlacher,https://www.ts-bgl.de/
 21700,DE,2021-12-04,15:00:00,20099,Hamburg,Ernst-Merck-Str. / Kunsthalle,Aufzug,,Unbekannt,
 21848,DE,2021-12-04,15:00:00,60313,Frankfurt,Rathenauplatz,Demonstration,,Widerstand 4.0,https://widerstand4-0.net/2021/11/23/aufruf-zum-worldwidewalkout-am-4-12-2021/
+21852,DE,2021-12-04,15:00:00,10117,Berlin,Brandenburger Tor / Simsonweg,Sonstiges,https://www.youtube.com/channel/UCxl4vPqdEUCaTiJaLBK9wPQ,Katholische Kirche,https://weihe-deutschlands-an-maria.jimdofree.com
 21843,DE,2021-12-04,16:00:00,84028,Landshut,Martinskirche / davor,Gebet,,Kraftquelle Gebet Landshut,
 21840,DE,2021-12-04,17:00:00,90402,Nürnberg,Hallplatz / Königstraße,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 21823,DE,2021-12-04,17:00:00,79215,Elzach,Nikolausplatz,Mahnwache,,unbekannt,
