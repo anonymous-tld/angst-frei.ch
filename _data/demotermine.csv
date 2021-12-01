@@ -1,25 +1,4 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
-21926,DE,2021-12-01,12:00:00,4020,Linz,Hauptplatz,Demonstration,,unbekannt,https://t.me/DEMOjedenFREITAGfuerFREIHEIT/796
-21854,DE,2021-12-01,12:30:00,84504,Altötting,Tillyplatz,Spaziergang,,Private Anmeldung,
-21861,AT,2021-12-01,13:00:00,1010,Wien,Maria-Theresien-Platz,Kundgebung,,Impfstreik WIRstreiken,https://t.me/WIRstreiken/47
-21847,AT,2021-12-01,13:00:00,1010,Wien,Maria-Theresien-Platz,Demonstration,,Alle ungeimpften Bürger | FPOe | MFG | alle erwachten geimpften Bürger,http://www.drhubmermogg.at/
-21914,AT,2021-12-01,13:00:00,3100,Sankt Pölten,Boulevard 1 / Landhaus,Kundgebung,,Impfstreik WIRstreiken,https://t.me/MartinRutter/4684
-21909,AT,2021-12-01,13:00:00,5010,Salzburg,Landtag / Chiemseehof,Kundgebung,,Impfstreik WIRstreiken,https://t.me/MartinRutter/4684
-21921,DE,2021-12-01,13:00:00,76437,Rastatt,Museumstr. / Museumstor,Kundgebung,,BI aufRECHT:FREIdenken und Basisdemokratische Partei Deutschland Kreisverband Rastatt/Baden-Baden,http://www.solidarnosch.de
-21912,AT,2021-12-01,13:00:00,4020,Linz,Landhausplatz 1 / Landtag,Kundgebung,,Impfstreik WIRstreiken,https://t.me/MartinRutter/4684
-21910,AT,2021-12-01,13:00:00,9020,Klagenfurt,Arnulfplatz 1 / Landtag,Kundgebung,,Impfstreik WIRstreiken,https://t.me/MartinRutter/4684
-21908,AT,2021-12-01,13:00:00,6020,Innsbruck,Landtag,Kundgebung,,Impfstreik WIRstreiken,https://t.me/MartinRutter/4684
-21911,AT,2021-12-01,13:00:00,8010,Graz,Herrengasse 16 / Landtag,Kundgebung,,Impfstreik WIRstreiken,https://t.me/MartinRutter/4684
-21913,AT,2021-12-01,13:00:00,7000,Eisenstadt,Europaplatz,Kundgebung,,Impfstreik WIRstreiken,https://t.me/MartinRutter/4684
-21907,AT,2021-12-01,13:00:00,6900,Bregenz,Römerstr. 15 / Landtag,Kundgebung,,Impfstreik WIRstreiken,https://t.me/MartinRutter/4684
-21822,DE,2021-12-01,14:00:00,91126,Schwabach,Martin-Luther-Platz,Demonstration,,WIR für die Freiheit,
-21931,DE,2021-12-01,15:00:00,59523,Unna,Rathaus,Kundgebung,,unbekannt,
-21930,DE,2021-12-01,16:30:00,04109,Leipzig,Augustusplatz,Kundgebung,,unbekannt,
-21849,DE,2021-12-01,17:00:00,70182,Stuttgart,Wilhelmplatz,Aufzug,,Privat,
-21836,DE,2021-12-01,17:00:00,90402,Nürnberg,Hallplatz / Pfannenschmiedsgasse,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
-21903,DE,2021-12-01,17:00:00,84028,Landshut,Martinskirche / davor,Gebet,,Kraftquelle Gebet Landshut,
-21859,DE,2021-12-01,17:30:00,07743,Jena,Am Holzmarkt,Zusammenkunft,,unbekannt,
-21905,DE,2021-12-01,18:00:00,80333,München,Wittelsbacherplatz,Aufzug,,München steht auf,http://www.muenchen-steht-auf.de
 21918,AT,2021-12-02,12:00:00,1190,Wien,Muthgasse 2 / Kronenzeitung,Demonstration,,direktdemokratisch / Martin Rutter,https://www.direktdemokratisch.jetzt/
 21928,DE,2021-12-02,15:30:00,64283,Darmstadt,Luisenplatz,Mahnwache,,unbekannt,
 21925,DE,2021-12-02,16:30:00,47051,Duisburg,Burgplatz / Rathaus,Mahnwache,,QD 203 / WIR STEHEN AUF,
@@ -30,8 +9,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21754,AT,2021-12-03,17:00:00,4020,Linz,Hauptplatz,Demonstration,,Verein Kunst und GenussKultur Garten,https://demolinz.at/
 21869,DE,2021-12-03,17:30:00,76133,Karlsruhe,Stephanplatz,Kundgebung,,http://Grundrechte.jetzt,http://www.Grundrechte.jetzt
 21865,DE,2021-12-04,11:00:00,54290,Trier,Porta Nigra,Zusammenkunft,,unbekannt,
-21857,AT,2021-12-04,12:00:00,1010,Wien,Heldenplatz,Demonstration,,Alle ungeimpften Bürger | FPOe | MFG | alle erwachten geimpften Bürger,http://www.drhubmermogg.at/
 21755,AT,2021-12-04,12:00:00,1010,Wien,Innenstadt,Demonstration,,verschiedene,https://www.direktdemokratisch.jetzt/megademo/
+21857,AT,2021-12-04,12:00:00,1010,Wien,Heldenplatz,Demonstration,,Alle ungeimpften Bürger | FPOe | MFG | alle erwachten geimpften Bürger,http://www.drhubmermogg.at/
 21923,DE,2021-12-04,12:00:00,84130,Dingolfing,Marienplatz,Demonstration,,AfD,
 21802,DE,2021-12-04,13:00:00,80331,München,Marienplatz,Kundgebung,,UlliOma,https://t.me/UlliOma_Muc
 21795,DE,2021-12-04,13:00:00,10179,Berlin,Märkischer Platz,Spaziergang,,unbekannt,
@@ -74,14 +53,14 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21874,DE,2021-12-10,08:00:00,99310,Alkersleben,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/
 21873,DE,2021-12-10,08:00:00,18347,Ahrenshoop,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/
 21872,DE,2021-12-10,08:00:00,22926,Ahrensburg,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/
-21870,DE,2021-12-10,08:00:00,96482,Ahorn,City,Sonstiges,,http://t.me/kunstattacke,https://kunst-attacke.jimdosite.com/
 21871,DE,2021-12-10,08:00:00,74744,Ahorn,City,Erholung,,http://t.me/kunstattacke,https://kunst-attacke.jimdosite.com/
+21870,DE,2021-12-10,08:00:00,96482,Ahorn,City,Sonstiges,,http://t.me/kunstattacke,https://kunst-attacke.jimdosite.com/
 21868,DE,2021-12-10,08:00:00,28832,Achim,City,Treffpunkt,,http://t.me/kunstattacke,https://kunst-attacke.jimdosite.com/
 21867,DE,2021-12-10,08:00:00,73430,Aalen,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/
 21866,DE,2021-12-10,08:00:00,52062,Aachen,City,Musik,,Kunstattacke,https://t.me/kunstattacke
 21932,DE,2021-12-11,08:00:00,34431,Marsberg,Markt,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
-21896,DE,2021-12-11,08:00:00,91275,Auerbach,City,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
 21895,DE,2021-12-11,08:00:00,08209,Auerbach,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/
+21896,DE,2021-12-11,08:00:00,91275,Auerbach,City,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
 21892,DE,2021-12-11,08:00:00,57439,Attendorn,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/
 21891,DE,2021-12-11,08:00:00,21271,Asendorf,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/
 21890,DE,2021-12-11,08:00:00,59387,Ascheberg,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/
