@@ -1,10 +1,4 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
-21918,AT,2021-12-02,12:00:00,1190,Wien,Muthgasse 2 / Kronenzeitung,Demonstration,,direktdemokratisch / Martin Rutter,https://www.direktdemokratisch.jetzt/
-21928,DE,2021-12-02,15:30:00,64283,Darmstadt,Luisenplatz,Mahnwache,,unbekannt,
-21925,DE,2021-12-02,16:30:00,47051,Duisburg,Burgplatz / Rathaus,Mahnwache,,QD 203 / WIR STEHEN AUF,
-21837,DE,2021-12-02,17:00:00,90402,Nürnberg,Hallplatz / Königstraße,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
-3812,DE,2021-12-02,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
-21863,DE,2021-12-02,18:00:00,39340,Haldensleben,Marktplatz,Kundgebung,,unbekannt,
 21952,DE,2021-12-03,12:00:00,41747,Viersen,Remigiusplatz / Kirche,Spaziergang,,unbekannt,
 21838,DE,2021-12-03,15:30:00,90402,Nürnberg,Hallplatz / Königstraße,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 21754,AT,2021-12-03,17:00:00,4020,Linz,Hauptplatz,Demonstration,,Verein Kunst und GenussKultur Garten,https://demolinz.at/
@@ -13,11 +7,11 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21865,DE,2021-12-04,11:00:00,54290,Trier,Porta Nigra,Zusammenkunft,,unbekannt,
 21966,DE,2021-12-04,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,https://t.me/cellestehtauf
 21967,DE,2021-12-04,11:45:00,29221,Celle,Brandplatz,Kundgebung,,Celle steht auf,https://t.me/cellestehtauf
-21857,AT,2021-12-04,12:00:00,1010,Wien,Heldenplatz,Demonstration,,Alle ungeimpften Bürger | FPOe | MFG | alle erwachten geimpften Bürger,http://www.drhubmermogg.at/
 21755,AT,2021-12-04,12:00:00,1010,Wien,Innenstadt,Demonstration,,verschiedene,https://www.direktdemokratisch.jetzt/megademo/
+21857,AT,2021-12-04,12:00:00,1010,Wien,Heldenplatz,Demonstration,,Alle ungeimpften Bürger | FPOe | MFG | alle erwachten geimpften Bürger,http://www.drhubmermogg.at/
 21923,DE,2021-12-04,12:00:00,84130,Dingolfing,Marienplatz,Demonstration,,AfD,
-21957,DE,2021-12-04,12:30:00,26954,Nordenham,Marktplatz,Kundgebung,,Privat | angemeldet,
 21958,DE,2021-12-04,12:30:00,26954,Nordenham,Marktplatz,Kundgebung,,Privat | angemeldet,
+21957,DE,2021-12-04,12:30:00,26954,Nordenham,Marktplatz,Kundgebung,,Privat | angemeldet,
 21802,DE,2021-12-04,13:00:00,80331,München,Marienplatz,Kundgebung,,UlliOma,https://t.me/UlliOma_Muc
 21795,DE,2021-12-04,13:00:00,10179,Berlin,Märkischer Platz,Spaziergang,,unbekannt,
 21841,DE,2021-12-04,13:30:00,80336,München,Theresienwiese / Ostzufahrt,Autokorso,,AutoKorsoMünchen,https://t.me/AutoKorsoMuc/309
@@ -71,9 +65,9 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21975,DE,2021-12-09,18:00:00,39340,Haldensleben,Marktplatz,Mahnwache,,unbekannt,
 21915,DE,2021-12-10,08:00:00,74374,Zaberfeld,Ortseingang,Sonstiges,,unbekannt,https://kunst-attacke.jimdosite.com/
 21855,DE,2021-12-10,08:00:00,59846,Sundern,Rathausplatz,Sonstiges,https://t.me/kunstattacke,,https://kunst-attacke.jimdosite.com/
-21916,DE,2021-12-10,08:00:00,59755,Neheim,Aldi Parkplatz,Sonstiges,,unbekannt,https://kunst-attacke.jimdosite.com/
 21965,DE,2021-12-10,08:00:00,59755,Neheim,City / Markt,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
 21945,DE,2021-12-10,08:00:00,59757,Neheim,Im Ohl 16b,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
+21916,DE,2021-12-10,08:00:00,59755,Neheim,Aldi Parkplatz,Sonstiges,,unbekannt,https://kunst-attacke.jimdosite.com/
 21818,DE,2021-12-10,08:00:00,10178,Berlin,Alexanderplatz,Sonstiges,,Kunstattacke,https://t.me/kunstattacke
 21946,DE,2021-12-10,08:00:00,64832,Babenhausen,City,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
 21947,DE,2021-12-10,08:00:00,56729,Baar,City,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
@@ -88,8 +82,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21866,DE,2021-12-10,08:00:00,52062,Aachen,City,Musik,,Kunstattacke,https://t.me/kunstattacke
 21932,DE,2021-12-11,08:00:00,34431,Marsberg,Markt,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
 21943,DE,2021-12-11,08:00:00,58089,Hagen,City,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
-21895,DE,2021-12-11,08:00:00,08209,Auerbach,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/
 21896,DE,2021-12-11,08:00:00,91275,Auerbach,City,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
+21895,DE,2021-12-11,08:00:00,08209,Auerbach,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/
 21892,DE,2021-12-11,08:00:00,57439,Attendorn,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/
 21891,DE,2021-12-11,08:00:00,21271,Asendorf,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/
 21890,DE,2021-12-11,08:00:00,59387,Ascheberg,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/
