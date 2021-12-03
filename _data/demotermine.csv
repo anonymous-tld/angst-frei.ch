@@ -43,8 +43,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21983,AT,2021-12-05,12:30:00,5020,Salzburg,Kapitelplatz,Demonstration,,unbekannt,https://www.fpoe.at/demokalender
 21984,AT,2021-12-05,13:30:00,5730,Mittersill,Stadtmitte,Demonstration,,unbekannt,https://www.fpoe.at/demokalender
 21948,DE,2021-12-05,14:00:00,54516,Wittlich,Platz an der Lieser,Kundgebung,,unbekannt,
-21990,DE,2021-12-05,14:00:00,70182,Stuttgart,Wilhelmsplatz,Kundgebung,,unbekannt,
 22001,DE,2021-12-05,14:00:00,70182,Stuttgart,Wilhelmsplatz,Aufstand,,Demokratiebewegung,
+21990,DE,2021-12-05,14:00:00,70182,Stuttgart,Wilhelmsplatz,Kundgebung,,unbekannt,
 21751,AT,2021-12-05,14:00:00,5020,Salzburg,Mozartplatz,Demonstration,,Salzburg wacht auf,http://www.salzburgwachtauf.at/
 21935,DE,2021-12-05,14:00:00,95326,Kulmbach,Marktplatz,Mahnwache,,unbekannt,https://20plus1.de
 21929,DE,2021-12-05,14:00:00,60313,Frankfurt am Main,Opernplatz,Schweigemarsch,,unbekannt,
@@ -59,6 +59,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21986,AT,2021-12-05,18:00:00,8200,Gleisdorf,Hauptplatz,Demonstration,,unbekannt,https://www.fpoe.at/demokalender
 21951,DE,2021-12-05,18:00:00,14612,Falkensee,Alte Stadthalle,Gebet,,Friedenslicht Falkensee,
 21808,DE,2021-12-06,16:00:00,18055,Rostock,Stadthafen / am Strande,Menschenkette,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
+22011,DE,2021-12-06,16:30:00,86150,Augsburg,Rathausplatz,Kundgebung,,Bürgerforum Schwaben,
 21917,DE,2021-12-06,17:00:00,38440,Wolfsburg,Rathaus,Spaziergang,,unbekannt,
 21809,DE,2021-12-06,17:00:00,18055,Rostock,Rosengarten,Aufzug,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
 22009,DE,2021-12-06,18:00:00,16515,Oranienburg,Schlossplatz,Kundgebung,,OHV steht auf,
@@ -81,12 +82,12 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21959,DE,2021-12-08,18:00:00,80333,München,Odeonsplatz,Aufzug,,München steht auf,http://www.muenchen-steht-auf.de
 22003,DE,2021-12-08,19:15:00,83022,Rosenheim,Ichikawaplatz,Mahnwache,,unbekannt,
 3813,DE,2021-12-09,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
-21975,DE,2021-12-09,18:00:00,39340,Haldensleben,Marktplatz,Mahnwache,,unbekannt,
 21976,DE,2021-12-09,18:00:00,39340,Haldensleben,Marktplatz,Mahnwache,,unbekannt,
+21975,DE,2021-12-09,18:00:00,39340,Haldensleben,Marktplatz,Mahnwache,,unbekannt,
 21915,DE,2021-12-10,08:00:00,74374,Zaberfeld,Ortseingang,Sonstiges,,unbekannt,https://kunst-attacke.jimdosite.com/
 21855,DE,2021-12-10,08:00:00,59846,Sundern,Rathausplatz,Sonstiges,https://t.me/kunstattacke,,https://kunst-attacke.jimdosite.com/
-21965,DE,2021-12-10,08:00:00,59755,Neheim,City / Markt,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
 21945,DE,2021-12-10,08:00:00,59757,Neheim,Im Ohl 16b,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
+21965,DE,2021-12-10,08:00:00,59755,Neheim,City / Markt,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
 21916,DE,2021-12-10,08:00:00,59755,Neheim,Aldi Parkplatz,Sonstiges,,unbekannt,https://kunst-attacke.jimdosite.com/
 21818,DE,2021-12-10,08:00:00,10178,Berlin,Alexanderplatz,Sonstiges,,Kunstattacke,https://t.me/kunstattacke
 21946,DE,2021-12-10,08:00:00,64832,Babenhausen,City,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
