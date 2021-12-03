@@ -8,8 +8,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21996,DE,2021-12-04,11:00:00,92318,Neumarkt,Bahnhofsplatz,Aufzug,,unbekannt,
 21966,DE,2021-12-04,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,https://t.me/cellestehtauf
 21967,DE,2021-12-04,11:45:00,29221,Celle,Brandplatz,Kundgebung,,Celle steht auf,https://t.me/cellestehtauf
-21755,AT,2021-12-04,12:00:00,1010,Wien,Innenstadt,Demonstration,,verschiedene,https://www.direktdemokratisch.jetzt/megademo/
 21857,AT,2021-12-04,12:00:00,1010,Wien,Heldenplatz,Demonstration,,Alle ungeimpften Bürger | FPOe | MFG | alle erwachten geimpften Bürger,http://www.drhubmermogg.at/
+21755,AT,2021-12-04,12:00:00,1010,Wien,Innenstadt,Demonstration,,verschiedene,https://www.direktdemokratisch.jetzt/megademo/
 21923,DE,2021-12-04,12:00:00,84130,Dingolfing,Marienplatz,Demonstration,,AfD,
 21958,DE,2021-12-04,12:30:00,26954,Nordenham,Marktplatz,Kundgebung,,Privat | angemeldet,
 21957,DE,2021-12-04,12:30:00,26954,Nordenham,Marktplatz,Kundgebung,,Privat | angemeldet,
@@ -19,8 +19,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21992,DE,2021-12-04,14:00:00,64385,Reichelsheim,B 38 Ortseingang (Aldi),Zusammenkunft,,unbekannt,
 21973,DE,2021-12-04,14:00:00,56068,Koblenz,Herz-Jesu-Kirche,Mahnwache,,unbekannt,
 22000,DE,2021-12-04,14:00:00,30159,Hannover,Landtag Niedersachsen,Versammlung,,unbekannt,
-22004,DE,2021-12-04,14:00:00,36037,Fulda,Bahnhofsplatz,Kundgebung,,unbekannt,
 21998,DE,2021-12-04,14:00:00,36037,Fulda,Bahnhofsvorplatz,Zusammenkunft,,unbekannt,
+22004,DE,2021-12-04,14:00:00,36037,Fulda,Bahnhofsplatz,Kundgebung,,unbekannt,
 21933,DE,2021-12-04,14:00:00,79098,Freiburg,Platz der alten Synagoge,Aufzug,,FreiSeinFreiburg,
 21927,DE,2021-12-04,14:00:00,60323,Frankfurt am Main,Reuterweg 44,Aufzug,,unbekannt,
 21850,DE,2021-12-04,14:00:00,40213,Düsseldorf,Wiese Rheinprom. /  Reuterkaserne,Aufzug,,Zurück auf den Campus,
@@ -100,8 +100,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21866,DE,2021-12-10,08:00:00,52062,Aachen,City,Musik,,Kunstattacke,https://t.me/kunstattacke
 21932,DE,2021-12-11,08:00:00,34431,Marsberg,Markt,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
 21943,DE,2021-12-11,08:00:00,58089,Hagen,City,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
-21895,DE,2021-12-11,08:00:00,08209,Auerbach,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/
 21896,DE,2021-12-11,08:00:00,91275,Auerbach,City,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
+21895,DE,2021-12-11,08:00:00,08209,Auerbach,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/
 21892,DE,2021-12-11,08:00:00,57439,Attendorn,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/
 21891,DE,2021-12-11,08:00:00,21271,Asendorf,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/
 21890,DE,2021-12-11,08:00:00,59387,Ascheberg,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/
@@ -119,6 +119,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21898,DE,2021-12-11,09:00:00,32832,Augustdorf,City,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
 21897,DE,2021-12-11,09:00:00,31749,Auetal,City Markt,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
 21803,DE,2021-12-11,13:00:00,80331,München,Marienplatz,Kundgebung,,UlliOma,https://t.me/UlliOma_Muc
+22007,DE,2021-12-11,14:00:00,88131,Lindau,Mc Donalds,Spaziergang,,unbekannt,
 21844,DE,2021-12-11,14:00:00,63741,Aschaffenburg,Volksfestplatz,Demonstration,,unbekannt,http://www.aschaffenburg-steht-auf.de
 21937,DE,2021-12-11,15:00:00,50765,Köln,Liverpooler Platz,Demonstration,,Koeln ist aktiv,http://koelnistaktiv.de
 21701,DE,2021-12-11,15:00:00,20099,Hamburg,Ernst-Merck-Str. / Kunsthalle,Aufzug,,Unbekannt,
@@ -164,8 +165,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21814,DE,2021-12-27,16:00:00,18055,Rostock,Stadthafen / am Strande,Menschenkette,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
 21815,DE,2021-12-27,17:00:00,18055,Rostock,Rosengarten,Aufzug,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
 21963,DE,2021-12-27,18:00:00,95326,Kulmbach,Marktplatz,Demonstration,,20Plus1-Bürgerbewegung,https://20plus1.de
-21972,DE,2021-12-27,18:30:00,29221,Celle,Stechbahn / vor Kirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf
 21971,DE,2021-12-27,18:30:00,29221,Celle,Stechbahn / vor Kirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf
+21972,DE,2021-12-27,18:30:00,29221,Celle,Stechbahn / vor Kirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf
 21833,DE,2021-12-27,19:00:00,26382,Wilhelmshaven,Rathaus,Kundgebung,,Das deutsche Volk,
 21665,DE,2021-12-27,19:00:00,17033,Neubrandenburg,Marktplatz,Spaziergang,,unbekannt,
 3816,DE,2021-12-30,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
