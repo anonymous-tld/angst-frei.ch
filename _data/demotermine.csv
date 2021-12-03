@@ -8,19 +8,19 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21996,DE,2021-12-04,11:00:00,92318,Neumarkt,Bahnhofsplatz,Aufzug,,unbekannt,
 21966,DE,2021-12-04,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,https://t.me/cellestehtauf
 21967,DE,2021-12-04,11:45:00,29221,Celle,Brandplatz,Kundgebung,,Celle steht auf,https://t.me/cellestehtauf
-21857,AT,2021-12-04,12:00:00,1010,Wien,Heldenplatz,Demonstration,,Alle ungeimpften Bürger | FPOe | MFG | alle erwachten geimpften Bürger,http://www.drhubmermogg.at/
 21755,AT,2021-12-04,12:00:00,1010,Wien,Innenstadt,Demonstration,,verschiedene,https://www.direktdemokratisch.jetzt/megademo/
+21857,AT,2021-12-04,12:00:00,1010,Wien,Heldenplatz,Demonstration,,Alle ungeimpften Bürger | FPOe | MFG | alle erwachten geimpften Bürger,http://www.drhubmermogg.at/
 21923,DE,2021-12-04,12:00:00,84130,Dingolfing,Marienplatz,Demonstration,,AfD,
-21958,DE,2021-12-04,12:30:00,26954,Nordenham,Marktplatz,Kundgebung,,Privat | angemeldet,
 21957,DE,2021-12-04,12:30:00,26954,Nordenham,Marktplatz,Kundgebung,,Privat | angemeldet,
+21958,DE,2021-12-04,12:30:00,26954,Nordenham,Marktplatz,Kundgebung,,Privat | angemeldet,
 21802,DE,2021-12-04,13:00:00,80331,München,Marienplatz,Kundgebung,,UlliOma,https://t.me/UlliOma_Muc
 21795,DE,2021-12-04,13:00:00,10179,Berlin,Märkischer Platz,Spaziergang,,unbekannt,
 21841,DE,2021-12-04,13:30:00,80336,München,Theresienwiese / Ostzufahrt,Autokorso,,AutoKorsoMünchen,https://t.me/AutoKorsoMuc/309
 21992,DE,2021-12-04,14:00:00,64385,Reichelsheim,B 38 Ortseingang (Aldi),Zusammenkunft,,unbekannt,
 21973,DE,2021-12-04,14:00:00,56068,Koblenz,Herz-Jesu-Kirche,Mahnwache,,unbekannt,
 22000,DE,2021-12-04,14:00:00,30159,Hannover,Landtag Niedersachsen,Versammlung,,unbekannt,
-22004,DE,2021-12-04,14:00:00,36037,Fulda,Bahnhofsplatz,Kundgebung,,unbekannt,
 21998,DE,2021-12-04,14:00:00,36037,Fulda,Bahnhofsvorplatz,Zusammenkunft,,unbekannt,
+22004,DE,2021-12-04,14:00:00,36037,Fulda,Bahnhofsplatz,Kundgebung,,unbekannt,
 21933,DE,2021-12-04,14:00:00,79098,Freiburg,Platz der alten Synagoge,Aufzug,,FreiSeinFreiburg,
 21927,DE,2021-12-04,14:00:00,60323,Frankfurt am Main,Reuterweg 44,Aufzug,,unbekannt,
 21850,DE,2021-12-04,14:00:00,40213,Düsseldorf,Wiese Rheinprom. /  Reuterkaserne,Aufzug,,Zurück auf den Campus,
@@ -41,6 +41,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 22018,DE,2021-12-04,18:00:00,36448,Bad Liebenstein,Stadtmitte,Spaziergang,,unbekannt,
 21939,DE,2021-12-04,19:00:00,26419,Schortens,Bahnhof / davor,Spaziergang,,Schortens analog,
 21817,DE,2021-12-05,10:00:00,95326,Kulmbach,Marktplatz,Demonstration,,20Plus1-Bürgerbewegung,https://20plus1.de
+22022,DE,2021-12-05,10:45:00,75015,Bretten,Stadtpark / Alter Friedhof,Meditation,,,
 21983,AT,2021-12-05,12:30:00,5020,Salzburg,Kapitelplatz,Demonstration,,unbekannt,https://www.fpoe.at/demokalender
 21984,AT,2021-12-05,13:30:00,5730,Mittersill,Stadtmitte,Demonstration,,unbekannt,https://www.fpoe.at/demokalender
 21948,DE,2021-12-05,14:00:00,54516,Wittlich,Platz an der Lieser,Kundgebung,,unbekannt,
@@ -50,16 +51,16 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21935,DE,2021-12-05,14:00:00,95326,Kulmbach,Marktplatz,Mahnwache,,unbekannt,https://20plus1.de
 21929,DE,2021-12-05,14:00:00,60313,Frankfurt am Main,Opernplatz,Schweigemarsch,,unbekannt,
 21980,DE,2021-12-05,14:00:00,40235,Düsseldorf,Walter-Eucken-Str. / P / Metro,Autokorso,,Autokorso Düsseldorf,https://t.me/AutoDemoDuesseldorf
-21955,AT,2021-12-05,14:00:00,6900,Bregenz,Am Hafengelände,Kundgebung,,unbekannt,http://www.corona-demo.at
 21995,AT,2021-12-05,14:00:00,6900,Bregenz,Am Hafengelände,Kundgebung,,unbekannt,
+21955,AT,2021-12-05,14:00:00,6900,Bregenz,Am Hafengelände,Kundgebung,,unbekannt,http://www.corona-demo.at
 21953,DE,2021-12-05,15:00:00,41236,Mönchengladbach-Rheydt,Marktplatz,Spaziergang,,unbekannt,
 21678,DE,2021-12-05,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,https://t.me/CUXHAVEN_PROTEST
 21906,DE,2021-12-05,15:00:00,84503,Altötting,Tillyplatz,Kundgebung,,Bayern steht zusammen / Mahnwache Neuötting,https://bayern-steht-zusammen.de
 21985,AT,2021-12-05,17:00:00,5020,Salzburg,Freilassing-Brücke,Demonstration,,unbekannt,https://www.fpoe.at/demokalender
 21987,AT,2021-12-05,17:00:00,5280,Braunau,Simbachbrücke,Demonstration,,unbekannt,https://www.fpoe.at/demokalender
 21986,AT,2021-12-05,18:00:00,8200,Gleisdorf,Hauptplatz,Demonstration,,unbekannt,https://www.fpoe.at/demokalender
-22015,DE,2021-12-05,18:00:00,14612,Falkensee,Alte Stadthalle,Gebet,,unbekannt,
 21951,DE,2021-12-05,18:00:00,14612,Falkensee,Alte Stadthalle,Gebet,,Friedenslicht Falkensee,
+22015,DE,2021-12-05,18:00:00,14612,Falkensee,Alte Stadthalle,Gebet,,unbekannt,
 21808,DE,2021-12-06,16:00:00,18055,Rostock,Stadthafen / am Strande,Menschenkette,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
 22011,DE,2021-12-06,16:30:00,86150,Augsburg,Rathausplatz,Kundgebung,,Bürgerforum Schwaben,
 21917,DE,2021-12-06,17:00:00,38440,Wolfsburg,Rathaus,Spaziergang,,unbekannt,
@@ -94,9 +95,9 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21975,DE,2021-12-09,18:00:00,39340,Haldensleben,Marktplatz,Mahnwache,,unbekannt,
 21915,DE,2021-12-10,08:00:00,74374,Zaberfeld,Ortseingang,Sonstiges,,unbekannt,https://kunst-attacke.jimdosite.com/
 21855,DE,2021-12-10,08:00:00,59846,Sundern,Rathausplatz,Sonstiges,https://t.me/kunstattacke,,https://kunst-attacke.jimdosite.com/
-21965,DE,2021-12-10,08:00:00,59755,Neheim,City / Markt,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
 21916,DE,2021-12-10,08:00:00,59755,Neheim,Aldi Parkplatz,Sonstiges,,unbekannt,https://kunst-attacke.jimdosite.com/
 21945,DE,2021-12-10,08:00:00,59757,Neheim,Im Ohl 16b,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
+21965,DE,2021-12-10,08:00:00,59755,Neheim,City / Markt,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
 21818,DE,2021-12-10,08:00:00,10178,Berlin,Alexanderplatz,Sonstiges,,Kunstattacke,https://t.me/kunstattacke
 21946,DE,2021-12-10,08:00:00,64832,Babenhausen,City,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
 21947,DE,2021-12-10,08:00:00,56729,Baar,City,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
