@@ -1,191 +1,198 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite,latitude,longitude,created
-21865,DE,2021-12-04,11:00:00,54290,Trier,Porta Nigra,Zusammenkunft,,unbekannt,,49.7591673,6.6427042,2021-12-04 08:32:44
-21996,DE,2021-12-04,11:00:00,92318,Neumarkt,Bahnhofsplatz,Aufzug,,unbekannt,,49.279624,11.4594662,2021-12-04 08:32:44
-21966,DE,2021-12-04,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,https://t.me/cellestehtauf,52.626147,10.079557,2021-12-04 08:32:44
-21967,DE,2021-12-04,11:45:00,29221,Celle,Brandplatz,Kundgebung,,Celle steht auf,https://t.me/cellestehtauf,52.6252446,10.083390139412892,2021-12-04 08:32:44
-21755,AT,2021-12-04,12:00:00,1010,Wien,Innenstadt,Demonstration,,verschiedene,https://www.direktdemokratisch.jetzt/megademo/,48.2083537,16.3725042,2021-12-04 08:32:44
-21857,AT,2021-12-04,12:00:00,1010,Wien,Heldenplatz,Demonstration,,Alle ungeimpften Bürger | FPOe | MFG | alle erwachten geimpften Bürger,http://www.drhubmermogg.at/,48.2060921,16.3640091,2021-12-04 08:32:44
-22023,DE,2021-12-04,12:00:00,30159,Hannover,Landtag,Kundgebung,,AfD,,52.370904,9.7335817,2021-12-04 08:32:44
-21923,DE,2021-12-04,12:00:00,84130,Dingolfing,Marienplatz,Demonstration,,AfD,,48.6294028,12.4988493,2021-12-04 08:32:44
-21958,DE,2021-12-04,12:30:00,26954,Nordenham,Marktplatz,Kundgebung,,Privat | angemeldet,,53.48585935,8.48312627838091,2021-12-04 08:32:44
-21957,DE,2021-12-04,12:30:00,26954,Nordenham,Marktplatz,Kundgebung,,Privat | angemeldet,,53.48585935,8.48312627838091,2021-12-04 08:32:44
-21802,DE,2021-12-04,13:00:00,80331,München,Marienplatz,Kundgebung,,UlliOma,https://t.me/UlliOma_Muc,48.1356542,11.5735844,2021-12-04 08:32:44
-21795,DE,2021-12-04,13:00:00,10179,Berlin,Märkischer Platz,Spaziergang,,unbekannt,,52.5127311,13.4155619,2021-12-04 08:32:44
-21841,DE,2021-12-04,13:30:00,80336,München,Theresienwiese / Ostzufahrt,Autokorso,,AutoKorsoMünchen,https://t.me/AutoKorsoMuc/309,48.1371079,11.5753822,2021-12-04 08:32:44
-21992,DE,2021-12-04,14:00:00,64385,Reichelsheim,B 38 Ortseingang (Aldi),Zusammenkunft,,unbekannt,,49.70052405,8.847770066511021,2021-12-04 08:32:44
-21973,DE,2021-12-04,14:00:00,56068,Koblenz,Herz-Jesu-Kirche,Mahnwache,,unbekannt,,50.3567623,7.590961654961906,2021-12-04 08:32:44
-22000,DE,2021-12-04,14:00:00,30159,Hannover,Landtag Niedersachsen,Versammlung,,unbekannt,,52.3744779,9.7385532,2021-12-04 08:32:44
-21998,DE,2021-12-04,14:00:00,36037,Fulda,Bahnhofsvorplatz,Zusammenkunft,,unbekannt,,50.554203599999994,9.683269070393234,2021-12-04 08:32:44
-22004,DE,2021-12-04,14:00:00,36037,Fulda,Bahnhofsplatz,Kundgebung,,unbekannt,,50.553575300000006,9.684157801446208,2021-12-04 08:32:44
-21933,DE,2021-12-04,14:00:00,79098,Freiburg,Platz der alten Synagoge,Aufzug,,FreiSeinFreiburg,,47.995169,7.8466209,2021-12-04 08:32:44
-21927,DE,2021-12-04,14:00:00,60323,Frankfurt am Main,Reuterweg 44,Aufzug,,unbekannt,,50.1192978,8.6710744,2021-12-04 08:32:44
-21850,DE,2021-12-04,14:00:00,40213,Düsseldorf,Wiese Rheinprom. /  Reuterkaserne,Aufzug,,Zurück auf den Campus,,51.2254018,6.7763137,2021-12-04 08:32:44
-22006,DE,2021-12-04,14:16:00,88400,Biberach an der Riss,Viehmarktplatz,Kundgebung,,unbekannt,,48.0969682,9.7906141,2021-12-04 08:32:44
-21954,DE,2021-12-04,14:30:00,30449,Hannover,Ritter-Brüning-Str. / Parking,Autokorso,,Autocorso Hannover,,52.3622397,9.7217429,2021-12-04 08:32:44
-21713,DE,2021-12-04,14:30:00,60313,Frankfurt,Alte Oper,Aufzug,,unbekannt,,50.1151018,8.6722387,2021-12-04 08:32:44
-21842,DE,2021-12-04,15:00:00,83278,Traunstein,Stadtplatz,Kundgebung,,Franz Lindlacher,https://www.ts-bgl.de/,47.8692899,12.6470517,2021-12-04 08:32:44
-21700,DE,2021-12-04,15:00:00,20099,Hamburg,Ernst-Merck-Str. / Kunsthalle,Aufzug,,Unbekannt,,53.550341,10.000654,2021-12-04 08:32:44
-21848,DE,2021-12-04,15:00:00,60313,Frankfurt,Rathenauplatz,Demonstration,,Widerstand 4.0,https://widerstand4-0.net/2021/11/23/aufruf-zum-worldwidewalkout-am-4-12-2021/,50.1138672,8.6768180124077,2021-12-04 08:32:44
-21852,DE,2021-12-04,15:00:00,10117,Berlin,Brandenburger Tor / Simsonweg,Sonstiges,https://www.youtube.com/channel/UCxl4vPqdEUCaTiJaLBK9wPQ,Katholische Kirche,https://weihe-deutschlands-an-maria.jimdofree.com,52.5170365,13.3888599,2021-12-04 08:32:44
-21979,DE,2021-12-04,15:00:00,86150,Augsburg,Königsplatz / Kö,Aufzug,,unbekannt,,48.36549105,10.894464349945267,2021-12-04 08:32:44
-21940,DE,2021-12-04,15:30:00,87600,Kaufbeuren,Obstmarkt / Fußgängerzone,Meditation,,unbekannt,,47.8803788,10.622246,2021-12-04 08:32:44
-21934,DE,2021-12-04,15:30:00,45127,Essen,Kettwiger Str. 42,Kundgebung,,Für den Erhalt der Freiheit,https://t.me/+Gr4v4tPxmF174Ikj,51.4562803,7.0128903,2021-12-04 08:32:44
-21843,DE,2021-12-04,16:00:00,84028,Landshut,Martinskirche / davor,Gebet,,Kraftquelle Gebet Landshut,,48.536217,12.1516551,2021-12-04 08:32:44
-21840,DE,2021-12-04,17:00:00,90402,Nürnberg,Hallplatz / Königstraße,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/,49.453872,11.077298,2021-12-04 08:32:44
-21823,DE,2021-12-04,17:00:00,79215,Elzach,Nikolausplatz,Mahnwache,,unbekannt,,48.1740027,8.070864,2021-12-04 08:32:44
-21978,DE,2021-12-04,17:00:00,86150,Augsburg,Rathausplatz,Aufzug,,unbekannt,,48.3685906,10.897239,2021-12-04 08:32:44
-22024,DE,2021-12-04,18:00:00,99817,Eisenach,Markt,Kundgebung,,unbekannt,,50.9746902,10.319757197775946,2021-12-04 08:32:44
-22018,DE,2021-12-04,18:00:00,36448,Bad Liebenstein,Stadtmitte,Spaziergang,,unbekannt,,50.8183801,10.3491578,2021-12-04 08:32:44
-21939,DE,2021-12-04,19:00:00,26419,Schortens,Bahnhof / davor,Spaziergang,,Schortens analog,,53.5366547,7.9467348,2021-12-04 08:32:44
-21817,DE,2021-12-05,10:00:00,95326,Kulmbach,Marktplatz,Demonstration,,20Plus1-Bürgerbewegung,https://20plus1.de,50.1068807,11.4581088,2021-12-04 08:32:44
-22022,DE,2021-12-05,10:45:00,75015,Bretten,Stadtpark / Alter Friedhof,Meditation,,,,49.0364564,8.7072589,2021-12-04 08:32:44
-21983,AT,2021-12-05,12:30:00,5020,Salzburg,Kapitelplatz,Demonstration,,unbekannt,https://www.fpoe.at/demokalender,47.7976409,13.0459516,2021-12-04 08:32:44
-21984,AT,2021-12-05,13:30:00,5730,Mittersill,Stadtmitte,Demonstration,,unbekannt,https://www.fpoe.at/demokalender,47.2815157,12.4837012,2021-12-04 08:32:44
-21948,DE,2021-12-05,14:00:00,54516,Wittlich,Platz an der Lieser,Kundgebung,,unbekannt,,49.985748799999996,6.886222090008787,2021-12-04 08:32:44
-22001,DE,2021-12-05,14:00:00,70182,Stuttgart,Wilhelmsplatz,Aufstand,,Demokratiebewegung,,48.7709861,9.1788068,2021-12-04 08:32:44
-21990,DE,2021-12-05,14:00:00,70182,Stuttgart,Wilhelmsplatz,Kundgebung,,unbekannt,,48.7709861,9.1788068,2021-12-04 08:32:44
-21751,AT,2021-12-05,14:00:00,5020,Salzburg,Mozartplatz,Demonstration,,Salzburg wacht auf,http://www.salzburgwachtauf.at/,47.7990286,13.0474707,2021-12-04 08:32:44
-21935,DE,2021-12-05,14:00:00,95326,Kulmbach,Marktplatz,Mahnwache,,unbekannt,https://20plus1.de,50.1068807,11.4581088,2021-12-04 08:32:44
-21929,DE,2021-12-05,14:00:00,60313,Frankfurt am Main,Opernplatz,Schweigemarsch,,unbekannt,,50.1156484,8.6726125,2021-12-04 08:32:44
-21980,DE,2021-12-05,14:00:00,40235,Düsseldorf,Walter-Eucken-Str. / P / Metro,Autokorso,,Autokorso Düsseldorf,https://t.me/AutoDemoDuesseldorf,51.2254018,6.7763137,2021-12-04 08:32:44
-21995,AT,2021-12-05,14:00:00,6900,Bregenz,Am Hafengelände,Kundgebung,,unbekannt,,47.5025779,9.7472924,2021-12-04 08:32:44
-21955,AT,2021-12-05,14:00:00,6900,Bregenz,Am Hafengelände,Kundgebung,,unbekannt,http://www.corona-demo.at,47.5025779,9.7472924,2021-12-04 08:32:44
-21953,DE,2021-12-05,15:00:00,41236,Mönchengladbach-Rheydt,Marktplatz,Spaziergang,,unbekannt,,51.149063600000005,6.4421723914363405,2021-12-04 08:32:44
-21678,DE,2021-12-05,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,https://t.me/CUXHAVEN_PROTEST,53.8623859,8.698405997774456,2021-12-04 08:32:44
-21906,DE,2021-12-05,15:00:00,84503,Altötting,Tillyplatz,Kundgebung,,Bayern steht zusammen / Mahnwache Neuötting,https://bayern-steht-zusammen.de,48.2251717,12.676083,2021-12-04 08:32:44
-21985,AT,2021-12-05,17:00:00,5020,Salzburg,Freilassing-Brücke,Demonstration,,unbekannt,https://www.fpoe.at/demokalender,47.7981346,13.0464806,2021-12-04 08:32:44
-21987,AT,2021-12-05,17:00:00,5280,Braunau,Simbachbrücke,Demonstration,,unbekannt,https://www.fpoe.at/demokalender,48.253136,13.039506,2021-12-04 08:32:44
-21986,AT,2021-12-05,18:00:00,8200,Gleisdorf,Hauptplatz,Demonstration,,unbekannt,https://www.fpoe.at/demokalender,47.1055611,15.7093498,2021-12-04 08:32:44
-22015,DE,2021-12-05,18:00:00,14612,Falkensee,Alte Stadthalle,Gebet,,unbekannt,,52.56275875,13.093813390566144,2021-12-04 08:32:44
-21951,DE,2021-12-05,18:00:00,14612,Falkensee,Alte Stadthalle,Gebet,,Friedenslicht Falkensee,,52.56275875,13.093813390566144,2021-12-04 08:32:44
-21808,DE,2021-12-06,16:00:00,18055,Rostock,Stadthafen / am Strande,Menschenkette,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,,54.0924445,12.1286127,2021-12-04 08:32:44
-22011,DE,2021-12-06,16:30:00,86150,Augsburg,Rathausplatz,Kundgebung,,Bürgerforum Schwaben,,48.3685906,10.897239,2021-12-04 08:32:44
-21917,DE,2021-12-06,17:00:00,38440,Wolfsburg,Rathaus,Spaziergang,,unbekannt,,52.4212204,10.7871629,2021-12-04 08:32:44
-21809,DE,2021-12-06,17:00:00,18055,Rostock,Rosengarten,Aufzug,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,,54.0853996,12.1369506,2021-12-04 08:32:44
-22016,DE,2021-12-06,17:45:00,14612,Falkensee,Rathausplatz,Spaziergang,,unbekannt,,52.5675409,13.1007403,2021-12-04 08:32:44
-22019,DE,2021-12-06,18:00:00,98574,Schmalkalden,Altmarkt,Spaziergang,,unbekannt,,50.7212987,10.4518065,2021-12-04 08:32:44
-22009,DE,2021-12-06,18:00:00,16515,Oranienburg,Schlossplatz,Kundgebung,,OHV steht auf,,52.7537819,13.2365824,2021-12-04 08:32:44
-21997,DE,2021-12-06,18:00:00,48147,Münster,Domplatz,Spaziergang,,Gemeinsam für Grundrechte,http://grundrechte-ms.de,51.9631843,7.6269044,2021-12-04 08:32:44
-21819,DE,2021-12-06,18:00:00,95326,Kulmbach,Marktplatz,Kundgebung,,20Plus1-Bürgerbewegung,,50.1068807,11.4581088,2021-12-04 08:32:44
-21554,DE,2021-12-06,18:00:00,63450,Hanau,Freiheitsplatz,Mahnwache,,Hanau steht auf!,https://hanau-steht-auf.de/,50.134785199999996,8.918585144855331,2021-12-04 08:32:44
-22017,DE,2021-12-06,18:00:00,3149,Forst,Stadtkirche,Kundgebung,,unbekannt,,51.743988200000004,14.64802958482659,2021-12-04 08:32:44
-21991,DE,2021-12-06,18:30:00,35630,Wetzlar,Rathaus Wetzlar,Kundgebung,,Privat,,50.62141815,8.370142086873553,2021-12-04 08:32:44
-21968,DE,2021-12-06,18:30:00,29221,Celle,Stechbahn / vor Kirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf,52.624056,10.081052,2021-12-04 08:32:44
-22014,DE,2021-12-06,18:30:00,74336,Brackenheim,Brunnen / v. d. Kreissparkasse,Spaziergang,,Team Freiheit Brackenheim,http://www.team-freiheit-brackenheim.de/,49.0784228,9.067437,2021-12-04 08:32:44
-21949,DE,2021-12-06,18:30:00,46236,Bottrop,Kirchplatz 1,Spaziergang,,Freiheitsboten Bottrop,,51.52088485,6.9255365117204075,2021-12-04 08:32:44
-22020,DE,2021-12-06,18:30:00,36433,Bad Salzungen,Marktplatz,Spaziergang,,unbekannt,,50.8129337,10.2353185,2021-12-04 08:32:44
-21875,DE,2021-12-06,18:30:00,99510,Apolda,Markt/ Rathaus,Spaziergang,,,,51.0227878,11.5129742,2021-12-04 08:32:44
-21830,DE,2021-12-06,19:00:00,26386,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,,53.528461,8.1095937,2021-12-04 08:32:44
-21662,DE,2021-12-06,19:00:00,17033,Neubrandenburg,Marktplatz,Spaziergang,,unbekannt,,53.55740205,13.260322640114307,2021-12-04 08:32:44
-21919,DE,2021-12-06,19:00:00,6618,Naumburg Saale,Marientor,Spaziergang,,unbekannt,,51.1549533,11.812657636649666,2021-12-04 08:32:44
-22002,DE,2021-12-06,19:00:00,99974,Mühlhausen/ Thüringen,Untermarkt,Spaziergang,,unbekannt,,51.2074205,10.4579131,2021-12-04 08:32:44
-21941,DE,2021-12-06,19:00:00,87600,Kaufbeuren-Neugablonz,Neuer Markt,Kundgebung,,unbekannt,,47.91279,10.6356602,2021-12-04 08:32:44
-21936,DE,2021-12-06,19:00:00,37351,Dingelstädt,Rathaus,Spaziergang,,unbekannt,,51.3152305,10.317018472138788,2021-12-04 08:32:44
-21994,DE,2021-12-07,19:00:00,92421,Schwandorf,Oberer Marktplatz,Demonstration,,unbekannt,,49.5261821,12.5661342,2021-12-04 08:32:44
-22010,DE,2021-12-08,16:30:00,70374,Stuttgart,Beskidenstr. / BW Kaserne,Kundgebung,,Privat,,48.7784485,9.1800132,2021-12-04 08:32:44
-21904,DE,2021-12-08,17:00:00,84028,Landshut,Martinskirche / davor,Gebet,,Kraftquelle Gebet Landshut,,48.536217,12.1516551,2021-12-04 08:32:44
-21959,DE,2021-12-08,18:00:00,80333,München,Odeonsplatz,Aufzug,,München steht auf,http://www.muenchen-steht-auf.de,48.1427658,11.5763171,2021-12-04 08:32:44
-22013,DE,2021-12-08,19:00:00,86343,Königsbrunn,Marktplatz,Kundgebung,,Bürgerforum Schwaben,,48.268725,10.8908126,2021-12-04 08:32:44
-22003,DE,2021-12-08,19:15:00,83022,Rosenheim,Ichikawaplatz,Mahnwache,,unbekannt,,47.85876395,12.133756881553518,2021-12-04 08:32:44
-3813,DE,2021-12-09,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-12-04 08:32:44
-21976,DE,2021-12-09,18:00:00,39340,Haldensleben,Marktplatz,Mahnwache,,unbekannt,,52.29135975,11.412146638981149,2021-12-04 08:32:44
-21975,DE,2021-12-09,18:00:00,39340,Haldensleben,Marktplatz,Mahnwache,,unbekannt,,52.29135975,11.412146638981149,2021-12-04 08:32:44
-21915,DE,2021-12-10,08:00:00,74374,Zaberfeld,Ortseingang,Sonstiges,,unbekannt,https://kunst-attacke.jimdosite.com/,49.0557982,8.9298417,2021-12-04 08:32:44
-21855,DE,2021-12-10,08:00:00,59846,Sundern,Rathausplatz,Sonstiges,https://t.me/kunstattacke,,https://kunst-attacke.jimdosite.com/,51.3300386,8.0070667,2021-12-04 08:32:44
-21945,DE,2021-12-10,08:00:00,59757,Neheim,Im Ohl 16b,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/,51.4598053,7.9517913,2021-12-04 08:32:44
-21965,DE,2021-12-10,08:00:00,59755,Neheim,City / Markt,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/,51.453022,7.9607716,2021-12-04 08:32:44
-21916,DE,2021-12-10,08:00:00,59755,Neheim,Aldi Parkplatz,Sonstiges,,unbekannt,https://kunst-attacke.jimdosite.com/,51.453022,7.9607716,2021-12-04 08:32:44
-21818,DE,2021-12-10,08:00:00,10178,Berlin,Alexanderplatz,Sonstiges,,Kunstattacke,https://t.me/kunstattacke,52.5240145,13.4125186,2021-12-04 08:32:44
-21946,DE,2021-12-10,08:00:00,64832,Babenhausen,City,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/,49.9562183,8.9460279,2021-12-04 08:32:44
-21947,DE,2021-12-10,08:00:00,56729,Baar,City,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/,48.0661303,8.4606205,2021-12-04 08:32:44
-21942,DE,2021-12-10,08:00:00,59755,Arnsberg,City,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/,51.4501112,7.966099,2021-12-04 08:32:44
-21874,DE,2021-12-10,08:00:00,99310,Alkersleben,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/,50.8374412,10.9483687,2021-12-04 08:32:44
-21873,DE,2021-12-10,08:00:00,18347,Ahrenshoop,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/,54.3789509,12.419192,2021-12-04 08:32:44
-21872,DE,2021-12-10,08:00:00,22926,Ahrensburg,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/,53.6747191,10.2380571,2021-12-04 08:32:44
-21870,DE,2021-12-10,08:00:00,96482,Ahorn,City,Sonstiges,,http://t.me/kunstattacke,https://kunst-attacke.jimdosite.com/,52.5521173,14.5500061,2021-12-04 08:32:44
-21871,DE,2021-12-10,08:00:00,74744,Ahorn,City,Erholung,,http://t.me/kunstattacke,https://kunst-attacke.jimdosite.com/,52.5521173,14.5500061,2021-12-04 08:32:44
-21868,DE,2021-12-10,08:00:00,28832,Achim,City,Treffpunkt,,http://t.me/kunstattacke,https://kunst-attacke.jimdosite.com/,53.0068811,9.0425504,2021-12-04 08:32:44
-21867,DE,2021-12-10,08:00:00,73430,Aalen,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/,48.837739,10.087604,2021-12-04 08:32:44
-21866,DE,2021-12-10,08:00:00,52062,Aachen,City,Musik,,Kunstattacke,https://t.me/kunstattacke,50.775142349999996,6.087035806504396,2021-12-04 08:32:44
-21932,DE,2021-12-11,08:00:00,34431,Marsberg,Markt,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/,51.4623394,8.8532385,2021-12-04 08:32:44
-21943,DE,2021-12-11,08:00:00,58089,Hagen,City,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/,51.3648585,7.4635577,2021-12-04 08:32:44
-21895,DE,2021-12-11,08:00:00,8209,Auerbach,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/,,,2021-12-04 08:32:44
-21896,DE,2021-12-11,08:00:00,91275,Auerbach,City,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/,49.6923981,11.6325698,2021-12-04 08:32:44
-21892,DE,2021-12-11,08:00:00,57439,Attendorn,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/,51.1250541,7.9010992,2021-12-04 08:32:44
-21891,DE,2021-12-11,08:00:00,21271,Asendorf,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/,53.257537,10.0144897,2021-12-04 08:32:44
-21890,DE,2021-12-11,08:00:00,59387,Ascheberg,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/,51.7886689,7.6196825,2021-12-04 08:32:44
-21889,DE,2021-12-11,08:00:00,63739,Aschaffenburg,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/,49.9787163,9.1521279,2021-12-04 08:32:44
-21888,DE,2021-12-11,08:00:00,59755,Arnsberg,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/,51.4501112,7.966099,2021-12-04 08:32:44
-21886,DE,2021-12-11,08:00:00,99976,Anrode,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/,51.2612629,10.37376072079988,2021-12-04 08:32:44
-21885,DE,2021-12-11,08:00:00,17389,Anklam,City,Kundgebung,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/,53.824645950000004,13.688984248168168,2021-12-04 08:32:44
-21883,DE,2021-12-11,08:00:00,16278,Angermünde,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/,53.017276,13.9981503,2021-12-04 08:32:44
-21884,DE,2021-12-11,08:00:00,83454,Anger,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/,48.1339108,11.5690997,2021-12-04 08:32:44
-21882,DE,2021-12-11,08:00:00,56626,Andernach,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/,50.4387779,7.3998781,2021-12-04 08:32:44
-21881,DE,2021-12-11,08:00:00,86972,Altenstadt,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/,48.1214999,10.1279448,2021-12-04 08:32:44
-21878,DE,2021-12-11,08:00:00,96146,Altendorf,City,Freizeit,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/,50.8324594,12.8742978,2021-12-04 08:32:44
-21880,DE,2021-12-11,08:00:00,96264,Altekunstadt,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/,50.11640095,11.241953579869568,2021-12-04 08:32:44
-21876,DE,2021-12-11,08:00:00,36304,Alsfeld,City,Sonstiges,,http://t.me/kunstattacke.de,https://kunst-attacke.jimdosite.com/,50.7505006,9.2707635,2021-12-04 08:32:44
-21898,DE,2021-12-11,09:00:00,32832,Augustdorf,City,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/,51.9092199,8.7382015,2021-12-04 08:32:44
-21897,DE,2021-12-11,09:00:00,31749,Auetal,City Markt,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/,52.2403,9.23321,2021-12-04 08:32:44
-21803,DE,2021-12-11,13:00:00,80331,München,Marienplatz,Kundgebung,,UlliOma,https://t.me/UlliOma_Muc,48.1356542,11.5735844,2021-12-04 08:32:44
-22007,DE,2021-12-11,14:00:00,88131,Lindau,Mc Donalds,Spaziergang,,unbekannt,,47.550753,9.6926624,2021-12-04 08:32:44
-21844,DE,2021-12-11,14:00:00,63741,Aschaffenburg,Volksfestplatz,Demonstration,,unbekannt,http://www.aschaffenburg-steht-auf.de,49.97372155,9.137671799730178,2021-12-04 08:32:44
-21937,DE,2021-12-11,15:00:00,50765,Köln,Liverpooler Platz,Demonstration,,Koeln ist aktiv,http://koelnistaktiv.de,51.021177300000005,6.898114808479773,2021-12-04 08:32:44
-21701,DE,2021-12-11,15:00:00,20099,Hamburg,Ernst-Merck-Str. / Kunsthalle,Aufzug,,Unbekannt,,53.550341,10.000654,2021-12-04 08:32:44
-21864,DE,2021-12-11,15:00:00,40213,Düsseldorf,Johannes-Rau-Platz,Aufzug,,QUERDENKEN NRW Initiativen,https://t.me/querdenken_nrw,51.219092200000006,6.767028235140621,2021-12-04 08:32:44
-21938,DE,2021-12-11,17:00:00,50765,Köln Chorweiler,Liverpooler Platz,Spaziergang,,Koeln ist aktiv,http://koelnistaktiv.de,51.021177300000005,6.898114808479773,2021-12-04 08:32:44
-22012,DE,2021-12-11,18:00:00,89407,Dillingen/Donau,Taxispark,Spaziergang,,unbekannt,,48.577932,10.488445,2021-12-04 08:32:44
-21887,DE,2021-12-12,08:00:00,59609,Anröchte,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/,51.5597886,8.3247323,2021-12-04 08:32:44
-21862,DE,2021-12-12,12:12:00,10117,Berlin,Brandenburger Tor,Sonstiges,,Kunst-Attacke!,https://kunst-attacke.jimdosite.com/,52.51628045,13.377701882994323,2021-12-04 08:32:44
-21988,AT,2021-12-12,13:00:00,8020,Graz,Hauptbahnhof,Aufzug,,unbekannt,https://www.fpoe.at/demokalender,47.07175975,15.418524555654464,2021-12-04 08:32:44
-21922,DE,2021-12-12,13:00:00,76530,Baden-Baden,Augustaplatz 1,Kundgebung,,Basisdemokratische Partei Deutschand. Kreisverband Rastatt,https://diebasis-ra-bad.de,48.759069,8.2399936,2021-12-04 08:32:44
-21989,AT,2021-12-12,14:00:00,6020,Innsbruck,Landhausplatz,Demonstration,,unbekannt,https://www.fpoe.at/demokalender,47.2634996,11.3962643,2021-12-04 08:32:44
-21944,DE,2021-12-12,14:00:00,58095,Hagen,City,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/,51.3593246,7.4652751,2021-12-04 08:32:44
-21981,DE,2021-12-12,14:00:00,40235,Düsseldorf,Walter-Eucken-Str. / P / Metro,Autokorso,,Autokorso Düsseldorf,https://t.me/AutoDemoDuesseldorf,51.2254018,6.7763137,2021-12-04 08:32:44
-21956,AT,2021-12-12,14:00:00,6900,Bregenz,Bahnhof / Parkplatz,Schweigemarsch,,unbekannt,http://www.corona-Demo.at,47.5025779,9.7472924,2021-12-04 08:32:44
-21791,DE,2021-12-12,15:00:00,47057,Duisburg,Hauptbahnhof,Demonstration,,PEGIDA NRW,,51.43186255,6.777626044567892,2021-12-04 08:32:44
-22005,DE,2021-12-12,18:00:00,58285,Gevelsberg,Vor Kaufland,Aufstand,,unbekannt,,51.3207417,7.3404792,2021-12-04 08:32:44
-21810,DE,2021-12-13,16:00:00,18055,Rostock,Stadthafen / am Strande,Menschenkette,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,,54.0924445,12.1286127,2021-12-04 08:32:44
-21811,DE,2021-12-13,17:00:00,18055,Rostock,Rosengarten,Aufzug,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,,54.0853996,12.1369506,2021-12-04 08:32:44
-21961,DE,2021-12-13,18:00:00,95326,Kulmbach,Marktplatz,Demonstration,,20Plus1-Bürgerbewegung,https://20plus1.de,50.1068807,11.4581088,2021-12-04 08:32:44
-21969,DE,2021-12-13,18:30:00,29221,Celle,Stechbahn / vor Kirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf,52.624056,10.081052,2021-12-04 08:32:44
-21950,DE,2021-12-13,18:30:00,46236,Bottrop,Kirchplatz 1,Spaziergang,,Freiheitsboten Bottrop,,51.52088485,6.9255365117204075,2021-12-04 08:32:44
-21877,DE,2021-12-13,18:30:00,99510,Apolda,Markt/ Rathaus,Spaziergang,,,,51.0227878,11.5129742,2021-12-04 08:32:44
-21831,DE,2021-12-13,19:00:00,26382,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,,53.528461,8.1095937,2021-12-04 08:32:44
-21663,DE,2021-12-13,19:00:00,17033,Neubrandenburg,Marktplatz,Spaziergang,,unbekannt,,53.55740205,13.260322640114307,2021-12-04 08:32:44
-3814,DE,2021-12-16,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-12-04 08:32:44
-21977,DE,2021-12-16,18:00:00,39340,Haldensleben,Marktplatz,Mahnwache,,unbekannt,,52.29135975,11.412146638981149,2021-12-04 08:32:44
-21960,DE,2021-12-17,16:00:00,95326,Kulmbach,Marktplatz,Kundgebung,,20Plus1-Bürgerbewegung,https://20plus1.de,50.1068807,11.4581088,2021-12-04 08:32:44
-21920,DE,2021-12-17,17:00:00,68519,Viernheim,Bürgerm.-Neff-Str 33 / Parkplatz,Schweigemarsch,,Initiative Bergstraße steht auf,http://bergstrasse-steht-auf.de/,49.5401174,8.5788029,2021-12-04 08:32:44
-21924,DE,2021-12-18,12:00:00,80339,München,Theresienwiese,Aufzug,,Kinder stehen auf,https://diekinderstehenauf.wordpress.com,48.1313385,11.549418875169831,2021-12-04 08:32:44
-21720,DE,2021-12-18,16:00:00,20099,Hamburg,Ernst-Merck-Str. / Kunsthalle,Aufzug,,Unbekannt,,53.550341,10.000654,2021-12-04 08:32:44
-21846,DE,2021-12-19,14:00:00,69117,Heidelberg,Friedrich-Ebert-Platz,Kundgebung,,Offene Gesellschaft Kurpfalz,https://offene-gesellschaft-kurpfalz.de/13-demo-in-heidelberg/,49.4080484,8.699889,2021-12-04 08:32:44
-21982,DE,2021-12-19,14:00:00,40235,Düsseldorf,Walter-Eucken-Str. / P / Metro,Autokorso,,Autokorso Düsseldorf,https://t.me/AutoDemoDuesseldorf,51.2254018,6.7763137,2021-12-04 08:32:44
-21812,DE,2021-12-20,16:00:00,18055,Rostock,Stadthafen / am Strande,Menschenkette,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,,54.0924445,12.1286127,2021-12-04 08:32:44
-21813,DE,2021-12-20,17:00:00,18055,Rostock,Rosengarten,Aufzug,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,,54.0853996,12.1369506,2021-12-04 08:32:44
-21785,DE,2021-12-20,17:00:00,84307,Eggenfelden,Rathausplatz,Aufstand,https://dlive.tv/SelbstDenken21,SelbstDenken21,http://shop.selbstdenken21.de,48.4017572,12.7615271,2021-12-04 08:32:44
-21962,DE,2021-12-20,18:00:00,95326,Kulmbach,Marktplatz,Demonstration,,20Plus1-Bürgerbewegung,https://20plus1.de,50.1068807,11.4581088,2021-12-04 08:32:44
-21555,DE,2021-12-20,18:00:00,63450,Hanau,Freiheitsplatz,Mahnwache,,Hanau steht auf!,https://hanau-steht-auf.de/,50.134785199999996,8.918585144855331,2021-12-04 08:32:44
-21970,DE,2021-12-20,18:30:00,29221,Celle,Stechbahn / vor Kirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf,52.624056,10.081052,2021-12-04 08:32:44
-21879,DE,2021-12-20,18:30:00,99510,Apolda,Markt/ Rathaus,Spaziergang,,,,51.0227878,11.5129742,2021-12-04 08:32:44
-21832,DE,2021-12-20,19:00:00,27382,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,,53.5287178,8.1107301,2021-12-04 08:32:44
-21664,DE,2021-12-20,19:00:00,17033,Neubrandenburg,Marktplatz,Spaziergang,,unbekannt,,53.55740205,13.260322640114307,2021-12-04 08:32:44
-3815,DE,2021-12-23,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-12-04 08:32:44
-1963,DE,2021-12-24,12:00:00,10178,Berlin,Weltzeituhr / Alexanderplatz,OpSafeWinter,https://anonymous.support/live,Anonymous,https://anonymous.support,52.5170365,13.3888599,2021-12-04 08:32:44
-21814,DE,2021-12-27,16:00:00,18055,Rostock,Stadthafen / am Strande,Menschenkette,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,,54.0924445,12.1286127,2021-12-04 08:32:44
-21815,DE,2021-12-27,17:00:00,18055,Rostock,Rosengarten,Aufzug,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,,54.0853996,12.1369506,2021-12-04 08:32:44
-21963,DE,2021-12-27,18:00:00,95326,Kulmbach,Marktplatz,Demonstration,,20Plus1-Bürgerbewegung,https://20plus1.de,50.1068807,11.4581088,2021-12-04 08:32:44
-21972,DE,2021-12-27,18:30:00,29221,Celle,Stechbahn / vor Kirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf,52.624056,10.081052,2021-12-04 08:32:44
-21971,DE,2021-12-27,18:30:00,29221,Celle,Stechbahn / vor Kirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf,52.624056,10.081052,2021-12-04 08:32:44
-21833,DE,2021-12-27,19:00:00,26382,Wilhelmshaven,Rathaus,Kundgebung,,Das deutsche Volk,,53.528461,8.1095937,2021-12-04 08:32:44
-21665,DE,2021-12-27,19:00:00,17033,Neubrandenburg,Marktplatz,Spaziergang,,unbekannt,,53.55740205,13.260322640114307,2021-12-04 08:32:44
-3816,DE,2021-12-30,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-12-04 08:32:44
-21964,DE,2021-12-31,16:00:00,95326,Kulmbach,Marktplatz,Kundgebung,,20Plus1-Bürgerbewegung,https://20plus1.de,50.1068807,11.4581088,2021-12-04 08:32:44
-1617,DE,2021-12-31,23:59:00,10117,Berlin,Brandenburger Tor,Event,,Welcome 2022,,52.51628045,13.377701882994323,2021-12-04 08:32:44
-21834,DE,2022-01-03,19:00:00,26382,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,,53.528461,8.1095937,2021-12-04 08:32:44
-21899,DE,2022-01-08,15:00:00,20099,Hamburg,Ernst-Merck-Str. / Kunsthalle,Aufzug,,Unbekannt,,53.550341,10.000654,2021-12-04 08:32:44
-21900,DE,2022-01-15,15:00:00,20099,Hamburg,Ernst-Merck-Str. / Kunsthalle,Aufzug,,Unbekannt,,53.550341,10.000654,2021-12-04 08:32:44
-21901,DE,2022-01-22,15:00:00,20099,Hamburg,Ernst-Merck-Str. / Kunsthalle,Aufzug,,Unbekannt,,53.550341,10.000654,2021-12-04 08:32:44
-21902,DE,2022-01-29,15:00:00,20099,Hamburg,Ernst-Merck-Str. / Kunsthalle,Aufzug,,Unbekannt,,53.550341,10.000654,2021-12-04 08:32:44
-21730,DE,2022-02-18,14:30:00,33605,Bielefeld,Innenstadt,Aufstand,,AFD,,52.017016600000005,8.544870615602374,2021-12-04 08:32:44
-3890,DE,2022-07-19,18:00:00,33098,Paderborn,Rathausplatz,Kundgebung,,unbekannt,,51.7169744,8.7538304,2021-12-04 08:32:44
+21865,DE,2021-12-04,11:00:00,54290,Trier,Porta Nigra,Zusammenkunft,,unbekannt,,49.7591673,6.6427042,2021-12-04 09:33:40
+21996,DE,2021-12-04,11:00:00,92318,Neumarkt,Bahnhofsplatz,Aufzug,,unbekannt,,49.279624,11.4594662,2021-12-04 09:33:40
+21966,DE,2021-12-04,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,https://t.me/cellestehtauf,52.626147,10.079557,2021-12-04 09:33:40
+21967,DE,2021-12-04,11:45:00,29221,Celle,Brandplatz,Kundgebung,,Celle steht auf,https://t.me/cellestehtauf,52.6252446,10.083390139412892,2021-12-04 09:33:40
+21857,AT,2021-12-04,12:00:00,1010,Wien,Heldenplatz,Demonstration,,Alle ungeimpften Bürger | FPOe | MFG | alle erwachten geimpften Bürger,http://www.drhubmermogg.at/,48.2060921,16.3640091,2021-12-04 09:33:40
+21755,AT,2021-12-04,12:00:00,1010,Wien,Innenstadt,Demonstration,,verschiedene,https://www.direktdemokratisch.jetzt/megademo/,48.2083537,16.3725042,2021-12-04 09:33:40
+22023,DE,2021-12-04,12:00:00,30159,Hannover,Landtag,Kundgebung,,AfD,,52.370904,9.7335817,2021-12-04 09:33:40
+21923,DE,2021-12-04,12:00:00,84130,Dingolfing,Marienplatz,Demonstration,,AfD,,48.6294028,12.4988493,2021-12-04 09:33:40
+21957,DE,2021-12-04,12:30:00,26954,Nordenham,Marktplatz,Kundgebung,,Privat | angemeldet,,53.48585935,8.48312627838091,2021-12-04 09:33:40
+21958,DE,2021-12-04,12:30:00,26954,Nordenham,Marktplatz,Kundgebung,,Privat | angemeldet,,53.48585935,8.48312627838091,2021-12-04 09:33:40
+21802,DE,2021-12-04,13:00:00,80331,München,Marienplatz,Kundgebung,,UlliOma,https://t.me/UlliOma_Muc,48.1356542,11.5735844,2021-12-04 09:33:40
+21795,DE,2021-12-04,13:00:00,10179,Berlin,Märkischer Platz,Spaziergang,,unbekannt,,52.5127311,13.4155619,2021-12-04 09:33:40
+21841,DE,2021-12-04,13:30:00,80336,München,Theresienwiese / Ostzufahrt,Autokorso,,AutoKorsoMünchen,https://t.me/AutoKorsoMuc/309,48.1371079,11.5753822,2021-12-04 09:33:40
+21992,DE,2021-12-04,14:00:00,64385,Reichelsheim,B 38 Ortseingang (Aldi),Zusammenkunft,,unbekannt,,49.70052405,8.847770066511021,2021-12-04 09:33:40
+21973,DE,2021-12-04,14:00:00,56068,Koblenz,Herz-Jesu-Kirche,Mahnwache,,unbekannt,,50.3567623,7.590961654961906,2021-12-04 09:33:40
+22000,DE,2021-12-04,14:00:00,30159,Hannover,Landtag Niedersachsen,Versammlung,,unbekannt,,52.3744779,9.7385532,2021-12-04 09:33:40
+21998,DE,2021-12-04,14:00:00,36037,Fulda,Bahnhofsvorplatz,Zusammenkunft,,unbekannt,,50.554203599999994,9.683269070393234,2021-12-04 09:33:40
+22004,DE,2021-12-04,14:00:00,36037,Fulda,Bahnhofsplatz,Kundgebung,,unbekannt,,50.553575300000006,9.684157801446208,2021-12-04 09:33:40
+21933,DE,2021-12-04,14:00:00,79098,Freiburg,Platz der alten Synagoge,Aufzug,,FreiSeinFreiburg,,47.995169,7.8466209,2021-12-04 09:33:40
+21927,DE,2021-12-04,14:00:00,60323,Frankfurt am Main,Reuterweg 44,Aufzug,,unbekannt,,50.1192978,8.6710744,2021-12-04 09:33:40
+21850,DE,2021-12-04,14:00:00,40213,Düsseldorf,Wiese Rheinprom. /  Reuterkaserne,Aufzug,,Zurück auf den Campus,,51.2254018,6.7763137,2021-12-04 09:33:40
+22006,DE,2021-12-04,14:16:00,88400,Biberach an der Riss,Viehmarktplatz,Kundgebung,,unbekannt,,48.0969682,9.7906141,2021-12-04 09:33:40
+21954,DE,2021-12-04,14:30:00,30449,Hannover,Ritter-Brüning-Str. / Parking,Autokorso,,Autocorso Hannover,,52.3622397,9.7217429,2021-12-04 09:33:40
+21713,DE,2021-12-04,14:30:00,60313,Frankfurt,Alte Oper,Aufzug,,unbekannt,,50.1151018,8.6722387,2021-12-04 09:33:40
+21842,DE,2021-12-04,15:00:00,83278,Traunstein,Stadtplatz,Kundgebung,,Franz Lindlacher,https://www.ts-bgl.de/,47.8692899,12.6470517,2021-12-04 09:33:40
+21700,DE,2021-12-04,15:00:00,20099,Hamburg,Ernst-Merck-Str. / Kunsthalle,Aufzug,,Unbekannt,,53.550341,10.000654,2021-12-04 09:33:40
+21848,DE,2021-12-04,15:00:00,60313,Frankfurt,Rathenauplatz,Demonstration,,Widerstand 4.0,https://widerstand4-0.net/2021/11/23/aufruf-zum-worldwidewalkout-am-4-12-2021/,50.1138672,8.6768180124077,2021-12-04 09:33:40
+21852,DE,2021-12-04,15:00:00,10117,Berlin,Brandenburger Tor / Simsonweg,Sonstiges,https://www.youtube.com/channel/UCxl4vPqdEUCaTiJaLBK9wPQ,Katholische Kirche,https://weihe-deutschlands-an-maria.jimdofree.com,52.5170365,13.3888599,2021-12-04 09:33:40
+21979,DE,2021-12-04,15:00:00,86150,Augsburg,Königsplatz / Kö,Aufzug,,unbekannt,,48.36549105,10.894464349945267,2021-12-04 09:33:40
+21940,DE,2021-12-04,15:30:00,87600,Kaufbeuren,Obstmarkt / Fußgängerzone,Meditation,,unbekannt,,47.8803788,10.622246,2021-12-04 09:33:40
+21934,DE,2021-12-04,15:30:00,45127,Essen,Kettwiger Str. 42,Kundgebung,,Für den Erhalt der Freiheit,https://t.me/+Gr4v4tPxmF174Ikj,51.4562803,7.0128903,2021-12-04 09:33:40
+21843,DE,2021-12-04,16:00:00,84028,Landshut,Martinskirche / davor,Gebet,,Kraftquelle Gebet Landshut,,48.536217,12.1516551,2021-12-04 09:33:40
+21840,DE,2021-12-04,17:00:00,90402,Nürnberg,Hallplatz / Königstraße,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/,49.453872,11.077298,2021-12-04 09:33:40
+21823,DE,2021-12-04,17:00:00,79215,Elzach,Nikolausplatz,Mahnwache,,unbekannt,,48.1740027,8.070864,2021-12-04 09:33:40
+21978,DE,2021-12-04,17:00:00,86150,Augsburg,Rathausplatz,Aufzug,,unbekannt,,48.3685906,10.897239,2021-12-04 09:33:40
+22024,DE,2021-12-04,18:00:00,99817,Eisenach,Markt,Kundgebung,,unbekannt,,50.9746902,10.319757197775946,2021-12-04 09:33:40
+22018,DE,2021-12-04,18:00:00,36448,Bad Liebenstein,Stadtmitte,Spaziergang,,unbekannt,,50.8183801,10.3491578,2021-12-04 09:33:40
+21939,DE,2021-12-04,19:00:00,26419,Schortens,Bahnhof / davor,Spaziergang,,Schortens analog,,53.5366547,7.9467348,2021-12-04 09:33:40
+21817,DE,2021-12-05,10:00:00,95326,Kulmbach,Marktplatz,Demonstration,,20Plus1-Bürgerbewegung,https://20plus1.de,50.1068807,11.4581088,2021-12-04 09:33:40
+22022,DE,2021-12-05,10:45:00,75015,Bretten,Stadtpark / Alter Friedhof,Meditation,,,,49.0364564,8.7072589,2021-12-04 09:33:40
+21983,AT,2021-12-05,12:30:00,5020,Salzburg,Kapitelplatz,Demonstration,,unbekannt,https://www.fpoe.at/demokalender,47.7976409,13.0459516,2021-12-04 09:33:40
+21984,AT,2021-12-05,13:30:00,5730,Mittersill,Stadtmitte,Demonstration,,unbekannt,https://www.fpoe.at/demokalender,47.2815157,12.4837012,2021-12-04 09:33:40
+21948,DE,2021-12-05,14:00:00,54516,Wittlich,Platz an der Lieser,Kundgebung,,unbekannt,,49.985748799999996,6.886222090008787,2021-12-04 09:33:40
+21990,DE,2021-12-05,14:00:00,70182,Stuttgart,Wilhelmsplatz,Kundgebung,,unbekannt,,48.7709861,9.1788068,2021-12-04 09:33:40
+22001,DE,2021-12-05,14:00:00,70182,Stuttgart,Wilhelmsplatz,Aufstand,,Demokratiebewegung,,48.7709861,9.1788068,2021-12-04 09:33:40
+21751,AT,2021-12-05,14:00:00,5020,Salzburg,Mozartplatz,Demonstration,,Salzburg wacht auf,http://www.salzburgwachtauf.at/,47.7990286,13.0474707,2021-12-04 09:33:40
+21935,DE,2021-12-05,14:00:00,95326,Kulmbach,Marktplatz,Mahnwache,,unbekannt,https://20plus1.de,50.1068807,11.4581088,2021-12-04 09:33:40
+21929,DE,2021-12-05,14:00:00,60313,Frankfurt am Main,Opernplatz,Schweigemarsch,,unbekannt,,50.1156484,8.6726125,2021-12-04 09:33:40
+22029,DE,2021-12-05,14:00:00,45149,Essen,Harscheidweg / Haarzopf,Kundgebung,,Unbesiegbar NRW,,51.4582235,7.0158171,2021-12-04 09:33:40
+21980,DE,2021-12-05,14:00:00,40235,Düsseldorf,Walter-Eucken-Str. / P / Metro,Autokorso,,Autokorso Düsseldorf,https://t.me/AutoDemoDuesseldorf,51.2254018,6.7763137,2021-12-04 09:33:40
+21995,AT,2021-12-05,14:00:00,6900,Bregenz,Am Hafengelände,Kundgebung,,unbekannt,,47.5025779,9.7472924,2021-12-04 09:33:40
+21955,AT,2021-12-05,14:00:00,6900,Bregenz,Am Hafengelände,Kundgebung,,unbekannt,http://www.corona-demo.at,47.5025779,9.7472924,2021-12-04 09:33:40
+21953,DE,2021-12-05,15:00:00,41236,Mönchengladbach-Rheydt,Marktplatz,Spaziergang,,unbekannt,,51.149063600000005,6.4421723914363405,2021-12-04 09:33:40
+21678,DE,2021-12-05,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,https://t.me/CUXHAVEN_PROTEST,53.8623859,8.698405997774456,2021-12-04 09:33:40
+21906,DE,2021-12-05,15:00:00,84503,Altötting,Tillyplatz,Kundgebung,,Bayern steht zusammen / Mahnwache Neuötting,https://bayern-steht-zusammen.de,48.2251717,12.676083,2021-12-04 09:33:40
+21985,AT,2021-12-05,17:00:00,5020,Salzburg,Freilassing-Brücke,Demonstration,,unbekannt,https://www.fpoe.at/demokalender,47.7981346,13.0464806,2021-12-04 09:33:40
+21987,AT,2021-12-05,17:00:00,5280,Braunau,Simbachbrücke,Demonstration,,unbekannt,https://www.fpoe.at/demokalender,48.253136,13.039506,2021-12-04 09:33:40
+21986,AT,2021-12-05,18:00:00,8200,Gleisdorf,Hauptplatz,Demonstration,,unbekannt,https://www.fpoe.at/demokalender,47.1055611,15.7093498,2021-12-04 09:33:40
+21951,DE,2021-12-05,18:00:00,14612,Falkensee,Alte Stadthalle,Gebet,,Friedenslicht Falkensee,,52.56275875,13.093813390566144,2021-12-04 09:33:40
+22015,DE,2021-12-05,18:00:00,14612,Falkensee,Alte Stadthalle,Gebet,,unbekannt,,52.56275875,13.093813390566144,2021-12-04 09:33:40
+21808,DE,2021-12-06,16:00:00,18055,Rostock,Stadthafen / am Strande,Menschenkette,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,,54.0924445,12.1286127,2021-12-04 09:33:40
+22011,DE,2021-12-06,16:30:00,86150,Augsburg,Rathausplatz,Kundgebung,,Bürgerforum Schwaben,,48.3685906,10.897239,2021-12-04 09:33:40
+21917,DE,2021-12-06,17:00:00,38440,Wolfsburg,Rathaus,Spaziergang,,unbekannt,,52.4212204,10.7871629,2021-12-04 09:33:40
+21809,DE,2021-12-06,17:00:00,18055,Rostock,Rosengarten,Aufzug,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,,54.0853996,12.1369506,2021-12-04 09:33:40
+22016,DE,2021-12-06,17:45:00,14612,Falkensee,Rathausplatz,Spaziergang,,unbekannt,,52.5675409,13.1007403,2021-12-04 09:33:40
+22019,DE,2021-12-06,18:00:00,98574,Schmalkalden,Altmarkt,Spaziergang,,unbekannt,,50.7212987,10.4518065,2021-12-04 09:33:40
+22009,DE,2021-12-06,18:00:00,16515,Oranienburg,Schlossplatz,Kundgebung,,OHV steht auf,,52.7537819,13.2365824,2021-12-04 09:33:40
+21997,DE,2021-12-06,18:00:00,48147,Münster,Domplatz,Spaziergang,,Gemeinsam für Grundrechte,http://grundrechte-ms.de,51.9631843,7.6269044,2021-12-04 09:33:40
+21819,DE,2021-12-06,18:00:00,95326,Kulmbach,Marktplatz,Kundgebung,,20Plus1-Bürgerbewegung,,50.1068807,11.4581088,2021-12-04 09:33:40
+21554,DE,2021-12-06,18:00:00,63450,Hanau,Freiheitsplatz,Mahnwache,,Hanau steht auf!,https://hanau-steht-auf.de/,50.134785199999996,8.918585144855331,2021-12-04 09:33:40
+22017,DE,2021-12-06,18:00:00,3149,Forst,Stadtkirche,Kundgebung,,unbekannt,,51.743988200000004,14.64802958482659,2021-12-04 09:33:40
+22031,DE,2021-12-06,18:00:00,15848,Beeskow,Marktplatz,Treffpunkt,,unbekannt,,52.172059149999995,14.247087949999997,2021-12-04 09:33:40
+21991,DE,2021-12-06,18:30:00,35630,Wetzlar,Rathaus Wetzlar,Kundgebung,,Privat,,50.62141815,8.370142086873553,2021-12-04 09:33:40
+21968,DE,2021-12-06,18:30:00,29221,Celle,Stechbahn / vor Kirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf,52.624056,10.081052,2021-12-04 09:33:40
+22014,DE,2021-12-06,18:30:00,74336,Brackenheim,Brunnen / v. d. Kreissparkasse,Spaziergang,,Team Freiheit Brackenheim,http://www.team-freiheit-brackenheim.de/,49.0784228,9.067437,2021-12-04 09:33:40
+21949,DE,2021-12-06,18:30:00,46236,Bottrop,Kirchplatz 1,Spaziergang,,Freiheitsboten Bottrop,,51.52088485,6.9255365117204075,2021-12-04 09:33:40
+22020,DE,2021-12-06,18:30:00,36433,Bad Salzungen,Marktplatz,Spaziergang,,unbekannt,,50.8129337,10.2353185,2021-12-04 09:33:40
+21875,DE,2021-12-06,18:30:00,99510,Apolda,Markt/ Rathaus,Spaziergang,,,,51.0227878,11.5129742,2021-12-04 09:33:40
+21830,DE,2021-12-06,19:00:00,26386,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,,53.528461,8.1095937,2021-12-04 09:33:40
+21662,DE,2021-12-06,19:00:00,17033,Neubrandenburg,Marktplatz,Spaziergang,,unbekannt,,53.55740205,13.260322640114307,2021-12-04 09:33:40
+21919,DE,2021-12-06,19:00:00,6618,Naumburg Saale,Marientor,Spaziergang,,unbekannt,,51.1549533,11.812657636649666,2021-12-04 09:33:40
+22002,DE,2021-12-06,19:00:00,99974,Mühlhausen/ Thüringen,Untermarkt,Spaziergang,,unbekannt,,51.2074205,10.4579131,2021-12-04 09:33:40
+21941,DE,2021-12-06,19:00:00,87600,Kaufbeuren-Neugablonz,Neuer Markt,Kundgebung,,unbekannt,,47.91279,10.6356602,2021-12-04 09:33:40
+22030,DE,2021-12-06,19:00:00,54568,Gerolstein,Rathaus,Spaziergang,,unbekannt,,50.2909168,6.671282,2021-12-04 09:33:40
+21936,DE,2021-12-06,19:00:00,37351,Dingelstädt,Rathaus,Spaziergang,,unbekannt,,51.3152305,10.317018472138788,2021-12-04 09:33:40
+21994,DE,2021-12-07,19:00:00,92421,Schwandorf,Oberer Marktplatz,Demonstration,,unbekannt,,49.5261821,12.5661342,2021-12-04 09:33:40
+22010,DE,2021-12-08,16:30:00,70374,Stuttgart,Beskidenstr. / BW Kaserne,Kundgebung,,Privat,,48.7784485,9.1800132,2021-12-04 09:33:40
+21904,DE,2021-12-08,17:00:00,84028,Landshut,Martinskirche / davor,Gebet,,Kraftquelle Gebet Landshut,,48.536217,12.1516551,2021-12-04 09:33:40
+21959,DE,2021-12-08,18:00:00,80333,München,Wittelsbacherplatz,Aufzug,,München steht auf,http://www.muenchen-steht-auf.de,48.1434538,11.576163106028726,2021-12-04 09:33:40
+22013,DE,2021-12-08,19:00:00,86343,Königsbrunn,Marktplatz,Kundgebung,,Bürgerforum Schwaben,,48.268725,10.8908126,2021-12-04 09:33:40
+22003,DE,2021-12-08,19:15:00,83022,Rosenheim,Ichikawaplatz,Mahnwache,,unbekannt,,47.85876395,12.133756881553518,2021-12-04 09:33:40
+3813,DE,2021-12-09,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-12-04 09:33:40
+21975,DE,2021-12-09,18:00:00,39340,Haldensleben,Marktplatz,Mahnwache,,unbekannt,,52.29135975,11.412146638981149,2021-12-04 09:33:40
+21976,DE,2021-12-09,18:00:00,39340,Haldensleben,Marktplatz,Mahnwache,,unbekannt,,52.29135975,11.412146638981149,2021-12-04 09:33:40
+21915,DE,2021-12-10,08:00:00,74374,Zaberfeld,Ortseingang,Sonstiges,,unbekannt,https://kunst-attacke.jimdosite.com/,49.0557982,8.9298417,2021-12-04 09:33:40
+21855,DE,2021-12-10,08:00:00,59846,Sundern,Rathausplatz,Sonstiges,https://t.me/kunstattacke,,https://kunst-attacke.jimdosite.com/,51.3300386,8.0070667,2021-12-04 09:33:40
+21916,DE,2021-12-10,08:00:00,59755,Neheim,Aldi Parkplatz,Sonstiges,,unbekannt,https://kunst-attacke.jimdosite.com/,51.453022,7.9607716,2021-12-04 09:33:40
+21945,DE,2021-12-10,08:00:00,59757,Neheim,Im Ohl 16b,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/,51.4598053,7.9517913,2021-12-04 09:33:40
+21965,DE,2021-12-10,08:00:00,59755,Neheim,City / Markt,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/,51.453022,7.9607716,2021-12-04 09:33:40
+21818,DE,2021-12-10,08:00:00,10178,Berlin,Alexanderplatz,Sonstiges,,Kunstattacke,https://t.me/kunstattacke,52.5240145,13.4125186,2021-12-04 09:33:40
+21946,DE,2021-12-10,08:00:00,64832,Babenhausen,City,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/,49.9562183,8.9460279,2021-12-04 09:33:40
+21947,DE,2021-12-10,08:00:00,56729,Baar,City,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/,48.0661303,8.4606205,2021-12-04 09:33:40
+21942,DE,2021-12-10,08:00:00,59755,Arnsberg,City,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/,51.4501112,7.966099,2021-12-04 09:33:40
+21874,DE,2021-12-10,08:00:00,99310,Alkersleben,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/,50.8374412,10.9483687,2021-12-04 09:33:40
+21873,DE,2021-12-10,08:00:00,18347,Ahrenshoop,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/,54.3789509,12.419192,2021-12-04 09:33:40
+21872,DE,2021-12-10,08:00:00,22926,Ahrensburg,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/,53.6747191,10.2380571,2021-12-04 09:33:40
+21870,DE,2021-12-10,08:00:00,96482,Ahorn,City,Sonstiges,,http://t.me/kunstattacke,https://kunst-attacke.jimdosite.com/,52.5521173,14.5500061,2021-12-04 09:33:40
+21871,DE,2021-12-10,08:00:00,74744,Ahorn,City,Erholung,,http://t.me/kunstattacke,https://kunst-attacke.jimdosite.com/,52.5521173,14.5500061,2021-12-04 09:33:40
+21868,DE,2021-12-10,08:00:00,28832,Achim,City,Treffpunkt,,http://t.me/kunstattacke,https://kunst-attacke.jimdosite.com/,53.0068811,9.0425504,2021-12-04 09:33:40
+21867,DE,2021-12-10,08:00:00,73430,Aalen,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/,48.837739,10.087604,2021-12-04 09:33:40
+21866,DE,2021-12-10,08:00:00,52062,Aachen,City,Musik,,Kunstattacke,https://t.me/kunstattacke,50.775142349999996,6.087035806504396,2021-12-04 09:33:40
+21932,DE,2021-12-11,08:00:00,34431,Marsberg,Markt,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/,51.4623394,8.8532385,2021-12-04 09:33:40
+21943,DE,2021-12-11,08:00:00,58089,Hagen,City,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/,51.3648585,7.4635577,2021-12-04 09:33:40
+21895,DE,2021-12-11,08:00:00,8209,Auerbach,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/,,,2021-12-04 09:33:40
+21896,DE,2021-12-11,08:00:00,91275,Auerbach,City,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/,49.6923981,11.6325698,2021-12-04 09:33:40
+21892,DE,2021-12-11,08:00:00,57439,Attendorn,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/,51.1250541,7.9010992,2021-12-04 09:33:40
+21891,DE,2021-12-11,08:00:00,21271,Asendorf,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/,53.257537,10.0144897,2021-12-04 09:33:40
+21890,DE,2021-12-11,08:00:00,59387,Ascheberg,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/,51.7886689,7.6196825,2021-12-04 09:33:40
+21889,DE,2021-12-11,08:00:00,63739,Aschaffenburg,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/,49.9787163,9.1521279,2021-12-04 09:33:40
+21888,DE,2021-12-11,08:00:00,59755,Arnsberg,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/,51.4501112,7.966099,2021-12-04 09:33:40
+21886,DE,2021-12-11,08:00:00,99976,Anrode,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/,51.2612629,10.37376072079988,2021-12-04 09:33:40
+21885,DE,2021-12-11,08:00:00,17389,Anklam,City,Kundgebung,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/,53.824645950000004,13.688984248168168,2021-12-04 09:33:40
+21883,DE,2021-12-11,08:00:00,16278,Angermünde,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/,53.017276,13.9981503,2021-12-04 09:33:40
+21884,DE,2021-12-11,08:00:00,83454,Anger,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/,48.1339108,11.5690997,2021-12-04 09:33:40
+21882,DE,2021-12-11,08:00:00,56626,Andernach,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/,50.4387779,7.3998781,2021-12-04 09:33:40
+21881,DE,2021-12-11,08:00:00,86972,Altenstadt,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/,48.1214999,10.1279448,2021-12-04 09:33:40
+21878,DE,2021-12-11,08:00:00,96146,Altendorf,City,Freizeit,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/,50.8324594,12.8742978,2021-12-04 09:33:40
+21880,DE,2021-12-11,08:00:00,96264,Altekunstadt,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/,50.11640095,11.241953579869568,2021-12-04 09:33:40
+21876,DE,2021-12-11,08:00:00,36304,Alsfeld,City,Sonstiges,,http://t.me/kunstattacke.de,https://kunst-attacke.jimdosite.com/,50.7505006,9.2707635,2021-12-04 09:33:40
+21898,DE,2021-12-11,09:00:00,32832,Augustdorf,City,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/,51.9092199,8.7382015,2021-12-04 09:33:40
+21897,DE,2021-12-11,09:00:00,31749,Auetal,City Markt,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/,52.2403,9.23321,2021-12-04 09:33:40
+21803,DE,2021-12-11,13:00:00,80331,München,Marienplatz,Kundgebung,,UlliOma,https://t.me/UlliOma_Muc,48.1356542,11.5735844,2021-12-04 09:33:40
+22007,DE,2021-12-11,14:00:00,88131,Lindau,Mc Donalds,Spaziergang,,unbekannt,,47.550753,9.6926624,2021-12-04 09:33:40
+21844,DE,2021-12-11,14:00:00,63741,Aschaffenburg,Volksfestplatz,Demonstration,,unbekannt,http://www.aschaffenburg-steht-auf.de,49.97372155,9.137671799730178,2021-12-04 09:33:40
+21937,DE,2021-12-11,15:00:00,50765,Köln,Liverpooler Platz,Demonstration,,Koeln ist aktiv,http://koelnistaktiv.de,51.021177300000005,6.898114808479773,2021-12-04 09:33:40
+21701,DE,2021-12-11,15:00:00,20099,Hamburg,Ernst-Merck-Str. / Kunsthalle,Aufzug,,Unbekannt,,53.550341,10.000654,2021-12-04 09:33:40
+21864,DE,2021-12-11,15:00:00,40213,Düsseldorf,Johannes-Rau-Platz,Aufzug,,QUERDENKEN NRW Initiativen,https://t.me/querdenken_nrw,51.219092200000006,6.767028235140621,2021-12-04 09:33:40
+21938,DE,2021-12-11,17:00:00,50765,Köln Chorweiler,Liverpooler Platz,Spaziergang,,Koeln ist aktiv,http://koelnistaktiv.de,51.021177300000005,6.898114808479773,2021-12-04 09:33:40
+22012,DE,2021-12-11,18:00:00,89407,Dillingen/Donau,Taxispark,Spaziergang,,unbekannt,,48.577932,10.488445,2021-12-04 09:33:40
+21887,DE,2021-12-12,08:00:00,59609,Anröchte,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/,51.5597886,8.3247323,2021-12-04 09:33:40
+21862,DE,2021-12-12,12:12:00,10117,Berlin,Brandenburger Tor,Sonstiges,,Kunst-Attacke!,https://kunst-attacke.jimdosite.com/,52.51628045,13.377701882994323,2021-12-04 09:33:40
+21988,AT,2021-12-12,13:00:00,8020,Graz,Hauptbahnhof,Aufzug,,unbekannt,https://www.fpoe.at/demokalender,47.07175975,15.418524555654464,2021-12-04 09:33:40
+21922,DE,2021-12-12,13:00:00,76530,Baden-Baden,Augustaplatz 1,Kundgebung,,Basisdemokratische Partei Deutschand. Kreisverband Rastatt,https://diebasis-ra-bad.de,48.759069,8.2399936,2021-12-04 09:33:40
+21989,AT,2021-12-12,14:00:00,6020,Innsbruck,Landhausplatz,Demonstration,,unbekannt,https://www.fpoe.at/demokalender,47.2634996,11.3962643,2021-12-04 09:33:40
+21944,DE,2021-12-12,14:00:00,58095,Hagen,City,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/,51.3593246,7.4652751,2021-12-04 09:33:40
+21981,DE,2021-12-12,14:00:00,40235,Düsseldorf,Walter-Eucken-Str. / P / Metro,Autokorso,,Autokorso Düsseldorf,https://t.me/AutoDemoDuesseldorf,51.2254018,6.7763137,2021-12-04 09:33:40
+21956,AT,2021-12-12,14:00:00,6900,Bregenz,Bahnhof / Parkplatz,Schweigemarsch,,unbekannt,http://www.corona-Demo.at,47.5025779,9.7472924,2021-12-04 09:33:40
+21791,DE,2021-12-12,15:00:00,47057,Duisburg,Hauptbahnhof,Demonstration,,PEGIDA NRW,,51.43186255,6.777626044567892,2021-12-04 09:33:40
+22005,DE,2021-12-12,18:00:00,58285,Gevelsberg,Vor Kaufland,Aufstand,,unbekannt,,51.3207417,7.3404792,2021-12-04 09:33:40
+21810,DE,2021-12-13,16:00:00,18055,Rostock,Stadthafen / am Strande,Menschenkette,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,,54.0924445,12.1286127,2021-12-04 09:33:40
+21811,DE,2021-12-13,17:00:00,18055,Rostock,Rosengarten,Aufzug,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,,54.0853996,12.1369506,2021-12-04 09:33:40
+22025,DE,2021-12-13,18:00:00,98574,Schmalkalden,Altmarkt,Spaziergang,,unbekannt,,50.7212987,10.4518065,2021-12-04 09:33:40
+21961,DE,2021-12-13,18:00:00,95326,Kulmbach,Marktplatz,Demonstration,,20Plus1-Bürgerbewegung,https://20plus1.de,50.1068807,11.4581088,2021-12-04 09:33:40
+21969,DE,2021-12-13,18:30:00,29221,Celle,Stechbahn / vor Kirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf,52.624056,10.081052,2021-12-04 09:33:40
+21950,DE,2021-12-13,18:30:00,46236,Bottrop,Kirchplatz 1,Spaziergang,,Freiheitsboten Bottrop,,51.52088485,6.9255365117204075,2021-12-04 09:33:40
+21877,DE,2021-12-13,18:30:00,99510,Apolda,Markt/ Rathaus,Spaziergang,,,,51.0227878,11.5129742,2021-12-04 09:33:40
+21831,DE,2021-12-13,19:00:00,26382,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,,53.528461,8.1095937,2021-12-04 09:33:40
+21663,DE,2021-12-13,19:00:00,17033,Neubrandenburg,Marktplatz,Spaziergang,,unbekannt,,53.55740205,13.260322640114307,2021-12-04 09:33:40
+3814,DE,2021-12-16,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-12-04 09:33:40
+21977,DE,2021-12-16,18:00:00,39340,Haldensleben,Marktplatz,Mahnwache,,unbekannt,,52.29135975,11.412146638981149,2021-12-04 09:33:40
+21960,DE,2021-12-17,16:00:00,95326,Kulmbach,Marktplatz,Kundgebung,,20Plus1-Bürgerbewegung,https://20plus1.de,50.1068807,11.4581088,2021-12-04 09:33:40
+21920,DE,2021-12-17,17:00:00,68519,Viernheim,Bürgerm.-Neff-Str 33 / Parkplatz,Schweigemarsch,,Initiative Bergstraße steht auf,http://bergstrasse-steht-auf.de/,49.5401174,8.5788029,2021-12-04 09:33:40
+21924,DE,2021-12-18,12:00:00,80339,München,Theresienwiese,Aufzug,,Kinder stehen auf,https://diekinderstehenauf.wordpress.com,48.1313385,11.549418875169831,2021-12-04 09:33:40
+21720,DE,2021-12-18,16:00:00,20099,Hamburg,Ernst-Merck-Str. / Kunsthalle,Aufzug,,Unbekannt,,53.550341,10.000654,2021-12-04 09:33:40
+21846,DE,2021-12-19,14:00:00,69117,Heidelberg,Friedrich-Ebert-Platz,Kundgebung,,Offene Gesellschaft Kurpfalz,https://offene-gesellschaft-kurpfalz.de/13-demo-in-heidelberg/,49.4080484,8.699889,2021-12-04 09:33:40
+21982,DE,2021-12-19,14:00:00,40235,Düsseldorf,Walter-Eucken-Str. / P / Metro,Autokorso,,Autokorso Düsseldorf,https://t.me/AutoDemoDuesseldorf,51.2254018,6.7763137,2021-12-04 09:33:40
+21812,DE,2021-12-20,16:00:00,18055,Rostock,Stadthafen / am Strande,Menschenkette,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,,54.0924445,12.1286127,2021-12-04 09:33:40
+21813,DE,2021-12-20,17:00:00,18055,Rostock,Rosengarten,Aufzug,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,,54.0853996,12.1369506,2021-12-04 09:33:40
+21785,DE,2021-12-20,17:00:00,84307,Eggenfelden,Rathausplatz,Aufstand,https://dlive.tv/SelbstDenken21,SelbstDenken21,http://shop.selbstdenken21.de,48.4017572,12.7615271,2021-12-04 09:33:40
+22026,DE,2021-12-20,18:00:00,98574,Schmalkalden,Altmarkt,Spaziergang,,unbekannt,,50.7212987,10.4518065,2021-12-04 09:33:40
+21962,DE,2021-12-20,18:00:00,95326,Kulmbach,Marktplatz,Demonstration,,20Plus1-Bürgerbewegung,https://20plus1.de,50.1068807,11.4581088,2021-12-04 09:33:40
+21555,DE,2021-12-20,18:00:00,63450,Hanau,Freiheitsplatz,Mahnwache,,Hanau steht auf!,https://hanau-steht-auf.de/,50.134785199999996,8.918585144855331,2021-12-04 09:33:40
+21970,DE,2021-12-20,18:30:00,29221,Celle,Stechbahn / vor Kirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf,52.624056,10.081052,2021-12-04 09:33:40
+22028,DE,2021-12-20,18:30:00,36433,Bad Salzungen,Marktplatz,Spaziergang,,unbekannt,,50.8129337,10.2353185,2021-12-04 09:33:40
+21879,DE,2021-12-20,18:30:00,99510,Apolda,Markt/ Rathaus,Spaziergang,,,,51.0227878,11.5129742,2021-12-04 09:33:40
+21832,DE,2021-12-20,19:00:00,27382,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,,53.5287178,8.1107301,2021-12-04 09:33:40
+21664,DE,2021-12-20,19:00:00,17033,Neubrandenburg,Marktplatz,Spaziergang,,unbekannt,,53.55740205,13.260322640114307,2021-12-04 09:33:40
+3815,DE,2021-12-23,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-12-04 09:33:40
+1963,DE,2021-12-24,12:00:00,10178,Berlin,Weltzeituhr / Alexanderplatz,OpSafeWinter,https://anonymous.support/live,Anonymous,https://anonymous.support,52.5170365,13.3888599,2021-12-04 09:33:40
+21814,DE,2021-12-27,16:00:00,18055,Rostock,Stadthafen / am Strande,Menschenkette,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,,54.0924445,12.1286127,2021-12-04 09:33:40
+21815,DE,2021-12-27,17:00:00,18055,Rostock,Rosengarten,Aufzug,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,,54.0853996,12.1369506,2021-12-04 09:33:40
+22027,DE,2021-12-27,18:00:00,98574,Schmalkalden,Altmarkt,Kundgebung,,unbekannt,,50.7212987,10.4518065,2021-12-04 09:33:40
+21963,DE,2021-12-27,18:00:00,95326,Kulmbach,Marktplatz,Demonstration,,20Plus1-Bürgerbewegung,https://20plus1.de,50.1068807,11.4581088,2021-12-04 09:33:40
+21971,DE,2021-12-27,18:30:00,29221,Celle,Stechbahn / vor Kirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf,52.624056,10.081052,2021-12-04 09:33:40
+21972,DE,2021-12-27,18:30:00,29221,Celle,Stechbahn / vor Kirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf,52.624056,10.081052,2021-12-04 09:33:40
+21833,DE,2021-12-27,19:00:00,26382,Wilhelmshaven,Rathaus,Kundgebung,,Das deutsche Volk,,53.528461,8.1095937,2021-12-04 09:33:40
+21665,DE,2021-12-27,19:00:00,17033,Neubrandenburg,Marktplatz,Spaziergang,,unbekannt,,53.55740205,13.260322640114307,2021-12-04 09:33:40
+3816,DE,2021-12-30,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-12-04 09:33:40
+21964,DE,2021-12-31,16:00:00,95326,Kulmbach,Marktplatz,Kundgebung,,20Plus1-Bürgerbewegung,https://20plus1.de,50.1068807,11.4581088,2021-12-04 09:33:40
+1617,DE,2021-12-31,23:59:00,10117,Berlin,Brandenburger Tor,Event,,Welcome 2022,,52.51628045,13.377701882994323,2021-12-04 09:33:40
+21834,DE,2022-01-03,19:00:00,26382,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,,53.528461,8.1095937,2021-12-04 09:33:40
+21899,DE,2022-01-08,15:00:00,20099,Hamburg,Ernst-Merck-Str. / Kunsthalle,Aufzug,,Unbekannt,,53.550341,10.000654,2021-12-04 09:33:40
+21900,DE,2022-01-15,15:00:00,20099,Hamburg,Ernst-Merck-Str. / Kunsthalle,Aufzug,,Unbekannt,,53.550341,10.000654,2021-12-04 09:33:40
+21901,DE,2022-01-22,15:00:00,20099,Hamburg,Ernst-Merck-Str. / Kunsthalle,Aufzug,,Unbekannt,,53.550341,10.000654,2021-12-04 09:33:40
+21902,DE,2022-01-29,15:00:00,20099,Hamburg,Ernst-Merck-Str. / Kunsthalle,Aufzug,,Unbekannt,,53.550341,10.000654,2021-12-04 09:33:40
+21730,DE,2022-02-18,14:30:00,33605,Bielefeld,Innenstadt,Aufstand,,AFD,,52.017016600000005,8.544870615602374,2021-12-04 09:33:40
+3890,DE,2022-07-19,18:00:00,33098,Paderborn,Rathausplatz,Kundgebung,,unbekannt,,51.7169744,8.7538304,2021-12-04 09:33:40
