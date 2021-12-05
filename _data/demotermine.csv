@@ -14,10 +14,10 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21935,DE,2021-12-05,14:00:00,95326,Kulmbach,Marktplatz,Mahnwache,,unbekannt,https://20plus1.de
 21929,DE,2021-12-05,14:00:00,60313,Frankfurt am Main,Opernplatz,Schweigemarsch,,unbekannt,
 22029,DE,2021-12-05,14:00:00,45149,Essen,Harscheidweg / Haarzopf,Kundgebung,,Unbesiegbar NRW,
-22040,DE,2021-12-05,14:00:00,40213,Düsseldorf,Burgplatz / Schlossturm,Spaziergang,,Privat,
 21980,DE,2021-12-05,14:00:00,40235,Düsseldorf,Walter-Eucken-Str. / P / Metro,Autokorso,,Autokorso Düsseldorf,https://t.me/AutoDemoDuesseldorf
-21995,AT,2021-12-05,14:00:00,6900,Bregenz,Am Hafengelände,Kundgebung,,unbekannt,
+22040,DE,2021-12-05,14:00:00,40213,Düsseldorf,Burgplatz / Schlossturm,Spaziergang,,Privat,
 21955,AT,2021-12-05,14:00:00,6900,Bregenz,Am Hafengelände,Kundgebung,,unbekannt,http://www.corona-demo.at
+21995,AT,2021-12-05,14:00:00,6900,Bregenz,Am Hafengelände,Kundgebung,,unbekannt,
 21953,DE,2021-12-05,15:00:00,41236,Mönchengladbach-Rheydt,Marktplatz,Spaziergang,,unbekannt,
 22047,DE,2021-12-05,15:00:00,41539,Dormagen,Kölner Str. / Nettergasse,Kundgebung,,Privat,https://volkmar-ortlepp.de/5115-2/
 21678,DE,2021-12-05,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,https://t.me/CUXHAVEN_PROTEST
@@ -34,8 +34,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21808,DE,2021-12-06,16:00:00,18055,Rostock,Stadthafen / am Strande,Menschenkette,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
 22011,DE,2021-12-06,16:30:00,86150,Augsburg,Rathausplatz,Kundgebung,,Bürgerforum Schwaben,
 21917,DE,2021-12-06,17:00:00,38440,Wolfsburg,Rathaus,Spaziergang,,unbekannt,
-22061,DE,2021-12-06,17:00:00,18055,Rostock,Rosengarten / Steintor,Aufzug,https://www.querdenken-381.org/,unbekannt,https://teleg.eu/s/wirinmv https://www.querdenken-381.org/
 21809,DE,2021-12-06,17:00:00,18055,Rostock,Rosengarten,Aufzug,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
+22061,DE,2021-12-06,17:00:00,18055,Rostock,Rosengarten / Steintor,Aufzug,https://www.querdenken-381.org/,unbekannt,https://teleg.eu/s/wirinmv https://www.querdenken-381.org/
 22041,DE,2021-12-06,17:00:00,18273,Güstrow,Rathaus,Spaziergang,,Privat,
 22016,DE,2021-12-06,17:45:00,14612,Falkensee,Rathausplatz,Spaziergang,,unbekannt,
 22056,DE,2021-12-06,18:00:00,39576,Stendal,Marktplatz,Spaziergang,,unbekannt,
@@ -74,6 +74,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 22110,DE,2021-12-07,17:30:00,79108,Freiburg im Breisgau,Parkplatz Neues SC Stadion,Autokorso,,Zukunft Freiburg,https://www.zukunft-fr.de
 22039,DE,2021-12-07,18:00:00,39326,Wolmirstedt,Boulevard / vor dem Rathaus,Mahnwache,,unbekannt,
 21994,DE,2021-12-07,19:00:00,92421,Schwandorf,Oberer Marktplatz,Demonstration,,unbekannt,
+22120,AT,2021-12-08,13:13:00,3830,Waidhofen an der Thaya,Hauptplatz 1,Demonstration,,unbekannt,https://t.me/+FXhv3h3UnSszOWI0
+22119,AT,2021-12-08,13:13:00,3830,Waidhofen an der Thaya,Hauptplatz 1,Demonstration,,unbekannt,https://t.me/+FXhv3h3UnSszOWI0
 22010,DE,2021-12-08,16:30:00,70374,Stuttgart,Beskidenstr. / BW Kaserne,Kundgebung,,Privat,
 21904,DE,2021-12-08,17:00:00,84028,Landshut,Martinskirche / davor,Gebet,,Kraftquelle Gebet Landshut,
 21959,DE,2021-12-08,18:00:00,80333,München,Wittelsbacherplatz,Aufzug,,München steht auf,http://www.muenchen-steht-auf.de
@@ -131,9 +133,9 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21866,DE,2021-12-10,08:00:00,52062,Aachen,City,Musik,,Kunstattacke,https://t.me/kunstattacke
 22043,DE,2021-12-10,18:00:00,27580,Bremerhaven,Waldemar-Becke Platz,Spaziergang,,unbekannt,
 21932,DE,2021-12-11,08:00:00,34431,Marsberg,Markt,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
+22065,DE,2021-12-11,08:00:00,21029,Hamburg,Bahnhof,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
 22063,DE,2021-12-11,08:00:00,20097,Hamburg,Hafen City,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/80
 22064,DE,2021-12-11,08:00:00,20095,Hamburg,Mitte,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
-22065,DE,2021-12-11,08:00:00,21029,Hamburg,Bahnhof,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
 21943,DE,2021-12-11,08:00:00,58089,Hagen,City,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
 21895,DE,2021-12-11,08:00:00,08209,Auerbach,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/
 21896,DE,2021-12-11,08:00:00,91275,Auerbach,City,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
@@ -213,8 +215,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21815,DE,2021-12-27,17:00:00,18055,Rostock,Rosengarten,Aufzug,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
 22027,DE,2021-12-27,18:00:00,98574,Schmalkalden,Altmarkt,Kundgebung,,unbekannt,
 21963,DE,2021-12-27,18:00:00,95326,Kulmbach,Marktplatz,Demonstration,,20Plus1-Bürgerbewegung,https://20plus1.de
-21971,DE,2021-12-27,18:30:00,29221,Celle,Stechbahn / vor Kirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf
 21972,DE,2021-12-27,18:30:00,29221,Celle,Stechbahn / vor Kirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf
+21971,DE,2021-12-27,18:30:00,29221,Celle,Stechbahn / vor Kirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf
 21833,DE,2021-12-27,19:00:00,26382,Wilhelmshaven,Rathaus,Kundgebung,,Das deutsche Volk,
 21665,DE,2021-12-27,19:00:00,17033,Neubrandenburg,Marktplatz,Spaziergang,,unbekannt,
 3816,DE,2021-12-30,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
