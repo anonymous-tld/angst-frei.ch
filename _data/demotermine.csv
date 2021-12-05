@@ -10,11 +10,12 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21990,DE,2021-12-05,14:00:00,70182,Stuttgart,Wilhelmsplatz,Kundgebung,,unbekannt,
 22001,DE,2021-12-05,14:00:00,70182,Stuttgart,Wilhelmsplatz,Aufstand,,Demokratiebewegung,
 21751,AT,2021-12-05,14:00:00,5020,Salzburg,Mozartplatz,Demonstration,,Salzburg wacht auf,http://www.salzburgwachtauf.at/
+22094,AT,2021-12-05,14:00:00,4020,Linz,Hauptplatz,Kundgebung,,Herz Linz,
 21935,DE,2021-12-05,14:00:00,95326,Kulmbach,Marktplatz,Mahnwache,,unbekannt,https://20plus1.de
 21929,DE,2021-12-05,14:00:00,60313,Frankfurt am Main,Opernplatz,Schweigemarsch,,unbekannt,
 22029,DE,2021-12-05,14:00:00,45149,Essen,Harscheidweg / Haarzopf,Kundgebung,,Unbesiegbar NRW,
-22040,DE,2021-12-05,14:00:00,40213,Düsseldorf,Burgplatz / Schlossturm,Spaziergang,,Privat,
 21980,DE,2021-12-05,14:00:00,40235,Düsseldorf,Walter-Eucken-Str. / P / Metro,Autokorso,,Autokorso Düsseldorf,https://t.me/AutoDemoDuesseldorf
+22040,DE,2021-12-05,14:00:00,40213,Düsseldorf,Burgplatz / Schlossturm,Spaziergang,,Privat,
 21955,AT,2021-12-05,14:00:00,6900,Bregenz,Am Hafengelände,Kundgebung,,unbekannt,http://www.corona-demo.at
 21995,AT,2021-12-05,14:00:00,6900,Bregenz,Am Hafengelände,Kundgebung,,unbekannt,
 21953,DE,2021-12-05,15:00:00,41236,Mönchengladbach-Rheydt,Marktplatz,Spaziergang,,unbekannt,
@@ -80,20 +81,26 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21855,DE,2021-12-10,08:00:00,59846,Sundern,Rathausplatz,Sonstiges,https://t.me/kunstattacke,,https://kunst-attacke.jimdosite.com/
 22083,DE,2021-12-10,08:00:00,70173,Stuttgart,Mitte,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
 22098,DE,2021-12-10,08:00:00,72764,Reutlingen,Mitte,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
+22108,DE,2021-12-10,08:00:00,64385,Reichelsheim,Mitte,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
 22102,DE,2021-12-10,08:00:00,45657,Recklinghausen,Mitte,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
 22104,DE,2021-12-10,08:00:00,14467,Potsdam,Mitte,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
+22103,DE,2021-12-10,08:00:00,26121,Oldenburg,Mitte,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
 22097,DE,2021-12-10,08:00:00,63065,Offenbach,Mitte,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
 22091,DE,2021-12-10,08:00:00,90402,Nürnberg,Mitte,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
 21965,DE,2021-12-10,08:00:00,59755,Neheim,City / Markt,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
-21916,DE,2021-12-10,08:00:00,59755,Neheim,Aldi Parkplatz,Sonstiges,,unbekannt,https://kunst-attacke.jimdosite.com/
 21945,DE,2021-12-10,08:00:00,59757,Neheim,Im Ohl 16b,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
+21916,DE,2021-12-10,08:00:00,59755,Neheim,Aldi Parkplatz,Sonstiges,,unbekannt,https://kunst-attacke.jimdosite.com/
+22095,DE,2021-12-10,08:00:00,48149,Münster,Markt,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
 22080,DE,2021-12-10,08:00:00,80331,München,Altstadt/Zentrum,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
 22085,DE,2021-12-10,08:00:00,04105,Leipzig,Mitte,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
 22067,DE,2021-12-10,08:00:00,50668,Köln,Innenstadt,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
 22099,DE,2021-12-10,08:00:00,56068,Koblenz,Mitte,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
+22093,DE,2021-12-10,08:00:00,76131,Karlsruhe,Mitte,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
 22100,DE,2021-12-10,08:00:00,07743,Jena,Mitte,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
 22079,DE,2021-12-10,08:00:00,30159,Hannover,Kröpcke/Innenstadt,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
 22106,DE,2021-12-10,08:00:00,31785,Hameln,Mitte,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
+22105,DE,2021-12-10,08:00:00,58095,Hagen,Mitte,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
+22107,DE,2021-12-10,08:00:00,64658,Fürth,Mitte,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
 22082,DE,2021-12-10,08:00:00,15230,Frankfurt/Oder,City,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
 22081,DE,2021-12-10,08:00:00,60488,Frankfurt,Innenstadt,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
 22088,DE,2021-12-10,08:00:00,45127,Essen,Mitte,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
@@ -102,6 +109,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 22090,DE,2021-12-10,08:00:00,01097,Dresden,Mitte,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
 22087,DE,2021-12-10,08:00:00,44135,Dortmund,Mitte,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
 22089,DE,2021-12-10,08:00:00,28195,Bremen,Mitte,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
+22096,DE,2021-12-10,08:00:00,53111,Bonn,Mitte,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
 21818,DE,2021-12-10,08:00:00,10178,Berlin,Alexanderplatz,Sonstiges,,Kunstattacke,https://t.me/kunstattacke
 22076,DE,2021-12-10,08:00:00,10709,Berlin,Kurfürsten Damm,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
 21946,DE,2021-12-10,08:00:00,64832,Babenhausen,City,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
@@ -110,19 +118,19 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21874,DE,2021-12-10,08:00:00,99310,Alkersleben,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/
 21873,DE,2021-12-10,08:00:00,18347,Ahrenshoop,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/
 21872,DE,2021-12-10,08:00:00,22926,Ahrensburg,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/
-21870,DE,2021-12-10,08:00:00,96482,Ahorn,City,Sonstiges,,http://t.me/kunstattacke,https://kunst-attacke.jimdosite.com/
 21871,DE,2021-12-10,08:00:00,74744,Ahorn,City,Erholung,,http://t.me/kunstattacke,https://kunst-attacke.jimdosite.com/
+21870,DE,2021-12-10,08:00:00,96482,Ahorn,City,Sonstiges,,http://t.me/kunstattacke,https://kunst-attacke.jimdosite.com/
 21868,DE,2021-12-10,08:00:00,28832,Achim,City,Treffpunkt,,http://t.me/kunstattacke,https://kunst-attacke.jimdosite.com/
 21867,DE,2021-12-10,08:00:00,73430,Aalen,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/
 21866,DE,2021-12-10,08:00:00,52062,Aachen,City,Musik,,Kunstattacke,https://t.me/kunstattacke
 22043,DE,2021-12-10,18:00:00,27580,Bremerhaven,Waldemar-Becke Platz,Spaziergang,,unbekannt,
 21932,DE,2021-12-11,08:00:00,34431,Marsberg,Markt,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
-22065,DE,2021-12-11,08:00:00,21029,Hamburg,Bahnhof,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
-22064,DE,2021-12-11,08:00:00,20095,Hamburg,Mitte,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
 22063,DE,2021-12-11,08:00:00,20097,Hamburg,Hafen City,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/80
+22064,DE,2021-12-11,08:00:00,20095,Hamburg,Mitte,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
+22065,DE,2021-12-11,08:00:00,21029,Hamburg,Bahnhof,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
 21943,DE,2021-12-11,08:00:00,58089,Hagen,City,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
-21896,DE,2021-12-11,08:00:00,91275,Auerbach,City,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
 21895,DE,2021-12-11,08:00:00,08209,Auerbach,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/
+21896,DE,2021-12-11,08:00:00,91275,Auerbach,City,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
 21892,DE,2021-12-11,08:00:00,57439,Attendorn,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/
 21891,DE,2021-12-11,08:00:00,21271,Asendorf,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/
 21890,DE,2021-12-11,08:00:00,59387,Ascheberg,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/
