@@ -6,8 +6,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21984,AT,2021-12-05,13:30:00,5730,Mittersill,Stadtmitte,Demonstration,,unbekannt,https://www.fpoe.at/demokalender
 21948,DE,2021-12-05,14:00:00,54516,Wittlich,Platz an der Lieser,Kundgebung,,unbekannt,
 22052,DE,2021-12-05,14:00:00,68753,Waghäusel-Wiesental,Parkplatz Einkaufzentrum Globu,Spaziergang,,unbekannt,
-21990,DE,2021-12-05,14:00:00,70182,Stuttgart,Wilhelmsplatz,Kundgebung,,unbekannt,
 22001,DE,2021-12-05,14:00:00,70182,Stuttgart,Wilhelmsplatz,Aufstand,,Demokratiebewegung,
+21990,DE,2021-12-05,14:00:00,70182,Stuttgart,Wilhelmsplatz,Kundgebung,,unbekannt,
 21751,AT,2021-12-05,14:00:00,5020,Salzburg,Mozartplatz,Demonstration,,Salzburg wacht auf,http://www.salzburgwachtauf.at/
 21935,DE,2021-12-05,14:00:00,95326,Kulmbach,Marktplatz,Mahnwache,,unbekannt,https://20plus1.de
 21929,DE,2021-12-05,14:00:00,60313,Frankfurt am Main,Opernplatz,Schweigemarsch,,unbekannt,
@@ -37,6 +37,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 22019,DE,2021-12-06,18:00:00,98574,Schmalkalden,Altmarkt,Spaziergang,,unbekannt,
 22033,DE,2021-12-06,18:00:00,061,Schkopau,Hallmarkt,Spaziergang,,unbekannt,
 22009,DE,2021-12-06,18:00:00,16515,Oranienburg,Schlossplatz,Kundgebung,,OHV steht auf,
+22053,DE,2021-12-06,18:00:00,55276,Oppenheim,Kathrinenkirche,Kundgebung,,unbekannt,
 21997,DE,2021-12-06,18:00:00,48147,Münster,Domplatz,Spaziergang,,Gemeinsam für Grundrechte,http://grundrechte-ms.de
 21819,DE,2021-12-06,18:00:00,95326,Kulmbach,Marktplatz,Kundgebung,,20Plus1-Bürgerbewegung,
 21554,DE,2021-12-06,18:00:00,63450,Hanau,Freiheitsplatz,Mahnwache,,Hanau steht auf!,https://hanau-steht-auf.de/
@@ -66,13 +67,13 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 22013,DE,2021-12-08,19:00:00,86343,Königsbrunn,Marktplatz,Kundgebung,,Bürgerforum Schwaben,
 22003,DE,2021-12-08,19:15:00,83022,Rosenheim,Ichikawaplatz,Mahnwache,,unbekannt,
 3813,DE,2021-12-09,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
-21976,DE,2021-12-09,18:00:00,39340,Haldensleben,Marktplatz,Mahnwache,,unbekannt,
 21975,DE,2021-12-09,18:00:00,39340,Haldensleben,Marktplatz,Mahnwache,,unbekannt,
+21976,DE,2021-12-09,18:00:00,39340,Haldensleben,Marktplatz,Mahnwache,,unbekannt,
 21915,DE,2021-12-10,08:00:00,74374,Zaberfeld,Ortseingang,Sonstiges,,unbekannt,https://kunst-attacke.jimdosite.com/
 21855,DE,2021-12-10,08:00:00,59846,Sundern,Rathausplatz,Sonstiges,https://t.me/kunstattacke,,https://kunst-attacke.jimdosite.com/
-21965,DE,2021-12-10,08:00:00,59755,Neheim,City / Markt,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
 21916,DE,2021-12-10,08:00:00,59755,Neheim,Aldi Parkplatz,Sonstiges,,unbekannt,https://kunst-attacke.jimdosite.com/
 21945,DE,2021-12-10,08:00:00,59757,Neheim,Im Ohl 16b,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
+21965,DE,2021-12-10,08:00:00,59755,Neheim,City / Markt,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
 21818,DE,2021-12-10,08:00:00,10178,Berlin,Alexanderplatz,Sonstiges,,Kunstattacke,https://t.me/kunstattacke
 21946,DE,2021-12-10,08:00:00,64832,Babenhausen,City,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
 21947,DE,2021-12-10,08:00:00,56729,Baar,City,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
