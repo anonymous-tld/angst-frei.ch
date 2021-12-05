@@ -14,8 +14,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 22029,DE,2021-12-05,14:00:00,45149,Essen,Harscheidweg / Haarzopf,Kundgebung,,Unbesiegbar NRW,
 22040,DE,2021-12-05,14:00:00,40213,Düsseldorf,Burgplatz / Schlossturm,Spaziergang,,Privat,
 21980,DE,2021-12-05,14:00:00,40235,Düsseldorf,Walter-Eucken-Str. / P / Metro,Autokorso,,Autokorso Düsseldorf,https://t.me/AutoDemoDuesseldorf
-21955,AT,2021-12-05,14:00:00,6900,Bregenz,Am Hafengelände,Kundgebung,,unbekannt,http://www.corona-demo.at
 21995,AT,2021-12-05,14:00:00,6900,Bregenz,Am Hafengelände,Kundgebung,,unbekannt,
+21955,AT,2021-12-05,14:00:00,6900,Bregenz,Am Hafengelände,Kundgebung,,unbekannt,http://www.corona-demo.at
 21953,DE,2021-12-05,15:00:00,41236,Mönchengladbach-Rheydt,Marktplatz,Spaziergang,,unbekannt,
 22047,DE,2021-12-05,15:00:00,41539,Dormagen,Kölner Str. / Nettergasse,Kundgebung,,Privat,https://volkmar-ortlepp.de/5115-2/
 21678,DE,2021-12-05,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,https://t.me/CUXHAVEN_PROTEST
@@ -52,6 +52,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 22020,DE,2021-12-06,18:30:00,36433,Bad Salzungen,Marktplatz,Spaziergang,,unbekannt,
 21875,DE,2021-12-06,18:30:00,99510,Apolda,Markt/ Rathaus,Spaziergang,,,
 21830,DE,2021-12-06,19:00:00,26386,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,
+22055,DE,2021-12-06,19:00:00,16303,Schwedt,Vierradener Strasse,Spaziergang,,unbekannt,https://t.me/demokratiefreiheitsouveraenitaet
 21662,DE,2021-12-06,19:00:00,17033,Neubrandenburg,Marktplatz,Spaziergang,,unbekannt,
 21919,DE,2021-12-06,19:00:00,06618,Naumburg Saale,Marientor,Spaziergang,,unbekannt,
 22002,DE,2021-12-06,19:00:00,99974,Mühlhausen/ Thüringen,Untermarkt,Spaziergang,,unbekannt,
@@ -81,16 +82,16 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21874,DE,2021-12-10,08:00:00,99310,Alkersleben,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/
 21873,DE,2021-12-10,08:00:00,18347,Ahrenshoop,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/
 21872,DE,2021-12-10,08:00:00,22926,Ahrensburg,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/
-21871,DE,2021-12-10,08:00:00,74744,Ahorn,City,Erholung,,http://t.me/kunstattacke,https://kunst-attacke.jimdosite.com/
 21870,DE,2021-12-10,08:00:00,96482,Ahorn,City,Sonstiges,,http://t.me/kunstattacke,https://kunst-attacke.jimdosite.com/
+21871,DE,2021-12-10,08:00:00,74744,Ahorn,City,Erholung,,http://t.me/kunstattacke,https://kunst-attacke.jimdosite.com/
 21868,DE,2021-12-10,08:00:00,28832,Achim,City,Treffpunkt,,http://t.me/kunstattacke,https://kunst-attacke.jimdosite.com/
 21867,DE,2021-12-10,08:00:00,73430,Aalen,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/
 21866,DE,2021-12-10,08:00:00,52062,Aachen,City,Musik,,Kunstattacke,https://t.me/kunstattacke
 22043,DE,2021-12-10,18:00:00,27580,Bremerhaven,Waldemar-Becke Platz,Spaziergang,,unbekannt,
 21932,DE,2021-12-11,08:00:00,34431,Marsberg,Markt,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
 21943,DE,2021-12-11,08:00:00,58089,Hagen,City,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
-21895,DE,2021-12-11,08:00:00,08209,Auerbach,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/
 21896,DE,2021-12-11,08:00:00,91275,Auerbach,City,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
+21895,DE,2021-12-11,08:00:00,08209,Auerbach,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/
 21892,DE,2021-12-11,08:00:00,57439,Attendorn,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/
 21891,DE,2021-12-11,08:00:00,21271,Asendorf,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/
 21890,DE,2021-12-11,08:00:00,59387,Ascheberg,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/
@@ -113,6 +114,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21937,DE,2021-12-11,15:00:00,50765,Köln,Liverpooler Platz,Demonstration,,Koeln ist aktiv,http://koelnistaktiv.de
 21701,DE,2021-12-11,15:00:00,20099,Hamburg,Ernst-Merck-Str. / Kunsthalle,Aufzug,,Unbekannt,
 21864,DE,2021-12-11,15:00:00,40213,Düsseldorf,Johannes-Rau-Platz,Aufzug,,QUERDENKEN NRW Initiativen,https://t.me/querdenken_nrw
+22054,DE,2021-12-11,15:30:00,85049,Ingolstadt,Theaterplatz,Kundgebung,,Bayern steht zusammen  | IN-Samstagsdemos,https://bayern-steht-zusammen.de
 21938,DE,2021-12-11,17:00:00,50765,Köln Chorweiler,Liverpooler Platz,Spaziergang,,Koeln ist aktiv,http://koelnistaktiv.de
 22012,DE,2021-12-11,18:00:00,89407,Dillingen/Donau,Taxispark,Spaziergang,,unbekannt,
 21887,DE,2021-12-12,08:00:00,59609,Anröchte,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/
