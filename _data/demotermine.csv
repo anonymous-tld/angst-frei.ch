@@ -13,8 +13,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 22160,DE,2021-12-06,17:30:00,10963,Berlin,Anhalter Bahnhof,Kundgebung,,Widerstand Jetzt Berlin,
 22016,DE,2021-12-06,17:45:00,14612,Falkensee,Rathausplatz,Spaziergang,,unbekannt,
 22056,DE,2021-12-06,18:00:00,39576,Stendal,Marktplatz,Spaziergang,,unbekannt,
-22051,DE,2021-12-06,18:00:00,01968,Senftenberg,Marktplatz,Kundgebung,,Andreas Kalbitz (MdL),https://www.facebook.com/2299270487017208/posts/3144364102507838/
 22142,DE,2021-12-06,18:00:00,01968,Senftenberg,Marktplatz,Kundgebung,,unbekannt,
+22051,DE,2021-12-06,18:00:00,01968,Senftenberg,Marktplatz,Kundgebung,,Andreas Kalbitz (MdL),https://www.facebook.com/2299270487017208/posts/3144364102507838/
 22115,DE,2021-12-06,18:00:00,92421,Schwandorf / Haselbach,Kirchawirt,Zusammenkunft,,unbekannt,
 22019,DE,2021-12-06,18:00:00,98574,Schmalkalden,Altmarkt,Spaziergang,,unbekannt,
 22033,DE,2021-12-06,18:00:00,061,Schkopau,Hallmarkt,Spaziergang,,unbekannt,
@@ -56,6 +56,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 22030,DE,2021-12-06,19:00:00,54568,Gerolstein,Rathaus,Spaziergang,,unbekannt,
 22135,DE,2021-12-06,19:00:00,99084,Erfurt,Anger / Lutherdenkmal,Spaziergang,,unbekannt,
 21936,DE,2021-12-06,19:00:00,37351,Dingelstädt,Rathaus,Spaziergang,,unbekannt,
+22178,DE,2021-12-06,19:00:00,96445,Bayreuth,Rathaus / Vorplatz,Sonstiges,,unbekannt,
 22036,DE,2021-12-06,19:00:00,36433,Bad Salzungen,Nappenplatz,Spaziergang,,unbekannt,
 22151,DE,2021-12-06,19:00:00,99310,Arnstadt,Markt,Spaziergang,,unbekannt,
 22128,DE,2021-12-06,19:00:00,52062,Aachen,Elisenbrunnen,Spaziergang,,ohne,
@@ -69,6 +70,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 22010,DE,2021-12-08,16:30:00,70374,Stuttgart,Beskidenstr. / BW Kaserne,Kundgebung,,Privat,
 21904,DE,2021-12-08,17:00:00,84028,Landshut,Martinskirche / davor,Gebet,,Kraftquelle Gebet Landshut,
 22145,DE,2021-12-08,18:00:00,97070,Würzburg,Marktplatz,Spaziergang,,unbekannt,
+22177,DE,2021-12-08,18:00:00,80333,München,Wittelsbacher Platz,Aufzug,,München-steht-auf,http://www.muenchen-steht-auf.de
 21959,DE,2021-12-08,18:00:00,80333,München,Wittelsbacherplatz,Aufzug,,München steht auf,http://www.muenchen-steht-auf.de
 22013,DE,2021-12-08,19:00:00,86343,Königsbrunn,Marktplatz,Kundgebung,,Bürgerforum Schwaben,
 22003,DE,2021-12-08,19:15:00,83022,Rosenheim,Ichikawaplatz,Mahnwache,,unbekannt,
@@ -89,8 +91,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 22097,DE,2021-12-10,08:00:00,63065,Offenbach,Mitte,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
 22091,DE,2021-12-10,08:00:00,90402,Nürnberg,Mitte,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
 21965,DE,2021-12-10,08:00:00,59755,Neheim,City / Markt,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
-21916,DE,2021-12-10,08:00:00,59755,Neheim,Aldi Parkplatz,Sonstiges,,unbekannt,https://kunst-attacke.jimdosite.com/
 21945,DE,2021-12-10,08:00:00,59757,Neheim,Im Ohl 16b,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
+21916,DE,2021-12-10,08:00:00,59755,Neheim,Aldi Parkplatz,Sonstiges,,unbekannt,https://kunst-attacke.jimdosite.com/
 22095,DE,2021-12-10,08:00:00,48149,Münster,Markt,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
 22080,DE,2021-12-10,08:00:00,80331,München,Altstadt/Zentrum,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
 22085,DE,2021-12-10,08:00:00,04105,Leipzig,Mitte,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
@@ -111,8 +113,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 22087,DE,2021-12-10,08:00:00,44135,Dortmund,Mitte,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
 22089,DE,2021-12-10,08:00:00,28195,Bremen,Mitte,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
 22096,DE,2021-12-10,08:00:00,53111,Bonn,Mitte,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
-21818,DE,2021-12-10,08:00:00,10178,Berlin,Alexanderplatz,Sonstiges,,Kunstattacke,https://t.me/kunstattacke
 22076,DE,2021-12-10,08:00:00,10709,Berlin,Kurfürsten Damm,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
+21818,DE,2021-12-10,08:00:00,10178,Berlin,Alexanderplatz,Sonstiges,,Kunstattacke,https://t.me/kunstattacke
 21946,DE,2021-12-10,08:00:00,64832,Babenhausen,City,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
 21947,DE,2021-12-10,08:00:00,56729,Baar,City,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
 21942,DE,2021-12-10,08:00:00,59755,Arnsberg,City,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
@@ -126,13 +128,13 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21866,DE,2021-12-10,08:00:00,52062,Aachen,City,Musik,,Kunstattacke,https://t.me/kunstattacke
 22154,DE,2021-12-10,16:00:00,68159,Mannheim,Marktplatz,Demonstration,,unbekannt,
 22166,AT,2021-12-10,17:00:00,4020,Linz,Hauptplatz,Kundgebung,,Fest für die Freiheit,
-22176,DE,2021-12-10,18:00:00,27568,Bremerhaven,Waldemar-Becke-Platz,Spaziergang,,unbekannt,
 22043,DE,2021-12-10,18:00:00,27580,Bremerhaven,Waldemar-Becke Platz,Spaziergang,,unbekannt,
+22176,DE,2021-12-10,18:00:00,27568,Bremerhaven,Waldemar-Becke-Platz,Spaziergang,,unbekannt,
 22129,DE,2021-12-10,19:00:00,52062,Aachen,Elisenbrunnen,Kundgebung,,unbekannt,
 21932,DE,2021-12-11,08:00:00,34431,Marsberg,Markt,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
 22063,DE,2021-12-11,08:00:00,20097,Hamburg,Hafen City,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/80
-22064,DE,2021-12-11,08:00:00,20095,Hamburg,Mitte,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
 22065,DE,2021-12-11,08:00:00,21029,Hamburg,Bahnhof,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
+22064,DE,2021-12-11,08:00:00,20095,Hamburg,Mitte,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
 21943,DE,2021-12-11,08:00:00,58089,Hagen,City,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
 21895,DE,2021-12-11,08:00:00,08209,Auerbach,City,Sonstiges,,http://t.me/Kunstattacke,https://kunst-attacke.jimdosite.com/
 21896,DE,2021-12-11,08:00:00,91275,Auerbach,City,Sonstiges,,Kunstattacke,https://kunst-attacke.jimdosite.com/
