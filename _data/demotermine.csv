@@ -5,6 +5,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 67479,DE,2022-03-01,18:00:00,36381,Schlüchtern,Feuerwehrplatz,Spaziergang,,Privat,
 72373,DE,2022-03-01,18:00:00,82216,Maisach,Rathaus,Spaziergang,,Wir sind das Volk,
 71718,DE,2022-03-01,18:00:00,91052,Erlangen,Ohmplatz,Aufzug,,Privat,
+72483,DE,2022-03-01,18:00:00,84547,Emmerting,Kirche/Gemeindewiese/Karrerweg,Spaziergang,,Privat,
 72293,DE,2022-03-01,18:30:00,76863,Herxheim,Villa Wieser,Spaziergang,,unbekannt,
 72268,DE,2022-03-01,19:00:00,76774,Leimersheim,Kirchplatz,Spaziergang,,unbekannt,
 72269,DE,2022-03-01,19:00:00,76770,Hatzenbühl,Rathaus Bushaltestelle,Spaziergang,,unbekannt,
@@ -79,8 +80,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 72436,DE,2022-03-07,18:00:00,83512,Wasserburg am Inn,Busbahnhof,Aufzug,,Luggi Maier (Kreisrat d. ÖDP),
 72287,DE,2022-03-07,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,unbekannt,
 72343,DE,2022-03-07,18:00:00,66583,Spiesen-Elversberg,Rathaus / Spiesen Hauptstraße,Spaziergang,,unbekannt,
-72454,DE,2022-03-07,18:00:00,28790,Schwanewede,Rathaus,Spaziergang,,Menschen mit Verstand,
 72457,DE,2022-03-07,18:00:00,28790,Schwanewede,Rathaus,Spaziergang,,Menschen mit Verstand,
+72454,DE,2022-03-07,18:00:00,28790,Schwanewede,Rathaus,Spaziergang,,Menschen mit Verstand,
 72315,DE,2022-03-07,18:00:00,74523,Schwäbisch Hall,Marktplatz,Spaziergang,,unbekannt,
 71575,DE,2022-03-07,18:00:00,84028,Landshut,Ländtor,Spaziergang,,unbekannt,
 69042,DE,2022-03-07,18:00:00,52428,Jülich,Neusser Str. 11,Kundgebung,,Vereinte Impffreunde,
@@ -122,8 +123,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 70406,UK,2022-03-19,12:00:00,TR12AF,Truro,Cathedral,Demonstration,,WORLD WIDE RALLY FOR FREEDOM UK,https://t.me/WWD_Cornwall
 70405,UK,2022-03-19,13:00:00,OX11LQ,Oxford,Bonn Square,Demonstration,,FreedomOxford,https://t.me/WWDFreedomOxford
 71725,DE,2022-03-19,16:00:00,90471,Nürnberg,Volksfestplatz,Spaziergang,,Privat,
-70425,DE,2022-03-20,14:00:00,80333,München,Theresienwiese,Kundgebung,,Kinderrechte Jetzt e.V. Wir-gemeinsam-Bündnis u.a.,www.wir-gemeinsam-buendnis.de
 70426,DE,2022-03-20,14:00:00,80333,München,Theresienwiese,Kundgebung,,Kinderrechte Jetzt e.V. Wir-gemeinsam-Bündnis u.a.,www.wir-gemeinsam-buendnis.de
+70425,DE,2022-03-20,14:00:00,80333,München,Theresienwiese,Kundgebung,,Kinderrechte Jetzt e.V. Wir-gemeinsam-Bündnis u.a.,www.wir-gemeinsam-buendnis.de
 68976,DE,2022-03-21,13:12:00,52428,Jülich,Schlossplatz,Kundgebung,,242Zusammen Impffrei Jül/DN,
 72320,DE,2022-03-21,18:30:00,83119,Obing,Rathaus,Kundgebung,,unbekannt,
 72108,DE,2022-03-21,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,
