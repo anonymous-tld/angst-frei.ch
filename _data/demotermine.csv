@@ -1,4 +1,5 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
+74208,DE,2022-05-04,18:00:00,74936,Siegelsbach,Platz vor dem Rathaus,Spaziergang,,,
 74114,DE,2022-05-04,18:00:00,80333,München,Kö,Aufzug,,,
 74184,DE,2022-05-04,18:00:00,76829,Landau/Pfalz,Deutsches Tor,Spaziergang,,,
 74202,DE,2022-05-04,18:00:00,89537,Giengen an der Brenz,Rathaus,Spaziergang,,,
@@ -13,6 +14,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 74185,DE,2022-05-05,19:00:00,76887,Bad Bergzabern,Schloss,Spaziergang,,,
 74193,DE,2022-05-06,17:30:00,76133,Karlsruhe,Postgalerie / Stephansplatz,Kundgebung,,Grundrechte.jetzt,www.Grundrechte.jetzt
 74199,DE,2022-05-06,18:00:00,27570,Bremerhaven,Konrad-Adenauer-Platz,Spaziergang,,Vision of Freedom,
+74212,DE,2022-05-06,19:00:00,89073,Ulm,Münsterplatz,Spaziergang,,,
 73359,DE,2022-05-07,11:00:00,84028,Landshut,Isarpromenade ab Ländtor,Menschenkette,,unbekannt,
 73733,DE,2022-05-07,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,https://t.me/cellestehtauf
 73734,DE,2022-05-07,11:45:00,29221,Celle,Großer Plan,Kundgebung,,Celle steht auf,https://t.me/cellestehtauf
@@ -30,6 +32,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 74188,DE,2022-05-08,15:00:00,76726,Germersheim,Luitpoldplatz,Spaziergang,,,
 74203,DE,2022-05-08,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,,
 74115,DE,2022-05-09,09:00:00,12435,Berlin,Siegesdenkmal,Kundgebung,,,
+74209,DE,2022-05-09,18:00:00,74523,Schwäbisch Hall,Globe Theater,Spaziergang,,,
 74160,DE,2022-05-09,18:00:00,40885,Ratingen-Lintorf,Kirche - St. Anna (am Markt),Spaziergang,,Privat,
 74155,DE,2022-05-09,18:00:00,32423,Minden,Marktplatz vor dem Rathaus,Demonstration,,Private Veranstaltung,
 74207,DE,2022-05-09,18:00:00,53894,Mechernich,Zum Markt 12 / ggü Post,Spaziergang,,,https://t.me/wirkreiseuskirchen
@@ -46,6 +49,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 74189,DE,2022-05-11,18:30:00,61440,Oberursel,Adenauerallee,Spaziergang,,Oberursel steht auf,https://www.bbfu.de/corona.html
 74120,DE,2022-05-14,14:00:00,30159,Hannover,Opernplatz,Kundgebung,,walk of freedom Hannover,
 74204,DE,2022-05-15,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,,
+74210,DE,2022-05-16,18:00:00,74523,Schwäbisch Hall,Globe Theater,Spaziergang,,,
 74156,DE,2022-05-16,18:00:00,32423,Minden,Marktplatz vor dem Rathaus,Demonstration,,Privat angemeldete Veranstaltung,
 73776,DE,2022-05-16,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,
 74088,DE,2022-05-16,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,
@@ -53,6 +57,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 74150,DE,2022-05-16,19:00:00,26382,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,
 73333,DE,2022-05-16,19:00:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz,Schilderwald,,unbekannt,
 73330,DE,2022-05-16,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,
+74211,DE,2022-05-23,18:00:00,74523,Schwäbisch Hall,Globe Theater,Spaziergang,,,
 74157,DE,2022-05-23,18:00:00,32423,Minden,Marktplatz vor dem Rathaus,Demonstration,,Privat angemeldete Veranstaltung,
 73777,DE,2022-05-23,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,
 74089,DE,2022-05-23,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,
